@@ -28,7 +28,7 @@ dublin_core:
   subject: Translator Notes
   title: translationNotes
   type: help
-  version: '1'
+  version: '2'
 projects:
 - categories: []
   identifier: 2th
@@ -41,6 +41,12 @@ projects:
   path: ./1jn
   sort: 0
   title: 1 John translationNotes
+  versification: ''
+- categories: []
+  identifier: sng
+  path: ./sng
+  sort: 0
+  title: Song of Solomon translationNotes
   versification: ''
 - categories: []
   identifier: lev
@@ -169,10 +175,22 @@ projects:
   title: 2 Corinthians translationNotes
   versification: ''
 - categories: []
+  identifier: jer
+  path: ./jer
+  sort: 0
+  title: Jeremiah translationNotes
+  versification: ''
+- categories: []
   identifier: dan
   path: ./dan
   sort: 0
   title: Daniel translationNotes
+  versification: ''
+- categories: []
+  identifier: num
+  path: ./num
+  sort: 0
+  title: Numbers translationNotes
   versification: ''
 - categories: []
   identifier: mic
@@ -217,10 +235,22 @@ projects:
   title: 2 Peter translationNotes
   versification: ''
 - categories: []
+  identifier: 1ch
+  path: ./1ch
+  sort: 0
+  title: 1 Chronicles translationNotes
+  versification: ''
+- categories: []
   identifier: 2jn
   path: ./2jn
   sort: 0
   title: 2 John translationNotes
+  versification: ''
+- categories: []
+  identifier: 2ch
+  path: ./2ch
+  sort: 0
+  title: 2 Chronicles translationNotes
   versification: ''
 - categories: []
   identifier: zec
@@ -257,6 +287,12 @@ projects:
   path: ./jon
   sort: 0
   title: Jonah translationNotes
+  versification: ''
+- categories: []
+  identifier: ezr
+  path: ./ezr
+  sort: 0
+  title: Esra translationNotes
   versification: ''
 - categories: []
   identifier: deu
