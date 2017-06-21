@@ -1,0 +1,16 @@
+# Proverbs 28 General Notes #
+
+#### Structure and formatting ####
+
+Chapter 28 continues the second section of the book (Chapter 25-29) which is attributed to Solomon. 
+
+#### Special concepts in this chapter ####
+
+##### Themes #####
+
+There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
+
+## Links: ##
+
+* __[Proverbs 28:01 Notes](./01.md)__
+__[<<](../27/intro.md) | [>>](../29/intro.md)__

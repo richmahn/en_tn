@@ -1,0 +1,28 @@
+# 2 Corinthians 04 General Notes #
+
+#### Structure and formatting ####
+This chapter begins with the word "therefore," which is connected to the teaching in the previous chapter. The awkward placement of the chapter division can cause confusion. 
+
+#### Special concepts in this chapter ####
+
+##### Ministry #####
+
+Paul has the ministry, or job, of telling people about Christ. He does not use trickery to get them to believe. If they do not understand, the problem is ultimately spiritual. (See: [[rc://en/tw/dict/bible/kt/spirit]]) 
+
+#### Important figures of speech in this chapter ####
+
+##### Light and darkness #####
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+
+##### Life and death #####
+Life and death are not used in reference to physical life and death. Life represents the new life a Christian has in Jesus, while death represents the old way one lived prior to coming to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/life]], [[rc://en/tw/dict/bible/kt/death]] and [[rc://en/tw/dict/bible/kt/faith]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### Hope #####
+Paul uses a repeated pattern in a purposeful way. He makes a statement and then denies a seemingly opposite or contradictory statement or gives an exception. They function to give the reader hope in the midst of difficult circumstances. (See: [[rc://en/tw/dict/bible/kt/hope]])
+
+## Links: ##
+
+* __[2 Corinthians 04:01 Notes](./01.md)__
+__[<<](../03/intro.md) | [>>](../05/intro.md)__

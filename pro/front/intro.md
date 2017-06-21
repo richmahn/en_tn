@@ -1,0 +1,44 @@
+# Introduction to Proverbs #
+
+## Part 1: General Introduction ##
+
+#### Outline of Proverbs ####
+
+   - Introduction and Solomon's place (1:1–7)
+1. Collection of sayings (1:8–9:18)
+1. First collection of Solomon (10:1–22:16)
+1. First "Sayings of the Wise Men" (22:17–23:14)
+1. Other sayings (23:15–24:22)
+1. Second "Sayings of the Wise Men" (24:23–34)
+1. Second collection of Solomon (25:1–29:27)
+1. The Words of Agur (30:1–33)
+1. The Words of Lemuel (31:1–9)
+1. The Virtuous Woman (31:10–31)
+
+#### What is the book of Proverbs about? ####
+
+Most societies have their own proverbs, which are usually short sentences well-known for their meanings and understood by everyone who speaks that language. The book of Proverbs is a collection of this kind of statements, but it also includes general teaching about how to live wisely. It is classed as Old Testament wisdom literature, along with Ecclesiastes and certain Psalms. (See: [[rc://en/ta/man/translate/writing-proverbs]])
+
+#### How should the title of this book be translated? ####
+
+The title of this book is often badly translated as "Proverbs." A more general translation would be "Words for Wise People," "Words that Give Wisdom," or something similar.
+
+=== Who wrote the book of Proverbs?===
+
+Proverbs begins with the words, "The Proverbs of Solomon, son of David and King of Israel." But we understand that not all the proverbs were written by Solomon. Unnamed "wise men" seem to have written some of them, as did also "Agur the son of Jakeh." King Lemuel may be the writer of some portion of Proverbs (31:10-31). Solomon, clearly, did not write the whole of the book of Proverbs.
+
+## Part 2: Important Religious and Cultural Concepts ##
+
+#### What is meant by "wisdom" and "foolishness" in the book of Proverbs? ####
+
+Here "wisdom" means the humility necessary to live in a way that honors Yahweh. Anyone living in this way will also learn to live well with other people and to make good practical decisions in life. The book of Proverbs also acknowledges that it is important to maintain one's honor or reputation in the opinion of other people. Those who fail to live in this way are called "foolish." For this reason, it is possible for a person to be very intelligent and still be foolish. (See: [[rc://en/tw/dict/bible/kt/foolish]])
+
+## Part 3: Important Translation Issues ##
+
+#### What form do the individual proverbs have? ####
+
+In general, the proverbs have two parts or two lines, "parallel" to each other. The second part may strengthen the first, may elaborate on the first, or may even contradict the first. But it is also true that these sayings are grouped together in larger units, so the translator should take this fact into account as well. (See: [[rc://en/ta/man/translate/figs-parallelism]]) 
+
+#### How should personification be represented in translation? ####
+
+In Proverbs, certain qualities such as wisdom and understanding are often represented as if they were wise women, as in [Proverbs 03:15-18](../03/15.md), [Proverbs 04:6-9](../04/05.md), and elsewhere. In languages where it is possible for a woman figure to represent these qualities, the translator should translate in this way. However, in many languages this kind of direct translation is not possible. In such a case, the translator may be able to use similes instead, presenting the idea that wisdom or understanding is like a wise woman whom people should obey.

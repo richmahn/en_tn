@@ -1,0 +1,14 @@
+# Luke 10 General Notes #
+
+#### Special concepts in this chapter ####
+
+##### Harvest #####
+Harvest is a common image used in the New Testament. Having people come to faith in Jesus is referred to as a harvest. (See: [[rc://en/tw/dict/bible/kt/faith]])
+
+##### "Was a neighbor" #####
+The concept of "being a neighbor" was important in the culture of the ancient Near East, which greatly valued hospitality. In this chapter, "neighbor" is used in reference to someone who lives nearby or possibly another person in general. "Was a neighbor" is also used to mean "was being a good neighbor."
+
+## Links: ##
+
+* __[Luke 10:01 Notes](./01.md)__
+__[<<](../09/intro.md) | [>>](../11/intro.md)__

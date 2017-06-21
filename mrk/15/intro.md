@@ -1,0 +1,21 @@
+# Mark 15 General Notes #
+
+#### Special concepts in this chapter ####
+
+##### "The curtain of the temple was split in two" #####
+This is an important symbol. In the temple the curtain symbolically separated God and man. God could not be directly accessed because of his holiness. The death of Christ changed this.
+
+#### Important figures of speech in this chapter ####
+
+##### "King of the Jews" #####
+This is sarcasm, which is the use of irony to insult someone. The phrases "save yourself and come down from the cross," "Let the Christ, the King of Israel, come down now from the cross, that we may see and believe" and "Let us see if Elijah comes to take him down" are also sarcasm. (See: [[rc://en/ta/man/translate/figs-irony]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### Eloi, Eloi, lama sabachthani? #####
+This is a phrase in Aramaic. Mark does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Aramaic letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+
+## Links: ##
+
+* __[Mark 15:01 Notes](./01.md)__
+__[<<](../14/intro.md) | [>>](../16/intro.md)__

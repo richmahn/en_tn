@@ -1,0 +1,14 @@
+# Genesis 27 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart extended or special quotations. The ULB and many other English translations indent the lines of 27:27-29, 39-40, which are quotations.
+
+#### Special concepts in this chapter ####
+##### Blessing #####
+In the ancient Near East, a father's blessing was very important. This spoken blessing was legally binding. Jacob previously received the birthright from Esau and was guaranteed the double portion of land and money that was supposed to be inherited by the older son, Esau. In this chapter, Jacob tricks Isaac into giving him Esau's blessing. This means that he is to inherit the promises of the covenant Yahweh made with Abraham. (See: [[rc://en/tw/dict/bible/kt/bless]], [[rc://en/tw/dict/bible/kt/birthright]], [[rc://en/tw/dict/bible/kt/inherit]], [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/covenant]])
+
+## Links: ##
+
+* __[Genesis 27:01 Notes](./01.md)__
+__[<<](../26/intro.md) | [>>](../28/intro.md)__
