@@ -24,3 +24,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+Use of trademarks: unfoldingWord is a trademark of Distant Shores Media and may not be included on any derivative works created from this content. Unaltered content from http://unfoldingword.org must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
+
+Attribution of artwork: All images used in these stories are © Sweet Publishing ([www.sweetpublishing.com](http://www.sweetpublishing.com)) and are made available under a Creative Commons Attribution-Share Alike License ([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0)).

@@ -1,0 +1,15 @@
+# Amos 04 General Notes #
+
+#### Structure and formatting ####
+
+This chapter is written in poetic form  and is about the people's refusal to listen to Yahweh even as he tries to point them back to himself. 
+
+#### Special concepts in this chapter ####
+
+##### Repetition #####
+This chapter contains a repeated sentence: "Yet you have not returned to me —this is Yahweh's declaration." Please make sure this sentence is translated the same way each time to show the repetition. This repetition produces a list of sins Yahweh is mounting against his people. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
+
+## Links: ##
+
+* __[Amos 04:01 Notes](./01.md)__
+__[<<](../03/intro.md) | [>>](../05/intro.md)__

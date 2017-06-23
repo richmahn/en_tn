@@ -1,0 +1,16 @@
+# Job 28 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is a continuation of Job's response to Bildad.
+
+#### Special concepts in this chapter ####
+
+##### Yahweh's wisdom #####
+
+Despite being upset about his circumstances, Job does not curse God. Instead, he recognizes Yahweh's wisdom and authority. This chapter especially focuses on Yahweh's wisdom as he controls the circumstances of Job's life. Men cannot understand because they do not have Yahweh's wisdom. (See: [[rc://en/tw/dict/bible/kt/curse]] and [[rc://en/tw/dict/bible/kt/wise]])
+
+## Links: ##
+
+* __[Job 28:01 Notes](./01.md)__
+__[<<](../27/intro.md) | [>>](../29/intro.md)__

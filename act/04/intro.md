@@ -1,0 +1,25 @@
+# Acts 04 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 4:25-26, which is a quotation from the Old Testament.
+
+#### Special concepts in this chapter ####
+
+##### Unity #####
+The early church prioritized unity. There was a spirit of unity among the followers of Christ as well as some financial unity. The latter shows a sense of total commitment. 
+
+#### Important figures of speech in this chapter ####
+
+##### Cornerstone #####
+This is an important metaphor in Scripture. The cornerstone was the first piece of stone put into place when making the foundation of a building. If the cornerstone was out of place or at a wrong angle, then the whole building would be off. This metaphor teaches that Jesus is the proper foundation of faith. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/faith]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### "For there is no other name under heaven" #####
+The Greek word for "name" indicates that it is not just the word "Jesus" that saves, but his true person. It is the true Jesus, the Son of God, the one who died for the sins of mankind, who is the only way a person can go to heaven.
+
+## Links: ##
+
+* __[Acts 04:01 Notes](./01.md)__
+__[<<](../03/intro.md) | [>>](../05/intro.md)__

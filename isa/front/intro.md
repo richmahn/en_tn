@@ -1,0 +1,55 @@
+# Introduction to Isaiah #
+
+## Part 1: General Introduction ##
+
+#### Outline of the Book of Isaiah ####
+
+1. Rebuke of Judah and promised restoration (1–5)
+1. Destruction promised for many empires (6–23)
+1. Universal judgment and promise of redemption (24–27)
+1. Accusation of the chosen people of Yahweh (28–31)
+1. Promised restoration of the line of kings descended from David (32–33)
+1. Judgment on Edom and the the nations, and the promise of restoration of the ransomed (34–35)
+1. Hezekiah and Sennacherib (36–39)
+1. Comfort promised, comfort, deliverance, and judgment (40–45)
+1. Prophecies against Babylon (46–48)
+1. Redemption of Yahweh's servant (49–55)
+1. Ethics of Yahweh's kingdom (56–59)
+1. Restored Jerusalem (60–66)
+ 
+
+#### What is the Book of Isaiah about? ####
+
+Isaiah, who lived in Jerusalem, warned his people about the coming destruction of their nation Israel. The book records many of Isaiah's prophecies. In a difficult time, Isaiah gave the nation hope in the redemption that the future Messiah would bring. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/redeem]] and [[rc://en/tw/dict/bible/kt/christ]])
+
+#### How should the title of this book be translated? #### 
+
+"The Book of Isaiah" may also be called the "The book about Isaiah" or "The Sayings of Isaiah." (See: [[rc://en/ta/man/translate/translate-names]])
+
+#### When did the prophet Isaiah live? ####
+
+The prophet Isaiah wrote down the prophecies in this book about 740–700 BC, when the Assyrian Empire was increasing in power. Isaiah transmitted prophecies from God to the people of Judah during the reigns of Jotham, Ahaz, Hezekiah, and Manasseh. The period of Isaiah's work is also represented in 2 Kings 19–20.
+
+## Part 2: Important Religious and Cultural Concepts ##
+
+#### What did Isaiah prophesy about the future Messiah of Israel? ####
+
+While most of Israel expected the Messiah to be a conquering king, Isaiah explained that the Messiah would also be a servant of God who would suffer for people's sins. He said that the Messiah would offer both spiritual and physical deliverance, but not necessarily at the same time.
+
+#### What did Isaiah mean by "the last days"? ####
+
+The Book of Isaiah was one of the first books to present the concept of the last days, the end times. Isaiah explained that in the last days there would be a future kingdom of Israel, centered at Jerusalem, where the world would come to learn about Yahweh and worship him.
+
+## Part 3: Important Translation Issues ##
+
+#### What is the meaning of the term "Israel"? ####
+
+The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who were also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah.
+
+#### What are some characteristics of prophetic literature in the Book of Isaiah? ####
+
+Most of God's words that Isaiah transmits are put into poetic form. It seems many prophets in Israel used poetry when they spoke important messages that were meant to be remembered. 
+
+Sometimes his messages are hard to understand because he assumed his original hearers would know what he was talking about—better than we can today. However, the basic topics about which Isaiah spoke to his audience are still clear to us today: the people's sins that led them into desperate situations, God's judgment on them, and also his mercy.  
+
+Isaiah also speaks about the so-called Servant of Yahweh, in four different poems that are today called the "Four Servant Songs." The later Christians understood these very clearly as prophecies about Jesus Christ, the future Messiah. These "songs" are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/mercy]] and [[rc://en/tw/dict/bible/kt/christ]])

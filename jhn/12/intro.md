@@ -1,0 +1,35 @@
+# John 12 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 12:38 and 40, which are quotations from the Old Testament.
+
+Verse 16 is a commentary on these events. It is possible to put this entire verse in parentheses in order to set it apart from the narrative of the story.
+
+#### Special concepts in this chapter ####
+
+##### Anointing #####
+It was customary to anoint a body in preparation for the body's burial. This would normally not have been done until after a person's death. This was not Mary's intention. Jesus uses Mary's actions to prophesy concerning his approaching death. (See: [[rc://en/tw/dict/bible/kt/anoint]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/ta/man/translate/figs-explicit]])
+
+##### Donkey #####
+
+The way in which Jesus entered into Jerusalem, mounted on an animal, was similar to the way a king would have entered into a city after a great victory. It was traditional for the kings of Israel to ride on a powerful donkey. There was also a donkey present with colt but it is unclear which animal Jesus rode. It is best to translate this as it appears in the ULB without trying to reconcile these two passages. (See: [Matthew 21:1-7](../../mat/21/01.md))
+
+##### Light #####
+Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/unrighteous]])
+
+#### Important figures of speech in this chapter ####
+
+##### "To be glorified" #####
+Jesus' prophesy about being glorified is a reference to his death. The disciples would not have understood that his death would have brought him glory, but it did. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/ta/man/translate/figs-irony]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### The use of paradox #####
+
+A paradox is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "he who loves his life will lose it" ([John 12:25-26](./25.md)).
+
+## Links: ##
+
+* __[John 12:01 Notes](./01.md)__
+__[<<](../11/intro.md) | [>>](../13/intro.md)__

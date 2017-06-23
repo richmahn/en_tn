@@ -1,0 +1,30 @@
+# Colossians 01 General Notes #
+
+#### Structure and formatting ####
+
+As in a typical letter, this chapter begins (1:1-3) with a formal introduction to the Christians in Colossae. 
+
+A large part of this chapter revolves around two basic ideas: who Christ is, and what Christ has accomplished for the Christian.
+
+#### Special concepts in this chapter ####
+
+##### Mystery #####
+
+Paul refers to the church as a "mystery." The role of the church in the plans of God was once unknown, but has now been revealed by God. Part of this mystery involves the Gentiles' equal standing with the Jews in the current plans of God. (See: [[rc://en/tw/dict/bible/kt/reveal]])
+
+#### Important figures of speech in this chapter ####
+
+##### Images for christian living #####
+There are many different images used to describe christian living. In this chapter, two popular images are used by Paul. These are "walking" and "bearing fruit." (See: [[rc://en/tw/dict/bible/kt/fruit]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### The use of paradox #####
+
+Paradox is a seemingly absurd statement, appearing to contradict itself. A paradox occurs in this chapter: Paul rejoices in his suffering. This is a counter-intuitive reaction to difficulties.
+
+## Links: ##
+
+* __[Colossians 01:01 Notes](./01.md)__
+* __[Colossians intro](../front/intro.md)__
+__| [>>](../02/intro.md)__

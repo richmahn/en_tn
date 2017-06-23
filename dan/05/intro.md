@@ -1,0 +1,16 @@
+# Daniel 05 General Notes #
+
+#### Special concepts in this chapter ####
+
+##### The writing on the wall #####
+
+God told the new king that he had failed and God was replacing him, showing that God is the real ruler over everything, even kingdoms that do not worship him. 
+
+#### Other possible translation difficulties in this chapter ####
+##### Mene, Mene, Tekel, Upharsin #####
+These are names in Aramaic. Daniel  does not "translate" these names into Hebrew but chooses to "transliterate" or transfer it into Hebrew. The translators of the ULB and UDB have not translated these names either. The translator should try to form the sounds of this phrase without translating its meaning.
+
+## Links: ##
+
+* __[Daniel 05:01 Notes](./01.md)__
+__[<<](../04/intro.md) | [>>](../06/intro.md)__
