@@ -1,0 +1,22 @@
+# Isaiah 24 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation.
+
+While it appears that this chapter is a continuation of the prophecy from the previous chapter, it actually looks at the whole of the Assyrian conquest as Yahweh's punishment on the world. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+
+#### Special concepts in this chapter ####
+
+##### Covenant #####
+The mention of an "everlasting covenant" in this chapter is probably not to a specific covenant with Abraham or Moses. Instead, it is an expectation that mankind would obey Yahweh. Some consider this to be a covenant Yahweh made with Adam. (See: [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/covenant]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### Reign of Yahweh #####
+This chapter appears to prophesy about a time of restoration when the messiah will reign. This chapter pictures a time of great peace and harmony in the world. The translator should not add explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
+
+## Links: ##
+
+* __[Isaiah 24:01 Notes](./01.md)__
+__[<<](../23/intro.md) | [>>](../25/intro.md)__

@@ -1,0 +1,16 @@
+# Acts 10 General Notes #
+
+#### Special concepts in this chapter ####
+
+##### Unclean #####
+The Jews believed uncleanliness could be spread by associating with a Gentile or visiting someone from another nation. This was according to the laws the Pharisees made and not according to the law of Moses. While it was possible that some contact could have made one unclean, the Pharisees prohibited any type of close contact with Gentiles. (See: [[rc://en/tw/dict/bible/kt/unclean]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### "Get up, Peter; kill and eat!" #####
+Peter's vision was about a Christian's freedom to eat any animal. The Jews were not permitted to eat many animals because the law of Moses declared that they were unclean. Before this vision, Christians were not certain whether they needed to follow the law of Moses. The presence of the Holy Spirit is an indication that the Gentiles could be saved without following the law. (See: [[rc://en/tw/dict/bible/kt/save]])
+
+## Links: ##
+
+* __[Acts 10:01 Notes](./01.md)__
+__[<<](../09/intro.md) | [>>](../11/intro.md)__

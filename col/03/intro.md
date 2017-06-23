@@ -1,0 +1,24 @@
+# Colossians 03 General Notes #
+
+#### Structure and formatting ####
+
+The second part of this chapter parallels Ephesians 5 and 6. 
+
+#### Special concepts in this chapter ####
+
+##### Old and new self #####
+The old and new self are concepts equivalent to the old/new man. The term "old man" probably refers to the sinful nature a person is born with, while the "new man" is the new nature or new life that is given to a person after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]]).
+
+##### Character #####
+Many of the qualities Paul encourages his readers to pursue (or avoid) are not actions themselves as much as they are character qualities. Because of this, they may present difficulties in translation. (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+
+#### Other possible translation difficulties in this chapter ####
+
+##### "That which is above" #####
+
+God is often pictured as being located above. When Paul says here to seek the things above or to think about what is above, he is implying Christians should seek to please God with their actions. 
+
+## Links: ##
+
+* __[Colossians 03:01 Notes](./01.md)__
+__[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -1,0 +1,17 @@
+# Isaiah 53 General Notes #
+
+#### Structure and formatting ####
+
+Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation.
+
+In this chapter there is an important teaching or prophecy about the messiah and his life and ministry. It begins in 52:13 and scholars usually note that it portrays the messiah as a "suffering servant." (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
+
+#### Special concepts in this chapter ####
+
+##### Atonement #####
+This chapter prophesies about the death of Christ for sin. Most scholars believe it teaches that Christ was a righteous man who died for the sins of mankind. This is usually referred to as the atonement. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/atonement]])
+
+## Links: ##
+
+* __[Isaiah 53:01 Notes](./01.md)__
+__[<<](../52/intro.md) | [>>](../54/intro.md)__
