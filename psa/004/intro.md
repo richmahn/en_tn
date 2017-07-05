@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 4 is a psalm of deliverance. It is an evening song, intended to be sung in the temple accompanied by musical instruments during evening worship. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/temple]])
+Psalm 4 is a psalm of deliverance. It is an evening song, intended to be sung in the temple accompanied by musical instruments during evening worship. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/temple]])
 
 #### Special concepts in this chapter ####
 

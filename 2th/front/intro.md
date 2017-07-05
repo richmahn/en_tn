@@ -36,7 +36,7 @@ The Book of 2 Thessalonians focuses on Jesus' eventual return to Earth. At this 
 
 #### What are eternal rewards and punishment? ####
 
-Those who do not believe in Jesus will suffer eternal punishment after they die. Christians are saved from this punishment, but they will be rewarded based on the faithfulness of the life they lived as Christians. (See: [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/reward]] and [[rc://en/tw/dict/bible/kt/faithful]])
+Those who do not believe in Jesus will suffer eternal punishment after they die. Christians are saved from this punishment, but they will be rewarded based on the faithfulness of the life they lived as Christians. (See: [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/other/reward]] and [[rc://en/tw/dict/bible/kt/faithful]])
 
 ## Part 3: Important Translation Issues ##
 

@@ -14,7 +14,7 @@ Scholars are divided over whether this passage teaches all oaths are wrong. Most
 This story will be difficult to understand if the books of 1 and 2 Kings and 1 and 2 Chronicles have not yet been translated. 
 
 ##### "Save his soul from death" #####
-This probably teaches that the person who stops their sinful lifestyle will not be punished with physical death as a consequence of their sin. On the other hand, some scholars believe this passage teaches about eternal salvation. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/death]] and [[rc://en/tw/dict/bible/kt/save]])
+This probably teaches that the person who stops their sinful lifestyle will not be punished with physical death as a consequence of their sin. On the other hand, some scholars believe this passage teaches about eternal salvation. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/save]])
 
 ## Links: ##
 

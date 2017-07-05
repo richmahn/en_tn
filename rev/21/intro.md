@@ -7,7 +7,7 @@ This chapter gives a detailed description of the new Jerusalem.
 #### Special concepts in this chapter ####
 
 ##### Second death #####
-Death is a type of separation. The first death is a physical death, the separation of the soul from the body. The second death is the eternal separation from God. (See: [[rc://en/tw/dict/bible/kt/death]], [[rc://en/tw/dict/bible/kt/soul]] and [[rc://en/tw/dict/bible/kt/eternity]])
+Death is a type of separation. The first death is a physical death, the separation of the soul from the body. The second death is the eternal separation from God. (See: [[rc://en/tw/dict/bible/other/death]], [[rc://en/tw/dict/bible/kt/soul]] and [[rc://en/tw/dict/bible/kt/eternity]])
 
 #### Important figures of speech in this chapter ####
 

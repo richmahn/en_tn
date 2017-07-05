@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 102 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 102 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

@@ -9,13 +9,13 @@ This chapter functions as a type of legal defense of Paul's actions. He lays out
 #### Special concepts in this chapter ####
 
 ##### Light and Darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Important figures of speech in this chapter ####
 
 ##### "I am Jesus" #####
 
-The text does not make it explicitly clear, but this is Jesus in physical form, after he was raised from the dead. He was only visible to Saul. (See: [[rc://en/tw/dict/bible/kt/raise]] and [[rc://en/ta/man/translate/figs-explicit]])
+The text does not make it explicitly clear, but this is Jesus in physical form, after he was raised from the dead. He was only visible to Saul. (See: [[rc://en/tw/dict/bible/other/raise]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

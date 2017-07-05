@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 141 is a psalm of deliverance from his enemies and from sin. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 141 is a psalm of deliverance from his enemies and from sin. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

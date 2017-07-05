@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 57 is a psalm of deliverance. It praises God for the many times he has delivered David. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 57 is a psalm of deliverance. It praises God for the many times he has delivered David. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

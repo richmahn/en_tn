@@ -6,7 +6,7 @@
 Many of the Jews believed these porticos had healing properties. This happened when the waters were "stirred up." (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### "The resurrection of judgment" #####
-This is a reference to a time after death when all of mankind will be judged. (See: [[rc://en/tw/dict/bible/kt/death]] and [[rc://en/tw/dict/bible/kt/judge]])
+This is a reference to a time after death when all of mankind will be judged. (See: [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/judge]])
 
 #### Other possible translation difficulties in this chapter ####
 

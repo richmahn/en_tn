@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 120 is a psalm of deliverance from liars. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 120 is a psalm of deliverance from liars. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

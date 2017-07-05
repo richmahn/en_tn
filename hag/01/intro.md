@@ -7,7 +7,7 @@ Some translations prefer to set apart extended quotations, prayers, or songs. Th
 #### Special concepts in this chapter ####
 
 ##### Farming imagery #####
-Scripture frequently uses the imagery of farming in reference to spiritual matters. The statement "You have sown much seed, but bring in little harvest" indicates that they had done a lot but have very little to show for it. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/seed]])
+Scripture frequently uses the imagery of farming in reference to spiritual matters. The statement "You have sown much seed, but bring in little harvest" indicates that they had done a lot but have very little to show for it. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/other/seed]])
 
 ## Links: ##
 

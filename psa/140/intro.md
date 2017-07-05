@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 140 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 140 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

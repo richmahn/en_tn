@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 69 is a psalm of deliverance. The author prays to be saved from his enemies and for them to be punished. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/save]])
+Psalm 69 is a psalm of deliverance. The author prays to be saved from his enemies and for them to be punished. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/save]])
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 17 is a prayer for deliverance from all his enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]]) 
+Psalm 17 is a prayer for deliverance from all his enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]]) 
 
 #### Special concepts in this chapter ####
 

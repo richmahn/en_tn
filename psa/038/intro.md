@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 38 is a confession of sin and a prayer for deliverance. (See: [[rc://en/tw/dict/bible/kt/confess]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 38 is a confession of sin and a prayer for deliverance. (See: [[rc://en/tw/dict/bible/kt/confess]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 ##### Author's sickness #####

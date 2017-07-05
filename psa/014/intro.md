@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 14 is a deliverance psalm because he is trusting God to deliver the poor. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/trust]])
+Psalm 14 is a deliverance psalm because he is trusting God to deliver the poor. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/trust]])
 
 #### Special concepts in this chapter ####
 

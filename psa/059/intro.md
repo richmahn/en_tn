@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 59 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 59 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

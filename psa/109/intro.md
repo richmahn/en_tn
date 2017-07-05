@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 109 is a psalm of vengeance against an enemy who has lied about him. (See: [[rc://en/tw/dict/bible/kt/avenge]])
+Psalm 109 is a psalm of vengeance against an enemy who has lied about him. (See: [[rc://en/tw/dict/bible/other/avenge]])
 
 #### Special concepts in this chapter ####
 

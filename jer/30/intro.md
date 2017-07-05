@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations. The ULB and many other English
 
 ##### God promises restoration #####
 
-Despite the prophesied punishment in this chapter, Yahweh promises to restore Judah. In addition to this, he also declares that he will ultimately restore Israel. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/promise]], and [[rc://en/tw/dict/bible/kt/restore]])
+Despite the prophesied punishment in this chapter, Yahweh promises to restore Judah. In addition to this, he also declares that he will ultimately restore Israel. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/promise]], and [[rc://en/tw/dict/bible/other/restore]])
 
 #### Other possible translation difficulties in this chapter ####
 The author uses the term "Israel" in two different ways. He uses it in reference to the nation of Israel. He also uses it in reference to the people who used to inhabit the northern kingdom of Israel, namely the people group of Israel.

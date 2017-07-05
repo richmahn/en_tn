@@ -40,13 +40,13 @@ Most of the people remained in Babylon and did not return to the Promised Land. 
 
 #### What was the religious environment like upon the people's return to Israel? ####
 
-Although the people returning to Israel committed significant sins, the word of God always brought them to repentance and restored their relationship with Yahweh. In addition to this, the religion of Israel became less centered on the temple and its sacrifices. The building of the walls in Ezra and Nehemiah show the separation of Israel from the world around it both physically and spiritually. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/wordofgod]] and [[rc://en/tw/dict/bible/kt/repent]])
+Although the people returning to Israel committed significant sins, the word of God always brought them to repentance and restored their relationship with Yahweh. In addition to this, the religion of Israel became less centered on the temple and its sacrifices. The building of the walls in Ezra and Nehemiah show the separation of Israel from the world around it both physically and spiritually. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/other/wordofgod]] and [[rc://en/tw/dict/bible/kt/repent]])
 
 ## Part 3: Important Translation Issues ##
 
 #### What is the meaning of the term Israel? #### 
 
-Israel is used in many different ways in Scripture. The descendants of Jacob, also known as Israel, were a people group who became known as Israel. This people group is also the nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, which is a reference to the "kingdom of Israel." Nehemiah uses the term "Israel" to refer to the kingdom of Judah, since the people from the kingdom of Israel have lost their identity through intermarriage. (See: [[rc://en/tw/dict/bible/other/israel]] and [[rc://en/tw/dict/bible/other/kingdomofisrael]])
+Israel is used in many different ways in Scripture. The descendants of Jacob, also known as Israel, were a people group who became known as Israel. This people group is also the nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, which is a reference to the "kingdom of Israel." Nehemiah uses the term "Israel" to refer to the kingdom of Judah, since the people from the kingdom of Israel have lost their identity through intermarriage. (See: [[rc://en/tw/dict/bible/kt/israel]] and [[rc://en/tw/dict/bible/other/kingdomofisrael]])
 
 #### Is the book in chronological order? ####
 
