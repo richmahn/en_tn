@@ -24,7 +24,7 @@ dublin_core:
   subject: 'Translator Notes'
   title: 'translationNotes'
   type: 'help'
-  version: '7'
+  version: '8'
 
 checking:
   checking_entity:
