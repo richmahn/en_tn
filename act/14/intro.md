@@ -12,7 +12,7 @@ The Gentiles in the ancient Near East worshiped many different false gods. They 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "It is through many sufferings that we must enter into the kingdom of God" #####
-Suffering itself cannot lead to salvation. Scholars are divided over how to understand this passage. Some believe that suffering accompanies salvation and one should equate the phrase "entering the kingdom of God" with eternal life. Others do not wish to equate these terms, and see that suffering earns a person rewards in the future kingdom of God. (See: [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/kingdomofgod]], [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/reward]])
+Suffering itself cannot lead to salvation. Scholars are divided over how to understand this passage. Some believe that suffering accompanies salvation and one should equate the phrase "entering the kingdom of God" with eternal life. Others do not wish to equate these terms, and see that suffering earns a person rewards in the future kingdom of God. (See: [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/kingdomofgod]], [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/other/reward]])
 
 ## Links: ##
 

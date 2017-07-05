@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 89 is a worship and a deliverance psalm. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 89 is a worship and a deliverance psalm. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 10 is a psalm of deliverance. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 10 is a psalm of deliverance. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

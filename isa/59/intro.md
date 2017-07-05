@@ -7,7 +7,7 @@ Some translations prefer to set apart extended quotations, prayers or songs. The
 #### Special concepts in this chapter ####
 
 ##### Yahweh's deliverance #####
-When Israel was conquered, they were being punished for their sin. Yahweh is strong enough to deliver them, but he did not because he desired to refine them through the experience of the exile. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/sin]])
+When Israel was conquered, they were being punished for their sin. Yahweh is strong enough to deliver them, but he did not because he desired to refine them through the experience of the exile. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Links: ##
 

@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 129 is a psalm of deliverance from Israel's many enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 129 is a psalm of deliverance from Israel's many enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

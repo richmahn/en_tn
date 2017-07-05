@@ -10,7 +10,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 This is a common metaphor in Scripture for those who appear righteous but are not. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### Resurrection of the dead #####
-The Pharisees believed that, after death, people would be risen from the dead for punishment or reward. The Sadducees did not share this belief. They only trusted in the physical world. (See: [[rc://en/tw/dict/bible/kt/raise]] and [[rc://en/tw/dict/bible/kt/reward]])
+The Pharisees believed that, after death, people would be risen from the dead for punishment or reward. The Sadducees did not share this belief. They only trusted in the physical world. (See: [[rc://en/tw/dict/bible/other/raise]] and [[rc://en/tw/dict/bible/other/reward]])
 
 #### Important figures of speech in this chapter ####
 

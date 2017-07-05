@@ -38,7 +38,7 @@ Micah probably wrote this book. Micah lived at the same time as Isaiah and Hosea
 ## Part 2: Important Religious and Cultural Concepts ##
 #### Who is the deliverer Micah mentions? ####
 
-Micah frequently mentions a king who will deliver the people. While he is not directly mentioned to be the Messiah, it becomes clear that the person Micah mentions is the Messiah, the descendant of David who will rule forever. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/christ]])
+Micah frequently mentions a king who will deliver the people. While he is not directly mentioned to be the Messiah, it becomes clear that the person Micah mentions is the Messiah, the descendant of David who will rule forever. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/christ]])
 
 #### Were the Israelites required to offer sacrifices or live holy lives to please Yahweh? ####
 

@@ -15,7 +15,7 @@ Paul refers to the church as a "mystery." The role of the church in the plans of
 #### Important figures of speech in this chapter ####
 
 ##### Images for christian living #####
-There are many different images used to describe christian living. In this chapter, two popular images are used by Paul. These are "walking" and "bearing fruit." (See: [[rc://en/tw/dict/bible/kt/fruit]])
+There are many different images used to describe christian living. In this chapter, two popular images are used by Paul. These are "walking" and "bearing fruit." (See: [[rc://en/tw/dict/bible/other/fruit]])
 
 #### Other possible translation difficulties in this chapter ####
 

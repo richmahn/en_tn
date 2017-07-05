@@ -48,7 +48,7 @@ A person speaks a curse when he calls down divine or demonic punishment upon som
 
 #### How is the name "Israel" used in the Bible? ####
  
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. (See: [[rc://en/tw/dict/bible/other/israel]])
+The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 The Book of 1 Samuel has two references to Israel and Judah ([1 Samuel 17:52](../17/52.md), [1 Samuel 18:15](../18/15.md)), but these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to Israel and Judah were put into the text because the writer was working at a far later time, during the period of the split between the two kingdoms. He wanted to emphasize that all the twelve tribes had enthusiastically supported David.
 

@@ -13,10 +13,10 @@ Christians are said to be servants of God. This is because they are called to se
 
 ##### Contrasts #####
 
-Paul uses four pairs of contrasts: righteousness versus lawlessness, light versus darkness, Christ versus Satan, and the temple of God versus idols. These contrasts are intended to differentiate between Christians and non-Christians. (See: [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/light]] and [[rc://en/tw/dict/bible/kt/darkness]])
+Paul uses four pairs of contrasts: righteousness versus lawlessness, light versus darkness, Christ versus Satan, and the temple of God versus idols. These contrasts are intended to differentiate between Christians and non-Christians. (See: [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/light]] and [[rc://en/tw/dict/bible/other/darkness]])
 
 ##### Light and darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 ##### Rhetorical questions #####
 Paul uses a series of rhetorical questions to teach his readers. All of these questions make essentially the same point: Christians should not intimately fellowship with those who live in sin. These questions are repeated for emphasis. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/sin]]) 

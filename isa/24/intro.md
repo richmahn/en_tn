@@ -14,7 +14,7 @@ The mention of an "everlasting covenant" in this chapter is probably not to a sp
 #### Other possible translation difficulties in this chapter ####
 
 ##### Reign of Yahweh #####
-This chapter appears to prophesy about a time of restoration when the messiah will reign. This chapter pictures a time of great peace and harmony in the world. The translator should not add explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
+This chapter appears to prophesy about a time of restoration when the messiah will reign. This chapter pictures a time of great peace and harmony in the world. The translator should not add explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/other/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
 
 ## Links: ##
 

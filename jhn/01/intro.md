@@ -7,10 +7,10 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 #### Special concepts in this chapter ####
 
 ##### "The Word" #####
-This is a rather unique construction used to reference Jesus. He is the "Word of God" embodied in flesh and the final revelation of God himself on earth. Although this can appear to be a complex teaching, it is rather simple: Jesus is God, the creator of the heavens and the earth. (See: [[rc://en/tw/dict/bible/kt/wordofgod]], [[rc://en/tw/dict/bible/kt/flesh]], and [[rc://en/tw/dict/bible/kt/reveal]])
+This is a rather unique construction used to reference Jesus. He is the "Word of God" embodied in flesh and the final revelation of God himself on earth. Although this can appear to be a complex teaching, it is rather simple: Jesus is God, the creator of the heavens and the earth. (See: [[rc://en/tw/dict/bible/other/wordofgod]], [[rc://en/tw/dict/bible/kt/flesh]], and [[rc://en/tw/dict/bible/kt/reveal]])
 
 ##### Light and Darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 ##### "Children of God" #####
 When one believes in Jesus, they go from being a "child of wrath" to a "child of God." They are adopted into the "family of God." This is an important image that will be unfolded in the New Testament. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/adoption]])

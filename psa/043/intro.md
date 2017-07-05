@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 43 is a psalm of deliverance. It is a plea for rescue from the psalmist's enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 43 is a psalm of deliverance. It is a plea for rescue from the psalmist's enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

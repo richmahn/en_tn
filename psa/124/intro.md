@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 124 is a psalm of praise for God's delivering the Israelites from their enemy's attack. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 124 is a psalm of praise for God's delivering the Israelites from their enemy's attack. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

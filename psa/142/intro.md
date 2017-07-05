@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 142 is a psalm of deliverance from his enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 142 is a psalm of deliverance from his enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

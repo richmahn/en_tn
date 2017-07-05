@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 83 is a deliverance psalm. It is a prayer for deliverance from the many nations allied against Israel. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 83 is a deliverance psalm. It is a prayer for deliverance from the many nations allied against Israel. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

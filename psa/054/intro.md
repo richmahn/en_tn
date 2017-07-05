@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 54 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 54 is a deliverance psalm. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

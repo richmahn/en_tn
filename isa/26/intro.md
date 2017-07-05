@@ -7,7 +7,7 @@ Some translations prefer to set apart extended quotations, prayers or songs. The
 #### Other possible translation difficulties in this chapter ####
 
 ##### "That day" #####
-This is a common phrase in this section of Isaiah. This chapter appears to prophesy about a time of restoration when the messiah will reign. This chapter pictures a time of great peace and harmony in the world. The translator should not add explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+This is a common phrase in this section of Isaiah. This chapter appears to prophesy about a time of restoration when the messiah will reign. This chapter pictures a time of great peace and harmony in the world. The translator should not add explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/other/restore]], [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ## Links: ##
 

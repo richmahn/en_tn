@@ -8,7 +8,7 @@ There is a close connection in this chapter between Christians' confession of fa
 #### Other possible translation difficulties in this chapter ####
 
 ##### Death #####
-John's usage of death in this chapter always references physical death. (See: [[rc://en/tw/dict/bible/kt/death]])
+John's usage of death in this chapter always references physical death. (See: [[rc://en/tw/dict/bible/other/death]])
 
 ##### "We know that we are from God, and we know that the whole world lies in the evil one." #####
 Satan, the evil one, is the  ruler of this world, but ultimately God is in control over everything. Scripture describes Satan as the "prince" of this world and God as the "king" of all of creation. (See: [[rc://en/tw/dict/bible/kt/satan]])

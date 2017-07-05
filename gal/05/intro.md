@@ -7,7 +7,7 @@ Paul continues talking about the law of Moses as something which traps or enslav
 #### Special concepts in this chapter ####
 
 ##### Fruit of the Spirit #####
-Many scholars have observed that the phrase "the fruit of the Spirit" is singular and not plural, even though it begins a list of several things. The singular form should remain in translation in a singular form if possible. Do not translate: "the fruits of the spirit are" in attempt to force agreement. (See: [[rc://en/tw/dict/bible/kt/fruit]])
+Many scholars have observed that the phrase "the fruit of the Spirit" is singular and not plural, even though it begins a list of several things. The singular form should remain in translation in a singular form if possible. Do not translate: "the fruits of the spirit are" in attempt to force agreement. (See: [[rc://en/tw/dict/bible/other/fruit]])
 
 #### Important figures of speech in this chapter ####
 

@@ -8,7 +8,7 @@ Acts 12:20-22 can appear out-of-place in this chapter. It serves as a kind of in
 #### Important figures of speech in this chapter ####
 
 ##### Personification #####
-The "word of God" is personified as growing and multiplying. This is common in Scripture because the word is always used with the imagery of being alive. (See: [[rc://en/tw/dict/bible/kt/wordofgod]] and [[rc://en/ta/man/translate/figs-personification]])
+The "word of God" is personified as growing and multiplying. This is common in Scripture because the word is always used with the imagery of being alive. (See: [[rc://en/tw/dict/bible/other/wordofgod]] and [[rc://en/ta/man/translate/figs-personification]])
 
 ## Links: ##
 

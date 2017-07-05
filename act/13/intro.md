@@ -9,7 +9,7 @@ The chapter marks the beginning of the second half of Acts which focuses on Paul
 #### Special concepts in this chapter ####
 
 ##### "A light for the Gentiles" #####
-Light is a common image used in Scripture. The Jews were supposed to reveal the true God, Yahweh, to the Gentiles. (See: [[rc://en/tw/dict/bible/kt/light]])
+Light is a common image used in Scripture. The Jews were supposed to reveal the true God, Yahweh, to the Gentiles. (See: [[rc://en/tw/dict/bible/other/light]])
 
 #### Other possible translation difficulties in this chapter ####
 

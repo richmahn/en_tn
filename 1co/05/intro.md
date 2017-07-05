@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 ##### Euphemisms #####
 
-Paul uses euphemisms to describe sensitive topics. This chapter deals with sexual immorality of one church member. To "hand this man over to Satan for the destruction of the flesh," means to allow Satan to destroy his body. (See: [[rc://en/ta/man/translate/figs-euphemism]] and [[rc://en/tw/dict/bible/kt/fornication]])
+Paul uses euphemisms to describe sensitive topics. This chapter deals with sexual immorality of one church member. To "hand this man over to Satan for the destruction of the flesh," means to allow Satan to destroy his body. (See: [[rc://en/ta/man/translate/figs-euphemism]] and [[rc://en/tw/dict/bible/other/fornication]])
 
 ##### Metaphor #####
 He uses an extended comparison using many metaphors. Yeast represents evil. The loaf probably represents the whole congregation. The unleavened bread represents a pure life. The Passover represents the Christian life. So the whole passage means: Don't you know that a little evil will affect the whole congregation. So clean yourselves from evil so you will all be good. Christ has been sacrificed for us; so let us be sincere and truthful and not wicked and behaving badly. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/evil]], [[rc://en/tw/dict/bible/kt/unleavenedbread]], [[rc://en/tw/dict/bible/kt/purify]] and [[rc://en/tw/dict/bible/kt/passover]])
