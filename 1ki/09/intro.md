@@ -12,7 +12,7 @@ Yahweh alone must be worshiped. It is necessary for people to stay faithful to G
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
-'Walk" is a common image in Scripture. It is said, "if you walk before me as David your father walked." (See: [[rc://en/tw/dict/bible/kt/walk]])
+'Walk" is a common image in Scripture. It is said, "if you walk before me as David your father walked." (See: [[rc://en/tw/dict/bible/other/walk]])
 
 ## Links: ##
 

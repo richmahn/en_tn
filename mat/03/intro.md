@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 ##### "Bear fruit worthy of repentance" #####
 
-Fruit is a common image in the scriptures. It is used to describe the results of either good or bad behavior. In this chapter, good fruit is the result of living as God commands. (See: [[rc://en/tw/dict/bible/kt/fruit]])
+Fruit is a common image in the scriptures. It is used to describe the results of either good or bad behavior. In this chapter, good fruit is the result of living as God commands. (See: [[rc://en/tw/dict/bible/other/fruit]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 ##### Metaphors #####
 
-Paul uses three agricultural metaphors to give instructions about giving to those in need. Their overall purpose is to explain the point that God will reward those who give generously. He does not give specifics about how or when God will reward them. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/reward]]) 
+Paul uses three agricultural metaphors to give instructions about giving to those in need. Their overall purpose is to explain the point that God will reward those who give generously. He does not give specifics about how or when God will reward them. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/other/reward]]) 
 
 ## Links: ##
 

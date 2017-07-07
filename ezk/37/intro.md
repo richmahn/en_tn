@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Israel restored #####
-God will unite the two kingdoms of Israel and Judah and the Messiah will rule over them. This will come in a prophesied day of restoration. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/restore]])
+God will unite the two kingdoms of Israel and Judah and the Messiah will rule over them. This will come in a prophesied day of restoration. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/other/restore]])
 
 #### Important figures of speech in this chapter ####
 

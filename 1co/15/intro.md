@@ -8,7 +8,7 @@ This chapter includes a very important teaching about the resurrection of Jesus.
 #### Special concepts in this chapter ####
 
 ##### Resurrection #####
-The resurrection is presented as the ultimate proof that Jesus is God and a central aspect of the gospel. Christ is the first of many who will be raised to life. There are few doctrines as important as this one. (See: [[rc://en/tw/dict/bible/kt/goodnews]] and [[rc://en/tw/dict/bible/kt/raise]])
+The resurrection is presented as the ultimate proof that Jesus is God and a central aspect of the gospel. Christ is the first of many who will be raised to life. There are few doctrines as important as this one. (See: [[rc://en/tw/dict/bible/kt/goodnews]] and [[rc://en/tw/dict/bible/other/raise]])
 
 #### Important figures of speech in this chapter ####
 

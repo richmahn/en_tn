@@ -13,7 +13,7 @@ This chapter refutes the teaching that Christians can live however they want aft
 Before coming to faith in Jesus, people are servants or slaves of sin. After salvation, a Christian is freed from this bondage and is able to choose to serve Christ in their life. Paul explains that when a Christian chooses to sin, it is because the person has willingly chosen sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fruit #####
-The imagery of fruit is used in this chapter. The image of fruit usually refers to faith producing acts of righteousness in a person's life. (See: [[rc://en/tw/dict/bible/kt/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
+The imagery of fruit is used in this chapter. The image of fruit usually refers to faith producing acts of righteousness in a person's life. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 #### Important figures of speech in this chapter ####
 
@@ -23,7 +23,7 @@ These are frequently used in this chapter. It appears the intent of these rhetor
 #### Other possible translation difficulties in this chapter ####
 
 ##### Death #####
-Death is used many different ways in this chapter. Physical death, spiritual death, the reign of sin in the heart of man and to put an end to something. Sin and death are supposed to contrast the new life provided by Christ and the new way a Christian is supposed to live after they receive salvation. (See: [[rc://en/tw/dict/bible/kt/death]])
+Death is used many different ways in this chapter. Physical death, spiritual death, the reign of sin in the heart of man and to put an end to something. Sin and death are supposed to contrast the new life provided by Christ and the new way a Christian is supposed to live after they receive salvation. (See: [[rc://en/tw/dict/bible/other/death]])
 
 ## Links: ##
 

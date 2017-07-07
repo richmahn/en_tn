@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 44 is a deliverance psalm. It is a prayer for God's help against enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 44 is a deliverance psalm. It is a prayer for God's help against enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

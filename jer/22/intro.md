@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations. The ULB and many other English
 
 ##### Luxury and oppression #####
 
-Because the king lived in luxury and oppressed the poor, God was sending him and his mother into captivity unless he repented. The king lacked justice. (See: [[rc://en/tw/dict/bible/kt/oppress]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/justice]])
+Because the king lived in luxury and oppressed the poor, God was sending him and his mother into captivity unless he repented. The king lacked justice. (See: [[rc://en/tw/dict/bible/other/oppress]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 ## Links: ##
 

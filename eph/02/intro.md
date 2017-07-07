@@ -12,7 +12,7 @@ Paul teaches about the church in this chapter. The church is made of two differe
 #### Important figures of speech in this chapter ####
 
 ##### "Dead in trespasses and sins" #####
-Paul teaches that those who are not Christians are "dead" in their sin. This means that they are in bondage or enslaved to their sin, which leads to death unless they come to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/death]], [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-metaphor]])
+Paul teaches that those who are not Christians are "dead" in their sin. This means that they are in bondage or enslaved to their sin, which leads to death unless they come to faith in Jesus. (See: [[rc://en/tw/dict/bible/other/death]], [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### Metaphors for worldly living #####
 Paul uses many different metaphors to describe how the non-Christian world acts. They "walked according to the age of this world," "walked according to the ruler of the authorities of the air," "acting according to the evil desires of our flesh," and "doing the will of the flesh and the mind."

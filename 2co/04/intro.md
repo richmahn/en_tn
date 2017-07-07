@@ -12,10 +12,10 @@ Paul has the ministry, or job, of telling people about Christ. He does not use t
 #### Important figures of speech in this chapter ####
 
 ##### Light and darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 ##### Life and death #####
-Life and death are not used in reference to physical life and death. Life represents the new life a Christian has in Jesus, while death represents the old way one lived prior to coming to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/life]], [[rc://en/tw/dict/bible/kt/death]] and [[rc://en/tw/dict/bible/kt/faith]])
+Life and death are not used in reference to physical life and death. Life represents the new life a Christian has in Jesus, while death represents the old way one lived prior to coming to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/life]], [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -10,7 +10,7 @@ This chapter continues Paul's defense which started in chapter 10 and lasts thro
 The Corinthians were quick to accept false teaching about Jesus and Christianity. These other teachers were teaching things about Jesus and the gospel that were different and not true. Unlike these false teachers, Paul lives sacrificially in service of the Corinthians. (See: [[rc://en/tw/dict/bible/kt/goodnews]])
 
 ##### Light #####
-This is a common image in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/kt/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+This is a common image in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Important figures of speech in this chapter ####
 

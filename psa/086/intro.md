@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 86 is a deliverance psalm. He is praying for deliverance from his many enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 86 is a deliverance psalm. He is praying for deliverance from his many enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

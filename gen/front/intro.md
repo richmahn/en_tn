@@ -19,7 +19,7 @@
 
 #### What is Genesis about? ####
 
-Genesis is a record of God's mighty acts, the beginning of human life, and how sin brought death and separation between people and God. Yet Genesis gives us hope and tells us about God's ultimate promise to save us. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/death]] and [[rc://en/tw/dict/bible/kt/save]])
+Genesis is a record of God's mighty acts, the beginning of human life, and how sin brought death and separation between people and God. Yet Genesis gives us hope and tells us about God's ultimate promise to save us. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/save]])
 
 #### How should the title of this book be translated? ####
 

@@ -10,7 +10,7 @@ Verses [1 Peter 12-14](./12.md) form the closing salutation of the letter. This 
 There is some disagreement over the titles used for church leaders. Some of these titles are overseer, elder, pastor, deacons and bishop.
 
 ##### Crowns #####
-Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/kt/reward]])
+Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/other/reward]])
 
 #### Important figures of speech in this chapter ####
 

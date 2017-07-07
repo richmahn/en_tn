@@ -6,7 +6,7 @@
 These two words have a lot of overlap in their meaning. The translator should be aware that there are some significant differences between the meaning of "temptation" here ([James 1:13](./12.md)) and God "testing" man ([Hebrews 11:17](../../heb/11/17.md)). 
 
 ##### Crowns #####
-Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/kt/reward]])
+Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/other/reward]])
 
 ##### Light #####
 Light is an important image used in Scripture. It is always used in a positive manner.

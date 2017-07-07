@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 13 is a psalm of deliverance because the psalmist is calling on God to deliver him from death and his enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]] and [[rc://en/tw/dict/bible/kt/call]])
+Psalm 13 is a psalm of deliverance because the psalmist is calling on God to deliver him from death and his enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/call]])
 
 #### Special concepts in this chapter ####
 

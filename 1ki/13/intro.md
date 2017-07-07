@@ -7,7 +7,7 @@ This chapter has two parts: The young prophet's warning to Jeroboam (1-10) and t
 #### Special concepts in this chapter ####
 
 ##### Obeying God #####
-People should do what God tells them to do and not what other people tell them is God's will for them. The story of the young prophet and the old prophet is an example of this. (See:[[rc://en/tw/dict/bible/kt/reward]] and [[rc://en/tw/dict/bible/kt/willofgod]])
+People should do what God tells them to do and not what other people tell them is God's will for them. The story of the young prophet and the old prophet is an example of this. (See:[[rc://en/tw/dict/bible/other/reward]] and [[rc://en/tw/dict/bible/kt/willofgod]])
 
 ## Links: ##
 

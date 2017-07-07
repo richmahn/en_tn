@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 6 is a deliverance psalm: a call to God for help. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 6 is a deliverance psalm: a call to God for help. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

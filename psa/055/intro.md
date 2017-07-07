@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 55 is a deliverance psalm. The psalmist is praying that God will deliver him from his enemies. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 55 is a deliverance psalm. The psalmist is praying that God will deliver him from his enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 

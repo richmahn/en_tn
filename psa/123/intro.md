@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 123 is a psalm asking for deliverance from the contempt of proud people. (See: [[rc://en/tw/dict/bible/kt/deliverer]])
+Psalm 123 is a psalm asking for deliverance from the contempt of proud people. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
 #### Special concepts in this chapter ####
 
