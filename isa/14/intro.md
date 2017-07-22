@@ -15,7 +15,7 @@ This is the name of the kingdom that conquered Judah, but it is also the name re
 #### Other possible translation difficulties in this chapter ####
 
 ##### Israel #####
-The use of Israel in this chapter is in reference to the nation or people group of Israel. It is this Israel who will be restored and not the kingdom of Israel. (See: [[rc://en/tw/dict/bible/other/restore]])
+The use of Israel in this chapter is in reference to the nation or people group of Israel. It is this Israel who will be restored and not the kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/restore]])
 
 ## Links: ##
 

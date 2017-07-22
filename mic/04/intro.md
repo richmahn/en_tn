@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter continues the poetic form to communicate that God will one day restore Israel. (See: [[rc://en/tw/dict/bible/other/restore]])
+This chapter continues the poetic form to communicate that God will one day restore Israel. (See: [[rc://en/tw/dict/bible/kt/restore]])
 
 #### Special concepts in this chapter ####
 

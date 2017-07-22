@@ -9,7 +9,7 @@ The first part of this chapter is probably a prophecy about the coming Messiah a
 #### Special concepts in this chapter ####
 
 ##### Restoration #####
-This chapter prophesies concerning a future time of peace and restoration. It is unlikely to have been fulfilled in Isaiah's day. (See: [[rc://en/tw/dict/bible/other/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+This chapter prophesies concerning a future time of peace and restoration. It is unlikely to have been fulfilled in Isaiah's day. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ## Links: ##
 

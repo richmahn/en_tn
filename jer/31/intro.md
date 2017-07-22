@@ -4,7 +4,7 @@
 
 Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 31:1-6, 8-22, 29, 35-37, all of which are quotations of various lengths.
 
-This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../30/23.md). (See: [[rc://en/tw/dict/bible/other/restore]])
+This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../30/23.md). (See: [[rc://en/tw/dict/bible/kt/restore]])
 #### Special concepts in this chapter ####
 
 ##### The New Covenant #####
