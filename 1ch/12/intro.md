@@ -11,4 +11,5 @@ This chapter records all those who supported David as king over Saul. The extent
 ## Links: ##
 
 * __[1 Chronicles 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

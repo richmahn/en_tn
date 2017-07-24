@@ -25,4 +25,5 @@ This appears to contradict John's earlier statement that Christian do not always
 ## Links: ##
 
 * __[1 John 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

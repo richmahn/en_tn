@@ -12,4 +12,5 @@ God has blessed the psalmist and is so loving to him. He has been one of God's s
 ## Links: ##
 
 * __[Psalms 86:1](./001.md)__
+
 __[<<](../085/intro.md) | [>>](../087/intro.md)__

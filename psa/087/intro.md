@@ -16,4 +16,5 @@ Psalm 46, 48, and 76 are part of a group of psalms that celebrate Jerusalem.
 ## Links: ##
 
 * __[Psalms 87:1](./001.md)__
+
 __[<<](../086/intro.md) | [>>](../088/intro.md)__

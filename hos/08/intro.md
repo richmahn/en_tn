@@ -12,4 +12,5 @@ This chapter contains some references to the "calf of Samaria." This most likely
 ## Links: ##
 
 * __[Hosea 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

@@ -21,4 +21,5 @@ The people used the metaphor of "yoke" for oppressive government:  "Your father 
 ## Links: ##
 
 * __[1 Kings 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

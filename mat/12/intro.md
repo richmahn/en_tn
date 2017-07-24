@@ -21,4 +21,5 @@ This chapter introduces the concept of "spiritual" brothers and sisters. Scriptu
 
 ## Links: ##
 * __[Matthew 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

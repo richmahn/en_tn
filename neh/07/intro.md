@@ -12,4 +12,5 @@ This list is paralleled in [Esra Ezra 2](../../ezr/02/01.md). The lists do conta
 ## Links: ##
 
 * __[Nehemiah 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

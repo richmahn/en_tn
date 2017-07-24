@@ -16,4 +16,5 @@ The author uses many different similes. This is because he is attempting to desc
 ## Links: ##
 
 * __[Revelation 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

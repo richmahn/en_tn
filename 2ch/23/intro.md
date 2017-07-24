@@ -12,4 +12,5 @@ The high priest organized a coup and made seven-year-old Joash king. Athaliah ob
 ## Links: ##
 
 * __[2 Chronicles 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

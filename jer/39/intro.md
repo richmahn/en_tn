@@ -7,4 +7,5 @@ The prophesied destruction of Jerusalem is over and the actual conquering of the
 ## Links: ##
 
 * __[Jeremiah 39:01 Notes](./01.md)__
+
 __[<<](../38/intro.md) | [>>](../40/intro.md)__

@@ -15,4 +15,5 @@ When Solomon obeyed God, God made him very rich. When the people of Judah began 
 ## Links: ##
 
 * __[1 Kings 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

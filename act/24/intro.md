@@ -20,4 +20,5 @@ The statement, "Go away for the present, but when I have time again, I will call
 ## Links: ##
 
 * __[Acts 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

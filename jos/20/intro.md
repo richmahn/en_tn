@@ -9,4 +9,5 @@ If a person was killed, it was the duty of his relatives to kill the killer. If 
 ## Links: ##
 
 * __[Joshua 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

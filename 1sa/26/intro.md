@@ -13,4 +13,5 @@ David put his reason for not killing Saul in a rhetorical question: "Do not dest
 ## Links: ##
 
 * __[1 Samuel 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

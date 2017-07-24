@@ -25,4 +25,5 @@ This is a statement that seems absurd and appears to contradict itself. A parado
 ## Links: ##
 
 * __[2 Corinthians 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

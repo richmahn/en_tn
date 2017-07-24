@@ -7,4 +7,5 @@ This chapter may have been written by Joshua, since it recorded Moses' death. Th
 ## Links: ##
 
 * __[Deuteronomy 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | __

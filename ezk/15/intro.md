@@ -9,4 +9,5 @@ God said that the people of Jerusalem were useless to him. He uses a simile to s
 ## Links: ##
 
 * __[Ezekiel 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

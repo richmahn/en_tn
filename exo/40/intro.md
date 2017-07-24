@@ -12,4 +12,5 @@ This phrase indicates that Yahweh began to dwell within the tabernacle, among Is
 ## Links: ##
 
 * __[Exodus 40:01 Notes](./01.md)__
+
 __[<<](../39/intro.md) | __

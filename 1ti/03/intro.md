@@ -17,4 +17,5 @@ This chapter lists several qualities that a man must have if he is to be an over
 ## Links: ##
 
 * __[1 Timothy 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

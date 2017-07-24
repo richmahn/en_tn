@@ -11,4 +11,5 @@ The prophet was able to speak to God on behalf of the people. Often in this chap
 ## Links: ##
 
 * __[Micah 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | __

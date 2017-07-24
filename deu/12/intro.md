@@ -13,4 +13,5 @@ In the ancient Near East, when nations conquered other nations, they often added
 ## Links: ##
 
 * __[Deuteronomy 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

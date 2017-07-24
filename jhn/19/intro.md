@@ -25,4 +25,5 @@ This is a phrase in Hebrew. John does not "translate" this phrase into Greek but
 ## Links: ##
 
 * __[John 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

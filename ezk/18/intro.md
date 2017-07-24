@@ -9,4 +9,5 @@ God does not punish children for the sins of their parents, but only punishes th
 ## Links: ##
 
 * __[Ezekiel 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

@@ -14,4 +14,6 @@ Samuel uses a rhetorical question to say it was useless to ask his advice since 
 ## Links: ##
 
 * __[1 Samuel 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__
+

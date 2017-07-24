@@ -14,4 +14,5 @@ None of the adults who came out of Egypt with Moses were still alive except the 
 ## Links: ##
 
 * __[Numbers 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

@@ -9,4 +9,5 @@ God told Moses that each tribe should bring one wooden staff and leave it overni
 ## Links: ##
 
 * __[Numbers 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

@@ -18,4 +18,5 @@ The author uses an extended metaphor of Israel as a vine planted by God which is
 ## Links: ##
 
 * __[Psalms 80:1](./001.md)__
+
 __[<<](../079/intro.md) | [>>](../081/intro.md)__

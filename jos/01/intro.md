@@ -14,4 +14,5 @@ Joshua is often told, "Be strong and courageous." This repeated encouragement is
 
 * __[Joshua 01:01 Notes](./01.md)__
 * __[Joshua intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

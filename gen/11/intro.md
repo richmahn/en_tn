@@ -24,4 +24,5 @@ The people were very full of pride and rebelled against God in this action. (See
 ## Links: ##
 
 * __[Genesis 11:1](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

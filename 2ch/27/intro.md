@@ -8,4 +8,5 @@ Jotham was able to conquer the people of Ammon because he obeyed the Lord. For Y
 ## Links: ##
 
 * __[2 Chronicles 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

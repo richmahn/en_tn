@@ -37,4 +37,5 @@ The Greek word translated as "angels" can also be translated as "messengers." It
 
 * __[Revelation 01:01 Notes](./01.md)__
 * __[Revelation intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

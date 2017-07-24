@@ -19,4 +19,5 @@ This probably teaches that the person who stops their sinful lifestyle will not 
 ## Links: ##
 
 * __[James 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | __

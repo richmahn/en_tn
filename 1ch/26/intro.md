@@ -14,4 +14,5 @@ The gatekeepers cast lots to see which gate they would guard. Those who took car
 ## Links: ##
 
 * __[1 Chronicles 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

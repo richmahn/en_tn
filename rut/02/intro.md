@@ -8,4 +8,5 @@ Boaz said this because he could not guarantee their safety in another person's f
 ## Links: ##
 
 * __[Ruth 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

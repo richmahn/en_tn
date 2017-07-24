@@ -15,4 +15,5 @@ Many scholars believe this chapter teaches on a subject known as "predestination
 
 * __[Ephesians 01:01 Notes](./01.md)__
 * __[Ephesians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

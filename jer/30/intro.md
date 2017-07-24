@@ -16,4 +16,5 @@ The author uses the term "Israel" in two different ways. He uses it in reference
 ## Links: ##
 
 * __[Jeremiah 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

@@ -27,4 +27,5 @@ There are times that the New Testament gives specific instructions or commands t
 ## Links: ##
 
 * __[Luke 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

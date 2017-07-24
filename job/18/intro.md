@@ -12,4 +12,5 @@ Bildad tells Job to curse Yahweh. The advice Bildad gives to Job is bad advice. 
 ## Links: ##
 
 * __[Job 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

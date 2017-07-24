@@ -11,4 +11,5 @@ The exact time of the coming day of the Lord will come as a surprise to the worl
 ## Links: ##
 
 * __[2 Peter 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

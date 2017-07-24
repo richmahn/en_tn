@@ -17,4 +17,5 @@ This is a metaphor used in this prophecy against the nation of Judah. (See: [[rc
 ## Links: ##
 
 * __[Isaiah 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

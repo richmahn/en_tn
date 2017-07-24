@@ -12,4 +12,5 @@ There are vivid pictures used in this chapter which show how the leaders of the 
 ## Links: ##
 
 * __[Micah 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

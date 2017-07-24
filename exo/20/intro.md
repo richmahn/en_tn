@@ -12,4 +12,5 @@ Yahweh's covenant faithfulness is now based on the covenant he made with Abraham
 ## Links: ##
 
 * __[Exodus 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

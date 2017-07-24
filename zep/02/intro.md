@@ -12,4 +12,5 @@ In this chapter, because the prophesied destruction is so complete, it is unclea
 ## Links: ##
 
 * __[Zephaniah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

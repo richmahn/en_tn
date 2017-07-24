@@ -17,4 +17,5 @@ Upon return to Judea, the focus of the rest of the Old Testament is on the Jewis
 
 * __[Esra Ezra 01:01 Notes](./01.md)__
 * __[Esra intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

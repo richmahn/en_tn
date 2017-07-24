@@ -7,4 +7,5 @@ Instructions for the new temple and city continue in this chapter. There should 
 ## Links: ##
 
 * __[Ezekiel 45:01 Notes](./01.md)__
+
 __[<<](../44/intro.md) | [>>](../46/intro.md)__

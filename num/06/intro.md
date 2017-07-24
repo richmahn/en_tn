@@ -7,4 +7,5 @@ The Nazirite vow was a special type of vow between a person and Yahweh. This cha
 ## Links: ##
 
 * __[Numbers 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

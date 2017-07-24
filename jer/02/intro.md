@@ -21,4 +21,5 @@ Israel is compared to a female camel or a wild donkey for being unstable and lus
 ## Links: ##
 
 * __[Jeremiah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

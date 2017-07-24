@@ -12,4 +12,5 @@ God told Moses to appoint Joshua as the new leader. Joshua became Yahweh's anoin
 ## Links: ##
 
 * __[Numbers 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

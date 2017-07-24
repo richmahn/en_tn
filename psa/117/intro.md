@@ -12,4 +12,5 @@ Everyone should praise God for his love and unending faithfulness. (See: [[rc://
 ## Links: ##
 
 * __[Psalms 117:1](./001.md)__
+
 __[<<](../116/intro.md) | [>>](../118/intro.md)__

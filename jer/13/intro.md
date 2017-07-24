@@ -13,4 +13,5 @@ The action of hiding the undergarment was intended to be a symbolic event. It wa
 ## Links: ##
 
 * __[Jeremiah 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

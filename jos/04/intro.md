@@ -8,4 +8,5 @@ The conquering of the Promised Land was a special war. It was God's war against 
 ## Links: ##
 
 * __[Joshua 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

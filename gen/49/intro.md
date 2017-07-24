@@ -20,4 +20,5 @@ Since Moses wrote the book of Genesis, this is an editorial comment he makes in 
 ## Links: ##
 
 * __[Genesis 49:01 Notes](./01.md)__
+
 __[<<](../48/intro.md) | [>>](../50/intro.md)__

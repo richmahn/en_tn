@@ -8,4 +8,5 @@ Because Yahweh is holy, only the priests could approach him, and when they did t
 ## Links: ##
 
 * __[Exodus 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__

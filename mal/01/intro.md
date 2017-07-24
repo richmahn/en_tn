@@ -14,4 +14,5 @@ There are many rhetorical questions in this chapter. They all have a rather dram
 
 * __[Malachi 01:01 Notes](./01.md)__
 * __[Malachi intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

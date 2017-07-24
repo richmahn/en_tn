@@ -9,4 +9,5 @@ God compared Judah to an adulteress because she worshiped idols instead of God w
 ## Links: ##
 
 * __[Ezekiel 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

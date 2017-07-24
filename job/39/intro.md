@@ -17,4 +17,5 @@ Yahweh uses a series of rhetorical questions in this chapter in order to defend 
 ## Links: ##
 
 * __[Job 39:01 Notes](./01.md)__
+
 __[<<](../38/intro.md) | [>>](../40/intro.md)__

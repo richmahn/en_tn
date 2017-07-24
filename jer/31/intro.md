@@ -19,4 +19,5 @@ In this chapter, Jeremiah uses the term "Israel" in reference to the nation of I
 ## Links: ##
 
 * __[Jeremiah 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

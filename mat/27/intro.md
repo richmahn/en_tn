@@ -16,4 +16,5 @@ This phrase, found in [Matthew 27:29](./27.md), is an example of irony. In this 
 ## Links: ##
 
 * __[Matthew 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

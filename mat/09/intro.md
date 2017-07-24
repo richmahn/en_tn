@@ -11,4 +11,5 @@ Some English translations begin many sentences in this chapter with the word "an
 
 ## Links: ##
 * __[Matthew 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

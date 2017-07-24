@@ -12,4 +12,5 @@ God is the creator and also the God of his people, Israel. Whatever he plans wor
 ## Links: ##
 
 * __[Psalms 33:1](./001.md)__
+
 __[<<](../032/intro.md) | [>>](../034/intro.md)__

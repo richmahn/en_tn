@@ -12,4 +12,5 @@ The potter and the clay are important images used in Scripture. They emphasize t
 ## Links: ##
 
 * __[Isaiah 45:01 Notes](./01.md)__
+
 __[<<](../44/intro.md) | [>>](../46/intro.md)__

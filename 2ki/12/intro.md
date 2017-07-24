@@ -12,4 +12,5 @@ Joash repaired the temple. In many ways, the temple represents the relationship 
 ## Links: ##
 
 * __[2 Kings 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

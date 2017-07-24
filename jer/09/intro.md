@@ -17,4 +17,5 @@ Circumcision is used here in an unusual way. Since circumcision was intended to 
 ## Links: ##
 
 * __[Jeremiah 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

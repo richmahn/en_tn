@@ -13,4 +13,5 @@ The tone of this chapter is sad, or depressing. The author believes that everyth
 
 * __[Ecclesiastes 01:01 Notes](./01.md)__
 * __[Ecclesiastes intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

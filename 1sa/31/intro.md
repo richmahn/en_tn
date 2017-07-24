@@ -12,4 +12,5 @@ Saul receives his punishment from God: death for his disobedience and resisting 
 ## Links: ##
 
 * __[1 Samuel 31:1](./01.md)__
+
 __[<<](../30/intro.md) | __

@@ -15,4 +15,5 @@ This means to ignore the Holy Spirit's guidance and to ignore the work he is try
 ## Links: ##
 
 * __[1 Thessalonians 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | __

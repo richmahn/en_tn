@@ -12,4 +12,5 @@ It is unclear who is addressed by these prophecies. At times, it appears to be t
 ## Links: ##
 
 * __[Isaiah 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

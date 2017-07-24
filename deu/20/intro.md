@@ -21,4 +21,5 @@ In ancient Israel, men were excused from fighting in battle for several differen
 ## Links: ##
 
 * __[Deuteronomy 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

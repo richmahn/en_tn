@@ -16,4 +16,5 @@ All cultures have different images associated with angels. It is important to av
 ## Links: ##
 
 * __[Acts 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

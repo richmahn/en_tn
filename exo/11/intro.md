@@ -15,4 +15,5 @@ In the previous chapters, Moses does not ask Pharaoh for permission to "let go" 
 ## Links: ##
 
 * __[Exodus 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

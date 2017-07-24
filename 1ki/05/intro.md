@@ -11,4 +11,5 @@ Building the temple took a lot of work and cooperation. King Hiram of Tyre provi
 ## Links: ##
 
 * __[1 Kings 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

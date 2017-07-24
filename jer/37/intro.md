@@ -9,4 +9,5 @@ Jeremiah was thrown into prison and beaten for prophesying the word of God. Then
 ## Links: ##
 
 * __[Jeremiah 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

@@ -15,4 +15,5 @@ There are several places in this chapter where the writer switches from the thir
 ## Links: ##
 
 * __[Hosea 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | __

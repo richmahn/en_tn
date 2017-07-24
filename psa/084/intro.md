@@ -14,4 +14,5 @@ There are many similarities between these psalms and some scholars suggest they 
 ## Links: ##
 
 * __[Psalms 84:1](./001.md)__
+
 __[<<](../083/intro.md) | [>>](../085/intro.md)__

@@ -12,4 +12,5 @@ Wicked people do not even consider God when they make their plans. (See: [[rc://
 ## Links: ##
 
 * __[Psalms 14:1](./001.md)__
+
 __[<<](../013/intro.md) | [>>](../015/intro.md)__

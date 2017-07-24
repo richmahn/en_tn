@@ -16,4 +16,5 @@ Yahweh explains purpose behind the Jews exile in Babylon, even though it is stil
 ## Links: ##
 
 * __[Isaiah 48:01 Notes](./01.md)__
+
 __[<<](../47/intro.md) | [>>](../49/intro.md)__

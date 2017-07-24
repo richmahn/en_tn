@@ -17,4 +17,5 @@ Yahweh wanted the people to repent. This statement, and the others that follow, 
 ## Links: ##
 
 * __[Jeremiah 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

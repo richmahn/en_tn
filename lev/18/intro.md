@@ -9,4 +9,5 @@ This chapter gives certain standards for sexual morality.
 ## Links: ##
 
 * __[Leviticus 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

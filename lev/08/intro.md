@@ -7,4 +7,5 @@ In this chapter, Moses set apart, or consecrated, the sons of Aaron to be priest
 ## Links: ##
 
 * __[Leviticus 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

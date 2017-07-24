@@ -15,4 +15,5 @@ This psalm is called "a Maschil of David." The word "Maschil" in the original la
 ## Links: ##
 
 * __[Psalms 52:1](./001.md)__
+
 __[<<](../051/intro.md) | [>>](../053/intro.md)__

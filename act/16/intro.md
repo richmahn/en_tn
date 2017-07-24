@@ -11,4 +11,5 @@ These action were against the law of Moses and were considered to be sinful. Thi
 ## Links: ##
 
 * __[Acts 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

@@ -7,4 +7,5 @@ The consecration of the tabernacle continues in this chapter. The people obeyed 
 ## Links: ##
 
 * __[Numbers 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

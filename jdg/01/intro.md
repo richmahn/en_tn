@@ -14,4 +14,5 @@ Israel fought to clear the land of the Canaanites, but they also made treaties w
 
 * __[Judges 01:01 Notes](./01.md)__
 * __[Judges intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

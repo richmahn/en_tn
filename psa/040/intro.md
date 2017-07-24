@@ -11,4 +11,5 @@ God is not interested in sacrifices but wants people to obey him and fulfill his
 ## Links: ##
 
 * __[Psalms 40:1](./001.md)__
+
 __[<<](../039/intro.md) | [>>](../041/intro.md)__

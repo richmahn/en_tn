@@ -7,4 +7,5 @@ The prophecy against Egypt and its king continues in this chapter. Babylon will 
 ## Links: ##
 
 * __[Ezekiel 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

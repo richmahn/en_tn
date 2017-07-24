@@ -12,4 +12,5 @@ God made a covenant with Abraham. In it, God promised to make Abraham's descenda
 ## Links: ##
 
 * __[Hebrews 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

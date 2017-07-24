@@ -31,4 +31,5 @@ The expression "in three days" should be understood in the Jewish way as, "withi
 ## Links: ##
 
 * __[Matthew 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

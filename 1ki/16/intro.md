@@ -8,4 +8,5 @@ The prophet Jehu warned Baasha, king of Israel, that God would destroy his famil
 ## Links: ##
 
 * __[1 Kings 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

@@ -12,4 +12,5 @@ God used the idiom "mouth to mouth" meaning "speaking directly with both people 
 ## Links: ##
 
 * __[Numbers 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

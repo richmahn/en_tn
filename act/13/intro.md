@@ -19,4 +19,5 @@ A major part of this chapter involves recalling the history of the people of Isr
 ## Links: ##
 
 * __[Acts 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

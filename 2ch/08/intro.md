@@ -12,4 +12,5 @@ Solomon achieved many victory when he was king. This chapter records many of the
 ## Links: ##
 
 * __[2 Chronicles 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

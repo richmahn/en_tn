@@ -14,4 +14,5 @@ Yahweh asks several rhetorical questions in this chapter. This is intended to sh
 ## Links: ##
 
 * __[Jeremiah 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

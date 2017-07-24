@@ -29,4 +29,5 @@ This is a complex issue. It is possible that "flesh" is a metaphor for a person'
 ## Links: ##
 
 * __[Ephesians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

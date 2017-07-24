@@ -18,4 +18,5 @@ The author begins to speak using the pronoun "we." It is uncertain who else this
 ## Links: ##
 
 * __[Hebrews 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

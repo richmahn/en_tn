@@ -12,4 +12,5 @@ God should destroy these enemy nations like he destroyed Israel's enemies during
 ## Links: ##
 
 * __[Psalms 83:1](./001.md)__
+
 __[<<](../082/intro.md) | [>>](../084/intro.md)__

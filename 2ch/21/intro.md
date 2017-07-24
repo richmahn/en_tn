@@ -14,4 +14,5 @@ The author compares worship of Baal to being a prostitute: "to act like a prosti
 ## Links: ##
 
 * __[2 Chronicles 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

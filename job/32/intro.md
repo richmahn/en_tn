@@ -9,4 +9,5 @@ Some translations prefer to set apart extended quotations, prayers, or songs. Th
 ## Links: ##
 
 * __[Job 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

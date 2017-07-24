@@ -13,4 +13,5 @@ Balaam told the young women from Moab to act friendly to the Israelite men and i
 ## Links: ##
 
 * __[Numbers 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

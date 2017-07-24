@@ -18,4 +18,5 @@ This is a very important statement. Moses does not ask Pharaoh for permission to
 ## Links: ##
 
 * __[Exodus 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -24,4 +24,5 @@ This changes the reference from the time when Assyria comes to dominate the worl
 ## Links: ##
 
 * __[Isaiah 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

@@ -14,4 +14,5 @@ This chapter focuses on the justice of Yahweh. It is important to remember that 
 ## Links: ##
 
 * __[Job 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

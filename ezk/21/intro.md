@@ -9,4 +9,5 @@ Judah has refused to learn from their punishment, so God is about to destroy the
 ## Links: ##
 
 * __[Ezekiel 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

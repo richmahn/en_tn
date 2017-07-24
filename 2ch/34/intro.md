@@ -13,4 +13,5 @@ Josiah worshiped Yahweh and cleaned out the idols and shrines from Judah. The pe
 ## Links: ##
 
 * __[2 Chronicles 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

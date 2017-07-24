@@ -16,4 +16,5 @@ This chapter is unusual because it holds a theme about the adulteress and warns 
 ## Links: ##
 
 * __[Proverbs 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

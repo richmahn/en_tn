@@ -15,4 +15,5 @@ This is a comment made by the writer of the text. He functions as a narrator in 
 ## Links: ##
 
 * __[Ruth 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | __

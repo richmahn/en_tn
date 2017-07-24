@@ -12,4 +12,5 @@ Josiah destroyed idolatry in Judah and in the deserted areas of Israel. But he f
 ## Links: ##
 
 * __[2 Kings 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

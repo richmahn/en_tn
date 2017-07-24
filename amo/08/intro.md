@@ -14,4 +14,5 @@ This phrase is used to introduce prophecy. It highlights what God is proclaiming
 ## Links: ##
 
 * __[Amos 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

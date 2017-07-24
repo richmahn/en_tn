@@ -25,4 +25,5 @@ This is a word in Hebrew. Paul does not translate this word into Greek but choos
 ## Links: ##
 
 * __[Revelation 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

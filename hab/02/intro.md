@@ -14,4 +14,5 @@ This is an important phrase in Scripture. Paul also uses it to explain that man 
 ## Links: ##
 
 * __[Habakkuk 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

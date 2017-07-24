@@ -19,4 +19,5 @@ Job uses sarcasm in this chapter. This is the use of irony to insult Bildad. (Se
 ## Links: ##
 
 * __[Job 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

@@ -26,4 +26,5 @@ Paul uses sarcasm, a special type of irony, when he reminds them how he had help
 ## Links: ##
 
 * __[2 Corinthians 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

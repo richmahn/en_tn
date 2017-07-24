@@ -27,4 +27,5 @@ Some scholars believe this refers to the physical descendants of Abraham who do 
 ## Links: ##
 
 * __[Romans 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

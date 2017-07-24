@@ -7,4 +7,5 @@ Ezekiel's call continues in this chapter. God appointed Ezekiel to be a prophet 
 ## Links: ##
 
 * __[Ezekiel 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

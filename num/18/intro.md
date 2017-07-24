@@ -9,4 +9,5 @@ The tribes of Israel were required to bring a tithe to the Levites in order to f
 ## Links: ##
 
 * __[Numbers 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

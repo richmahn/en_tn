@@ -11,4 +11,5 @@ The interpretation of dreams was important in the ancient Near East. It was seen
 ## Links: ##
 
 * __[Genesis 40:01 Notes](./01.md)__
+
 __[<<](../39/intro.md) | [>>](../41/intro.md)__

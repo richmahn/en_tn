@@ -18,4 +18,5 @@ There are many metaphors in this chapter, all of which are commonly used in Scri
 
 * __[1 John 01:01 Notes](./01.md)__
 * __[1 John intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

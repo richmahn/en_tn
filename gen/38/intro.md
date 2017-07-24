@@ -15,4 +15,5 @@ The Canaanite woman, Tamar, deceived her father-in-law, Judah, into having sexua
 ## Links: ##
 
 * __[Genesis 38:01 Notes](./01.md)__
+
 __[<<](../37/intro.md) | [>>](../39/intro.md)__

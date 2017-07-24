@@ -9,4 +9,5 @@ If the king obeyed God and surrendered to the Babylonians, he would be allowed t
 ## Links: ##
 
 * __[Jeremiah 38:01 Notes](./01.md)__
+
 __[<<](../37/intro.md) | [>>](../39/intro.md)__

@@ -9,4 +9,5 @@ Jeremiah wrote God's prophesies on a scroll but the king burned it. It is possib
 ## Links: ##
 
 * __[Jeremiah 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | [>>](../37/intro.md)__

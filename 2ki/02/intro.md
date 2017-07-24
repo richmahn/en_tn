@@ -11,4 +11,5 @@ Elisha replaces Elijah as the chief prophet of God. (See: [[rc://en/tw/dict/bibl
 ## Links: ##
 
 * __[2 Kings 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

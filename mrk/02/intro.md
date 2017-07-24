@@ -16,4 +16,5 @@ Rhetorical questions are used several times in this chapter. The Jewish leaders 
 ## Links: ##
 
 * __[Mark 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

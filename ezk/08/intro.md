@@ -9,4 +9,5 @@ The people have contaminated the temple with their worship of other gods and thr
 ## Links: ##
 
 * __[Ezekiel 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

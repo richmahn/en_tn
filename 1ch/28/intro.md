@@ -12,4 +12,5 @@ David gives instructions to the people because he knows that he will not be ther
 ## Links: ##
 
 * __[1 Chronicles 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__

@@ -11,4 +11,5 @@ God forgives sin and helps the sinner. So Israel should trust in God for his for
 ## Links: ##
 
 * __[Psalms 130:1](./001.md)__
+
 __[<<](../129/intro.md) | [>>](../131/intro.md)__

@@ -28,4 +28,5 @@ It appears the prophecy of Joel may have been fulfilled in part, but not complet
 ## Links: ##
 
 * __[Acts 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

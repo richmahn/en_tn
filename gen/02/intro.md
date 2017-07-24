@@ -27,4 +27,5 @@ This was not a vegetable garden or cultivated field. Instead, it was probably a 
 ## Links: ##
 
 * __[Genesis 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

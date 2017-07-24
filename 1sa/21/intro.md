@@ -20,4 +20,5 @@ The king of Gath's advisers use two rhetorical questions to warn him about how d
 ## Links: ##
 
 * __[1 Samuel 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

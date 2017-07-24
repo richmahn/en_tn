@@ -25,4 +25,5 @@ Mary and Martha had faith in Jesus but they did not understand fully who he was.
 ## Links: ##
 
 * __[John 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

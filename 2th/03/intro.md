@@ -12,4 +12,5 @@ In this chapter, Paul teaches it is important for Christians to live in a way th
 ## Links: ##
 
 * __[2 Thessalonians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

@@ -14,4 +14,5 @@ This chapter discusses fasting. People were asking the same questions as those f
 ## Links: ##
 
 * __[Zechariah 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

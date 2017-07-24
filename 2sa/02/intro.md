@@ -17,4 +17,5 @@ Abner finally stopped the battle with a rhetorical question to David's army. "Mu
 ## Links: ##
 
 * __[2 Samuel 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

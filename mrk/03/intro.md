@@ -27,4 +27,5 @@ This chapter introduces the concept of "spiritual" brothers and sisters. Scriptu
 ## Links: ##
 
 * __[Mark 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

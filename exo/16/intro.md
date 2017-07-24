@@ -22,4 +22,5 @@ Sin is the name of a part of the Sinai Wilderness. It is not the description of 
 ## Links: ##
 
 * __[Exodus 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

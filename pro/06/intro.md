@@ -33,4 +33,5 @@ The gazelle and the ant have certain characteristics which the author uses to gi
 ## Links: ##
 
 * __[Proverbs 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

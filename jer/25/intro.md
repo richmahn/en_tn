@@ -19,4 +19,5 @@ Jeremiah uses the idiom of drinking the cup of wine of God's punishment to say t
 ## Links: ##
 
 * __[Jeremiah 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

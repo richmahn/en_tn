@@ -9,4 +9,5 @@ After Babylon conquered Jerusalem, this chapter reveals an unfolding peace in th
 ## Links: ##
 
 * __[Jeremiah 40:01 Notes](./01.md)__
+
 __[<<](../39/intro.md) | [>>](../41/intro.md)__

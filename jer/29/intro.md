@@ -9,4 +9,5 @@ Jeremiah sent a letter to Babylon telling the exiles to prepare for a long stay.
 ## Links: ##
 
 * __[Jeremiah 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

@@ -12,4 +12,5 @@ In addition to preparing for the construction of the temple by gathering supplie
 ## Links: ##
 
 * __[1 Chronicles 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

@@ -9,4 +9,5 @@ God will bless the people who were taken away into Babylon but punish the people
 ## Links: ##
 
 * __[Jeremiah 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

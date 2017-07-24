@@ -9,4 +9,5 @@ The people will be punished severely for their idol worship and the temple will 
 ## Links: ##
 
 * __[Ezekiel 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

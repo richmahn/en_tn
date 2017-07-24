@@ -20,4 +20,5 @@ The people were supposed to listen to God's prophet. When he prophesied, they sh
 
 * __[Jeremiah 01:01 Notes](./01.md)__
 * __[Jeremiah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

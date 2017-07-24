@@ -19,4 +19,5 @@ Zophar uses many different rhetorical questions in this chapter in order to try 
 ## Links: ##
 
 * __[Job 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

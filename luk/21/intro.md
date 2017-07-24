@@ -26,4 +26,5 @@ Jesus refers to himself as the "Son of Man." Every language may not have the abi
 ## Links: ##
 
 * __[Luke 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

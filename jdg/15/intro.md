@@ -15,4 +15,5 @@ The Spirit of Yahweh rushed upon Samson. This meant God gave Samson extraordinar
 ## Links: ##
 
 * __[Judges 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

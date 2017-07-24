@@ -14,4 +14,5 @@ Elihu defends the justice of Yahweh after Job claimed that Yahweh was being unju
 ## Links: ##
 
 * __[Job 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

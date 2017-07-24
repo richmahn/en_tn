@@ -6,4 +6,5 @@ Instructions for the new temple and city continue in this chapter. There is more
 ## Links: ##
 
 * __[Ezekiel 48:01 Notes](./01.md)__
+
 __[<<](../47/intro.md) | __

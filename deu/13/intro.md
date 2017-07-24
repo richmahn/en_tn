@@ -9,4 +9,5 @@ The people were required to listen to Yahweh's prophets unless they were encoura
 ## Links: ##
 
 * __[Deuteronomy 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

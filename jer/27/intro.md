@@ -9,4 +9,5 @@ Jeremiah told the king of Judah, and all the surrounding nations, to serve the B
 ## Links: ##
 
 * __[Jeremiah 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

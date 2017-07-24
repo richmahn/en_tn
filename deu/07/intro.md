@@ -11,4 +11,5 @@ This chapter references parts of the covenant Yahweh made with Abraham. It also 
 ## Links: ##
 
 * __[Deuteronomy 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

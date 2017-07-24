@@ -11,4 +11,5 @@ The rules and instructions in this chapter help to ensure peace in Israel. This 
 ## Links: ##
 
 * __[Deuteronomy 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

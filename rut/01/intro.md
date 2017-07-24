@@ -19,4 +19,5 @@ The actions of Ruth the Moabite are intended to contrast with the actions of Nao
 
 * __[Ruth 01:01 Notes](./01.md)__
 * __[Ruth intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

@@ -33,4 +33,5 @@ The Greek word translated as "angels" can also be translated as "messengers." Th
 ## Links: ##
 
 * __[Revelation 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

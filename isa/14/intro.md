@@ -20,4 +20,5 @@ The use of Israel in this chapter is in reference to the nation or people group 
 ## Links: ##
 
 * __[Isaiah 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

@@ -9,4 +9,5 @@ The people wanted to kill Jeremiah but other people intervened and said that the
 ## Links: ##
 
 * __[Jeremiah 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

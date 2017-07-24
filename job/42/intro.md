@@ -14,4 +14,5 @@ Yahweh enacts justice at the end of this book. He punishes Job's friends and res
 ## Links: ##
 
 * __[Job 42:01 Notes](./01.md)__
+
 __[<<](../41/intro.md) | __

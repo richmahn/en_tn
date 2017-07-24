@@ -14,4 +14,5 @@ Lending money to fellow Israelites was a way to help them out. It was not intend
 ## Links: ##
 
 * __[Deuteronomy 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

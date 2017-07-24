@@ -13,4 +13,5 @@ By signing this document, the people vowed or agreed to obey God, not to buy thi
 ## Links: ##
 
 * __[Nehemiah 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

@@ -12,4 +12,5 @@ This chapter focuses on Yahweh's faithfulness to fulfill his covenants. It refer
 ## Links: ##
 
 * __[Isaiah 54:01 Notes](./01.md)__
+
 __[<<](../53/intro.md) | [>>](../55/intro.md)__

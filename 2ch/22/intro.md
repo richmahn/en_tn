@@ -13,4 +13,5 @@ The author compares Athaliah's evil deeds to Ahab's family's evil lives: "walked
 ## Links: ##
 
 * __[2 Chronicles 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

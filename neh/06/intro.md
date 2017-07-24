@@ -15,4 +15,5 @@ Completing this city wall in only fifty-two days was considered proof that God h
 ## Links: ##
 
 * __[Nehemiah 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

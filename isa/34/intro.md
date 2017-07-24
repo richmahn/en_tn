@@ -18,4 +18,5 @@ This chapter appears to prophesy about a time of restoration when the messiah wi
 ## Links: ##
 
 * __[Isaiah 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

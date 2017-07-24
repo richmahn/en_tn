@@ -13,4 +13,5 @@ When the people of Israel made a sacred promise to God, they cut a calf in two a
 ## Links: ##
 
 * __[Jeremiah 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

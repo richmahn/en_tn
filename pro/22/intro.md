@@ -19,4 +19,5 @@ With this new section of proverbs, the author begins to use many rhetorical ques
 ## Links: ##
 
 * __[Proverbs 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

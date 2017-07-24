@@ -17,4 +17,5 @@ While Yahweh achieved many great victories through Joshua, Israel was still supp
 ## Links: ##
 
 * __[Joshua 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

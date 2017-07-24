@@ -12,4 +12,5 @@ At this time, it was very unusual for a woman to be a leader, especially a milit
 ## Links: ##
 
 * __[Judges 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

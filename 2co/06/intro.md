@@ -30,4 +30,5 @@ It is likely that Paul's usage of the pronoun "we" represents at least Timothy a
 ## Links: ##
 
 * __[2 Corinthians 6:1](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -22,4 +22,5 @@ It is unclear whether this prophecy was being fulfilled as the author was writin
 ## Links: ##
 
 * __[Hebrews 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

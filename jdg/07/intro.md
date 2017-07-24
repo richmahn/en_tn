@@ -13,4 +13,5 @@ God said, "There are too many soldiers for me to give you victory over the Midia
 ## Links: ##
 
 * __[Judges 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

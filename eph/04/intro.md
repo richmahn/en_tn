@@ -20,4 +20,5 @@ The term "old man" probably refers to the sinful nature that a person is born wi
 ## Links: ##
 
 * __[Ephesians 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

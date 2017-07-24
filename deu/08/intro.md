@@ -8,4 +8,5 @@ This chapter recalls the great things that Yahweh has done for Israel and is abo
 ## Links: ##
 
 * __[Deuteronomy 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

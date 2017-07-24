@@ -12,4 +12,5 @@ This chapter pictures a time when Israel will be fully restored to Yahweh. They 
 ## Links: ##
 
 * __[Isaiah 60:01 Notes](./01.md)__
+
 __[<<](../59/intro.md) | [>>](../61/intro.md)__

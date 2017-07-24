@@ -7,4 +7,5 @@ This chapter is a summary of Israel's exodus from Egypt to the Promised Land, in
 ## Links: ##
 
 * __[Numbers 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

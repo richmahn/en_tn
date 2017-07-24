@@ -21,4 +21,5 @@ God is often pictured as being located above. When Paul says here to seek the th
 ## Links: ##
 
 * __[Colossians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

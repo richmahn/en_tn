@@ -29,4 +29,5 @@ This is a seemingly absurd statement, which appears to contradict itself. A para
 ## Links: ##
 
 * __[Revelation 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

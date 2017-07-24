@@ -25,4 +25,5 @@ Paul uses a repeated pattern in a purposeful way. He makes a statement and then 
 ## Links: ##
 
 * __[2 Corinthians 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

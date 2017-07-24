@@ -9,4 +9,5 @@ Through the power of Yahweh, Mordecai was given a new position in the Persian Em
 ## Links: ##
 
 * __[Esther 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | __

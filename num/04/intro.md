@@ -9,4 +9,5 @@ Moses gave special instructions for each of the families of the tribes of Levi. 
 ## Links: ##
 
 * __[Numbers 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -15,4 +15,5 @@ Both Paul and Timothy were suffering persecution when this letter was written. P
 
 * __[2 Timothy 01:01 Notes](./01.md)__
 * __[2 Timothy intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

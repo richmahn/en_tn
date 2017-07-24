@@ -9,4 +9,5 @@ God was looking for people who were sad that there was so much evil being done. 
 ## Links: ##
 
 * __[Ezekiel 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -22,4 +22,5 @@ The phrase does not mean the regulations of the law of Moses ended during the ti
 ## Links: ##
 
 * __[Luke 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

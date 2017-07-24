@@ -16,4 +16,5 @@ Laban's sons complained that Jacob cheated them out of their father's possession
 ## Links: ##
 
 * __[Genesis 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

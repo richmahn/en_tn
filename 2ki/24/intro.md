@@ -11,4 +11,5 @@ God punished Judah because of their sin. The Babylonians conquer Jerusalem and c
 ## Links: ##
 
 * __[2 Kings 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

@@ -18,4 +18,5 @@ Judah's faithlessness to God is often pictured as adultery. This is a common ima
 ## Links: ##
 
 * __[Jeremiah 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

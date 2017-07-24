@@ -16,4 +16,5 @@ Many different figures of speech are used. They are usually more common in poeti
 ## Links: ##
 
 * __[Hebrews 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

@@ -12,4 +12,5 @@ Zedekiah revolted against the Babylonians, so they came and completely destroyed
 ## Links: ##
 
 * __[2 Kings 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | __

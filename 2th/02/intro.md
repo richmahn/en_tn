@@ -17,4 +17,5 @@ Since the temple no longer exists, it is possible this is a reference to the ide
 ## Links: ##
 
 * __[2 Thessalonians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

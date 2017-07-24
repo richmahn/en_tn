@@ -22,4 +22,5 @@ This is a common phrase in this section of Isaiah. The chapter appears to prophe
 ## Links: ##
 
 * __[Isaiah 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

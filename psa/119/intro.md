@@ -16,4 +16,5 @@ The author loved the law of God and was blessed by obeying it. (See: [[rc://en/t
 ## Links: ##
 
 * __[Psalms 119:1](./001.md)__
+
 __[<<](../118/intro.md) | [>>](../120/intro.md)__

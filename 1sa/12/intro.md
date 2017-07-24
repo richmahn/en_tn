@@ -12,4 +12,5 @@ It is common in Scripture to use Israel's history to show how faithful God has b
 ## Links: ##
 
 * __[1 Samuel 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

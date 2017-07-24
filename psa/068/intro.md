@@ -14,4 +14,5 @@ Scholars have found this psalm the most difficult to interpret. There does not a
 ## Links: ##
 
 * __[Psalms 68:1](./001.md)__
+
 __[<<](../067/intro.md) | [>>](../069/intro.md)__

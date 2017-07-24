@@ -7,4 +7,5 @@ The passage in [2 Timothy 3:1-9](./01.md) describes a prophecy concerning the la
 ## Links: ##
 
 * __[2 Timothy 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

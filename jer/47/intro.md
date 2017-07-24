@@ -14,4 +14,5 @@ This chapter uses the imagery of a flood to describe the enemies who conquer the
 ## Links: ##
 
 * __[Jeremiah 47:01 Notes](./01.md)__
+
 __[<<](../46/intro.md) | [>>](../48/intro.md)__

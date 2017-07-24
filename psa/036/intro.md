@@ -12,4 +12,5 @@ Evil people do not think about God; but he is such a pleasure to all who honor h
 ## Links: ##
 
 * __[Psalms 36:1](./001.md)__
+
 __[<<](../035/intro.md) | [>>](../037/intro.md)__

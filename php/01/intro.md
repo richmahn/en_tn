@@ -19,4 +19,5 @@ This is a seemingly absurd statement, which appears to contradict itself. A para
 
 * __[Philippians 01:01 Notes](./01.md)__
 * __[Philippians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

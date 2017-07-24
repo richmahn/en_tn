@@ -8,4 +8,5 @@ The people should celebrate the Sabbath, the Passover, the Feast of First Fruits
 ## Links: ##
 
 * __[Leviticus 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

@@ -10,4 +10,5 @@ Ezekiel had a vision of God calling him to prophetic ministry. (See: [[rc://en/t
 
 * __[Ezekiel 01:01 Notes](./01.md)__
 * __[Ezekiel intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

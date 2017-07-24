@@ -17,4 +17,5 @@ Yahweh alone must be worshiped. It is necessary for people to stay faithful to G
 ## Links: ##
 
 * __[1 Kings 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

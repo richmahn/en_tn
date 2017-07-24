@@ -23,4 +23,5 @@ David wanted to emphasize the importance of obeying God to his son Solomon. He u
 ## Links: ##
 
 * __[1 Kings 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

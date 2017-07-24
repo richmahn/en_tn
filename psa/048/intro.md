@@ -13,4 +13,5 @@ It is helpful to know that "Mount Zion" is often used to refer to the city of Je
 ## Links: ##
 
 * __[Psalms 48:1](./001.md)__
+
 __[<<](../047/intro.md) | [>>](../049/intro.md)__

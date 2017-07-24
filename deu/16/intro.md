@@ -13,4 +13,5 @@ As Yahweh's chosen nation, there must be justice in Israel. Also, Yahweh must be
 ## Links: ##
 
 * __[Deuteronomy 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

@@ -16,4 +16,5 @@ The leaders are given different titles in this chapter. The ULB uses "taskmaster
 ## Links: ##
 
 * __[Exodus 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

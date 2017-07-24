@@ -22,4 +22,5 @@ Yahweh is just and merciful so even though God did not follow through with a jud
 ## Links: ##
 
 * __[Jonah 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

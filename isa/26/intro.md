@@ -12,4 +12,5 @@ This is a common phrase in this section of Isaiah. This chapter appears to proph
 ## Links: ##
 
 * __[Isaiah 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

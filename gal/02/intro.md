@@ -19,4 +19,5 @@ Paul teaches that, if a Christian attempts to follow the law of Moses, they fail
 ## Links: ##
 
 * __[Galatians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

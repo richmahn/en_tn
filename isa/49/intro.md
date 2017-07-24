@@ -14,4 +14,5 @@ It is unclear if this is a reference to the gospel proclaimed by the messiah or 
 ## Links: ##
 
 * __[Isaiah 49:01 Notes](./01.md)__
+
 __[<<](../48/intro.md) | [>>](../50/intro.md)__

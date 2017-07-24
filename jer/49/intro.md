@@ -17,4 +17,5 @@ There are many rhetorical questions in this chapter. The purpose of these rhetor
 ## Links: ##
 
 * __[Jeremiah 49:01 Notes](./01.md)__
+
 __[<<](../48/intro.md) | [>>](../50/intro.md)__

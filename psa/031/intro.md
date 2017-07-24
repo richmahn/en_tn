@@ -12,4 +12,5 @@ Even though everyone deserted and despised the psalmist, God did not abandon him
 ## Links: ##
 
 * __[Psalms 31:1](./001.md)__
+
 __[<<](../030/intro.md) | [>>](../032/intro.md)__

@@ -21,4 +21,5 @@ Hosea 1-4 is controlled by a metaphor that Hosea lived out. He was personifying 
 
 * __[Hosea 01:01 Notes](./01.md)__
 * __[Hosea intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

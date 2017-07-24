@@ -12,4 +12,5 @@ In Judges, Israel's actions are connected to their obedience to Yahweh. When Isr
 ## Links: ##
 
 * __[Judges 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

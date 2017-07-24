@@ -20,4 +20,5 @@ Paul uses an extended illustration to describe the Christian life. The goal of t
 ## Links: ##
 
 * __[Philippians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

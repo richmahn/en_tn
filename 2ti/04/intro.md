@@ -13,4 +13,5 @@ In Scripture, there are several different types of crowns used as images for dif
 ## Links: ##
 
 * __[2 Timothy 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | __

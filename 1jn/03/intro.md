@@ -22,4 +22,5 @@ Many scholars believe this is about remaining in the will of God and is not a re
 ## Links: ##
 
 * __[1 John 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

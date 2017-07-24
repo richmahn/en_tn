@@ -10,4 +10,5 @@ The church is also responsible for encouraging believers to repent if they sin. 
 
 ## Links: ##
 * __[Matthew 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

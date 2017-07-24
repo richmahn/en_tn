@@ -12,4 +12,5 @@ Jerusalem has been destroyed and its people killed. God should destroy these ene
 ## Links: ##
 
 * __[Psalms 79:1](./001.md)__
+
 __[<<](../078/intro.md) | [>>](../080/intro.md)__

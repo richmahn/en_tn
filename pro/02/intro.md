@@ -12,4 +12,5 @@ Occasionally, the author addresses a proverb to "my son." This is not intended t
 ## Links: ##
 
 * __[Proverbs 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

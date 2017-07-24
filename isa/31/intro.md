@@ -22,4 +22,5 @@ The use of the term "Israel" in this chapter is in reference to the northern kin
 ## Links: ##
 
 * __[Isaiah 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

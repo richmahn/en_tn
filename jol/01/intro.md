@@ -22,4 +22,5 @@ The author also uses rhetorical questions that communicate surprise and alarm. (
 
 * __[Joel 01:01 Notes](./01.md)__
 * __[Joel intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

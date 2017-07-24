@@ -7,4 +7,5 @@ Instructions for the new temple and city continue in this chapter. Foreigners an
 ## Links: ##
 
 * __[Ezekiel 44:01 Notes](./01.md)__
+
 __[<<](../43/intro.md) | [>>](../45/intro.md)__

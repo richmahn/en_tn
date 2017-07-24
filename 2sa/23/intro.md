@@ -14,4 +14,5 @@ This is a reference to the covenant God previously made with David. (See: [2 Sam
 ## Links: ##
 
 * __[2 Samuel 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

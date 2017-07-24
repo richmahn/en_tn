@@ -19,4 +19,5 @@ The visions are stated and even when the prophet asked for an explanation, their
 ## Links: ##
 
 * __[Zechariah 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

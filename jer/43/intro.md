@@ -16,4 +16,5 @@ Jeremiah's burial of the stones was intended to be a symbolic action for the peo
 ## Links: ##
 
 * __[Jeremiah 43:01 Notes](./01.md)__
+
 __[<<](../42/intro.md) | [>>](../44/intro.md)__

@@ -9,4 +9,5 @@ The Levites were given a special function in Israel. They belonged to or were sp
 ## Links: ##
 
 * __[Numbers 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

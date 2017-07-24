@@ -10,4 +10,5 @@ This chapter is intended to compare Yahweh with various false Gods whom the Isra
 ## Links: ##
 
 * __[Isaiah 46:01 Notes](./01.md)__
+
 __[<<](../45/intro.md) | [>>](../47/intro.md)__

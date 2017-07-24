@@ -9,4 +9,5 @@ Although specific interpretation of this vision is not given, most scholars beli
 ## Links: ##
 
 * __[Daniel 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

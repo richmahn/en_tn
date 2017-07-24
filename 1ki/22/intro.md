@@ -16,4 +16,5 @@ At the shrines, the people worshiped Yahweh. But later, during Hezekiah's reign 
 ## Links: ##
 
 * __[1 Kings 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | __

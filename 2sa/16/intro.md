@@ -12,4 +12,5 @@ To show how seriously people took Ahithophel's advice, the author used a [[rc://
 ## Links: ##
 
 * __[2 Samuel 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

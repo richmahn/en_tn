@@ -25,4 +25,5 @@ Even though the statement, "You are now receiving for yourselves the result of y
 
 * __[1 Peter 01:01 Notes](./01.md)__
 * __[1 Peter intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

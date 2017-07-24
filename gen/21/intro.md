@@ -14,4 +14,5 @@ The Gentile king, Abimelech, made a covenant or treaty with Abraham. It is possi
 ## Links: ##
 
 * __[Genesis 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

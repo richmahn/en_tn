@@ -12,4 +12,5 @@ People all over the world should be praising God.
 ## Links: ##
 
 * __[Psalms 67:1](./001.md)__
+
 __[<<](../066/intro.md) | [>>](../068/intro.md)__

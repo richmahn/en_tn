@@ -12,4 +12,5 @@ This chapter prophesies destruction against several cities in Phoenicia as well 
 ## Links: ##
 
 * __[Isaiah 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

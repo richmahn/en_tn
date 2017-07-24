@@ -9,4 +9,5 @@ Joshua told the people "Dedicate yourselves to Yahweh tomorrow, for Yahweh will 
 ## Links: ##
 
 * __[Joshua 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

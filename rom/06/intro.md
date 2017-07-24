@@ -28,4 +28,5 @@ Death is used many different ways in this chapter. Physical death, spiritual dea
 ## Links: ##
 
 * __[Romans 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

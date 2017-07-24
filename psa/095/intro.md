@@ -11,4 +11,5 @@ God made everything and takes good care of people. People should not be stubborn
 ## Links: ##
 
 * __[Psalms 95:1](./001.md)__
+
 __[<<](../094/intro.md) | [>>](../096/intro.md)__

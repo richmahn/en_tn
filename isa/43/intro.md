@@ -17,4 +17,5 @@ This chapter prophesies about the Jews return from Babylon, but the exile has ye
 ## Links: ##
 
 * __[Isaiah 43:01 Notes](./01.md)__
+
 __[<<](../42/intro.md) | [>>](../44/intro.md)__

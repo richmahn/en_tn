@@ -20,4 +20,5 @@ These are frequently used in this chapter. It appears the intent of these rhetor
 ## Links: ##
 
 * __[Romans 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

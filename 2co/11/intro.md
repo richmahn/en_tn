@@ -38,4 +38,5 @@ This is a statement that seems absurd, that appears to contradict itself. A para
 ## Links: ##
 
 * __[2 Corinthians 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

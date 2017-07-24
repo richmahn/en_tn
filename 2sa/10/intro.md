@@ -17,4 +17,5 @@ The Ammon people used a metaphor comparing themselves to a bad smell: "they had 
 ## Links: ##
 
 * __[2 Samuel 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

@@ -13,4 +13,5 @@ Jonathan strengthens David with a synecdoche: "For the hand of Saul my father wi
 ## Links: ##
 
 * __[1 Samuel 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

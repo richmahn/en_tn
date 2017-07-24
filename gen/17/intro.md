@@ -18,4 +18,5 @@ In Scripture, a change in name always occurs at a highly significant point in a 
 ## Links: ##
 
 * __[Genesis 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

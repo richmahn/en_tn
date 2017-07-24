@@ -16,4 +16,5 @@ Satan, the evil one, is the  ruler of this world, but ultimately God is in contr
 ## Links: ##
 
 * __[1 John 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | __

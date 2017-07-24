@@ -17,4 +17,5 @@ This is a common phrase in this section of Isaiah. This chapter appears to proph
 ## Links: ##
 
 * __[Isaiah 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

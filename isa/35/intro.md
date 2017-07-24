@@ -12,4 +12,5 @@ This chapter appears to prophesy about a time of restoration when the messiah wi
 ## Links: ##
 
 * __[Isaiah 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

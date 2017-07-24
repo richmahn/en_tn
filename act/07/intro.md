@@ -30,4 +30,5 @@ This chapter will be very difficult to understand if the book of Genesis has not
 ## Links: ##
 
 * __[Acts 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

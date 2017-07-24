@@ -11,4 +11,5 @@ In the ancient Near East, it was important to take care of the widows because th
 ## Links: ##
 
 * __[1 Timothy 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

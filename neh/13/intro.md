@@ -9,4 +9,5 @@ Nehemiah was eager to make sure that the Jews kept their promise to obey the law
 ## Links: ##
 
 * __[Nehemiah 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | __

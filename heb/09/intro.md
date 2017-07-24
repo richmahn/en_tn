@@ -23,4 +23,5 @@ This is a reference to the covenant made with Moses. Although it is not the firs
 ## Links: ##
 
 * __[Hebrews 9:1](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

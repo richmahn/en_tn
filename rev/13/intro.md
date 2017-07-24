@@ -24,4 +24,5 @@ This chapter uses a great number of unknown animals. Many of these animals are u
 ## Links: ##
 
 * __[Revelation 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

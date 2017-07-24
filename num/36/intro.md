@@ -9,4 +9,5 @@ Women who inherited land from their father must marry men from their tribe so th
 ## Links: ##
 
 * __[Numbers 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | __

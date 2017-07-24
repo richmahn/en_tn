@@ -9,4 +9,5 @@ Manasseh angered God more than any other king of Judah. He worshiped the sun, st
 ## Links: ##
 
 * __[2 Chronicles 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

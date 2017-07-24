@@ -7,4 +7,5 @@ Ezekiel's call concludes in this chapter. God told Ezekiel more about what he sh
 ## Links: ##
 
 * __[Ezekiel 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

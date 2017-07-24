@@ -18,4 +18,5 @@ The phrase "seek Yahweh" means "wanting to believe and obey Yahweh." This is a c
 ## Links: ##
 
 * __[2 Chronicles 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

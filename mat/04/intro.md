@@ -16,4 +16,5 @@ In English, the reader can understand this statement in 4:6 as indicating that S
 
 ## Links: ##
 * __[Matthew 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

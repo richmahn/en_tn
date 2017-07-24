@@ -16,4 +16,5 @@ This is a phrase used to indicate the next event in a series. It can often be tr
 ## Links: ##
 
 * __[1 Chronicles 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

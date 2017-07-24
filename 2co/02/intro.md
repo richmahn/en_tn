@@ -13,4 +13,5 @@ A sweet aroma or smell is pleasing. This is an important image in Scripture. Thi
 ## Links: ##
 
 * __[2 Corinthians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

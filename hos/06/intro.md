@@ -17,4 +17,5 @@ Throughout the chapter, the author uses the metaphor of prostitution to say that
 ## Links: ##
 
 * __[Hosea 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

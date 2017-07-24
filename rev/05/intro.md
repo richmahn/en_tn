@@ -27,4 +27,5 @@ The "Lion of the tribe of Judah" and the "Root of David" are references to Jesus
 ## Links: ##
 
 * __[Revelation 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

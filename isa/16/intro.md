@@ -9,4 +9,5 @@ This chapter is a continuation of the previous chapter and is a prophecy against
 ## Links: ##
 
 * __[Isaiah 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

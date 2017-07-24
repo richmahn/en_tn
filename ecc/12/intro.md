@@ -15,4 +15,5 @@ At the end of a very impressive life, Solomon looks back and sees that the only 
 ## Links: ##
 
 * __[Ecclesiastes 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | __

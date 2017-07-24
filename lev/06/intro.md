@@ -12,4 +12,5 @@ The Levites were allowed to eat some of the leftover parts of the sacrifice, whi
 ## Links: ##
 
 * __[Leviticus 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

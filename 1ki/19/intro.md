@@ -11,4 +11,5 @@ The queen was angry that Elijah had killed her prophets of Baal. She promised to
 ## Links: ##
 
 * __[1 Kings 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

@@ -20,4 +20,5 @@ Several times in this chapter, the people use the idiom "sit on the throne" to m
 
 * __[1 Kings 01:01 Notes](./01.md)__
 * __[1 Kings intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

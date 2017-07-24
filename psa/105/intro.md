@@ -12,4 +12,5 @@ God protected Abraham and Jacob. He worked throughout Israel's history to bring 
 ## Links: ##
 
 * __[Psalms 105:1](./001.md)__
+
 __[<<](../104/intro.md) | [>>](../106/intro.md)__

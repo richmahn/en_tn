@@ -22,4 +22,5 @@ This chapter appears to prophesy about a time of restoration when the messiah wi
 ## Links: ##
 
 * __[Isaiah 40:01 Notes](./01.md)__
+
 __[<<](../39/intro.md) | [>>](../41/intro.md)__

@@ -12,4 +12,5 @@ This chapter prophesies concerning a future time of peace and restoration. It is
 ## Links: ##
 
 * __[Isaiah 62:01 Notes](./01.md)__
+
 __[<<](../61/intro.md) | [>>](../63/intro.md)__

@@ -9,4 +9,5 @@ It was God, not the army, who gave them victory. It is said, "Shout! For Yahweh 
 ## Links: ##
 
 * __[Joshua 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

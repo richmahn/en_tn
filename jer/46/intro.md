@@ -18,4 +18,5 @@ Jeremiah commands the Egyptian army to prepare for battle, even though they will
 ## Links: ##
 
 * __[Jeremiah 46:01 Notes](./01.md)__
+
 __[<<](../45/intro.md) | [>>](../47/intro.md)__

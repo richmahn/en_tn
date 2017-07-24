@@ -14,4 +14,5 @@ There are many rhetorical questions in this chapter. These questions prove Yahwe
 ## Links: ##
 
 * __[Isaiah 50:01 Notes](./01.md)__
+
 __[<<](../49/intro.md) | [>>](../51/intro.md)__

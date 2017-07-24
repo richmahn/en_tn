@@ -17,4 +17,5 @@ There are several words in this psalm for those who oppose God: "the wicked" (th
 
 * __[Psalms 1:1](./001.md)__
 * __[Psalms intro](../front/intro.md)__
+
 __| [>>](../002/intro.md)__

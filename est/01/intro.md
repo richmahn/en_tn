@@ -10,4 +10,5 @@ The king's advisers were afraid that husbands would lose their authority when th
 
 * __[Esther 01:01 Notes](./01.md)__
 * __[Esther intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

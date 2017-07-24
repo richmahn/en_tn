@@ -21,4 +21,5 @@ There are several verbs included in this chapter (should, may, must) which descr
 
 * __[Titus 01:01 Notes](./01.md)__
 * __[Titus intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

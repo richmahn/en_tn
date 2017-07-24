@@ -12,4 +12,5 @@ As described in this chapter, the Sabbath is more than just a day of worship or 
 ## Links: ##
 
 * __[Exodus 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

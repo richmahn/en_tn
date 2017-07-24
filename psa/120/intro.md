@@ -12,4 +12,5 @@ The author did not want to fight, but the people he lived with wanted to fight h
 ## Links: ##
 
 * __[Psalms 120:1](./001.md)__
+
 __[<<](../119/intro.md) | [>>](../121/intro.md)__

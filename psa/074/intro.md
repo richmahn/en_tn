@@ -14,4 +14,5 @@ This is called a "Maschil." The word in the original language has caused scholar
 ## Links: ##
 
 * __[Psalms 74:1](./001.md)__
+
 __[<<](../073/intro.md) | [>>](../075/intro.md)__

@@ -14,4 +14,5 @@ The temple of the Holy Spirit is an important metaphor. It is a reference to the
 ## Links: ##
 
 * __[1 Corinthians 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

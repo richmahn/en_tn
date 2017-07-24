@@ -19,4 +19,5 @@ Elihu explains the irony of Job's claim. He claimed to be righteous and desired 
 ## Links: ##
 
 * __[Job 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

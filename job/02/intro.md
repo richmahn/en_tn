@@ -7,4 +7,5 @@ This chapter repeats the concepts of the previous chapter, but this time it is m
 ## Links: ##
 
 * __[Job 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

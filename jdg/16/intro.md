@@ -13,4 +13,5 @@ Samson mistakenly thought that he was the source of his strength. He did not rea
 ## Links: ##
 
 * __[Judges 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

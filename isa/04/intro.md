@@ -13,4 +13,5 @@ Scholars are divided over the possible meaning of this metaphor. Some believe it
 ## Links: ##
 
 * __[Isaiah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

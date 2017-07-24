@@ -8,4 +8,5 @@ David wanted to build a temple for God but God would not allow him to. Instead h
 ## Links: ##
 
 * __[1 Chronicles 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

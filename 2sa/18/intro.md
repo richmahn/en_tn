@@ -12,4 +12,5 @@ David reorganized his army and sent them out to battle, but told them to be merc
 ## Links: ##
 
 * __[2 Samuel 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

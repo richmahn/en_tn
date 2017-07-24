@@ -11,4 +11,5 @@ The will of God is accomplished, even when people try to avoid it. Ahab tried to
 ## Links: ##
 
 * __[2 Chronicles 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

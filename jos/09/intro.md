@@ -9,4 +9,5 @@ Israel was deceived because "they did not consult with Yahweh for guidance." Ins
 ## Links: ##
 
 * __[Joshua 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -9,4 +9,5 @@ Yahweh said, "Because this nation has broken the terms of my covenant." Complete
 ## Links: ##
 
 * __[Judges 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

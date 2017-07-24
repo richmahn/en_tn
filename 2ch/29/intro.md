@@ -13,4 +13,5 @@ King Hezekiah was a great king. He cleaned and rededicated the temple. This was 
 ## Links: ##
 
 * __[2 Chronicles 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

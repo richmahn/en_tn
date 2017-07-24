@@ -12,4 +12,5 @@ All people who worship idols are disgraced because Yahweh rules over all the wor
 ## Links: ##
 
 * __[Psalms 97:1](./001.md)__
+
 __[<<](../096/intro.md) | [>>](../098/intro.md)__

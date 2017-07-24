@@ -7,4 +7,5 @@ This chapter forms a break in the narrative sequence. It records prophecies that
 ## Links: ##
 
 * __[Jeremiah 45:01 Notes](./01.md)__
+
 __[<<](../44/intro.md) | [>>](../46/intro.md)__

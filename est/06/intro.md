@@ -12,4 +12,5 @@ It was not possible for a person to easily approach the king. Normally, access t
 ## Links: ##
 
 * __[Esther 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

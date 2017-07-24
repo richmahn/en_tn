@@ -8,4 +8,5 @@ In this chapter, Joshua gives the leaders and people instructions in preparation
 ## Links: ##
 
 * __[Joshua 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | __

@@ -22,4 +22,5 @@ This is a reference to the gospel. It is a call for those who are hostile to God
 ## Links: ##
 
 * __[2 Corinthians 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

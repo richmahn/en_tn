@@ -12,4 +12,5 @@ They immediately began the temple worship, even though the temple had not yet be
 ## Links: ##
 
 * __[Esra Ezra 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

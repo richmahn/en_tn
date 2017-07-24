@@ -10,4 +10,5 @@ The term "Israel" is used exclusively in reference to the nation of Israel as a 
 ## Links: ##
 
 * __[Jeremiah 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

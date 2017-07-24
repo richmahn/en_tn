@@ -28,4 +28,5 @@ These appear to be two distinct places. The translator may wish to do further re
 ## Links: ##
 
 * __[Revelation 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

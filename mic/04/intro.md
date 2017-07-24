@@ -12,4 +12,5 @@ Micah speaks about a future hope and a remnant who will return to their homeland
 ## Links: ##
 
 * __[Micah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

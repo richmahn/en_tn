@@ -7,4 +7,5 @@ The chapter returns to a previous sequence of events and records Babylon's conqu
 ## Links: ##
 
 * __[Jeremiah 52:01 Notes](./01.md)__
+
 __[<<](../51/intro.md) | __

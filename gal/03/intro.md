@@ -18,4 +18,5 @@ Scholars are divided over what this means. Some believe Christians inherit the p
 ## Links: ##
 
 * __[Galatians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

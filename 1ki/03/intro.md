@@ -16,4 +16,5 @@ There are two additional examples of people putting the needs of others in front
 ## Links: ##
 
 * __[1 Kings 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

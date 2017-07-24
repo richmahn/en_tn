@@ -12,4 +12,5 @@ There are several laws in this chapter regarding restitution. These laws were me
 ## Links: ##
 
 * __[Numbers 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -14,4 +14,5 @@ The author frequently uses hyperbole in this chapter to describe the complete de
 ## Links: ##
 
 * __[Jeremiah 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

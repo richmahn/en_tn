@@ -24,4 +24,5 @@ It is unclear whether this was seen by everybody on earth or whether it was only
 ## Links: ##
 
 * __[Revelation 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

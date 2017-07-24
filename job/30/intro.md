@@ -9,4 +9,5 @@ In this chapter, Job laments his current condition as others insult him. (See: [
 ## Links: ##
 
 * __[Job 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

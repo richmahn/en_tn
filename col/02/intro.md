@@ -17,4 +17,5 @@ There are several issues mentioned in this chapter that share implicit informati
 ## Links: ##
 
 * __[Colossians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

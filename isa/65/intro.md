@@ -14,4 +14,5 @@ This chapter records that Yahweh's judgment on the people must come. Despite thi
 ## Links: ##
 
 * __[Isaiah 65:01 Notes](./01.md)__
+
 __[<<](../64/intro.md) | [>>](../66/intro.md)__

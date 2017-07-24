@@ -17,4 +17,5 @@ When two men brought Ishbosheth's head to David and expected to get a reward for
 ## Links: ##
 
 * __[2 Samuel 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

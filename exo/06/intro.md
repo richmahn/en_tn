@@ -14,4 +14,5 @@ This is a very important statement. Moses does not ask Pharaoh for permission to
 ## Links: ##
 
 * __[Exodus 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

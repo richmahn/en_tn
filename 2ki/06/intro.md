@@ -17,4 +17,5 @@ The king's counselor expressed his unbelief in Elisha's prophecy of plenty of fo
 ## Links: ##
 
 * __[2 Kings 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

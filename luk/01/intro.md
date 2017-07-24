@@ -17,4 +17,5 @@ Luke does not use a lot of complex wording. His language is simple and straightf
 
 * __[Luke 01:01 Notes](./01.md)__
 * __[Luke intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

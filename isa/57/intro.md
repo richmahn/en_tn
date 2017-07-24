@@ -17,4 +17,5 @@ The people abandoned the worship of Yahweh in favor of other gods. When they nee
 ## Links: ##
 
 * __[Isaiah 57:01 Notes](./01.md)__
+
 __[<<](../56/intro.md) | [>>](../58/intro.md)__

@@ -16,4 +16,5 @@ Gideon said to them, "I will not rule over you, neither will my son rule over yo
 ## Links: ##
 
 * __[Judges 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

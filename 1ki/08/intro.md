@@ -17,4 +17,5 @@ Solomon prayed that God would respond to people's prayers using an idiom:  "that
 ## Links: ##
 
 * __[1 Kings 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

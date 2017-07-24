@@ -28,4 +28,5 @@ At times, this could be translated in a simpler way, but it is translated in thi
 ## Links: ##
 
 * __[Romans 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

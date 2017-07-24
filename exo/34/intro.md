@@ -8,4 +8,5 @@ This phrase does not mean that a child is necessarily punished for the sins of t
 ## Links: ##
 
 * __[Exodus 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

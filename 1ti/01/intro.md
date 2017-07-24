@@ -18,4 +18,5 @@ The phrase "the law is good if one uses it lawfully" is a pun or play on words. 
 
 * __[1 Timothy 01:01 Notes](./01.md)__
 * __[1 Timothy intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

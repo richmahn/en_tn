@@ -15,4 +15,5 @@ Jeremiah's reaction contrasts with the reaction of the Jews in general. Although
 ## Links: ##
 
 * __[Jeremiah 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

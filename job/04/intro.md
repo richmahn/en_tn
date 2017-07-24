@@ -17,4 +17,5 @@ Eliphaz uses many different rhetorical questions in this chapter in order to try
 ## Links: ##
 
 * __[Job 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

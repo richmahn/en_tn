@@ -20,4 +20,5 @@ The passive voice is used very purposefully in this chapter to indicate that Jes
 
 * __[Matthew 1:1](./01.md)__
 * __[Matthew intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

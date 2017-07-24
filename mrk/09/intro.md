@@ -27,4 +27,5 @@ This is a statement that seems absurd or appears to contradict itself. For examp
 ## Links: ##
 
 * __[Mark 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

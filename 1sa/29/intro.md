@@ -11,4 +11,5 @@ It is unclear whether David wanted to go into battle with the Philistines. He wo
 ## Links: ##
 
 * __[1 Samuel 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

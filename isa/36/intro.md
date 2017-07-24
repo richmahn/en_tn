@@ -18,4 +18,5 @@ The Assyrian commanders use rhetorical questions in this chapter to mock or insu
 ## Links: ##
 
 * __[Isaiah 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | [>>](../37/intro.md)__

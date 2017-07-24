@@ -12,4 +12,5 @@ The author describes the pointlessness of pursuing material things. This is know
 ## Links: ##
 
 * __[Ecclesiastes 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

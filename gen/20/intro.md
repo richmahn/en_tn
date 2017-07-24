@@ -13,4 +13,5 @@ Abraham believed that the people of Gerar did not fear Yahweh, but when confront
 ## Links: ##
 
 * __[Genesis 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

@@ -12,4 +12,5 @@ This chapter begins with a number of rhetorical questions. The last question pro
 ## Links: ##
 
 * __[Amos 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

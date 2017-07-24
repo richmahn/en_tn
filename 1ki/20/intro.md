@@ -17,4 +17,5 @@ There were so few Israel soldiers that they were "like two little flocks of goat
 ## Links: ##
 
 * __[1 Kings 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

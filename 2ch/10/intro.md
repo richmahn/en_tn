@@ -20,4 +20,5 @@ The people use the metaphor of a yoke to complain about the high taxes and force
 ## Links: ##
 
 * __[2 Chronicles 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

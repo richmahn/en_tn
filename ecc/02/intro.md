@@ -17,4 +17,5 @@ It is assumed that the author is going to reject the way of living in this chapt
 ## Links: ##
 
 * __[Ecclesiastes 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

@@ -13,4 +13,5 @@ The "word of God" is personified as growing and multiplying. This is common in S
 ## Links: ##
 
 * __[Acts 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

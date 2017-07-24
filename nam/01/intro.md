@@ -18,4 +18,5 @@ At that time, Assyria controlled almost the entire Near East. Nahum prophesied t
 
 * __[Nahum 01:01 Notes](./01.md)__
 * __[Nahum intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

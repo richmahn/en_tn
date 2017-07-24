@@ -15,4 +15,5 @@ While the previous part of the prophecy in chapter 2 discussed the last days, th
 ## Links: ##
 
 * __[Isaiah 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

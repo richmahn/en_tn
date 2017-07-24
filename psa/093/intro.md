@@ -12,4 +12,5 @@ Yahweh is all powerful; He even controls the ocean.
 ## Links: ##
 
 * __[Psalms 93:1](./001.md)__
+
 __[<<](../092/intro.md) | [>>](../094/intro.md)__

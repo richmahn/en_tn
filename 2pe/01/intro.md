@@ -17,4 +17,5 @@ Peter describes Christianity as a religion which has been revealed and proved by
 
 * __[2 Peter 01:01 Notes](./01.md)__
 * __[2 Peter intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

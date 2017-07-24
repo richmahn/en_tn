@@ -9,4 +9,5 @@ This chapter records the manner in which people make vows of dedication to Yahwe
 ## Links: ##
 
 * __[Leviticus 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | __

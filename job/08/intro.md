@@ -17,4 +17,5 @@ Bildad uses many different rhetorical questions in this chapter in order to try 
 ## Links: ##
 
 * __[Job 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

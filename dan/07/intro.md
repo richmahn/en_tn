@@ -15,4 +15,5 @@ God will give the Son of Man an eternal kingdom and he will judge people from th
 ## Links: ##
 
 * __[Daniel 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

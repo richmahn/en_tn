@@ -22,4 +22,5 @@ It is uncertain to whom "Israel" refers. It probably does not refer to the north
 
 * __[Nehemiah 01:01 Notes](./01.md)__
 * __[Nehemiah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

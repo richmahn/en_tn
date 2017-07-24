@@ -14,4 +14,5 @@ Saul uses two rhetorical questions to convince Samuel he is not important: "Am n
 ## Links: ##
 
 * __[1 Samuel 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

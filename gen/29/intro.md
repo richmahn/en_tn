@@ -17,4 +17,5 @@ It was customary in the ancient Near East for a man to work for a woman's father
 ## Links: ##
 
 * __[Genesis 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

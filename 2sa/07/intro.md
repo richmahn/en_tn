@@ -14,4 +14,5 @@ God made a covenant with David that was not conditioned upon anything David or h
 ## Links: ##
 
 * __[2 Samuel 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

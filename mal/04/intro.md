@@ -8,4 +8,5 @@ Although the Jews may have hoped these prophecies referenced a time in the near 
 ## Links: ##
 
 * __[Malachi 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | __

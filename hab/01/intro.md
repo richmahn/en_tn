@@ -19,4 +19,5 @@ Yahweh will raise up the Chaldeans to bring justice to the Hebrew people. They w
 
 * __[Habakkuk 01:01 Notes](./01.md)__
 * __[Habakkuk intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

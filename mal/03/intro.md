@@ -13,4 +13,5 @@ Several rhetorical questions are used in this chapter to convince the reader of 
 ## Links: ##
 
 * __[Malachi 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

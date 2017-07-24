@@ -17,4 +17,5 @@ Moses uses metaphors and idioms to instruct the people to follow the law of Mose
 ## Links: ##
 
 * __[Deuteronomy 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

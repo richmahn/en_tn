@@ -20,4 +20,5 @@ Verse 17 ("Then the sheep will feed as in their own pasture, and in the ruins of
 ## Links: ##
 
 * __[Isaiah 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -13,4 +13,5 @@ David uses a powerful metaphor and an oath to impress Jonathan with the danger h
 ## Links: ##
 
 * __[1 Samuel 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

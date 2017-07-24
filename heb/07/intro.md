@@ -17,4 +17,5 @@ The author mentions the New Covenant and discusses Jesus' relationship to it. (S
 ## Links: ##
 
 * __[Hebrews 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

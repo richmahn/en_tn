@@ -19,4 +19,5 @@ This chapter appears to prophesy about a time of restoration when the messiah wi
 ## Links: ##
 
 * __[Isaiah 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

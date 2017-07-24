@@ -14,4 +14,5 @@ As David organized the priests in their work in the tent, he wrote a psalm of pr
 ## Links: ##
 
 * __[1 Chronicles 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

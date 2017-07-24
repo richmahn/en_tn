@@ -12,4 +12,5 @@ The Israelites said, "Why have you brought us up out of Egypt to die in the wild
 ## Links: ##
 
 * __[Numbers 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

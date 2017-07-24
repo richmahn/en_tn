@@ -11,4 +11,5 @@ There is a shift in pronouns in this psalm. In verses 1-6 the psalm addresses Ya
 ## Links: ##
 
 * __[Psalms 21:1](./001.md)__
+
 __[<<](../020/intro.md) | [>>](../022/intro.md)__

@@ -12,4 +12,5 @@ Many scholars believe this chapter prophesies that Gentiles will be able to come
 ## Links: ##
 
 * __[Isaiah 55:01 Notes](./01.md)__
+
 __[<<](../54/intro.md) | [>>](../56/intro.md)__

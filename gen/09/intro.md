@@ -26,4 +26,5 @@ This is a command that God gives. He expects Noah to obey him.
 ## Links: ##
 
 * __[Genesis 09 01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

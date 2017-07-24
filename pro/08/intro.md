@@ -13,4 +13,5 @@ The addressee of this chapter is broader than "my son," but is personal like the
 ## Links: ##
 
 * __[Proverbs 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

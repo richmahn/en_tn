@@ -12,4 +12,5 @@ The covenant God made with Abraham is repeated here. It indicates that all of Ja
 ## Links: ##
 
 * __[Genesis 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

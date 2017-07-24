@@ -10,4 +10,5 @@ Yahweh told Moses to establish safe places for people who accidentally killed ot
 ## Links: ##
 
 * __[Numbers 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

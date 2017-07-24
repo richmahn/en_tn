@@ -17,4 +17,5 @@ Yahweh gives a gracious offer to the Gentile nations. If the other nations who h
 ## Links: ##
 
 * __[Jeremiah 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

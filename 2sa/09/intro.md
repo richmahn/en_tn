@@ -17,4 +17,5 @@ Jonathan's son expressed his surprise and feeling of unworthiness with a rhetori
 ## Links: ##
 
 * __[2 Samuel 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -21,4 +21,5 @@ Yahweh uses several rhetorical questions in this chapter. The purpose of these q
 
 * __[Isaiah 01:01 Notes](./01.md)__
 * __[Isaiah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

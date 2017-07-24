@@ -8,4 +8,5 @@ The victories recorded in this chapter occurred on the east side of the Jordan R
 ## Links: ##
 
 * __[Deuteronomy 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -17,4 +17,5 @@ Sin is the name of a place in this chapter. It is not a place that is known for 
 ## Links: ##
 
 * __[Numbers 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

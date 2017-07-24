@@ -12,4 +12,5 @@ When Israel was conquered, they were being punished for their sin. Yahweh is str
 ## Links: ##
 
 * __[Isaiah 59:01 Notes](./01.md)__
+
 __[<<](../58/intro.md) | [>>](../60/intro.md)__

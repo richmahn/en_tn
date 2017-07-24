@@ -9,4 +9,5 @@ The people called Ashtoreth the goddess of the Canaanites, "the queen of heaven.
 ## Links: ##
 
 * __[Jeremiah 44:01 Notes](./01.md)__
+
 __[<<](../43/intro.md) | [>>](../45/intro.md)__

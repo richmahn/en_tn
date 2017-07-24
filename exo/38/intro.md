@@ -11,4 +11,5 @@ The list of materials being used is intended to give the reader an understanding
 ## Links: ##
 
 * __[Exodus 38:01 Notes](./01.md)__
+
 __[<<](../37/intro.md) | [>>](../39/intro.md)__

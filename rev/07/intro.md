@@ -22,4 +22,5 @@ This is a reference to Jesus. In this chapter, it also functions as a title for 
 ## Links: ##
 
 * __[Revelation 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

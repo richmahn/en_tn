@@ -19,4 +19,5 @@ The people of Israel often used the term "uncircumcised" to refer to Gentiles. H
 ## Links: ##
 
 * __[1 Samuel 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

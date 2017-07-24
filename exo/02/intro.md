@@ -13,4 +13,5 @@ While Pharaoh tried to diminish the power of the Israelites by killing all of th
 ## Links: ##
 
 * __[Exodus 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

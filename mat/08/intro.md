@@ -13,4 +13,5 @@ Jesus' miracles in this chapter appear to indicate that he had authority over th
 
 ## Links: ##
 * __[Matthew 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

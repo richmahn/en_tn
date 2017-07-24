@@ -37,4 +37,5 @@ God used three rhetorical questions to correct and condemn Eli. "Did I not revea
 ## Links: ##
 
 * __[1 Samuel 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

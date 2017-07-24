@@ -16,4 +16,5 @@ God has made awesome things in the universe and has exalted humans to be rulers 
 ## Links: ##
 
 * __[Psalms 8:1](./001.md)__
+
 __[<<](../007/intro.md) | [>>](../009/intro.md)__

@@ -23,4 +23,5 @@ The gospel accounts differ as to how many men or angels appeared in this interac
 ## Links: ##
 
 * __[Luke 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | __

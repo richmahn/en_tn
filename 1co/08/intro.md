@@ -14,4 +14,5 @@ Paul answers their question by saying that idols are gods that do not really exi
 ## Links: ##
 
 * __[1 Corinthians 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

@@ -37,4 +37,5 @@ This phrase, used to introduce these letters is probably a reference to Jesus. E
 ## Links: ##
 
 * __[Revelation 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

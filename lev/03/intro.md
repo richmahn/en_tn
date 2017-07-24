@@ -12,4 +12,5 @@ The fat of the animal was considered the best part of the animal to eat. Therefo
 ## Links: ##
 
 * __[Leviticus 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

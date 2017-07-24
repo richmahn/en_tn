@@ -19,4 +19,5 @@ Prophecy is described as a superior gift because it can be used in service of th
 ## Links: ##
 
 * __[1 Corinthians 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

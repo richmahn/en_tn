@@ -17,4 +17,5 @@ Like a potter can change what he is making from one type of pot to another, God 
 ## Links: ##
 
 * __[Jeremiah 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

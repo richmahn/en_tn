@@ -12,4 +12,5 @@ Solomon dedicated the temple with a prayer asking God to honor the temple. It wa
 ## Links: ##
 
 * __[2 Chronicles 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

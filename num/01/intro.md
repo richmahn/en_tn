@@ -12,4 +12,5 @@ They counted how many men of military age were in each tribe of Israel. These me
 
 * __[Numbers 01:01 Notes](./01.md)__
 * __[Numbers intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

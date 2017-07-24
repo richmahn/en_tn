@@ -19,4 +19,5 @@ Whenever Samuel spoke to a group of people, he used many idioms: "to turn to" me
 ## Links: ##
 
 * __[1 Samuel 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

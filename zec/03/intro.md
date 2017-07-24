@@ -20,4 +20,5 @@ This chapter seems to refer to a particular person, Joshua the high priest. Howe
 ## Links: ##
 
 * __[Zechariah 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

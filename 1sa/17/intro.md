@@ -25,4 +25,5 @@ Goliath also uses a rhetorical question to show his contempt for young David: "A
 ## Links: ##
 
 * __[1 Samuel 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

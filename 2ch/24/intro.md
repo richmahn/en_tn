@@ -17,4 +17,5 @@ When Joash stopped worshiping Yahweh, he had many troubles. Joash remaind loyal 
 ## Links: ##
 
 * __[2 Chronicles 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

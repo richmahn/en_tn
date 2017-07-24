@@ -12,4 +12,5 @@ In translation, it is important not to imply that Jesus actually considered or w
 ## Links: ##
 
 * __[Luke 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

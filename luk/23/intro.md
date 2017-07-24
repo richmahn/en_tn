@@ -25,4 +25,5 @@ After one simple question, it appears that Pilate declares Jesus innocent too qu
 ## Links: ##
 
 * __[Luke 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

@@ -8,4 +8,5 @@ While the covenants Yahweh made may not be conditioned upon the obedience of Isr
 ## Links: ##
 
 * __[Exodus 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

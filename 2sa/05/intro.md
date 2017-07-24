@@ -15,4 +15,5 @@ David always consulted God before fighting a battle. The Philistines invaded Isr
 ## Links: ##
 
 * __[2 Samuel 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

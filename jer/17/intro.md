@@ -19,4 +19,5 @@ The person who depends on the power of other people is compared to a bush in the
 ## Links: ##
 
 * __[Jeremiah 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

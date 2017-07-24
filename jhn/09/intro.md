@@ -29,4 +29,5 @@ Jesus refers to himself as the "Son of Man" in this passage. It may not be possi
 ## Links: ##
 
 * __[John 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

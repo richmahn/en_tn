@@ -17,4 +17,5 @@ These are the names of the first and last letters in the Greek alphabet. The ULB
 ## Links: ##
 
 * __[Revelation 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | __

@@ -8,4 +8,5 @@ Yahweh is at work in this chapter preventing the Jews from possible destruction.
 ## Links: ##
 
 * __[Esther 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

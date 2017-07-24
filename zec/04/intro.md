@@ -12,4 +12,5 @@ This chapter shows a conversation between Zechariah and the angel of Yahweh. It 
 ## Links: ##
 
 * __[Zechariah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

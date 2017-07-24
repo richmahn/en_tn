@@ -11,4 +11,5 @@ In the ancient Near East, a father's blessing was very important. This spoken bl
 ## Links: ##
 
 * __[Genesis 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

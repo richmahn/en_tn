@@ -13,4 +13,5 @@ After they heard Ezra read the Law of Moses, the people obeyed it by making temp
 ## Links: ##
 
 * __[Nehemiah 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

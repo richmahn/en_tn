@@ -19,4 +19,5 @@ Scholars are divided over the meaning of this phrase. Some believe Christians ar
 ## Links: ##
 
 * __[2 Corinthians 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | __

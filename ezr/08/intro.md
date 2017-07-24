@@ -8,4 +8,5 @@ Many people went back to Judah with Ezra. They trusted God to protect them and t
 ## Links: ##
 
 * __[Esra Ezra 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

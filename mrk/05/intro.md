@@ -11,4 +11,5 @@ This is a phrase in Aramaic. Mark does not "translate" this phrase into Greek bu
 ## Links: ##
 
 * __[Mark 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

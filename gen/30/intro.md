@@ -15,4 +15,5 @@ Speckled and spotted sheep were considered to be imperfect. Therefore, they were
 ## Links: ##
 
 * __[Genesis 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

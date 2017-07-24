@@ -16,4 +16,5 @@ Yahweh is going to use the Gentile nations to punish Judah. This would have been
 ## Links: ##
 
 * __[Jeremiah 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

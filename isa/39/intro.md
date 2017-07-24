@@ -11,4 +11,5 @@ At this time, Babylon was not very powerful, but was little more than a city. In
 ## Links: ##
 
 * __[Isaiah 39:01 Notes](./01.md)__
+
 __[<<](../38/intro.md) | [>>](../40/intro.md)__

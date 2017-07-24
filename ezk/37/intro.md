@@ -14,4 +14,5 @@ The people are discouraged and compare themselves to skeletons, but God will cau
 ## Links: ##
 
 * __[Ezekiel 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

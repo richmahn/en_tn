@@ -13,4 +13,5 @@ In this chapter, it is unclear whether these prophecies concern the fall of Jeru
 
 * __[Zephaniah 01:01 Notes](./01.md)__
 * __[Zephaniah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

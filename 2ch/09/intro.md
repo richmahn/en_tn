@@ -12,4 +12,5 @@ Solomon was famous outside of Israel because of his wisdom and tremendous wealth
 ## Links: ##
 
 * __[2 Chronicles 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

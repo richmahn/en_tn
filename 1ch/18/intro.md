@@ -8,4 +8,5 @@ David conquered all kingdoms neighboring Israel. The gold, silver and bronze he 
 ## Links: ##
 
 * __[1 Chronicles 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

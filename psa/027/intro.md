@@ -12,4 +12,5 @@ Because of God's help, he has nothing to fear, no matter what happens. The psalm
 ## Links: ##
 
 * __[Psalms 27:1](./001.md)__
+
 __[<<](../026/intro.md) | [>>](../028/intro.md)__

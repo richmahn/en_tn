@@ -12,4 +12,5 @@ The righteous people will be well-known for their generosity and they will not h
 ## Links: ##
 
 * __[Psalms 112:1](./001.md)__
+
 __[<<](../111/intro.md) | [>>](../113/intro.md)__

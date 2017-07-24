@@ -8,4 +8,5 @@ When Ezra found out that many Jews had married Gentile wives, he prayed to God a
 ## Links: ##
 
 * __[Esra Ezra 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

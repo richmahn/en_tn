@@ -11,4 +11,5 @@ Verses 9-10 will probably be difficult to translate because the situation is vag
 ## Links: ##
 
 * __[Amos 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__
