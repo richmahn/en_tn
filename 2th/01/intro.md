@@ -13,5 +13,5 @@ This is a seemingly absurd statement, which appears to contradict itself. A para
 ## Links: ##
 
 * __[2 Thessalonians 01:01 Notes](./01.md)__
-* **[2 Thessalonians intro](../front/intro.md)
+* **[2 Thessalonians intro](../front/intro.md)**
 __| [>>](../02/intro.md)__
