@@ -16,4 +16,5 @@ There are many metaphors in this chapter. He uses "babies" and "milk" as illustr
 ## Links: ##
 
 * __[1 Corinthians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

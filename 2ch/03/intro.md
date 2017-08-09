@@ -12,4 +12,5 @@ The location of the temple was very significant. Many important events in histor
 ## Links: ##
 
 * __[2 Chronicles 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

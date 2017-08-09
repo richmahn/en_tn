@@ -23,4 +23,5 @@ The ULB uses this word to begin several commands of Jesus, such as "let those wh
 ## Links: ##
 
 * __[Matthew 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

@@ -12,4 +12,5 @@ God is powerful over all the nations in the world.
 ## Links: ##
 
 * __[Psalms 47:1](./001.md)__
+
 __[<<](../046/intro.md) | [>>](../048/intro.md)__

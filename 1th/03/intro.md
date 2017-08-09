@@ -8,4 +8,5 @@ In this chapter, standing is used as a way to illustrate steadfastness. This is 
 ## Links: ##
 
 * __[1 Thessalonians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

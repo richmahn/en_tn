@@ -17,4 +17,5 @@ Abram would have built an altar in order to offer sacrifices to Yahweh. There is
 ## Links: ##
 
 * __[Genesis 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

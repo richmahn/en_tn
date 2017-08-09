@@ -19,4 +19,5 @@ There are two slightly different idioms used in the same way: the  "hand was hea
 ## Links: ##
 
 * __[1 Samuel 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

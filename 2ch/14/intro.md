@@ -12,4 +12,5 @@ Trusting in Yahweh, Asa was able to defeat million men of the army of Nubia. Tru
 ## Links: ##
 
 * __[2 Chronicles 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

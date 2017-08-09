@@ -15,4 +15,5 @@ Isaac was afraid the Egyptians would see him as a foreigner and upon seeing his 
 ## Links: ##
 
 * __[Genesis 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

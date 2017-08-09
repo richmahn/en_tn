@@ -19,4 +19,5 @@ Metaphors are frequently used in prophecy. This chapter forms a slight break in 
 ## Links: ##
 
 * __[Revelation 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

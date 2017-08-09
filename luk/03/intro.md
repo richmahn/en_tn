@@ -25,4 +25,5 @@ This event can cause confusion because the author says John was imprisoned and t
 ## Links: ##
 
 * __[Luke 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

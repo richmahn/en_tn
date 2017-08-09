@@ -9,4 +9,5 @@ This passage does not condone slavery as an acceptable practice. Paul's teaching
 ## Links: ##
 
 * __[1 Timothy 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | __

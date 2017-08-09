@@ -8,4 +8,5 @@ This chapter explains some of the blessings and warnings associated with Israel'
 ## Links: ##
 
 * __[Deuteronomy 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__

@@ -14,4 +14,5 @@ The author uses the imagery of bread in this chapter. Bread's significance can b
 ## Links: ##
 
 * __[Acts 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

@@ -13,4 +13,5 @@ When "the servants covered Haman's face," they were showing that he had been con
 ## Links: ##
 
 * __[Esther 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

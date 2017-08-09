@@ -15,4 +15,5 @@ Job describes the need for someone to intercede for him in heaven. This person w
 ## Links: ##
 
 * __[Job 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

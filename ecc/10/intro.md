@@ -12,4 +12,5 @@ This chapter gives a series of disconnected pieces of advice. Translators should
 ## Links: ##
 
 * __[Ecclesiastes 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

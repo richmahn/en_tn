@@ -23,4 +23,5 @@ Many scholars believe this is a euphemism. Putting one's hand on a man's genital
 ## Links: ##
 
 * __[Genesis 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

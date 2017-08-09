@@ -32,4 +32,5 @@ A stumbling block is a rock people stumble over. Here it means the Jews have a p
 
 * __[1 Corinthians 01:01 Notes](./01.md)__
 * __[1 Corinthians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

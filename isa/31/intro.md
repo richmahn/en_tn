@@ -14,7 +14,7 @@ The people were to trust in Yahweh. Only he could provide them with protection. 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "That day" #####
-This is a common phrase in this section of Isaiah. This chapter appears to prophesy about a time of restoration when the messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/other/restore]], [[rc://en/tw/dict/bible/kt/fulfill]])
+This is a common phrase in this section of Isaiah. This chapter appears to prophesy about a time of restoration when the messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ##### Israel #####
 The use of the term "Israel" in this chapter is in reference to the northern kingdom of Israel exclusively. 
@@ -22,4 +22,5 @@ The use of the term "Israel" in this chapter is in reference to the northern kin
 ## Links: ##
 
 * __[Isaiah 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

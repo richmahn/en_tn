@@ -11,4 +11,5 @@ Yahweh viewed Israel as superior to the other nations of Canaan. In many culture
 ## Links: ##
 
 * __[Deuteronomy 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

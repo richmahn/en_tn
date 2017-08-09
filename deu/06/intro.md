@@ -13,4 +13,5 @@ There are many metaphors in this chapter. These metaphors describe the greatness
 ## Links: ##
 
 * __[Deuteronomy 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -7,7 +7,7 @@ Some translations prefer to set apart extended quotations, prayers or songs. The
 #### Special concepts in this chapter ####
 
 ##### Messiah #####
-The prophecies of this chapter focus on the coming messiah. Some of these prophecies concern the first coming of Jesus, while some reference a future day of restoration. The author transitions between these time periods without telling his reader. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/other/restore]])
+The prophecies of this chapter focus on the coming messiah. Some of these prophecies concern the first coming of Jesus, while some reference a future day of restoration. The author transitions between these time periods without telling his reader. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/restore]])
 
 #### Other possible translation difficulties in this chapter ####
 
@@ -17,4 +17,5 @@ It is uncertain what period of time these prophecies refer to or who will fulfil
 ## Links: ##
 
 * __[Isaiah 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

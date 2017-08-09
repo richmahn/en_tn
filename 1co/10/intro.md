@@ -17,4 +17,5 @@ Paul discusses meat offered to idols. Christians are allowed to eat, but it may 
 ## Links: ##
 
 * __[1 Corinthians 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

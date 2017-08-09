@@ -12,4 +12,5 @@ Hezekiah trusted and obeyed God. He stopped paying tribute to Assyria so the Ass
 ## Links: ##
 
 * __[2 Kings 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

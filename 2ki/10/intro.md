@@ -7,4 +7,5 @@ God's prophecy against the family of Ahab was fulfilled. Jehu killed all of Ahab
 ## Links: ##
 
 * __[2 Kings 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

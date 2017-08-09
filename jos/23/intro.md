@@ -10,4 +10,5 @@ The Israelites were to completely drive out the Canaanites. If they did not driv
 ## Links: ##
 
 * __[Joshua 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

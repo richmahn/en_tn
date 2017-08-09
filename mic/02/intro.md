@@ -13,4 +13,5 @@ Micah does not frequently explain the historical context of his prophecies. This
 ## Links: ##
 
 * __[Micah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

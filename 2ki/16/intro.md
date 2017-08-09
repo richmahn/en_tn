@@ -8,4 +8,5 @@ Ahaz was a wicked king. Israel and Aram united to fight against him, so he paid 
 ## Links: ##
 
 * __[2 Kings 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

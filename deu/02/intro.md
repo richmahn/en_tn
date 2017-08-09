@@ -8,4 +8,5 @@ Yahweh is faithful to the covenant he made with Abraham. He is also faithful to 
 ## Links: ##
 
 * __[Deuteronomy 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

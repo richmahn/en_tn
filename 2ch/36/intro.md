@@ -12,4 +12,5 @@ God warned the people through the prophets, that he would punish them if they di
 ## Links: ##
 
 * __[2 Chronicles 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | __

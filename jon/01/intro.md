@@ -30,4 +30,5 @@ Even though scholars are not sure of the exact location of Tarshish, it was in t
 
 * __[Jonah 01:01 Notes](./01.md)__
 * __[Jonah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

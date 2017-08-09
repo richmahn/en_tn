@@ -15,4 +15,5 @@ There is some controversy regarding where to place the quotation marks in James 
 ## Links: ##
 
 * __[James 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

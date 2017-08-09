@@ -7,4 +7,5 @@ This chapter is about the land given to the tribes of Israel. It will be difficu
 ## Links: ##
 
 * __[Joshua 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

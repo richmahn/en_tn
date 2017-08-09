@@ -10,4 +10,5 @@ Moses told them all of the land they would inherit and live in and said that the
 ## Links: ##
 
 * __[Numbers 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

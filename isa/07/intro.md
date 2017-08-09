@@ -17,4 +17,5 @@ In this chapter, Israel is a reference to the northern kingdom of Israel and not
 ## Links: ##
 
 * __[Isaiah 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

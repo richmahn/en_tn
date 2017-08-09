@@ -19,4 +19,5 @@ It should be apparent that Sarah was physically no longer able to have children 
 ## Links: ##
 
 * __[Genesis 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

@@ -13,4 +13,5 @@ Scripture frequently uses the imagery of farming in reference to spiritual matte
 
 * __[Haggai 01:01 Notes](./01.md)__
 * __[Haggai intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

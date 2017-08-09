@@ -9,4 +9,5 @@ This chapter addresses the ways a priest was to decide if a person had a skin di
 ## Links: ##
 
 * __[Leviticus 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

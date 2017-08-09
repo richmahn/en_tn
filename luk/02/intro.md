@@ -12,4 +12,5 @@ Luke's account of the birth of Christ does not contain as many details as the ot
 ## Links: ##
 
 * __[Luke 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

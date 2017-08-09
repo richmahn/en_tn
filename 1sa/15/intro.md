@@ -20,4 +20,5 @@ When Saul insisted that he had obeyed God, Samuel rebuked him with these rhetori
 ## Links: ##
 
 * __[1 Samuel 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

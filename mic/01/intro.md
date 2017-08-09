@@ -14,4 +14,5 @@ This passage sounds unusual in English because of its construction in Hebrew. It
 
 * __[Micah 01:01 Notes](./01.md)__
 * __[Micah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

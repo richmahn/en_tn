@@ -17,4 +17,5 @@ Aaron did not create the fire that consumed his sacrifice. Instead, Yahweh mirac
 ## Links: ##
 
 * __[Leviticus 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

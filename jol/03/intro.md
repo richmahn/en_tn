@@ -12,4 +12,5 @@ The mention of Israel in this chapter is probably a reference to the people of J
 ## Links: ##
 
 * __[Joel 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

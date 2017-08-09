@@ -17,4 +17,5 @@ The people did not truly seek Yahweh every day. They practiced the outward aspec
 ## Links: ##
 
 * __[Isaiah 58:01 Notes](./01.md)__
+
 __[<<](../57/intro.md) | [>>](../59/intro.md)__

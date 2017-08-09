@@ -15,4 +15,5 @@ The people of Israel are compared to sheep and God and the son of David as good 
 ## Links: ##
 
 * __[Ezekiel 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

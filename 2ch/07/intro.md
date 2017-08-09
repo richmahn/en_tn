@@ -12,4 +12,5 @@ God appeared again to Solomon in a dream and said the temple was acceptable and 
 ## Links: ##
 
 * __[2 Chronicles 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

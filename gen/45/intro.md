@@ -15,4 +15,5 @@ Genesis just recorded a period of time where Joseph's ancestors and brothers str
 ## Links: ##
 
 * __[Genesis 45:01 Notes](./01.md)__
+
 __[<<](../44/intro.md) | [>>](../46/intro.md)__

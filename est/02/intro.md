@@ -13,4 +13,5 @@ Esther's cousin, Mordecai, discovered that two men planned to kill the king. He 
 ## Links: ##
 
 * __[Esther 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

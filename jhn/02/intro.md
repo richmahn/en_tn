@@ -19,4 +19,5 @@ This phrase is used as a commentary on the events that occur in this chapter. Th
 ## Links: ##
 
 * __[John 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

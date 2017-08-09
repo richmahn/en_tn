@@ -12,4 +12,5 @@ God is very good to humble people who seek to obey him.
 ## Links: ##
 
 * __[Psalms 25:1](./001.md)__
+
 __[<<](../024/intro.md) | [>>](../026/intro.md)__

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter continues the poetic form to communicate that God will one day restore Israel. (See: [[rc://en/tw/dict/bible/other/restore]])
+This chapter continues the poetic form to communicate that God will one day restore Israel. (See: [[rc://en/tw/dict/bible/kt/restore]])
 
 #### Special concepts in this chapter ####
 
@@ -12,4 +12,5 @@ Micah speaks about a future hope and a remnant who will return to their homeland
 ## Links: ##
 
 * __[Micah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

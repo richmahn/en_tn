@@ -18,4 +18,5 @@ Scholars debate whether the "kingdom of heaven" was present at this time or stil
 
 ## Links: ##
 * __[Matthew 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

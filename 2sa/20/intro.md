@@ -13,4 +13,5 @@ Joab used an idiom  "has lifted up his hand against the king, against David" mea
 ## Links: ##
 
 * __[2 Samuel 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

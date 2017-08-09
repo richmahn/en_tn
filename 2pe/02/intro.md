@@ -17,4 +17,5 @@ There are several analogies that are difficult to understand if the Old Testamen
 ## Links: ##
 
 * __[2 Peter 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

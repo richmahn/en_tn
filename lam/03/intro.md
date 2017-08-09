@@ -15,4 +15,5 @@ In verse 52, the writer begins to think about his personal enemies in Jerusalem,
 ## Links: ##
 
 * __[Lamentations 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

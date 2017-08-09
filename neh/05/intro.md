@@ -12,4 +12,5 @@ Nehemiah was a governmental leader in Jerusalem, but he was not a king. Jerusale
 ## Links: ##
 
 * __[Nehemiah 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

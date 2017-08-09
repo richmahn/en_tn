@@ -12,4 +12,5 @@ This chapter gives specific instructions regarding the building of a tent where 
 ## Links: ##
 
 * __[Exodus 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

@@ -13,4 +13,5 @@ These are names in Aramaic. Daniel  does not "translate" these names into Hebrew
 ## Links: ##
 
 * __[Daniel 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

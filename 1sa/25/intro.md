@@ -10,4 +10,5 @@ When David decides to kill all of the men in Nabal's household, Abigail convince
 ## Links: ##
 
 * __[1 Samuel 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

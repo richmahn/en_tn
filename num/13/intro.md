@@ -9,4 +9,5 @@ Leaders from each of the tribes went to spy on the Promised Land in Canaan. Yahw
 ## Links: ##
 
 * __[Numbers 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

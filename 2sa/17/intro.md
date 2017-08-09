@@ -8,4 +8,5 @@ Ahithophel gives good advise to Absalom, but Hushai confuses Absalom. God is usi
 ## Links: ##
 
 * __[2 Samuel 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

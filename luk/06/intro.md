@@ -34,4 +34,5 @@ It is probable that Thaddaeus and Judas, the son of James, are two names of the 
 ## Links: ##
 
 * __[Luke 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -15,4 +15,5 @@ Hezekiah was different from the other kings because when he was threatened by As
 ## Links: ##
 
 * __[Isaiah 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

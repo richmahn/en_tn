@@ -17,4 +17,5 @@ The Israelites are compared to beasts and dogs in this chapter. This would have 
 ## Links: ##
 
 * __[Isaiah 56:01 Notes](./01.md)__
+
 __[<<](../55/intro.md) | [>>](../57/intro.md)__

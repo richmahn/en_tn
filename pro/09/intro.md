@@ -13,4 +13,5 @@ The addressee of chapters 8 and 9 is broader than "my son," but is personal like
 ## Links: ##
 
 * __[Proverbs 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

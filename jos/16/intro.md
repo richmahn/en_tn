@@ -12,4 +12,5 @@ This chapter is about the land given to the tribe of Ephraim, one of Joseph's so
 ## Links: ##
 
 * __[Joshua 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

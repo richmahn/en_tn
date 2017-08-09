@@ -12,4 +12,5 @@ David is afraid Saul will someday catch him and kill him, so he moves to the Phi
 ### Links: ###=
 
 * __[1 Samuel 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

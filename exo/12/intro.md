@@ -15,4 +15,5 @@ The Hebrew people were to be separate from the rest of the world. Because of thi
 ## Links: ##
 
 * __[Exodus 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

@@ -13,4 +13,5 @@ There are individual proverbs that run along common themes, often including cont
 ## Links: ##
 
 * __[Proverbs 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

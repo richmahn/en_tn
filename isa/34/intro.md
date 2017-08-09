@@ -13,9 +13,10 @@ There are many images used in this chapter which describe destruction. Here each
 
 ##### Prophecy #####
 
-This chapter appears to prophesy about a time of restoration when the messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/other/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+This chapter appears to prophesy about a time of restoration when the messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ## Links: ##
 
 * __[Isaiah 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

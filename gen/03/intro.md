@@ -18,4 +18,5 @@ Most scholars believe that the serpent is Satan, even though his name is not use
 ## Links: ##
 
 * __[Genesis 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

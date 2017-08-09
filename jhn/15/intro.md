@@ -14,4 +14,5 @@ John uses this phrase seven times in his gospel. It is the same words used by Go
 ## Links: ##
 
 * __[John 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

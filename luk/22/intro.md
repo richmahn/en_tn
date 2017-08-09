@@ -25,4 +25,5 @@ In many cultures, there is a belief that only bad things happen in the middle of
 ## Links: ##
 
 * __[Luke 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

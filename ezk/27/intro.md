@@ -12,4 +12,5 @@ Tyre is compared to a ship built with the very best materials. Despite its stren
 ## Links: ##
 
 * __[Ezekiel 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

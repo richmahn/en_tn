@@ -17,4 +17,5 @@ Job uses many different rhetorical questions in this chapter in his appeal to Ya
 ## Links: ##
 
 * __[Job 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

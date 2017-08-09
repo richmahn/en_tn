@@ -9,9 +9,10 @@ Many scholars believe that there are four songs or poems which Isaiah records ab
 #### Other possible translation difficulties in this chapter ####
 
 ##### A day of salvation #####
-It is unclear if this is a reference to the gospel proclaimed by the messiah or to the day of restoration of all things. The translator should not try to explain its reference to the reader. (See: [[rc://en/tw/dict/bible/kt/salvation]], [[rc://en/tw/dict/bible/kt/goodnews]], and [[rc://en/tw/dict/bible/other/restore]])
+It is unclear if this is a reference to the gospel proclaimed by the messiah or to the day of restoration of all things. The translator should not try to explain its reference to the reader. (See: [[rc://en/tw/dict/bible/kt/salvation]], [[rc://en/tw/dict/bible/kt/goodnews]], and [[rc://en/tw/dict/bible/kt/restore]])
 
 ## Links: ##
 
 * __[Isaiah 49:01 Notes](./01.md)__
+
 __[<<](../48/intro.md) | [>>](../50/intro.md)__

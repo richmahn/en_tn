@@ -22,4 +22,5 @@ It is uncertain what this means but the New Covenant is contrasted with the law 
 ## Links: ##
 
 * __[2 Corinthians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

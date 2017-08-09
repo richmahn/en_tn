@@ -7,4 +7,5 @@ This chapter is about the land given to the tribe of Judah. It will be difficult
 ## Links: ##
 
 * __[Joshua 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

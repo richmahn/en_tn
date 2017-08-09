@@ -8,4 +8,5 @@ David tried to bring the ark to Jerusalem on an ox cart instead of being carried
 ## Links: ##
 
 * __[1 Chronicles 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

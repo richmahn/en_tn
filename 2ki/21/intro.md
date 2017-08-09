@@ -14,4 +14,5 @@ God judges sin. When Manasseh worshiped idols and did many evil things, God said
 ## Links: ##
 
 * __[2 Kings 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

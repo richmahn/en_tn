@@ -9,4 +9,5 @@ The actions of the Rechabites contrasted with the actions of the Jews. The Recha
 ## Links: ##
 
 * __[Jeremiah 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

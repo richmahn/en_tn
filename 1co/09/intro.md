@@ -25,4 +25,5 @@ This passage is important because Paul "contextualizes" his ministry in service 
 ## Links: ##
 
 * __[1 Corinthians 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

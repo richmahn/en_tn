@@ -15,4 +15,5 @@ Shechem raped Dinah, but then he said he loved her. By raping her, he ensured th
 ## Links: ##
 
 * __[Genesis 34:01 Notes](./01.md)__
+
 __[<<](../33/intro.md) | [>>](../35/intro.md)__

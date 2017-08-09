@@ -11,4 +11,5 @@ Trusting God is much better than trusting in military might. (See: [[rc://en/tw/
 ## Links: ##
 
 * __[Psalms 20:1](./001.md)__
+
 __[<<](../019/intro.md) | [>>](../021/intro.md)__

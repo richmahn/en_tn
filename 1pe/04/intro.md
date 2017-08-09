@@ -21,4 +21,5 @@ This does not mean that anyone has stopped sinning. This would contradict other 
 ## Links: ##
 
 * __[1 Peter 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

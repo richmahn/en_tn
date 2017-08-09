@@ -11,4 +11,5 @@ If a woman was not a virgin, she was not considered to be worth marrying. The ma
 ## Links: ##
 
 * __[Deuteronomy 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

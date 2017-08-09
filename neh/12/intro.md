@@ -9,4 +9,5 @@ In the ancient Near East, it was common to dedicate an important structure to a 
 ## Links: ##
 
 * __[Nehemiah 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

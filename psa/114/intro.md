@@ -12,4 +12,5 @@ The psalmist praised God for opening up the Red Sea for the people to cross, for
 ## Links: ##
 
 * __[Psalms 114:1](./001.md)__
+
 __[<<](../113/intro.md) | [>>](../115/intro.md)__

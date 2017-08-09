@@ -20,4 +20,5 @@ Zechariah uses two separate dates in this first chapter. When compared to the bo
 
 * __[Zechariah 01:01 Notes](./01.md)__
 * __[Zechariah intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

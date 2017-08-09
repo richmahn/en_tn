@@ -8,4 +8,5 @@ The remaining army commanders, who scattered after the Babylonian victory, asked
 ## Links: ##
 
 * __[Jeremiah 42:01 Notes](./01.md)__
+
 __[<<](../41/intro.md) | [>>](../43/intro.md)__

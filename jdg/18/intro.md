@@ -9,4 +9,5 @@ The tribe of Dan lacked faith in Yahweh and had yet to conquer its inheritance. 
 ## Links: ##
 
 * __[Judges 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

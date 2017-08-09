@@ -13,4 +13,5 @@ Solomon asks God for wisdom to rule God's people. God is pleased with this reque
 
 * __[2 Chronicles 01:01 Notes](./01.md)__
 * __[2 Chronicles intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

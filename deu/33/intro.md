@@ -12,4 +12,5 @@ Moses gives a series of prophecies or instructions for each of the tribes of Isr
 ## Links: ##
 
 * __[Deuteronomy 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

@@ -13,4 +13,5 @@ Because the king lived in luxury and oppressed the poor, God was sending him and
 ## Links: ##
 
 * __[Jeremiah 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

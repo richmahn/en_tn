@@ -17,4 +17,5 @@ The author used the metaphor of a thief to describe how Absalom was able to win 
 ## Links: ##
 
 * __[2 Samuel 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

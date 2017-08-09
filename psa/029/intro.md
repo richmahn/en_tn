@@ -18,4 +18,5 @@ The voice of the Yahweh stands for Yahweh himself. (See: [[rc://en/ta/man/transl
 ## Links: ##
 
 * __[Psalms 29:1](./001.md)__
+
 __[<<](../028/intro.md) | [>>](../030/intro.md)__

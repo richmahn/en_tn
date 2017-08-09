@@ -12,4 +12,5 @@ This chapter is about the land given to the tribe of Manasseh, one of Joseph's s
 ## Links: ##
 
 * __[Joshua 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

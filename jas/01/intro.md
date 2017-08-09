@@ -28,4 +28,5 @@ It appears the author wrote this letter to Christians, but he also uses this phr
 
 * __[James 01:01 Notes](./01.md)__
 * __[James intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

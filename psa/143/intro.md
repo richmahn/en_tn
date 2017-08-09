@@ -12,4 +12,5 @@ The author prayed for help from Yahweh against his enemies because he is God's s
 ## Links: ##
 
 * __[Psalms 143:1](./001.md)__
+
 __[<<](../142/intro.md) | [>>](../144/intro.md)__

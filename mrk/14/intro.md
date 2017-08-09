@@ -29,4 +29,5 @@ This is a reference to the name of God, Yahweh. Jesus is explicitly claiming to 
 ## Links: ##
 
 * __[Mark 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

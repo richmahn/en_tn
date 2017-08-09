@@ -19,4 +19,5 @@ Satan believes that Job's faith is based on Yahweh's blessings. He challenges Ya
 
 * __[Job 01:01 Notes](./01.md)__
 * __[Job intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

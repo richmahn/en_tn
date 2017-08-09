@@ -7,4 +7,5 @@ Instructions for the new temple and city continue in this chapter. God entered t
 ## Links: ##
 
 * __[Ezekiel 43:01 Notes](./01.md)__
+
 __[<<](../42/intro.md) | [>>](../44/intro.md)__

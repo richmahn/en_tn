@@ -12,4 +12,5 @@ God has helped the psalmist all his life. Now that he is old, his enemy thinks t
 ## Links: ##
 
 * __[Psalms 71:1](./001.md)__
+
 __[<<](../070/intro.md) | [>>](../072/intro.md)__

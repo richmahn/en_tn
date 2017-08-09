@@ -9,4 +9,5 @@ In this chapter, Job presents his case to Yahweh that he is upright and not guil
 ## Links: ##
 
 * __[Job 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

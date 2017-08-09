@@ -11,4 +11,5 @@ Because Yahweh is perfectly holy, he can only be approached in a certain way. Be
 ## Links: ##
 
 * __[Exodus 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

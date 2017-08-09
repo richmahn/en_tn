@@ -19,4 +19,5 @@ Wanting to express the vast number of enemy soldiers, the author uses a hyperbol
 ## Links: ##
 
 * __[1 Samuel 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -11,4 +11,5 @@ This chapter gives rules for what the high priest had to do on the Day of Atonem
 ## Links: ##
 
 * __[Leviticus 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

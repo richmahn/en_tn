@@ -6,4 +6,5 @@ This chapter begins a section of prophecy against Tyre. The Babylonians will des
 ## Links: ##
 
 * __[Ezekiel 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

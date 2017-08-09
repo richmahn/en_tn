@@ -15,4 +15,5 @@ The "city gate" is mentioned several times. This was a place where people would 
 ## Links: ##
 
 * __[Amos 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

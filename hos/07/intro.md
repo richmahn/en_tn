@@ -18,4 +18,5 @@ This chapter begins by using two different names for the same group of people: I
 ## Links: ##
 
 * __[Hosea 7:1](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

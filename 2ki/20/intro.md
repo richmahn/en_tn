@@ -11,4 +11,5 @@ God hears the distressed call of his faithful believers. Hezekiah was dying but 
 ## Links: ##
 
 * __[2 Kings 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

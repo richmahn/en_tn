@@ -33,4 +33,5 @@ The Holy Spirit is said to be the guarantee, pledge or down-payment of a Christi
 
 * __[2 Corinthians 01:01 Notes](./01.md)__
 * __[2 Corinthians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

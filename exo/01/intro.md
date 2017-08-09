@@ -21,4 +21,5 @@ This number included both Jacob's children and grandchildren. It may cause confu
 
 * __[Exodus 01:01 Notes](./01.md)__
 * __[Exodus intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

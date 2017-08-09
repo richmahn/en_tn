@@ -20,4 +20,5 @@ David used two figures of speech to express that Jonathan and Saul were great wa
 
 * __[2 Samuel 01:01 Notes](./01.md)__
 * **[2 Samuel intro](../front/intro.md)
+
 __| [>>](../02/intro.md)__

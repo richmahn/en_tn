@@ -11,4 +11,5 @@ The people of Israel were required to celebrate certain feasts and festivals. Th
 ## Links: ##
 
 * __[Exodus 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

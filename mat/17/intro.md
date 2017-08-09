@@ -12,4 +12,5 @@ The glory of God is seen as a great, brilliant light in scripture. God's grandeu
 
 ## Links: ##
 * __[Matthew 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

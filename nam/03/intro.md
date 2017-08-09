@@ -14,4 +14,5 @@ This chapter speaks about the evils of the Assyrians in violent ways. It is impo
 ## Links: ##
 
 * __[Nahum 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

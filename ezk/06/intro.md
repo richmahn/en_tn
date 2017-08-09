@@ -9,4 +9,5 @@ God will destroy all those who have been worshiping idols at the hill top shrine
 ## Links: ##
 
 * __[Ezekiel 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -7,4 +7,5 @@ The final prophecy continues in this chapter. The kings of the North and of the 
 ## Links: ##
 
 * __[Daniel 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

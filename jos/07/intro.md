@@ -9,4 +9,5 @@ It was great sin to take what was to be destroyed. Because of their sin, Yahweh 
 ## Links: ##
 
 * __[Joshua 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

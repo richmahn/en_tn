@@ -18,4 +18,5 @@ The main theme of this psalm is that God is protecting and empowering the king h
 ## Links: ##
 
 * __[Psalms 2:1](./001.md)__
+
 __[<<](../001/intro.md) | [>>](../003/intro.md)__

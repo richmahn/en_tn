@@ -13,4 +13,5 @@ The Christians in Thessalonica were experiencing great persecution, but they han
 
 * __[1 Thessalonians 01:01 Notes](./01.md)__
 * __[1 Thessalonians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

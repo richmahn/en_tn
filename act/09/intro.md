@@ -16,4 +16,5 @@ The text does not make it explicitly clear, but this is Jesus in body or physica
 ## Links: ##
 
 * __[Acts 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

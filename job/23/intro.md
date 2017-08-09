@@ -12,4 +12,5 @@ This chapter uses an extended metaphor of a court case to describe Job's "case,"
 ## Links: ##
 
 * __[Job 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

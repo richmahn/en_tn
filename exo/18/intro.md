@@ -8,4 +8,5 @@ Jethro taught Moses an important leadership lesson in this chapter. Many scholar
 ## Links: ##
 
 * __[Exodus 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

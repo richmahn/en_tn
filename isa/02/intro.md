@@ -15,4 +15,5 @@ While the first prophecy of Isaiah concerned the lack of justice in Judah, this 
 ## Links: ##
 
 * __[Isaiah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

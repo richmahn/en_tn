@@ -16,4 +16,5 @@ This is a word in Aramaic. Paul does not "translate" this word into Greek but ch
 ## Links: ##
 
 * __[Galatians 4:1](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

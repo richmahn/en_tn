@@ -13,4 +13,5 @@ Naomi attempted to make Ruth desirable to Boaz so that he would want to marry he
 ## Links: ##
 
 * __[Ruth 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

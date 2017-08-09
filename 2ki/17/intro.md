@@ -13,4 +13,5 @@ Israel continued to worship idols, so God punished them by allowing Assyria to c
 ## Links: ##
 
 * __[2 Kings 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

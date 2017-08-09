@@ -15,4 +15,5 @@ Christians are to follow the leadership and guidance of the Holy Spirit in their
 ## Links: ##
 
 * __[Acts 20:1](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

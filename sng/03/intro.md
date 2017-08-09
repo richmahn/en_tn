@@ -13,4 +13,5 @@ In the ancient Near East, it was common to describe a woman using metaphors invo
 ## Links: ##
 
 * __[Song of Solomon 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

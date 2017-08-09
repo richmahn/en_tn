@@ -13,4 +13,5 @@ At the end of Judges, there is much sin and immorality. The people are doing wro
 ## Links: ##
 
 * __[Judges 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | __

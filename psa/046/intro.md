@@ -11,4 +11,5 @@ God is all-powerful, controls nature, and protects his people. (See: [[rc://en/t
 ## Links: ##
 
 * __[Psalms 46:1](./001.md)__
+
 __[<<](../045/intro.md) | [>>](../047/intro.md)__

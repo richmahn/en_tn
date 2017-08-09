@@ -12,4 +12,5 @@ The priests found a copy of the law in the temple and took it to the king. He wa
 ## Links: ##
 
 * __[2 Kings 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

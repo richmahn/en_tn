@@ -8,4 +8,5 @@ This is an image used in this chapter to describe Assyria's victory over Egypt a
 ## Links: ##
 
 * __[Isaiah 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

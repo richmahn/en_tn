@@ -13,4 +13,5 @@ Apparently, there was a disagreement between these two women and Paul was encour
 ## Links: ##
 
 * __[Philippians 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | __

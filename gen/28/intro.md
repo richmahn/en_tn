@@ -15,4 +15,5 @@ This was an important city for Abraham and his descendants. It is possible that 
 ## Links: ##
 
 * __[Genesis 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__

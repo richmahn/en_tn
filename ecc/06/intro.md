@@ -12,4 +12,5 @@ While a person may be given a great many things, they are worthless and provide 
 ## Links: ##
 
 * __[Ecclesiastes 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

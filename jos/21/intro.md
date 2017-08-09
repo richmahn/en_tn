@@ -7,4 +7,5 @@ This chapter is about the land given to the tribe of Levi. Even though they did 
 ## Links: ##
 
 * __[Joshua 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

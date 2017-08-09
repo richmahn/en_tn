@@ -12,4 +12,5 @@ The people of the surrounding nations offered to help to build the temple. It is
 ## Links: ##
 
 * __[Esra Ezra 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

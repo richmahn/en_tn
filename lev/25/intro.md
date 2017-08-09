@@ -12,4 +12,5 @@ Every seventh year, the land should not be planted. Every fiftieth year Israelit
 ## Links: ##
 
 * __[Leviticus 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

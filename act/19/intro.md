@@ -20,4 +20,5 @@ The temple of Diana was important for the businesses of Ephesus. Many people cam
 ## Links: ##
 
 * __[Acts 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

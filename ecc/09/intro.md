@@ -12,4 +12,5 @@ This chapter explains that there is one thing that awaits all people: judgment. 
 ## Links: ##
 
 * __[Ecclesiastes 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

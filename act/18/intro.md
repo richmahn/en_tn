@@ -8,4 +8,5 @@ Even after the death of Jesus, there remained some Jews who followed the teachin
 ## Links: ##
 
 * __[Acts 18:1](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

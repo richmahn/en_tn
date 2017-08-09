@@ -6,4 +6,5 @@ The chapter begins a section on Balaam. The king of Moab wanted the prophet Bala
 ## Links: ##
 
 * __[Numbers 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

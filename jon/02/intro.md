@@ -22,4 +22,5 @@ Scholars are divided over whether Jonah's repentance was genuine or whether he w
 ## Links: ##
 
 * __[Jonah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

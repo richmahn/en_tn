@@ -13,4 +13,5 @@ According to the law of Moses, the Israelites were prohibited from making wooden
 ## Links: ##
 
 * __[Judges 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

@@ -24,4 +24,5 @@ Just because the people believed this to be, it does not mean it was true or tha
 ## Links: ##
 
 * __[Acts 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | __

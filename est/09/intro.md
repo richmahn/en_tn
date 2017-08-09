@@ -13,4 +13,5 @@ The day that was supposed to bring great victory to the enemies of the Jews beca
 ## Links: ##
 
 * __[Esther 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -14,4 +14,5 @@ Note how this psalm uses the plural to show that it is a group praying.
 ## Links: ##
 
 * __[Psalms 85:1](./001.md)__
+
 __[<<](../084/intro.md) | [>>](../086/intro.md)__

@@ -9,4 +9,5 @@ In this chapter, Job recalls the days before Yahweh's blessings were taken from 
 ## Links: ##
 
 * __[Job 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

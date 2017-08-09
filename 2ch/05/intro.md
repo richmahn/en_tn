@@ -12,4 +12,5 @@ Everything from the tent was moved into the new temple. This too was done in a s
 ## Links: ##
 
 * __[2 Chronicles 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

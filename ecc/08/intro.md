@@ -12,4 +12,5 @@ Solomon, known for his wisdom, gives a detailed description of wisdom. True wisd
 ## Links: ##
 
 * __[Ecclesiastes 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

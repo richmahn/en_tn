@@ -6,4 +6,5 @@ This chapter continues the material from the previous chapter about offerings on
 ## Links: ##
 
 * __[Numbers 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

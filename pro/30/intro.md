@@ -19,4 +19,5 @@ There are individual proverbs that run along common themes, often including cont
 ## Links: ##
 
 * __[Proverbs 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

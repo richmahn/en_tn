@@ -15,4 +15,5 @@ Jerusalem is compared to a pot, so rusted that it cannot be cleaned from its rus
 ## Links: ##
 
 * __[Ezekiel 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

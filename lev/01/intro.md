@@ -13,4 +13,5 @@ In order to offer a sacrifice for the people, the priest first had to make an at
 
 * __[Leviticus 01:01 Notes](./01.md)__
 * __[Leviticus intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

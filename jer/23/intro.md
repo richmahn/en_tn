@@ -19,4 +19,5 @@ In Hebrew, the word for "message" can also mean "burden." In translations that a
 ## Links: ##
 
 * __[Jeremiah 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

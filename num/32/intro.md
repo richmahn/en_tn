@@ -9,4 +9,5 @@ Reuben and Gad were given the land conquered east of the Jordan River. This land
 ## Links: ##
 
 * __[Numbers 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

@@ -18,4 +18,5 @@ The phrase "unapproved fire " indicates that Aaron's son offered an unacceptable
 ## Links: ##
 
 * __[Leviticus 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

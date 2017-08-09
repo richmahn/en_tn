@@ -8,4 +8,5 @@ All of the people offered sacrifices to Yahweh. This was a form of worship and a
 ## Links: ##
 
 * __[Exodus 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

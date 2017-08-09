@@ -8,4 +8,5 @@ The rules and laws of this chapter are not intended to be followed by every soci
 ## Links: ##
 
 * __[Exodus 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

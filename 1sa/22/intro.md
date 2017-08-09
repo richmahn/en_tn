@@ -15,4 +15,5 @@ Doeg tells Saul that Ahimelech the priest gave David food and a sword and prayed
 ## Links: ##
 
 * __[1 Samuel 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

@@ -8,4 +8,5 @@ Jesus uses many shepherding metaphors. For example, "feed my lambs," "tend my sh
 ## Links: ##
 
 * __[John 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | __

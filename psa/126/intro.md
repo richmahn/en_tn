@@ -12,4 +12,5 @@ People may have sorrow now; but later it will turn into joy. (See: [[rc://en/tw/
 ## Links: ##
 
 * __[Psalms 126:1](./001.md)__
+
 __[<<](../125/intro.md) | [>>](../127/intro.md)__

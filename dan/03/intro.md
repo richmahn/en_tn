@@ -13,4 +13,5 @@ There was a fourth person with them in the furnace, and because of this they wer
 ## Links: ##
 
 * __[Daniel 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

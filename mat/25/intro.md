@@ -15,4 +15,5 @@ Jesus makes use of these customs to tell his parable of the ten virgins ([Matthe
 ## Links: ##
 
 * __[Matthew 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

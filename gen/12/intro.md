@@ -16,4 +16,5 @@ Abram was afraid the Egyptians would see him as a foreigner and upon seeing his 
 ## Links: ##
 
 * __[Genesis 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

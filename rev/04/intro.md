@@ -24,4 +24,5 @@ There are many images that may appear difficult or impossible. For example, bolt
 ## Links: ##
 
 * __[Revelation 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

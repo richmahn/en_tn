@@ -11,4 +11,5 @@ The events of this chapter are concerned with preparing the people to receive th
 ## Links: ##
 
 * __[Exodus 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

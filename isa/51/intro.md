@@ -15,4 +15,5 @@ In this chapter the author uses sleeping as a metaphor for sin. The people are t
 ## Links: ##
 
 * __[Isaiah 51:01 Notes](./01.md)__
+
 __[<<](../50/intro.md) | [>>](../52/intro.md)__

@@ -16,4 +16,5 @@ He uses an extended comparison using many metaphors. Yeast represents evil. The 
 ## Links: ##
 
 * __[1 Corinthians 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

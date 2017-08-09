@@ -13,4 +13,5 @@ Extra care must be taken in translating pronouns in this chapter. Sometimes "I" 
 ## Links: ##
 
 * __[Micah 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

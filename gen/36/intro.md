@@ -8,4 +8,5 @@ Esau's descendants became known as the Edomite people group. They also become a 
 ## Links: ##
 
 * __[Genesis 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | [>>](../37/intro.md)__

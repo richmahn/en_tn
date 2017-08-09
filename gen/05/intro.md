@@ -7,4 +7,5 @@ This chapter provides the first of many lists of descendants in the Bible. This 
 ## Links: ##
 
 * __[Genesis 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

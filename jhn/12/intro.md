@@ -32,4 +32,5 @@ A paradox is a statement that seems absurd, that appears to contradict itself. A
 ## Links: ##
 
 * __[John 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

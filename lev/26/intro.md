@@ -9,4 +9,5 @@ If people obey God and worship only him, he will bless and protect them. If peop
 ## Links: ##
 
 * __[Leviticus 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

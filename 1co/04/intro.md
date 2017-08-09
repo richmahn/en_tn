@@ -20,4 +20,5 @@ Paul uses irony to shame the pride of the Corinthians. The Corinthian believers 
 ## Links: ##
 
 * __[1 Corinthians 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

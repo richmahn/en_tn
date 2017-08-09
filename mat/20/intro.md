@@ -8,4 +8,5 @@ Jesus tells this parable ([Matthew 20:1-16](./01.md)) to teach his disciples tha
 
 ## Links: ##
 * __[Matthew 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

@@ -17,4 +17,5 @@ This is an unusual phrase meaning "were sons of." (See: [[rc://en/ta/man/transla
 ## Links: ##
 
 * __[Genesis 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

@@ -11,4 +11,5 @@ God had told the people of Israel in Moses's law never to marry women from the G
 ## Links: ##
 
 * __[1 Kings 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

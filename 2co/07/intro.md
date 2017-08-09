@@ -26,4 +26,5 @@ This chapter discusses in detail a previous situation. Although some aspects of 
 ## Links: ##
 
 * __[2 Corinthians 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

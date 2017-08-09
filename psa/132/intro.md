@@ -13,4 +13,5 @@ The Ark had been moved from one place to another several times. David wanted to 
 ## Links: ##
 
 * __[Psalms 132:1](./001.md)__
+
 __[<<](../131/intro.md) | [>>](../133/intro.md)__

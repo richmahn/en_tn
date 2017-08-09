@@ -12,4 +12,5 @@ This chapter is written as a narrative, but the section including Hezekiah's pra
 ## Links: ##
 
 * __[Isaiah 38:01 Notes](./01.md)__
+
 __[<<](../37/intro.md) | [>>](../39/intro.md)__

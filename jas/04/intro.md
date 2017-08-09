@@ -21,4 +21,5 @@ This is probably not a reference to those who act humbly, but a reference to tho
 ## Links: ##
 
 * __[James 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

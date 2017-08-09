@@ -28,4 +28,5 @@ Scholars are divided over how to understand this passage in light of its histori
 ## Links: ##
 
 * __[1 Peter 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

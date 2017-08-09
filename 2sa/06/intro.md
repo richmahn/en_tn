@@ -16,4 +16,5 @@ Michal criticized David by using irony: "How honored the king of Israel was toda
 ## Links: ##
 
 * __[2 Samuel 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

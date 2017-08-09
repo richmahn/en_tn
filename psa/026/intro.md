@@ -12,4 +12,5 @@ The psalmist delights in praising God and doing good deeds. It is striking how t
 ## Links: ##
 
 * __[Psalms 26:1](./001.md)__
+
 __[<<](../025/intro.md) | [>>](../027/intro.md)__

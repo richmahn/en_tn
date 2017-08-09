@@ -13,4 +13,5 @@ If people love God, their love should be displayed in the way they live their li
 ## Links: ##
 
 * __[1 John 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -23,4 +23,5 @@ This is a statement that seems absurd or appears to contradict itself. In this c
 ## Links: ##
 
 * __[Matthew 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

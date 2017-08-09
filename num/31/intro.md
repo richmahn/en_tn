@@ -9,4 +9,5 @@ Israel killed the Midianites, including Balaam, for tempting them to worship Baa
 ## Links: ##
 
 * __[Numbers 31:01 Notes](./01.md)__
+
 __[<<](../30/intro.md) | [>>](../32/intro.md)__

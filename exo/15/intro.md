@@ -12,4 +12,5 @@ In this chapter, Moses talks about Yahweh's laws. The law of Moses is about to b
 ## Links: ##
 
 * __[Exodus 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

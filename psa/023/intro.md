@@ -13,4 +13,5 @@ Psalm 23 is an extended metaphor speaking of God as if he were a shepherd, and o
 ## Links: ##
 
 * __[Psalms 23:1](./001.md)__
+
 __[<<](../022/intro.md) | [>>](../024/intro.md)__

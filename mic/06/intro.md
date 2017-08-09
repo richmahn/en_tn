@@ -13,4 +13,5 @@ Ahab and Omri are mentioned as kings who were evil and did not follow Yahweh. Ob
 ## Links: ##
 
 * __[Micah 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

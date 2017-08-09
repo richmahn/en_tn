@@ -11,4 +11,5 @@ There are animals which the law considered to be clean and unclean. The people w
 ## Links: ##
 
 * __[Deuteronomy 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

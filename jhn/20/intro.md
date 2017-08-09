@@ -19,4 +19,5 @@ The gospel accounts differ as to how many men or angels appeared in this interac
 ## Links: ##
 
 * __[John 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

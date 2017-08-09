@@ -19,4 +19,5 @@ Metonymy is used in the first few verses of this chapter. Metonymy is a figure o
 ## Links: ##
 
 * __[Hosea 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

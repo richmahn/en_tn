@@ -20,4 +20,5 @@ The drought, or severe lack of rain, Joel describes is probably a real drought. 
 ## Links: ##
 
 * __[Joel 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

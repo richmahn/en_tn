@@ -13,4 +13,5 @@ The Philistine leaders asked their priests what they should do with the Ark. The
 ## Links: ##
 
 * __[1 Samuel 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

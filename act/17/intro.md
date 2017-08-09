@@ -22,4 +22,5 @@ This passage is famous in many cultures because Paul "contextualizes" the gospel
 ## Links: ##
 
 * __[Acts 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

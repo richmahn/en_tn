@@ -7,4 +7,5 @@ This chapter begins a section prophesying against Gog. Later Gog will try to con
 ## Links: ##
 
 * __[Ezekiel 38:01 Notes](./01.md)__
+
 __[<<](../37/intro.md) | [>>](../39/intro.md)__

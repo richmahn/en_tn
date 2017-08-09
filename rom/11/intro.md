@@ -18,4 +18,5 @@ Whether Israel (the physical descendants of Abraham, Isaac and Jacob) has a futu
 ## Links: ##
 
 * __[Romans 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

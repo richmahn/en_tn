@@ -7,4 +7,5 @@ Beginning in 6:22, the author gives statements summarizing events he tells about
 ## Links: ##
 
 * __[Genesis 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

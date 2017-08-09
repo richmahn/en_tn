@@ -12,4 +12,5 @@ Josiah organized a large Passover celebration and people shared their animals wi
 ## Links: ##
 
 * __[2 Chronicles 35:01 Notes](./01.md)__
+
 __[<<](../34/intro.md) | [>>](../36/intro.md)__

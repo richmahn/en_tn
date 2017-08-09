@@ -12,4 +12,5 @@ In the end, Yahweh will enact his perfect justice. This is the true hope of this
 ## Links: ##
 
 * __[Isaiah 66:01 Notes](./01.md)__
+
 __[<<](../65/intro.md) | __

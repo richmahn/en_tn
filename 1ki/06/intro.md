@@ -12,4 +12,5 @@ Solomon built the temple in seven years. The outside walls were made of rock. So
 ## Links: ##
 
 * __[1 Kings 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -15,4 +15,5 @@ God does not allow others to curse his people. Balaam blesses Israel again and t
 ## Links: ##
 
 * __[Numbers 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | [>>](../25/intro.md)__

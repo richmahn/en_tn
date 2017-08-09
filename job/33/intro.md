@@ -14,4 +14,5 @@ While Job has been complaining about the lack of justice and response from Yahwe
 ## Links: ##
 
 * __[Job 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

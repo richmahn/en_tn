@@ -14,4 +14,5 @@ This chapter prophecies Yahweh's punishment on Judah. This should bring Judah to
 ## Links: ##
 
 * __[Jeremiah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

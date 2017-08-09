@@ -9,9 +9,10 @@ This chapter is Yahweh's response to the repentance of the people. (See: [[rc://
 #### Special concepts in this chapter ####
 
 ##### Judgment and hope #####
-This chapter records that Yahweh's judgment on the people must come. Despite this, there is hope that in the end, Yahweh will make all things new and restore them to himself. (See: [[rc://en/tw/dict/bible/kt/judge]], [[rc://en/tw/dict/bible/kt/hope]] and [[rc://en/tw/dict/bible/other/restore]])
+This chapter records that Yahweh's judgment on the people must come. Despite this, there is hope that in the end, Yahweh will make all things new and restore them to himself. (See: [[rc://en/tw/dict/bible/kt/judge]], [[rc://en/tw/dict/bible/kt/hope]] and [[rc://en/tw/dict/bible/kt/restore]])
 
 ## Links: ##
 
 * __[Isaiah 65:01 Notes](./01.md)__
+
 __[<<](../64/intro.md) | [>>](../66/intro.md)__

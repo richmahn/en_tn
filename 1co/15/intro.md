@@ -17,4 +17,5 @@ This chapter is filled with many different figures of speech. These help Paul to
 ## Links: ##
 
 * __[1 Corinthians 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

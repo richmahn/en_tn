@@ -24,4 +24,5 @@ This expression occurs often in this chapter. It can be difficult to translate, 
 
 * __[Genesis 01:01 Notes](./01.md)__
 * __[Genesis intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

@@ -12,4 +12,5 @@ Although this is a prayer, it is in the form of poetry. Habakkuk uses startling 
 ## Links: ##
 
 * __[Habakkuk 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

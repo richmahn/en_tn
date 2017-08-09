@@ -17,4 +17,5 @@ This appears to be a type of hypothetical statement, but it is not because it is
 ## Links: ##
 
 * __[Philippians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

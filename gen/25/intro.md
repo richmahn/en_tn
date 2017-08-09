@@ -20,4 +20,5 @@ God begins to fulfill the promise he gave to Abraham about making his descendant
 ## Links: ##
 
 * __[Genesis 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

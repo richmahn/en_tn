@@ -11,4 +11,5 @@ In the ancient Near east, a person was typically buried in their hometown. Since
 ## Links: ##
 
 * __[Genesis 47:01 Notes](./01.md)__
+
 __[<<](../46/intro.md) | [>>](../48/intro.md)__

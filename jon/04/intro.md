@@ -25,4 +25,5 @@ When Jonah went outside the city, he got very hot and God graciously provided so
 ## Links: ##
 
 * __[Jonah 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | __

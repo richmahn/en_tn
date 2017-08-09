@@ -7,7 +7,7 @@ This chapter is another interruption to the story of David expanding his kingdom
 #### Special concepts in this chapter ####
 
 ##### David's vow #####
-David determined to fulfill his vow to Jonathan to care for Jonathan's descendants. He found Jonathan's son and told him he would treat him as if he was one of his sons. He restored all of Saul's property to him and had him eat every day at the king's table. (See: [[rc://en/tw/dict/bible/kt/fulfill]], [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/other/restore]])
+David determined to fulfill his vow to Jonathan to care for Jonathan's descendants. He found Jonathan's son and told him he would treat him as if he was one of his sons. He restored all of Saul's property to him and had him eat every day at the king's table. (See: [[rc://en/tw/dict/bible/kt/fulfill]], [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/kt/restore]])
 
 #### Important figures of speech in this chapter ####
 
@@ -17,4 +17,5 @@ Jonathan's son expressed his surprise and feeling of unworthiness with a rhetori
 ## Links: ##
 
 * __[2 Samuel 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

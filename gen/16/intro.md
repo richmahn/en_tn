@@ -12,4 +12,5 @@ Abram married Hagar while he was also married to Sarai. Even though Abram had hi
 ## Links: ##
 
 * __[Genesis 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

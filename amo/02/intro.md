@@ -12,4 +12,5 @@ You will notice that the phrase "For three sins of Judah, even for four," is use
 ## Links: ##
 
 * __[Amos 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

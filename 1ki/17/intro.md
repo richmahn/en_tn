@@ -12,4 +12,5 @@ Ahab had introduced the worship of Baal, the god people thought brought rain, to
 ## Links: ##
 
 * __[1 Kings 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

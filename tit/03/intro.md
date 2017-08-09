@@ -15,4 +15,5 @@ This is probably a reference to some group's speculation over the identification
 ## Links: ##
 
 * __[Titus 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | __

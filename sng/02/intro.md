@@ -11,4 +11,5 @@ It is possible that some of the metaphors used in this chapter are actually euph
 ## Links: ##
 
 * __[Song of Solomon 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

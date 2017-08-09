@@ -19,4 +19,5 @@ Hosea uses rhetorical questions throughout this chapter. They are not questions 
 ## Links: ##
 
 * __[Hosea 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -9,4 +9,5 @@ In a vision, Ezekiel saw a man measuring the wall of a new temple. The next chap
 ## Links: ##
 
 * __[Ezekiel 40:01 Notes](./01.md)__
+
 __[<<](../39/intro.md) | [>>](../41/intro.md)__

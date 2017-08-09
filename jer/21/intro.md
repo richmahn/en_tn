@@ -13,4 +13,5 @@ God will fight against Jerusalem and will use the nation of Babylon to fight his
 ## Links: ##
 
 * __[Jeremiah 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

@@ -8,4 +8,5 @@ Israel is concerned over his favored son, Benjamin. He is also confused about th
 ## Links: ##
 
 * __[Genesis 43:01 Notes](./01.md)__
+
 __[<<](../42/intro.md) | [>>](../44/intro.md)__

@@ -18,4 +18,5 @@ English translations use many different words to translate this phrase. These te
 
 ## Links: ##
 * __[Matthew 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

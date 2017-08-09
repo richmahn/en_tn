@@ -13,4 +13,5 @@ Paul uses three agricultural metaphors to give instructions about giving to thos
 ## Links: ##
 
 * __[2 Corinthians 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

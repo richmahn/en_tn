@@ -12,4 +12,5 @@ Hezekiah invited everyone in Judah and in Israel to come to Jerusalem and celebr
 ## Links: ##
 
 * __[2 Chronicles 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

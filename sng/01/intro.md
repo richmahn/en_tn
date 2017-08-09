@@ -22,4 +22,5 @@ In the ancient Near East, many people were more attracted to light skinned peopl
 
 * __[Song of Solomon 01:01 Notes](./01.md)__
 * __[Song of Solomon intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

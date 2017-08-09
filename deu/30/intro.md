@@ -7,4 +7,5 @@ Moses begins to give final instructions to Israel before his death in anticipati
 ## Links: ##
 
 * __[Deuteronomy 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

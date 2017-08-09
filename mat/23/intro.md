@@ -19,4 +19,5 @@ This is a statement that seems absurd or appears to contradict itself. For examp
 ## Links: ##
 
 * __[Matthew 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

@@ -14,4 +14,5 @@ When Samuel was old, he appointed his sons to be judges. They were corrupt and t
 ## Links: ##
 
 * __[1 Samuel 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

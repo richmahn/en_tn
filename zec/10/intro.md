@@ -13,4 +13,5 @@ This book, and especially this chapter, uses the concepts of redemption and remn
 ## Links: ##
 
 * __[Zechariah 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

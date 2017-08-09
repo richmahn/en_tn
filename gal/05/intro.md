@@ -27,4 +27,5 @@ The authors of the ULB have also chosen to place "justified" in quotation marks 
 ## Links: ##
 
 * __[Galatians 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

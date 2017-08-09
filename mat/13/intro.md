@@ -17,4 +17,5 @@ In this chapter, Matthew references the eyes seeing and the ears hearing. This c
 
 ## Links: ##
 * __[Matthew 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

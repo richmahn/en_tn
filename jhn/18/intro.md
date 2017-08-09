@@ -20,4 +20,5 @@ This phrase is used in two different ways in this passage. First, Jesus is said 
 ## Links: ##
 
 * __[John 18:01 Notes](./01.md)__
+
 __[<<](../17/intro.md) | [>>](../19/intro.md)__

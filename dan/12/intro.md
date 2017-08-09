@@ -7,4 +7,5 @@ The final prophecy concludes in this chapter. It tells about the future resurrec
 ## Links: ##
 
 * __[Daniel 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | __

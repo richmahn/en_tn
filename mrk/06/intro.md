@@ -18,4 +18,5 @@ Parts of this chapter are a sequence of events that have already happened. In a 
 ## Links: ##
 
 * __[Mark 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

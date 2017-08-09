@@ -7,4 +7,5 @@ This chapter begins a prophecy against Egypt and its king, Pharaoh. Because Egyp
 ## Links: ##
 
 * __[Ezekiel 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

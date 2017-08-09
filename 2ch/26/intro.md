@@ -8,4 +8,5 @@ Uzzah was powerful when he followed Yahweh. When he entered the temple to burn i
 ## Links: ##
 
 * __[2 Chronicles 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

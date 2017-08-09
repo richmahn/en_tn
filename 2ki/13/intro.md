@@ -18,4 +18,5 @@ The king compares the protection that Elisha had given Israel to "The chariot of
 ## Links: ##
 
 * __[2 Kings 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

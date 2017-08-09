@@ -17,4 +17,5 @@ There are many metaphors used in this chapter. Zophar uses them to explain the t
 ## Links: ##
 
 * __[Job 20:01 Notes](./01.md)__
+
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

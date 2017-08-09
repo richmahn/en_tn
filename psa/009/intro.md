@@ -20,4 +20,5 @@ This psalm has a superscription but Psalm 10 doesn't. This fact and the acrostic
 ## Links: ##
 
 * __[Psalms 9:1](./001.md)__
+
 __[<<](../008/intro.md) | [>>](../010/intro.md)__

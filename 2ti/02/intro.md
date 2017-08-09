@@ -17,4 +17,5 @@ Paul draws on several analogies in this chapter to present his teaching about li
 ## Links: ##
 
 * __[2 Timothy 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

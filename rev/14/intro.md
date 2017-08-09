@@ -16,4 +16,5 @@ This is a common image used in scripture. The harvest illustrates a time when go
 ## Links: ##
 
 * __[Revelation 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

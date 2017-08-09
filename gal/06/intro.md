@@ -22,4 +22,5 @@ This is a complex issue and it is possible that "flesh" is still a subject used 
 ## Links: ##
 
 * __[Galatians 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | __

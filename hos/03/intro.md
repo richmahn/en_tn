@@ -13,4 +13,5 @@ This chapter contains a continuation of the metaphor played out in chapter 2. Ho
 ## Links: ##
 
 * __[Hosea 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

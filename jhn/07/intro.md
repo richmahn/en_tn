@@ -33,4 +33,5 @@ This term is used in two different ways in this passage. It is used specifically
 ## Links: ##
 
 * __[John 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

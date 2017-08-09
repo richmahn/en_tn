@@ -15,4 +15,5 @@ God said of people who encourage others to feel safe even when they continue to 
 ## Links: ##
 
 * __[Ezekiel 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

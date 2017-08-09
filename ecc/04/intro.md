@@ -12,4 +12,5 @@ The teacher looks at the oppression in the world and is saddened by it, but he i
 ## Links: ##
 
 * __[Ecclesiastes 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

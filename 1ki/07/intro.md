@@ -15,4 +15,5 @@ Solomon spent 13 years building a palace for himself that was much bigger than t
 ## Links: ##
 
 * __[1 Kings 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

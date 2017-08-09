@@ -11,4 +11,5 @@ Jacob showed favoritism towards Rachel and Joseph. He arranged the family accord
 ## Links: ##
 
 * __[Genesis 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

@@ -20,4 +20,5 @@ Job uses many different rhetorical questions in this chapter in order to try to 
 ## Links: ##
 
 * __[Job 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

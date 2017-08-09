@@ -14,4 +14,5 @@ Paul refers to the church as a "mystery." The role of the church in the plans of
 ## Links: ##
 
 * __[Ephesians 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

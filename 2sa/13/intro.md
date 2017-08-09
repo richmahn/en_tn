@@ -12,4 +12,5 @@ Amnon raped Absalom's sister, who was his own half-sister. David did nothing to 
 ## Links: ##
 
 * __[2 Samuel 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

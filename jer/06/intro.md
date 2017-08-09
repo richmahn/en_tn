@@ -12,4 +12,5 @@ In the ancient Near East, it was commonly believed that a nation's gods were res
 ## Links: ##
 
 * __[Jeremiah 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

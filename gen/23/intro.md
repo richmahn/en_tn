@@ -11,4 +11,5 @@ Burial was a common practice when Abraham lived, but only the wealthy were able 
 ## Links: ##
 
 * __[Genesis 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

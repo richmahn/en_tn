@@ -17,4 +17,5 @@ The author sometimes uses the term "Israel" to refer to the people of the old no
 ## Links: ##
 
 * __[Jeremiah 50:01 Notes](./01.md)__
+
 __[<<](../49/intro.md) | [>>](../51/intro.md)__

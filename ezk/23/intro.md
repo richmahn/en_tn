@@ -9,4 +9,5 @@ Israel and Judah have been unfaithful to God by worshiping idols. They are compa
 ## Links: ##
 
 * __[Ezekiel 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

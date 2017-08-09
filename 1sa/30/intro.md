@@ -8,4 +8,5 @@ When David and his men arrive home, they find the Amalekites have raided Ziklag 
 ### Links: ###=
 
 * __[1 Samuel 30:01 Notes](./01.md)__
+
 __[<<](../29/intro.md) | [>>](../31/intro.md)__

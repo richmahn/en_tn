@@ -13,4 +13,5 @@ Extra care must be taken in translating the tense of this chapter. The author ta
 ## Links: ##
 
 * __[Isaiah 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

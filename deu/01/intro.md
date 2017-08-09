@@ -16,4 +16,5 @@ While the Promised Land belongs to Israel, they do not possess the land. Possess
 
 * __[Deuteronomy 01:01 Notes](./01.md)__
 * __[Deuteronomy intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

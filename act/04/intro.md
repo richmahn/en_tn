@@ -22,4 +22,5 @@ The Greek word for "name" indicates that it is not just the word "Jesus" that sa
 ## Links: ##
 
 * __[Acts 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

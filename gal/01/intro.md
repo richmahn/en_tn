@@ -22,4 +22,5 @@ Galatians was probably the first letter Paul wrote, making this line one of the 
 
 * __[Galatians 01:01 Notes](./01.md)__
 * __[Galatians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

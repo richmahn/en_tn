@@ -13,4 +13,5 @@ The covenant Yahweh made with Moses is prominent in this chapter. Because the pe
 ## Links: ##
 
 * __[Jeremiah 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

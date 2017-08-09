@@ -12,4 +12,5 @@ Israel will not trust in Yahweh. Instead, they will trust in their own power, th
 ## Links: ##
 
 * __[Isaiah 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

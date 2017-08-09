@@ -9,4 +9,5 @@ Verses 25-27 are very important to this book. They show the great depth of Job's
 ## Links: ##
 
 * __[Job 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

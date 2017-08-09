@@ -17,4 +17,5 @@ Scholars are divided over the identity of the person Jacob wrestled with. It was
 ## Links: ##
 
 * __[Genesis 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

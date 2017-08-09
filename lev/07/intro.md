@@ -12,4 +12,5 @@ The people were not allowed to eat or drink the blood of the sacrificed meat bec
 ## Links: ##
 
 * __[Leviticus 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

@@ -17,4 +17,5 @@ This is a complex issue and it is possible that "flesh" is a metaphor for a pers
 ## Links: ##
 
 * __[Romans 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

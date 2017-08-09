@@ -21,4 +21,5 @@ In order to be sure Samuel would tell him the whole truth, Eli used the standard
 ## Links: ##
 
 * __[1 Samuel 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -20,4 +20,5 @@ It is possible that these actions were necessary for harmony between the Jews an
 ## Links: ##
 
 * __[Acts 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

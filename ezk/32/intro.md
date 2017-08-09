@@ -7,4 +7,5 @@ The prophecy against Egypt and its king concludes in this chapter. Egypt will ha
 ## Links: ##
 
 * __[Ezekiel 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

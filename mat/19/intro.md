@@ -10,4 +10,5 @@ In this chapter, Jesus teaches about divorce as a response to a challenge from P
 
 ## Links: ##
 * __[Matthew 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

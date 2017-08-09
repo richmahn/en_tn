@@ -12,4 +12,5 @@ Not only is the temple constructed in a special way, the things that are used in
 ## Links: ##
 
 * __[2 Chronicles 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

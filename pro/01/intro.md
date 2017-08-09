@@ -14,4 +14,5 @@ Proverbs are often written without any surrounding context and in two lines of t
 
 * __[Proverbs 01:01 Notes](./01.md)__
 * __[Proverbs intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

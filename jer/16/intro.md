@@ -12,9 +12,10 @@ The punishment that is prophesied in this chapter will happen quickly. The autho
 
 ##### Israel restored #####
 
-God will bring his people back from captivity. Even though the punishment of Judah will be great, Yahweh promised a future restoration. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/other/restore]])
+God will bring his people back from captivity. Even though the punishment of Judah will be great, Yahweh promised a future restoration. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/restore]])
 
 ## Links: ##
 
 * __[Jeremiah 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

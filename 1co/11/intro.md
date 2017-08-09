@@ -28,4 +28,5 @@ He uses "the head" in reference to a person's actual head and as a metonym for a
 ## Links: ##
 
 * __[1 Corinthians 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

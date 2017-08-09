@@ -17,4 +17,5 @@ When the author speaks about Israel, he is now referring almost exclusively to t
 ## Links: ##
 
 * __[2 Chronicles 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

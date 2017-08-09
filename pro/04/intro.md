@@ -15,4 +15,5 @@ You may notice that wisdom is referenced using a feminine pronoun. This is a fea
 ## Links: ##
 
 * __[Proverbs 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -13,4 +13,5 @@ This is an extended metaphor describing how Christians can protect themselves fr
 ## Links: ##
 
 * __[Ephesians 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | __

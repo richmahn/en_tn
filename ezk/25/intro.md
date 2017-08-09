@@ -8,4 +8,5 @@ This chapter includes prophecies against some Gentile nations. Ammon, Moab, Edom
 ## Links: ##
 
 * __[Ezekiel 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

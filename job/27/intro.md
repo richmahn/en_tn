@@ -12,4 +12,5 @@ Despite being upset about his circumstances, Job does not curse God. Instead, he
 ## Links: ##
 
 * __[Job 27:01 Notes](./01.md)__
+
 __[<<](../26/intro.md) | [>>](../28/intro.md)__

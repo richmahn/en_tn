@@ -18,4 +18,5 @@ Yahweh is seen as very powerful. He is able to provide for his people, even thro
 ## Links: ##
 
 * __[Nehemiah 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

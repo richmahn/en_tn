@@ -21,4 +21,5 @@ The Israelites asked a few rhetorical questions of Moses. These questions were n
 ## Links: ##
 
 * __[Exodus 14:01 Notes](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

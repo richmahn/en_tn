@@ -9,4 +9,5 @@ This chapter continues the series of "woes." It speaks against ungodly or evil p
 ## Links: ##
 
 * __[Isaiah 33:01 Notes](./01.md)__
+
 __[<<](../32/intro.md) | [>>](../34/intro.md)__

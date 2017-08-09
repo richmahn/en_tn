@@ -16,4 +16,5 @@ Scholars are divided over how to understand this statement. There is debate over
 ## Links: ##
 
 * __[Exodus 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

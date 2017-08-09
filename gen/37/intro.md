@@ -15,4 +15,5 @@ The account of Joseph focuses on the power of God. God is able to protect his pe
 ## Links: ##
 
 * __[Genesis 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

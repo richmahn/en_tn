@@ -12,4 +12,5 @@ David was made the king of all Israel and was the leader of their army. He conqu
 ## Links: ##
 
 * __[1 Chronicles 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

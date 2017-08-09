@@ -8,4 +8,5 @@ The special, holy clothing mentioned in previous chapters is produced in this ch
 ## Links: ##
 
 * __[Exodus 39:01 Notes](./01.md)__
+
 __[<<](../38/intro.md) | [>>](../40/intro.md)__

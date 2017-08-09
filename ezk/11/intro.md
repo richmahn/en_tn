@@ -15,4 +15,5 @@ The people in Jerusalem used the metaphor "this city is the pot and we are the m
 ## Links: ##
 
 * __[Ezekiel 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

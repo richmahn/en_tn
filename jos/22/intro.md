@@ -13,4 +13,5 @@ The tribes east of the Jordan River said, "Let us now build an altar, not for bu
 ## Links: ##
 
 * __[Joshua 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

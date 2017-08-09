@@ -12,4 +12,5 @@ Although Israel continually sinned in the desert, God still took them to the Pro
 ## Links: ##
 
 * __[Psalms 106:1](./001.md)__
+
 __[<<](../105/intro.md) | [>>](../107/intro.md)__

@@ -7,4 +7,5 @@ The prophecy against Tyre concludes in this chapter. Tyre will be destroyed beca
 ## Links: ##
 
 * __[Ezekiel 28:01 Notes](./01.md)__
+
 __[<<](../27/intro.md) | [>>](../29/intro.md)__

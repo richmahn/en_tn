@@ -17,4 +17,5 @@ In verse 16, Yahweh is speaking; but in verse 17, Hosea starts speaking. There i
 ## Links: ##
 
 * __[Hosea 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

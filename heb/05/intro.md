@@ -19,4 +19,5 @@ This is an image used to describe maturity in Christ. It compares immature Chris
 ## Links: ##
 
 * __[Hebrews 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

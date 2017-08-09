@@ -13,4 +13,5 @@ David never wanted to hurt Saul's family. Isbosheth criticized Abner and Abner b
 ## Links: ##
 
 * __[2 Samuel 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -17,4 +17,5 @@ Suffering itself cannot lead to salvation. Scholars are divided over how to unde
 ## Links: ##
 
 * __[Acts 14:1](./01.md)__
+
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

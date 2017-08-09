@@ -12,4 +12,5 @@ This chapter prophesied the destruction of Babylon. At the time that the prophes
 ## Links: ##
 
 * __[Isaiah 47:01 Notes](./01.md)__
+
 __[<<](../46/intro.md) | [>>](../48/intro.md)__

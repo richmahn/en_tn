@@ -24,4 +24,5 @@ The author also uses the phrase "call to mind." This is a common idiom meaning "
 
 * __[1 Samuel 1:1](./01.md)__
 * __[1 Samuel intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

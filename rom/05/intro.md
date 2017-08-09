@@ -18,4 +18,5 @@ Adam was the first man and the first "son" of God. He was a creation of God and 
 ## Links: ##
 
 * __[Romans 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

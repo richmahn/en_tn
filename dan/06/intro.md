@@ -12,4 +12,5 @@ Daniel was thrown into the lions' den for praying to Yahweh, but Yahweh protecte
 ## Links: ##
 
 * __[Daniel 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

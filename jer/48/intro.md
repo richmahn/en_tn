@@ -15,4 +15,5 @@ Moab worshiped and served other gods. Despite this, Yahweh expected every nation
 ## Links: ##
 
 * __[Jeremiah 48:01 Notes](./01.md)__
+
 __[<<](../47/intro.md) | [>>](../49/intro.md)__

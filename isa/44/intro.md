@@ -12,4 +12,5 @@ There is a prophecy in this chapter that gives the name of the king who will end
 ## Links: ##
 
 * __[Isaiah 44:01 Notes](./01.md)__
+
 __[<<](../43/intro.md) | [>>](../45/intro.md)__

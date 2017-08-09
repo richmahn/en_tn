@@ -22,4 +22,5 @@ People are often pictured as sheep in scripture. In this chapter, the image of s
 
 ## Links: ##
 * __[Matthew 15:01 Notes](./01.md)__
+
 __[<<](../14/intro.md) | [>>](../16/intro.md)__

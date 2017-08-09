@@ -16,4 +16,5 @@ The food from the king included things the Jews were not allowed to eat accordin
 
 * __[Daniel 01:01 Notes](./01.md)__
 * __[Daniel intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

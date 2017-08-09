@@ -12,4 +12,5 @@ Job uses several rhetorical questions in this chapter. The purpose of these rhet
 ## Links: ##
 
 * __[Job 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

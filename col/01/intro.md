@@ -27,4 +27,5 @@ Paradox is a seemingly absurd statement, appearing to contradict itself. A parad
 
 * __[Colossians 01:01 Notes](./01.md)__
 * __[Colossians intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

@@ -13,4 +13,5 @@ David is seen to have many great qualities in this chapter. These were qualities
 ## Links: ##
 
 * __[2 Samuel 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

@@ -12,4 +12,5 @@ Eating unclean foods made a person unclean. The process of consuming these types
 ## Links: ##
 
 * __[Leviticus 11:01 Notes](./01.md)__
+
 __[<<](../10/intro.md) | [>>](../12/intro.md)__

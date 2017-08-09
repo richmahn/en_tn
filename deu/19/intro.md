@@ -16,4 +16,5 @@ The chapter describes a famous law, often called the "law of retaliation." It is
 ## Links: ##
 
 * __[Deuteronomy 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

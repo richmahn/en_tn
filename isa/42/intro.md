@@ -14,4 +14,5 @@ Israel is called Yahweh's servant. The messiah is also called the servant of Yah
 ## Links: ##
 
 * __[Isaiah 42:01 Notes](./01.md)__
+
 __[<<](../41/intro.md) | [>>](../43/intro.md)__

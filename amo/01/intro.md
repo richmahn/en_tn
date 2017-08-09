@@ -11,4 +11,5 @@ The phrase "For three sins of Judah, even for four," is used to begin each oracl
 
 * __[Amos 01:01 Notes](./01.md)__
 * __[Amos intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

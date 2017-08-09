@@ -12,4 +12,5 @@ God caused the army of Aram to hear the sound of an enormous army approaching so
 ## Links: ##
 
 * __[2 Kings 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

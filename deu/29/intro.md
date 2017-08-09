@@ -7,4 +7,5 @@ This chapter is a retelling of the covenant Yahweh made with Moses, along with i
 ## Links: ##
 
 * __[Deuteronomy 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

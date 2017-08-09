@@ -8,4 +8,5 @@ The tent of meeting, or tabernacle, mentioned in previous chapters is constructe
 ## Links: ##
 
 * __[Exodus 36:01 Notes](./01.md)__
+
 __[<<](../35/intro.md) | [>>](../37/intro.md)__

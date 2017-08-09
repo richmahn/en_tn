@@ -17,4 +17,5 @@ Some of the the prophecies in this chapter were fulfilled in Isaiah's lifetime w
 ## Links: ##
 
 * __[Isaiah 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

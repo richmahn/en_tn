@@ -11,4 +11,5 @@ Joseph's character was so upright that Pharaoh's officials went with him to Cana
 ## Links: ##
 
 * __[Genesis 50:01 Notes](./01.md)__
+
 __[<<](../49/intro.md) | __

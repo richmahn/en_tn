@@ -12,4 +12,5 @@ Esther approached the king with the utmost of respect. By doing this, her charac
 ## Links: ##
 
 * __[Esther 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

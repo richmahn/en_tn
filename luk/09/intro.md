@@ -30,4 +30,5 @@ The ULB uses this word several times in this chapter with a variety of meanings.
 ## Links: ##
 
 * __[Luke 09:01 Notes](./01.md)__
+
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

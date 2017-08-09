@@ -11,4 +11,5 @@ The Jewish council had the responsibility of maintaining order in Israel as well
 ## Links: ##
 
 * __[Acts 05:01 Notes](./01.md)__
+
 __[<<](../04/intro.md) | [>>](../06/intro.md)__

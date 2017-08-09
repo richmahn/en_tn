@@ -12,4 +12,5 @@ In the latter part of the chapter, it is important to follow the conversation ca
 ## Links: ##
 
 * __[Amos 07:01 Notes](./01.md)__
+
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

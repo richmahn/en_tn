@@ -7,4 +7,5 @@ This chapter is a series of sayings from Yahweh of hosts. Each saying is an enco
 ## Links: ##
 
 * __[Zechariah 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

@@ -11,4 +11,5 @@ The chapter describes the passion that can exist between a husband and a wife. T
 ## Links: ##
 
 * __[Song of Solomon 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | __

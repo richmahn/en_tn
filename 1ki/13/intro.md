@@ -12,4 +12,5 @@ People should do what God tells them to do and not what other people tell them i
 ## Links: ##
 
 * __[1 Kings 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -11,4 +11,5 @@ Under the law of Moses, people were required to offer sacrifices of animals or g
 ## Links: ##
 
 * __[1 Thessalonians 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | [>>](../03/intro.md)__

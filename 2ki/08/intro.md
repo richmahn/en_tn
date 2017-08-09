@@ -12,4 +12,5 @@ Elisha told Hazael that he would be king of Aram. Jehoram became king of Judah. 
 ## Links: ##
 
 * __[2 Kings 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

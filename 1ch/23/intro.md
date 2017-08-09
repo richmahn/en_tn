@@ -14,4 +14,5 @@ As priests, the Levites had a significant role in the construction of the temple
 ## Links: ##
 
 * __[1 Chronicles 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

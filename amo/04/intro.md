@@ -12,4 +12,5 @@ This chapter contains a repeated sentence: "Yet you have not returned to me —t
 ## Links: ##
 
 * __[Amos 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -14,4 +14,5 @@ God does not allow others to curse his people. Balaam blessed Israel twice when 
 ## Links: ##
 
 * __[Numbers 23:01 Notes](./01.md)__
+
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

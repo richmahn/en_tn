@@ -13,4 +13,5 @@ The young king of Ammon insulted David when he had David's servants shaved and c
 ## Links: ##
 
 * __[1 Chronicles 19:01 Notes](./01.md)__
+
 __[<<](../18/intro.md) | [>>](../20/intro.md)__

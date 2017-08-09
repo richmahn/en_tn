@@ -13,4 +13,5 @@ As God, Yahweh is everywhere and cannot be limited to a single space. This phras
 ## Links: ##
 
 * __[Exodus 29:01 Notes](./01.md)__
+
 __[<<](../28/intro.md) | [>>](../30/intro.md)__

@@ -12,4 +12,5 @@ When Baasha was building Ramah to blockade him, Asa asked the king of Aram to he
 ## Links: ##
 
 * __[2 Chronicles 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

@@ -14,4 +14,5 @@ Men who had Roman citizenship were given many privileges. For example, they coul
 ## Links: ##
 
 * __[Acts 25:01 Notes](./01.md)__
+
 __[<<](../24/intro.md) | [>>](../26/intro.md)__

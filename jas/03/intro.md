@@ -13,4 +13,5 @@ What a person says can reveal his spiritual state. This is because his speech ca
 ## Links: ##
 
 * __[James 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

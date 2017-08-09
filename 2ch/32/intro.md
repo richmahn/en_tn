@@ -12,4 +12,5 @@ Because Hezekiah trusted God, God rescued Jerusalem from the attacked of the Ass
 ## Links: ##
 
 * __[2 Chronicles 32:01 Notes](./01.md)__
+
 __[<<](../31/intro.md) | [>>](../33/intro.md)__

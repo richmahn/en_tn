@@ -12,4 +12,5 @@ This is a word in Hebrew, but it is usually left untranslated. The translator sh
 ## Links: ##
 
 * __[Judges 12:01 Notes](./01.md)__
+
 __[<<](../11/intro.md) | [>>](../13/intro.md)__

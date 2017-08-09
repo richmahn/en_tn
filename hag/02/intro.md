@@ -12,4 +12,5 @@ Haggai uses an extended metaphor in this chapter related to ritual cleanliness. 
 ## Links: ##
 
 * __[Haggai 02:01 Notes](./01.md)__
+
 __[<<](../01/intro.md) | __

@@ -18,4 +18,5 @@ God scolds Samuel with this rhetorical question for his unwillingness to accept 
 ## Links: ##
 
 * __[1 Samuel 16:01 Notes](./01.md)__
+
 __[<<](../15/intro.md) | [>>](../17/intro.md)__

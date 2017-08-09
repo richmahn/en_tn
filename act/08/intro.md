@@ -20,4 +20,5 @@ While "preaching" can take many forms, the general idea in this phrase is that t
 ## Links: ##
 
 * __[Acts 08:01 Notes](./01.md)__
+
 __[<<](../07/intro.md) | [>>](../09/intro.md)__

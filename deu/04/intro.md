@@ -16,4 +16,5 @@ Moses uses several rhetorical questions in this chapter. The purpose of these qu
 ## Links: ##
 
 * __[Deuteronomy 04:01 Notes](./01.md)__
+
 __[<<](../03/intro.md) | [>>](../05/intro.md)__

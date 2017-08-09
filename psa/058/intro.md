@@ -15,4 +15,5 @@ The word "Michtam" is used in the superscription for this psalm. There is much d
 ## Links: ##
 
 * __[Psalms 58:1](./001.md)__
+
 __[<<](../057/intro.md) | [>>](../059/intro.md)__

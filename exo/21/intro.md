@@ -14,4 +14,5 @@ The rules and law of this chapter are not intended to be followed by every socie
 ## Links: ##
 
 * __[Exodus 21:01 Notes](./01.md)__
+
 __[<<](../20/intro.md) | [>>](../22/intro.md)__

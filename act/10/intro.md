@@ -13,4 +13,5 @@ Peter's vision was about a Christian's freedom to eat any animal. The Jews were 
 ## Links: ##
 
 * __[Acts 10:01 Notes](./01.md)__
+
 __[<<](../09/intro.md) | [>>](../11/intro.md)__

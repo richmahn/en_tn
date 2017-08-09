@@ -11,4 +11,5 @@ There is an important teaching or prophecy about the messiah beginning in this c
 ## Links: ##
 
 * __[Isaiah 52:01 Notes](./01.md)__
+
 __[<<](../51/intro.md) | [>>](../53/intro.md)__

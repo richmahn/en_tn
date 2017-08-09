@@ -9,4 +9,5 @@ Priests who are unclean must not touch any holy thing. The things in the temple 
 ## Links: ##
 
 * __[Leviticus 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

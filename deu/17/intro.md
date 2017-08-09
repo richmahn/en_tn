@@ -11,4 +11,5 @@ Israel was not to have a king because Yahweh was their king. Knowing the sinfuln
 ## Links: ##
 
 * __[Deuteronomy 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

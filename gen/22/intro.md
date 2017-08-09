@@ -16,4 +16,5 @@ Extra care should be taken when translating "testing." It is best to avoid using
 ## Links: ##
 
 * __[Genesis 22:01 Notes](./01.md)__
+
 __[<<](../21/intro.md) | [>>](../23/intro.md)__

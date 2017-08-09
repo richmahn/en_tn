@@ -19,4 +19,5 @@ There are many different metaphors in this chapter. Paul uses these metaphors to
 ## Links: ##
 
 * __[1 Corinthians 13:01 Notes](./01.md)__
+
 __[<<](../12/intro.md) | [>>](../14/intro.md)__

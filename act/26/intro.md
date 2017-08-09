@@ -20,4 +20,5 @@ The text does not make it explicitly clear, but this is Jesus in physical form, 
 ## Links: ##
 
 * __[Acts 26:01 Notes](./01.md)__
+
 __[<<](../25/intro.md) | [>>](../27/intro.md)__

@@ -13,4 +13,5 @@ It is unclear why the life is described as being in the blood. It is possible th
 ## Links: ##
 
 * __[Leviticus 17:01 Notes](./01.md)__
+
 __[<<](../16/intro.md) | [>>](../18/intro.md)__

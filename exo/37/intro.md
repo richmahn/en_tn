@@ -8,4 +8,5 @@ The ark, mentioned in previous chapters, is constructed in this chapter. There a
 ## Links: ##
 
 * __[Exodus 37:01 Notes](./01.md)__
+
 __[<<](../36/intro.md) | [>>](../38/intro.md)__

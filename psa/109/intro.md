@@ -12,4 +12,5 @@ This enemy lied about the psalmist. So he asked God to completely destroy his en
 ## Links: ##
 
 * __[Psalms 109:1](./001.md)__
+
 __[<<](../108/intro.md) | [>>](../110/intro.md)__

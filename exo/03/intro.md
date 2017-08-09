@@ -17,4 +17,5 @@ The name Yahweh is sacred in the Hebrew religion. It is the personal name of God
 ## Links: ##
 
 * __[Exodus 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

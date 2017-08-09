@@ -12,4 +12,5 @@ All creation, including humans, should praise God for his greatness.
 ## Links: ##
 
 * __[Psalms 148:1](./001.md)__
+
 __[<<](../147/intro.md) | [>>](../149/intro.md)__

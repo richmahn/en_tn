@@ -17,4 +17,5 @@ Jesus refers to himself as the "Son of Man" in this passage. It may not be possi
 ## Links: ##
 
 * __[John 03:01 Notes](./01.md)__
+
 __[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -37,4 +37,5 @@ This is a phrase in Hebrew or Aramaic. Luke does not "translate" this phrase int
 
 * __[Acts 01:01 Notes](./01.md)__
 * __[Acts intro](../front/intro.md)__
+
 __| [>>](../02/intro.md)__

@@ -20,4 +20,5 @@ The way Yahweh speaks in this chapter shows the inevitability of the punishment 
 ## Links: ##
 
 * __[Isaiah 06:01 Notes](./01.md)__
+
 __[<<](../05/intro.md) | [>>](../07/intro.md)__

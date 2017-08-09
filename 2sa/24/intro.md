@@ -8,4 +8,5 @@ David ordered the leaders of his army to count how many men of fighting age ther
 ## Links: ##
 
 * __[2 Samuel 24:01 Notes](./01.md)__
+
 __[<<](../23/intro.md) | __
