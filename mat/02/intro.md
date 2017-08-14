@@ -14,7 +14,7 @@ This is probably a reference to a star that the learned men believed to be the s
 
 ##### "Learned men" #####
 
-English translations use many different words to translate this phrase. These terms include "magi" and "wise men." These men could have been scientists or astrologers. It is best to translate this with the generic term, "learned men," if possible.
+English translations use many different words to translate this phrase. These terms include "magi" and "wise men." These men could have been scientists or astrologers. It is best to translate this with the generic term "learned men," if possible.
 
 ## Links: ##
 * __[Matthew 02:01 Notes](./01.md)__
