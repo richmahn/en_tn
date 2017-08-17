@@ -1,8 +1,8 @@
 dublin_core:
   conformsto: 'rc0.2'
   contributor:
-  - 'Wycliffe Associates'
-  creator: 'Wycliffe Associates'
+  - 'Door43 World Missions Community'
+  creator: 'Door43 World Missions Community'
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
   format: 'text/markdown'
   identifier: 'tn'
@@ -28,7 +28,7 @@ dublin_core:
 
 checking:
   checking_entity:
-  - 'Wycliffe Associates'
+  - 'unfoldingWord'
   checking_level: '3'
 
 projects:
