@@ -8,23 +8,23 @@ A large section of this chapter discusses Jesus' sending of the twelve disciples
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The twelve disciples #####=
+##### The twelve disciples #####
 
-The following are the list of the twelve disciples:
+The following are the lists of the twelve disciples:
 In Matthew: 
 Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddeus, Simon the Zealot and Judas Iscariot.
 
 In Mark:
-Simon (Peter), Andrew, James the son of Zebedee, and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, 
+Simon (Peter), Andrew, James the son of Zebedee and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot. 
 
 In Luke:
-Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James, the son of Alphaeus, Simon, who was called the Zealot, Judas, the son of James, and Judas Iscariot,
+Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon (who was called the Zealot), Judas the son of James, and Judas Iscariot.
 
 It is probable that Thaddaeus and Jude, the son of James, are two names of the same person. 
 
 ##### "The kingdom of heaven is near" #####
 
-This phrase has great theological significance. Scholars often debate whether the "kingdom of heaven" was present at this time or still coming. English translations frequently use the phrase "at hand," but this can create difficulty in translating. Other translations use the phase "is coming near" and "has come near." 
+This phrase has great theological significance. Scholars often debate whether the "kingdom of heaven" was present at that time or was still to come. English translations frequently use the phrase "is at hand," but this can create difficulty in translating. Other translations use "is coming near" or "has come near." 
 
 ## Links: ##
 * __[Matthew 10:01 Notes](./01.md)__
