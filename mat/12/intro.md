@@ -1,6 +1,6 @@
 # Matthew 12 General Notes #
 
-=##### Structure and Formatting #####
+#### Structure and Formatting ####
 
 Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 12:18-21, which is a quotation from the Old Testament.
 
