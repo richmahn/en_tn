@@ -12,7 +12,7 @@ The "traditions of the elders," that is, the oral laws, are an important concept
 
 ##### Jews and Gentiles #####
 
-The Canaanite woman's trust in Jesus contrasted great with the Jewish leaders' refusal to accept him. This contrast served as a strong rebuke of those leaders.
+The Canaanite woman's trust in Jesus contrasted greatly with the Jewish leaders' refusal to accept him. This contrast served as a strong rebuke of those leaders.
 
 #### Other possible translation difficulties in this chapter ####
 
