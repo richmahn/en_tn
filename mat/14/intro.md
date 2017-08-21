@@ -1,4 +1,4 @@
-====== Matthew 14 General Notes======
+# Matthew 14 General Notes #
 
 #### Structure and formatting ####
 
