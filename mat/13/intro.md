@@ -12,8 +12,8 @@ This chapter begins a new section. It contains some of Jesus' parables about the
 
 A parable is a short story used to illustrate a moral or religious lesson. In this chapter, the parables, reveal truth about the kingdom of heaven to those who have faith in Jesus. They also conceal these same truths from those who reject Jesus ([Matthew 13:11-13](./10.md)). These parables usually take the form of stories.
 
-==Synecdoche and Merism ==
-In this chapter, Matthew references the eyes seeing and the ears hearing. This chapter uses these figures of speech to encourage his reader to understand these parable's lessons.
+##### Synecdoche #####
+In this chapter, Jesus refers to the eyes seeing and the ears hearing. He uses these figures of speech to encourage his listeners to understand the lessons of these parables.
 
 ## Links: ##
 * __[Matthew 13:01 Notes](./01.md)__
