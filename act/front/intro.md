@@ -6,7 +6,7 @@
 
 1. The beginning of the church and its mission (1:1–2:41)
 1. The early church in Jerusalem (2:42–6:7)
-1. Rising opposition and the martyrdom of Steven (6:8–7:60)
+1. Increasing opposition and the martyrdom of Steven (6:8–7:60)
 1. The persecution of the church and Philip's ministry (8:1–40)
 1. Paul becomes an apostle (9:1–31)
 1. The ministry of Peter and the first Gentile converts (9:32–12:24)
@@ -16,11 +16,11 @@
 
 #### What is the Book of Acts about? ####
 
-The Book of Acts tells the story of the early church as more and more people became believers. It shows the power of God and the Holy Spirit helping the early Christians. The book describes the events that happened from when Jesus went back to heaven until about thirty years later.
+The Book of Acts tells the story of the early church as more and more people became believers. It shows the power of God and the Holy Spirit helping the early Christians. The events in this book began when Jesus went back to heaven and ended about thirty years later.
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose to alter this title as, for example, "The Acts of the Holy Spirit through the Apostles." 
+Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose to alter this title. One example is, "The Acts of the Holy Spirit through the Apostles." 
 
 #### Who wrote the Book of Acts? ####
 
@@ -32,7 +32,7 @@ Luke was a medical doctor. His way of writing shows that he was an educated man.
 
 #### What is the Church? ####
 
-The Church is the group of people who believe in Christ. The Church includes both Jew and Gentile believers. The events in this book show God helping the Church. He empowered believers to live righteous live through his Holy Spirit.  
+The Church is a group of people who believe in Christ. The Church includes both Jew and Gentile believers. The events in this book show God helping the Church. He empowered believers to live righteous live through his Holy Spirit.  
 
 ## Part 3: Important Translation Issues ##
 
