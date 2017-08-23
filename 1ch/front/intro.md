@@ -4,9 +4,9 @@
 
 #### Outline of 1 Chronicles ####
 
-1. Genealogies
+1. Lists of descendants
     - From Adam to Jacob (1:1–2:2)
-    - Jacob's genealogy (2:2–9:44)
+    - Jacob's list of descendants (2:2–9:44)
 1. The death of Saul and the beginning of David's reign
     - The death of Saul (10:1–14)
     - The capture of Jerusalem, and the valiant men (11:1–12:40)
@@ -15,7 +15,7 @@
 
 #### What are 1 and 2 Chronicles about? ####
 
-The purpose of 1 and 2 Chronicles was to retell the genealogy of Adam to Jacob, and the history of Israel leading up to the death of David. These books were probably written for the Jews who returned from exile in Babylon. The purpose was to give the people instructions on how to avoid repeating the sins of their ancestors who were unfaithful to the covenant with Yahweh.
+First Chronicles retold the list of descendants from Adam to Jacob. It then retold the list of descendants from Jacob to the first king of Israel. Second Chronicles retold the history of Israel from the time of Solomon. It ended when the Babylonian army attacked Judah and took some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to instruct the people to avoid disobeying God as their ancestors did.
 
 #### How should the titles of 1 and 2 Chronicles be translated? ####
 
