@@ -53,4 +53,4 @@ The writers of 1 and 2 Chronicles often wrote about "seeking God." To "seek God"
 
 #### What does the phrase "to this day" mean? ####
 
-The writers used the phrase "to this day" to refer to the time when he was writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in 1 Chronicles 4:41, 43; 5:26; 13:11; 20:26; 21:10; 35:25.
+The writers used the phrase "to this day" to refer to the time when they were writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in 1 Chronicles 4:41, 43; 5:26; 13:11; 20:26; 21:10; 35:25.
