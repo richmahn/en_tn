@@ -27,9 +27,10 @@ It is uncertain who wrote these books. The writers of Chronicles mentioned that 
 
 #### Why are there multiple books which give the history of the kings of Israel? ####
 
-Though the Books of 1 and 2 Chronicles cover much of the same history as the Books of 1 and 2 Kings, they do not repeat everything. The purpose of 1 and 2 Chronicles was not simply to retell the history of Israel and Judah by repeating the books of 1 and 2 Kings. Instead, the writers of these books want to reassure the people that Yahweh would still be faithful to his covenant with them.
+The books of Chronicles and the books of Kings told much of the same history, but they are not exactly the same. The writers of Chronicles were not simply retelling history. They wanted the people to know that Yahweh will still do what he promised in his covenant.
 
-The Books of 1 and 2 Chronicles focus on David and Solomon and the reformation that Jehoshaphat, Hezekiah, and Josiah accomplished. Those reformations were to encourage all the people of Yahweh and their leaders to obey the Law and to honor his covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+The writers of 1 and 2 Chronicles wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God's covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the role of divine retribution in 1 and 2 Chronicles? ####
