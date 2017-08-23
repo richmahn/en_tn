@@ -29,28 +29,28 @@ It is uncertain who wrote these books. The writers of Chronicles mentioned that 
 
 The books of Chronicles and the books of Kings told much of the same history, but they are not exactly the same. The writers of Chronicles were not simply retelling history. They wanted the people to know that Yahweh will still do what he promised in his covenant.
 
-The writers of 1 and 2 Chronicles wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God's covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+The writers of 1 and 2 Chronicles wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshaphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God's covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What is the role of divine retribution in 1 and 2 Chronicles? ####
+#### Why did God punish the people of Israel? ####
 
-Retribution is righteous punishment of those who deserve it. This is an important theme in 1 and 2 Chronicles. There is a record of the fulfillment of the promise to bless those who bless Israel and to curse those who curse Israel. The author attempts to show the reader God's blessing or judgment being given to each generation in accordance with their obedience or disobedience of Yahweh's commands. (See: [[rc://en/tw/dict/bible/kt/righteous]])
+God punished the people of Israel because they disobeyed him and worshiped false gods. God punished the people by causing disasters and causing them to lose in battle. However, God forgave the people and caused them to prosper again if they repented and obeyed him. The writers of 1 and 2 Chronicles continually reminded the readers that God punished his people because they disobeyed. They wanted the readers to understand that they must obey God or he will punish them also.
 
 #### Why are alliances with foreign countries seen as evil in these books? ####
 
-Yahweh was the true leader of Israel and the protector of the nation. He was the one who should have been trusted, instead of the neighboring nations.
+Yahweh was the true leader of Israel and the protector of their nation. The people of Israel should have trusted him instead of relying on other nations to protect them.
 
 ## Part 3: Important Translation Issues ##
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah.
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah.
 
 #### What does it mean to "seek God?" ####
 
-The concept of seeking God is very common in 1 and 2 Chronicles. It does not imply that God is hidden; instead, it is a command to seek to please and honor God. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+The writers of 1 and 2 Chronicles often wrote about "seeking God." To "seek God" means to make an effort to please and honor God. It can also mean to ask God for help. It does not imply that God is hidden. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### What does the phrase "to this day" mean? ####
 
-This phrase was used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in 2 Chronicles 5:9; 8:8; 10:19; 20:26; 21:10; 35:25.
+The writers used the phrase "to this day" to refer to the time when they were writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in 1 Chronicles 4:41, 43; 5:26; 13:11; 20:26; 21:10; 35:25.
