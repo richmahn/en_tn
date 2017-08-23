@@ -16,27 +16,29 @@
 
 #### What is the Book of Acts about? ####
 
-The Book of Acts tells the story of the growth and development of the early church. It shows the Holy Spirit guiding and helping early Christians. The book describes the growth of the church for about thirty years after Jesus' ascension into heaven. It shows the power of God and the Holy Spirit at work in the early church. 
+The Book of Acts tells the story of the early church as more and more people became believers. It shows the power of God and the Holy Spirit helping the early Christians. The book describes the events that happened from when Jesus went back to heaven until about thirty years later.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose to modify this title as, for example, "The Acts of the Holy Spirit through the Apostles." 
+Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose to alter this title as, for example, "The Acts of the Holy Spirit through the Apostles." 
 
 #### Who wrote the Book of Acts? ####
 
-This book does not give the reader the name of the author. Since early Christian times, however, it has generally been believed that the author was Luke because he was the only person who could be included in the passages using the word "we." Luke was a medical doctor; his way of writing shows that he was an educated man. He was probably a Gentile who was friendly to Judaism, but he was probably not a convert to Judaism. Although he was not an eyewitness to the ministry of Jesus, he did see many of the events that he describes in the Book of Acts.
+This book does not give the reader the name of the author. In parts of the book, the author uses the word "we." This indicates that the author traveled with Paul. Since early Christian times, most Christians have believed that Luke was the one traveling with Paul and the author of this book. He was also the author of the Gospel of Luke.
+
+Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. He saw many of the events that he described in the Book of Acts.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the Church? ####
 
-The Book of Acts begins a new era in the religious history of mankind. God is no longer concerned with proper worship governed by the temple in Jerusalem. Instead, he shifts his focus from the nation of Israel to the Church, which is all those who believe in Christ. The remainder of the New Testament, after the Book of Acts, will now focus on righteous living through the Holy Spirit's power. 
+The Church is the group of people who believe in Christ. The Church includes both Jew and Gentile believers. The events in this book show God helping the Church. He empowered believers to live righteous live through his Holy Spirit.  
 
 ## Part 3: Important Translation Issues ##
 
 #### What are the major issues in the text of the Book of Acts? ####
 
-The texts of some English translations do not agree concerning what to include. This is because of the discovery of more accurate manuscripts. The following passages contain the most significant issues in the Book of Acts:
+Some English versions are different than other English versions in certain parts of Acts. This is because English versions base their translations on different manuscripts of the Bible. The following passages contain the most significant issues in the Book of Acts:
 
 * "Philip said, 'If you believe with all your heart, you may be baptized.' The Ethiopian answered, 'I believe that Jesus Christ is the Son of God.'" (Acts 8:37)
 * "They returned from there" (Acts 12:25). Some versions read, "They returned to Jerusalem (or to there)." Manuscript evidence is uncertain, but it makes more sense to think that Saul and Barnabas returned from Jerusalem to Antioch.
