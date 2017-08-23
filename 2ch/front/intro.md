@@ -23,7 +23,7 @@ You may also call this book "The Events of the Kings of Judah and Israel, Book 2
 
 #### Who wrote 1 and 2 Chronicles? ####
 
-These books seem to contain many different historical accounts that were put together. The writers of Chronicles mention other books that they took information from in their own writing. The non-biblical sources included "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
+It is uncertain who wrote these books. The writers of Chronicles mentioned that they used other books to help with their writing. The names of these other books are "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
 
 #### Why are there multiple books which give the history of the kings of Israel? ####
 
