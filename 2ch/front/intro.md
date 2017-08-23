@@ -15,7 +15,7 @@
 
 #### What are 1 and 2 Chronicles about? ####
 
-First Chronicles retold the list of descendants from Adam to Jacob. It then retold the list of descendants from Jacob to the first king of Israel. Second Chronicles retold the history of Israel from the time of Solomon. It ended when the Babylonian army attacked Judah and took some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to instruct the people to avoid disobeying God as their ancestors did.
+First Chronicles retold the list of descendants from Adam to Jacob. It then retold the list of descendants from Jacob to the first king of Israel. Second Chronicles retold the history of Israel beginning at the time of Solomon. It ended when the Babylonian army attacked Judah and took some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to instruct the people to avoid disobeying God as their ancestors did.
 
 #### How should the title of this book be translated? ####
 
