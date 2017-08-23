@@ -15,15 +15,15 @@
 
 #### What are 1 and 2 Chronicles about? ####
 
-First Chronicles retold the list of descendants from Adam to Jacob. It then retold the list of descendants from Jacob to the first king of Israel. Second Chronicles retold the history of Israel from the time of Solomon. It ended when the Babylonian army attacked Judah and took some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to instruct the people to avoid disobeying God as their ancestors did.
+First Chronicles retold the list of descendants from Adam to Jacob. It then retold the list of descendants from Jacob to the first king of Israel. Second Chronicles retold the history of Israel beginning at the time of Solomon. It ended when the Babylonian army attacked Judah and took some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to instruct the people to avoid disobeying God as their ancestors did.
 
-#### How should the titles of 1 and 2 Chronicles be translated? ####
+#### How should the title of this book be translated? ####
 
 You may also call this book "The Events of the Kings of Judah and Israel, Book 1" or "The First Book of the Events of the Kings of Judah and Israel."
 
 #### Who wrote 1 and 2 Chronicles? ####
 
-These books seem to contain many different historical accounts that were put together. The writers of Chronicles mention other books that they took information from in their own writing. The non-biblical sources included "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
+It is uncertain who wrote these books. The writers of Chronicles mentioned that they used other books to help with their writing. The names of these other books are "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
 
 #### Why are there multiple books which give the history of the kings of Israel? ####
 
