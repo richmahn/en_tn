@@ -17,7 +17,7 @@
 
 The purpose of 1 and 2 Chronicles was to retell the genealogy of Adam through Jacob's descendants until the time of the first king of Israel, and to tell the history of the kings of Israel  and Judah until the Babylonian army attacked Judah and took some of the people to Babylon. These books were probably written for the Jews who returned from exile in Babylon. The purpose was to give the people instructions on how to avoid repeating the sins of their ancestors who were unfaithful to the covenant with Yahweh.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 You may also call this book "The Events of the Kings of Judah and Israel, Book 2" or  "The Second Book of the Events of the Kings of Judah and Israel."
 
