@@ -20,7 +20,7 @@ The Book of Acts tells the story of the early church as more and more people bec
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose to alter this title. One example is, "The Acts of the Holy Spirit through the Apostles." 
+Translators may choose to call this book by its traditional title, "The Acts of the Apostles." Translators may choose a title that may be clearer, for example, "The Acts of the Holy Spirit through the Apostles." 
 
 #### Who wrote the Book of Acts? ####
 
@@ -38,14 +38,12 @@ The Church is a group of people who believe in Christ. The Church includes both 
 
 #### What are the major issues in the text of the Book of Acts? ####
 
-In certain parts of the Book of Acts, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+In certain parts of the Book of Acts, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
-* "Philip said, 'If you believe with all your heart, you may be baptized.' The Ethiopian answered, 'I believe that Jesus Christ is the Son of God'" (Acts 8:37). Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets. The ULB and UDB put it in a footnote.
+* "Philip said, 'If you believe with all your heart, you may be baptized.' The Ethiopian answered, 'I believe that Jesus Christ is the Son of God'" (Acts 8:37). Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets ([]). The ULB and UDB put it in a footnote.
 * "They returned from there" (Acts 12:25). Some versions read, "They returned to Jerusalem (or to there)." It is uncertain what was in the original text. But it makes more sense to think that Saul and Barnabas returned from Jerusalem to Antioch.
-* "he endured them" (Acts 13:18). Some versions read, "he cared for them." There is evidence that each reading is original, so translators must choose. The ULB and UDB include the first reading.
+* "he endured them" (Acts 13:18). Some versions read, "he cared for them." It is uncertain which reading is original. So, translators must choose. The ULB and UDB have the first reading.
 * "This is what the Lord says, who has done these things that have been known from ancient times." (Acts 15:17-18). Some older versions read, "This is what the Lord says, to whom are known all his deeds from ancient times."
-* "But it seemed good to Silas to remain there." (Acts 15:34) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets. The ULB and UDB put it in a footnote.
-* "And we wanted to judge him according to our law. But Lusias, the officer, came and forcibly took him out of our hands, sending him to you." (Acts 24:6b-8a) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets. The ULB and UDB put it in a footnote.
-* "When he had said these things, the Jews departed, having a great dispute among themselves." (Acts 28:29) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets. The ULB and UDB put it in a footnote. 
-
-(See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "But it seemed good to Silas to remain there." (Acts 15:34) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets ([]). The ULB and UDB put it in a footnote.
+* "And we wanted to judge him according to our law. But Lusias, the officer, came and forcibly took him out of our hands, sending him to you." (Acts 24:6b-8a) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets ([]). The ULB and UDB put it in a footnote.
+* "When he had said these things, the Jews departed, having a great dispute among themselves." (Acts 28:29) Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets ([]). The ULB and UDB put it in a footnote. (See: [[rc://en/ta/man/translate/translate-textvariants]])
