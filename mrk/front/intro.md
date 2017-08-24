@@ -7,7 +7,7 @@
 1. Introduction (1:1–13)
 1. The ministry of Jesus in Galilee
     - Early ministry (1:14–3:6)
-    - Rising popularity (3:7–5:43)
+    - Increasing popularity (3:7–5:43)
     - Moving away from Galilee and then returning (6:1–8:26)
 1. Progress toward Jerusalem, repeated times when Jesus predicts his own death; the disciples misunderstand, and Jesus teaches them how difficult it will be to follow him (8:27–10:52)
 1. Last days of ministry and preparation for final conflict in Jerusalem (11:1–13:37)
@@ -15,37 +15,45 @@
 
 #### What is the Book of Mark about? ####
 
-The Gospel according to Mark is one of four books in the New Testament that describe aspects of the life of Jesus Christ, but that focus especially on his work. The four Gospels emphasize different aspects of who Jesus was and what he did. It is probable that the book was written to defend Jesus's importance despite his shameful death like a criminal. This would have also encouraged the Christians who were being persecuted in Rome. It seems clear that Mark had mainly Gentile, non-Christian readers in mind. 
+The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote a lot about Jesus suffering and his death on the cross. He did this to enourage his readers who were being persecuted in Rome. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "The Gospel of Mark," or "The Gospel according to Mark." They may also choose a title that may be clearer, for example, "The Good News about Jesus that Mark wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Mark? ####
 
-The book does not give the reader the name of the author. Since early Christian times, however, it has been generally believed that the author was Mark, also known as John Mark, a close friend of Peter. Although Mark may not have been an eyewitness to the life of Jesus, many believe that Peter's testimony provided Mark with the information for this book. 
+The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author was Mark. Mark was also known as John Mark. He was a close friend of Peter. Mark himself may not have witnessed what Jesus said and did. But, many scholars think that Mark wrote in his gospel what Peter told him about Jesus.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What were Jesus' teaching methods? ####
 
-Jesus came to be regarded as a rabbi, a teacher of God's law, by the people. He followed some standard methods of other religious teachers in Israel: he had students, called disciples; he also made up parables, fictional stories, in order to teach various principles. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/disciple]])
+The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are fictional stories that teach various principles. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/disciple]])
 
 ## Part 3: Important Translation Issues ##
 
-#### Why does Mark often refer to Jesus as the "Son of Man"? ####
+#### What are the Synoptic Gospels? ####
 
-Mark shows Jesus as adopting this title for himself. It is a reference to Daniel 7:13–14, where a person described as "a son of man," that is, someone who looked like a human being, received authority from God to rule over the nations forever, and was to be worshiped by all people forever. Besides being human, this person must also be God, because God would never allow someone other than himself to be worshiped. Because the Jews of Jesus' time did not use "Son of Man" as a title for anyone, Jesus used it for himself to help them come to understand who he was truly was.
+The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-Translating the title "Son of Man" can be difficult in many languages. A literal translation might be very misunderstood by readers. Translators can consider alternatives, such as "The Human One." An explanatory footnote might be useful also. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+
+#### Why does Jesus refer to himself as the "Son of Man"? ####
+
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+
+Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
 #### Why does Mark frequently use terms indicating short periods of time? ####
 
-The Gospel of Mark uses the word "immediately" some forty-two times. This emphasizes the quickness of the events. This gives the reader the impression that it is a fast-paced account of the events.
+The Gospel of Mark uses the word "immediately" forty-two times. Mark does this to make the events more exciting and vivid. It moves the reader quickly from one event to the next.
 
 #### What are the major issues in the text of the Book of Mark? ####
 
-The texts of some English translations do not agree concerning what to include. This is because of the discovery of more accurate manuscripts. The following are the most significant issues in Mark:
+In certain parts of the Gospel of Mark, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "If any man has ears to hear, let him hear." (7:16)
 * "where their worm never dies and the fire is never quenched" (9:44)
@@ -53,10 +61,5 @@ The texts of some English translations do not agree concerning what to include. 
 * "And the scripture was fulfilled that says, 'He was counted with the lawless ones'" (15:28)
 * "Early on the first day of the week, after he arose, he appeared first to Mary Magdalene, from whom he had cast out seven demons. She went and told those who were with him, while they were mourning and weeping. They heard that he was alive and that he had been seen by her, but they did not believe. After these things he appeared in a different form to two other people, as they were walking out into the country. They went and told the rest of the disciples, but they did not believe them. Jesus later appeared to the Eleven as they were reclining at the table, and he rebuked them for their unbelief and hardness of heart, because they did not believe those who saw him after he rose from the dead ones. He said to them, 'Go into all the world, and preach the gospel to the entire creation. He who believes and is baptized will be saved, and he who does not believe will be condemned. These signs will go with those who believe. In my name they will cast out demons. They will speak in new languages. They will pick up snakes with their hands, and if they drink anything deadly it will not hurt them. They will lay hands on the sick, and they will get well.' After the Lord had spoken to them, he was taken up into heaven and sat down at the right hand of God. The disciples left and preached everywhere, while the Lord worked with them and confirmed the word by the miraculous signs that followed." (16:9-20)
 
-Translators are advised not to translate these passages. However, if older Bible versions exist in their region that have some of these verses, it is not wrong to translate them. If they are translated, they should be put inside square brackets ([]) to indicate that they are probably not original to Mark's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate these passages. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
-#### What are the Synoptic Gospels? ####
-
-The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. However, the authors often used the same accounts and the same teachings of Jesus to emphasize different aspects of his life, ministry, and message.
-
-When text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
