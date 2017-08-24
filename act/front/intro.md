@@ -24,7 +24,7 @@ Translators may choose to call this book by its traditional title, "The Acts of 
 
 #### Who wrote the Book of Acts? ####
 
-This book does not give the reader the name of the author. In parts of the book, the author uses the word "we." This indicates that the author traveled with Paul. Since early Christian times, most Christians have thought that Luke was the one traveling with Paul and the author of this book. He was also the author of the Gospel of Luke.
+This book does not give the reader the name of the author. In parts of the book, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke is the author of the Book of Acts. He was also the author of the Gospel of Luke.
 
 Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. He saw many of the events that he described in the Book of Acts.
 
