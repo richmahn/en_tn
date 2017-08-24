@@ -19,39 +19,39 @@
 
 #### What is the Gospel of Luke about? ####
 
-The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ, but that focus especially on his work. These four Gospels emphasize different aspects of who Jesus was and what he did. Luke probably wrote this book to produce an accurate description of the life of Jesus. 
+The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the Gospels wrote about different aspects of who Jesus was and what he did. Luke wrote his gospel for a person named Theophilus. Luke wanted to write an accurate description of the life of Jesus so that Theophilus would be certain of what is true. This Gospel is also meant to encourage all believers.  
 
-The Gospel of Luke is actually the first of two volumes written by Luke, with the book of Acts being his second book. Luke was apparently writing for Gentile readers.
-
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "The Gospel of Luke" or "The Gospel according to Luke." Or they may choose a title that may be clearer, for example, "The Good News about Jesus that Luke wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Luke? ####
 
-This book does not give the readers the name of the author. Since early Christian times, however, it has been generally believed that the author was Luke, because he is the only person who could be included in the passages using the word "we." Luke was a medical doctor; his way of writing shows that he was an educated man. He was probably a Gentile who was friendly to Judaism, but he was not a convert to Judaism. He was probably not an eyewitness to Jesus' ministry, but he says that he talked to many people who were eyewitnesses.
+This book does not give the readers the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke is the author of the gospel and the Book of Acts. 
+
+Luke was a medical doctor. his way of writing shows that he was an educated man. He was probably a Gentile. Luke himself probably did not witness what Jesus said and did. But he said that he talked to many people who did.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What are the roles of women in the Gospel of Luke? ####
 
-In the ancient Near East, the role of women in society was often minimal. For example, in ancient Israel, a woman's testimony was not usually considered in a courtroom. In the Gospel of Luke, however, women play very clear and important roles. Luke often shows women who are more faithful to God than most men. (See: [[rc://en/tw/dict/bible/kt/faithful]])
+Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. This is different than how most men at that time described women. Often, men did not value women in their society. For example, in ancient Israel, a judge would not consider a a woman's testimony in court. (See: [[rc://en/tw/dict/bible/kt/faithful]])
 
-#### Why does Luke spend a great deal of time recording the final week of Jesus' life? ####
+#### Why does Luke write so much about the final week of Jesus' life? ####
 
-The life of Jesus is important as example for Christians to follow, but it is his sacrificial death and his resurrection that are of greatest importance to Christians. Luke's focus on the events immediately prior to Jesus's death emphasizes that Jesus willingly died for the sins of humanity.
+Luke wrote a lot about the week prior to Jesus' death, because wanted the readers to understand that Jesus willingly died on the cross. Jesus gave himself as a sacrifice so that God would forgive people for disobeying him.
 
 ## Part 3: Important Translation Issues ##
 
 #### What are the Synoptic Gospels? ####
 
-The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. However, the authors often used the same accounts and the same teachings of Jesus to emphasize different aspects of his life, ministry, and message.
+The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-When text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+When the text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The follow are the most significant issues in Luke:
+In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think the ancient copies are better because they are more like what the authors of the Bible originally wrote. The following are the issues that affect the transaltion the most.
 
 * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) The ULB and UDB include this passage, but some other versions do not.
 * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) The ULB and UDB include this passage, but some other versions do not.
@@ -60,4 +60,4 @@ The following passage is not included in many modern versions. Some versions put
 
 * "For he was required to release one prisoner during the feast" (23:17)
 
-Translators are advised not to translate this passage. However, if older Bible versions exist in their region that have this passage, it is not wrong to translate it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate this passage. However, if older Bible versions exist in their region that have this passage, the translator can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
