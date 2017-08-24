@@ -19,7 +19,7 @@
 
 #### What is the Gospel of Luke about? ####
 
-The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the Gospels wrote about different aspects of who Jesus was and what he did. Luke wrote his gospel for a person named Theophilus. Luke wanted to write an accurate description of the life of Jesus so that Theophilus would be certain of what is true. This Gospel is also meant to encourage all believers.  
+The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Luke wrote his gospel for a person named Theophilus. Luke wanted to write an accurate description of the life of Jesus so that Theophilus would be certain of what is true. However, Luke expected the gospel to encourage all believers, not just Theophilus.
 
 #### How should the title of this book be translated? ####
 
@@ -47,7 +47,15 @@ Luke wrote a lot about the week prior to Jesus' death, because wanted the reader
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-When the text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+
+#### Why does Jesus refer to himself as the "Son of Man"? ####
+
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+
+Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
 #### What are the major issues in the text of the Book of Luke? ####
 
