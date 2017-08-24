@@ -16,7 +16,7 @@
 
 #### What is the Book of Acts about? ####
 
-The Book of Acts tells the story of the early church as more and more people became believers. It shows the power of God and the Holy Spirit helping the early Christians. The events in this book began when Jesus went back to heaven and ended about thirty years later.
+The Book of Acts tells the story of the early church as more and more people became believers. It shows the power of God and the Holy Spirit helping the early Christians. The events in this book began when Jesus went back to heaven and they ended about thirty years later.
 
 #### How should the title of this book be translated? ####
 
@@ -24,7 +24,7 @@ Translators may choose to call this book by its traditional title, "The Acts of 
 
 #### Who wrote the Book of Acts? ####
 
-This book does not give the reader the name of the author. In parts of the book, the author uses the word "we." This indicates that the author traveled with Paul. Since early Christian times, most Christians have believed that Luke was the one traveling with Paul and the author of this book. He was also the author of the Gospel of Luke.
+This book does not give the reader the name of the author. In parts of the book, the author uses the word "we." This indicates that the author traveled with Paul. Since early Christian times, most Christians have thought that Luke was the one traveling with Paul and the author of this book. He was also the author of the Gospel of Luke.
 
 Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. He saw many of the events that he described in the Book of Acts.
 
@@ -32,7 +32,7 @@ Luke was a medical doctor. His way of writing shows that he was an educated man.
 
 #### What is the Church? ####
 
-The Church is a group of people who believe in Christ. The Church includes both Jew and Gentile believers. The events in this book show God helping the Church. He empowered believers to live righteous live through his Holy Spirit.  
+The Church is a group of people who believe in Christ. The Church includes both Jew and Gentile believers. The events in this book show God helping the Church. He empowered believers to live righteous lives through his Holy Spirit.  
 
 ## Part 3: Important Translation Issues ##
 
