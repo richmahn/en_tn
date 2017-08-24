@@ -26,7 +26,7 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 #### Who wrote the Book of Matthew? ####
 
-The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author is Matthew. Matthew was a disciple of Jesus.
+The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author was Matthew. Matthew was a disciple of Jesus.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -36,7 +36,7 @@ Matthew spoke of the kingdom of heaven in the same way that other gospel writers
 
 #### What were Jesus' teaching methods? ####
 
-The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are fictional stories that teach various principles.
+The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are fictional stories that teach various principles. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/disciple]])
 
 ## Part 3: Important Translation Issues ##
 
@@ -48,15 +48,15 @@ The text is considered "parallel" when it is the same or almost the same among t
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
-In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
 
-Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
 #### What are the major issues in the text of the Book of Matthew? ####
 
-In certain parts of the Gospel of Matthew, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+In certain parts of the Gospel of Matthew, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "Bless those who curse you, do good to those who hate you" (5:44) 
 * "For yours is the kingdom and the power and the glory forever. Amen" (6:13)
