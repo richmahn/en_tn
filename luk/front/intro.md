@@ -27,7 +27,7 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 #### Who wrote the Book of Luke? ####
 
-This book does not give the readers the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke is the author of the gospel and the Book of Acts. 
+This book does not give the readers the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke was the author of the gospel and the Book of Acts. 
 
 Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. Luke himself probably did not witness what Jesus said and did. But he said that he talked to many people who did.
 
@@ -51,15 +51,15 @@ The text is considered "parallel" when it is the same or almost the same among t
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
-In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
 
-Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+In certain parts of the Gospel of Luke, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) The ULB and UDB include this passage, but some other versions do not.
 * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) The ULB and UDB include this passage, but some other versions do not.
