@@ -18,7 +18,7 @@
 
 #### What is the book of Matthew about? ####
 
-The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah, chosen by God to save Israel. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
+The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah. God chose him to save Israel. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 #### How should the title of this book be translated? #### 
 
@@ -26,7 +26,7 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 #### Who wrote the Book of Matthew? ####
 
-The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author is Matthew, one of Jesus' disciples. 
+The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author is Matthew. Matthew was a disciple of Jesus.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -56,7 +56,7 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Matthew? ####
 
-In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think the ancient copies are better because they are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+In certain parts of the Gospel of Matthew, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "Bless those who curse you, do good to those who hate you" (5:44) 
 * "For yours is the kingdom and the power and the glory forever. Amen" (6:13)
