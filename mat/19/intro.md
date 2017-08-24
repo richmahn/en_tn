@@ -4,7 +4,7 @@
 
 ##### Jesus' teaching about divorce #####
 
-In this chapter, Jesus teaches about divorce as a response to a challenge from Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus implicitly shows the mistakes that the religious leaders made in their traditions about marriage.
+In this chapter, Jesus teaches about divorce as a response to a challenge from Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus shows the mistakes that the religious leaders made in their traditions about marriage.
 
  
 
