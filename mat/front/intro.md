@@ -18,7 +18,7 @@
 
 #### What is the book of Matthew about? ####
 
-The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah. God chose him to save Israel. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
+The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah, and God would save Israel through him. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 #### How should the title of this book be translated? #### 
 
