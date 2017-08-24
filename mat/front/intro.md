@@ -8,7 +8,7 @@
 1. Jesus' Sermon on the Mount (Chapters 5:1–7:28)
 1. Jesus illustrates the kingdom of God through acts of healing (8:1–9:34)
 1. Jesus' teaching about mission and the kingdom (9:35–10:42)
-1. Jesus' teaching about the gospel of the kingdom of God. The rise of opposition to him (11:1–12:50)
+1. Jesus' teaching about the gospel of the kingdom of God. The beginning of opposition to Jesus. (11:1–12:50)
 1. Jesus' parables about the kingdom of God (13:1–52)
 1. Further opposition to Jesus and misunderstanding of the kingdom of God (13:53–17:57)
 1. Jesus' teaching about life in the kingdom of God (18:1–35)
@@ -18,7 +18,7 @@
 
 #### What is the book of Matthew about? ####
 
-The Gospel according to Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ, but focus especially on his work. The four Gospels emphasize different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah, chosen by God to save Israel. It seems clear that Matthew was mainly thinking about Jewish readers when he explained that Jesus fulfilled the Old Testament prophecies about the Messiah. (See: [[rc://en/tw/dict/bible/kt/christ]])
+The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah, chosen by God to save Israel. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 #### How should the title of this book be translated? #### 
 
@@ -26,29 +26,37 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 #### Who wrote the Book of Matthew? ####
 
-The book does not give the reader the name of the author. Since early Christian times, however, it has been generally believed that the author is Matthew, one of Jesus' disciples. 
+The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author is Matthew, one of Jesus' disciples. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the "kingdom of heaven?" ####
 
-Matthew speaks of "the kingdom of heaven" in the same way that other gospel writers speak of the kingdom of God. This is the teaching that God will one day rule perfectly over all people and all creation everywhere. This means that everyone to whom the blessings of God's kingdom come will completely accept his rule and will perfectly love him.
+Matthew spoke of the kingdom of heaven in the same way that other gospel writers spoke of the kingdom of God. The kingdom of heaven represents God ruling as king over all people and all creation everywhere. Those whom God accepts into his kingdom will be blessed. They will live with God forever.
 
 #### What were Jesus' teaching methods? ####
 
-Jesus came to be regarded as a rabbi, a teacher of God's law, by the people. He followed some standard methods of other religious teachers in Israel: he had students, called disciples; he also made up parables, fictional stories, in order to teach various principles.
+The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are fictional stories that teach various principles.
 
 ## Part 3: Important Translation Issues ##
 
-#### Why does Matthew often refer to Jesus as the "Son of Man"? ####
+#### What are the Synoptic Gospels? ####
 
-Matthew shows Jesus as adopting this title for himself. It is a reference to Daniel 7:13–14, where a person described as "a son of man," that is, someone who looked like a human being, received authority from God to rule over the nations forever and to be worshiped by all people forever. Besides being human, this person must also be God, because God would never allow someone other than himself to be worshiped. Because the Jews of Jesus' time did not use "Son of Man" as a title for anyone, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-Translating the title "Son of Man" can be difficult in many languages. A literal translation might be easily misunderstood by readers. Translators can consider alternatives, such as "The Human One." An explanatory footnote might be useful also.
+The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+
+#### Why does Jesus refer to himself as the "Son of Man"? ####
+
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+
+Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
 #### What are the major issues in the text of the Book of Matthew? ####
 
-The texts of some English translations do not agree concerning what to include. This is because of the discovery of more accurate manuscripts. The following are the most significant issues in Matthew:
+In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think the ancient copies are better because they are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "Bless those who curse you, do good to those who hate you" (5:44) 
 * "For yours is the kingdom and the power and the glory forever. Amen" (6:13)
@@ -57,10 +65,5 @@ The texts of some English translations do not agree concerning what to include. 
 * "For the Son of Man came to save that which was lost" (18:11)
 * "Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, while you make a show of long prayers. You will therefore receive greater condemnation." (23:14)
 
-Translators are advised not to translate these passages. However, if older Bible versions exist in their region that have some of these verses, it is not wrong to translate them. If they are translated, they should be put inside square brackets ([]) to indicate that they are probably not original to Matthew's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate these passages. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that they were probably not original to Matthew's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
-#### What are the Synoptic Gospels? ####
-
-The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. However, the authors often used the same accounts and the same teachings of Jesus to emphasize different aspects of his life, ministry, and message.
-
-When the text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
