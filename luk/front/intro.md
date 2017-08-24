@@ -29,13 +29,13 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 This book does not give the readers the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke is the author of the gospel and the Book of Acts. 
 
-Luke was a medical doctor. his way of writing shows that he was an educated man. He was probably a Gentile. Luke himself probably did not witness what Jesus said and did. But he said that he talked to many people who did.
+Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. Luke himself probably did not witness what Jesus said and did. But he said that he talked to many people who did.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What are the roles of women in the Gospel of Luke? ####
 
-Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. This is different than how most men at that time described women. Often, men did not value women in their society. For example, in ancient Israel, a judge would not consider a a woman's testimony in court. (See: [[rc://en/tw/dict/bible/kt/faithful]])
+Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. This is different than how most men at that time described women. Often, men did not value women in their society. For example, in ancient Israel, a judge would not consider a woman's testimony in court. (See: [[rc://en/tw/dict/bible/kt/faithful]])
 
 #### Why does Luke write so much about the final week of Jesus' life? ####
 
@@ -51,7 +51,7 @@ When the text is the same or almost the same among two or three gospels, it is s
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think the ancient copies are better because they are more like what the authors of the Bible originally wrote. The following are the issues that affect the transaltion the most.
+In certain parts of the Gospel of Luke, the text of modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think the ancient copies are better because they are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) The ULB and UDB include this passage, but some other versions do not.
 * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) The ULB and UDB include this passage, but some other versions do not.
@@ -60,4 +60,4 @@ The following passage is not included in many modern versions. Some versions put
 
 * "For he was required to release one prisoner during the feast" (23:17)
 
-Translators are advised not to translate this passage. However, if older Bible versions exist in their region that have this passage, the translator can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate this passage. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
