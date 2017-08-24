@@ -15,7 +15,7 @@
 
 #### What is the Book of Mark about? ####
 
-The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote a lot about Jesus suffering and his death on the cross. He did this to enourage his readers who were being persecuted in Rome. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
+The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote a lot about Jesus suffering and his death on the cross. He did this to encourage his readers who were being persecuted in Rome. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
 
 #### How should the title of this book be translated? ####
 
@@ -41,9 +41,9 @@ The text is considered "parallel" when it is the same or almost the same among t
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
-In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13–14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
 
-Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them undestand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
