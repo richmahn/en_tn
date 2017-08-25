@@ -47,7 +47,7 @@ Luke wrote a lot about the week prior to Jesus' death, because wanted the reader
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+The texts are considered "parallel" when they are the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
@@ -68,4 +68,4 @@ The following passage is not included in many modern versions. Some versions put
 
 * "For he was required to release one prisoner during the feast" (23:17)
 
-Translators are advised not to translate this passage. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate these passages. However, if in the translators' region, there are older versions of the Bible that include one or more of these passages, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
