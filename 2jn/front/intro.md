@@ -14,7 +14,7 @@
 John addressed this letter to someone he called "the chosen lady" and to "her children" (1:1). This could be a reference to a specific friend and her children, or it may refer to a church, a group of believers, in a specific place or everywhere. John's purpose in writing this letter was to encourage the believers and to warn them of false teachers who were taking advantage of their kindness. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
  
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "2 John" or "Second John." Or they may choose a clearer title, such as "The Second Letter from John" or "The Second Letter John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
