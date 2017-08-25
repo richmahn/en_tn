@@ -21,45 +21,50 @@
 
 #### What is the Gospel of John about? ####
 
-The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ, but that focus especially on his work. The four Gospels emphasize different aspects of who Jesus was and what he did. The author of this book says that he wrote it so "that people might believe that Jesus is the Christ, the Son of the living God" (20:30–31). 
+The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different apsects of who Jesus was and what he did. John said that he wrote his gospel so "that people might believe that Jesus is the Christ, the Son of the living God" (20:30–31). 
 
-John's Gospel is very different from the other three Gospels, because it focuses on the signs Jesus did to prove that what he said about himself was true. (See: [[rc://en/tw/dict/bible/kt/sign]])
+John's Gospel is very different from the other three Gospels. John does not include some of the teachings and events that the other writers included in their gospels. And, John wrote about some teachings and events that are not in the other gospels.
 
-#### How should the title of this book be translated? #### 
+John wrote a lot about the signs Jesus did to prove that what he said about himself was true. (See: [[rc://en/tw/dict/bible/kt/sign]])
+
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "The Gospel of John" or "The Gospel According to John." Or they may choose a title that may be clearer, for example, "The Good News About Jesus That John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Gospel of John? ####
 
-This book does not give the reader the name of the author. Since early Christian times, however, it has generally been believed that the author was John, one of Jesus' disciples.
+This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that John was the author. John was one of Jesus' disciples.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### Why does John spend a great deal of time recording the final week of Jesus' life? ####
+#### Why does John write so much about the final week of Jesus' life? ####
 
-The life of Jesus is important as an example for Christians to follow, but it is his sacrificial death and his resurrection that are of greatest importance to Christians. John's focus on the events immediately prior to Jesus' death emphasizes that Jesus willingly died for the sins of humanity. (See: [[rc://en/tw/dict/bible/kt/sin]])
-
-#### Why are the many references in John to "remaining" and "abiding" important? ####
-
-This language often expresses the idea of people residing somewhere, or of something existing in a certain place. Jesus' words are said to "remain" in Christians; Christians are said to "remain" in Christ and in God, and also in Jesus' love. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father and also in the believers. The Holy Spirit is also said to "remain" in the believers. 
-
-Many translators will find it impossible to literally represent these ideas in their languages. For example, John intends to express the idea of the Christian being spiritually together with Jesus. See, for example, "He who eats my flesh and drinks my blood remains in me, and I in him" (John 6:56) often must be expressed in a different manner. The UDB uses the idea of "will be joined to me," but translators will often have to find other expressions that communicate well. 
-
-In the passage, "If my words remain in you" (John 15:7), the UDB expresses this idea as, "If you live by my message." Many translators will find it possible to use this translation as a model.
+John wrote a lot about Jesus' final week. He wanted his readers to think deeply about Jesus' final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God would forgive them for sinning against him. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Part 3: Important Translation Issues ##
 
+#### What do the words "remain," "reside," and "abide" mean in the Gospel of John? ####
+
+John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. And, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
+ 
+Many translators will find it impossible to represent these ideas in their languages in exactly the same way. John intended to express the idea of the Christian being spiritually together with Jesus. For example, "He who eats my flesh and drinks my blood remains in me, and I in him" (John 6:56). The UDB uses the idea of "will be joined to me." But translators may have to find other ways of expressing the idea.
+
+In the passage, "If my words remain in you" (John 15:7), the UDB expresses this idea as, "If you live by my message." Translators may find it possible to use this translation as a model.  
+
 #### What are the major issues in the text of the Gospel of John? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The following are the most significant issues in the Gospel of John:
+In certain parts of the Gospel of John, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
 
 * "waiting for the moving of the water. For an angel of the Lord occasionally went down into the pool and stirred the water and whoever went first after the stirring of the water, was made well from the disease they had." (5:3-4)
+
+Translators are advised not to translate this passage. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it was probably not original to John's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+
 * The story of the adulterous woman (7:53–8:11)
 
-Translators are advised not to translate these passages. However, if older Bible versions exist in their region that have some of these verses, it is not wrong to translate them. If they are translated, they should be put inside square brackets ([]) to indicate that they are probably not original to John's Gospel.
+This passage is included in most older and modern versions of the Bible. But it is not in the earliest copies of the Bible. Translators are advised to translate this passage. It should be put inside of square brackets ([]) to indicate that it may not have been original to John's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
 Some old versions also have this passage:
 
 * "going through the midst of them, and so passed by" (8:59)
 
-But it is very certain that this passage was not original to the Gospel of John; it should not be included. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+But it is very certain that this passage was not original to the Gospel of John. It should not be included. (See: [[rc://en/ta/man/translate/translate-textvariants]])
