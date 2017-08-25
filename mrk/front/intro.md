@@ -15,7 +15,7 @@
 
 #### What is the Book of Mark about? ####
 
-The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote a lot about Jesus suffering and his death on the cross. He did this to encourage his readers who were being persecuted in Rome. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
+The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote a lot about Jesus' suffering and his death on the cross. He did this to encourage his readers who were being persecuted in Rome. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
 
 #### How should the title of this book be translated? ####
 
@@ -23,7 +23,7 @@ Translators may choose to call this book by its traditional title, "The Gospel o
 
 #### Who wrote the Book of Mark? ####
 
-The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author was Mark. Mark was also known as John Mark. He was a close friend of Peter. Mark himself may not have witnessed what Jesus said and did. But, many scholars think that Mark wrote in his gospel what Peter told him about Jesus.
+The book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the author was Mark. Mark was also known as John Mark. He was a close friend of Peter. Mark himself may not have witnessed what Jesus said and did. But many scholars think that Mark wrote in his gospel what Peter told him about Jesus.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -37,7 +37,7 @@ The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus t
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+The texts are considered "parallel" when they are the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
@@ -61,5 +61,5 @@ In certain parts of the Gospel of Mark, the text in modern English Bibles is dif
 * "And the scripture was fulfilled that says, 'He was counted with the lawless ones'" (15:28)
 * "Early on the first day of the week, after he arose, he appeared first to Mary Magdalene, from whom he had cast out seven demons. She went and told those who were with him, while they were mourning and weeping. They heard that he was alive and that he had been seen by her, but they did not believe. After these things he appeared in a different form to two other people, as they were walking out into the country. They went and told the rest of the disciples, but they did not believe them. Jesus later appeared to the Eleven as they were reclining at the table, and he rebuked them for their unbelief and hardness of heart, because they did not believe those who saw him after he rose from the dead ones. He said to them, 'Go into all the world, and preach the gospel to the entire creation. He who believes and is baptized will be saved, and he who does not believe will be condemned. These signs will go with those who believe. In my name they will cast out demons. They will speak in new languages. They will pick up snakes with their hands, and if they drink anything deadly it will not hurt them. They will lay hands on the sick, and they will get well.' After the Lord had spoken to them, he was taken up into heaven and sat down at the right hand of God. The disciples left and preached everywhere, while the Lord worked with them and confirmed the word by the miraculous signs that followed." (16:9-20)
 
-Translators are advised not to translate these passages. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate these passages. However, if in the translators' region, there are older versions of the Bible that include one or more of these passages, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
