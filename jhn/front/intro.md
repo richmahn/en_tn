@@ -21,7 +21,7 @@
 
 #### What is the Gospel of John about? ####
 
-The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different apsects of who Jesus was and what he did. John said that he wrote his gospel so "that people might believe that Jesus is the Christ, the Son of the living God" (20:30–31). 
+The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. John said that he wrote his gospel so "that people might believe that Jesus is the Christ, the Son of the living God" (20:30–31). 
 
 John's Gospel is very different from the other three Gospels. John does not include some of the teachings and events that the other writers included in their gospels. And, John wrote about some teachings and events that are not in the other gospels.
 
