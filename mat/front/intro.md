@@ -20,7 +20,7 @@
 
 The Gospel of Matthew is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Matthew intended to show that Jesus was the Messiah, and God would save Israel through him. Matthew often explained that Jesus fulfilled the Old Testament prophecies about the Messiah. This may indicate that he expected most of his first readers to be Jewish. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "The Gospel of Matthew," or "The Gospel according to Matthew." Or they may choose a title that may be clearer, for example, "The Good News about Jesus that Matthew wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
@@ -44,7 +44,7 @@ The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus t
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. 
 
-The text is considered "parallel" when it is the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+The texts are considered "parallel" when they are the same or almost the same among two or three gospels. When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
@@ -65,5 +65,5 @@ In certain parts of the Gospel of Matthew, the text in modern English Bibles is 
 * "For the Son of Man came to save that which was lost" (18:11)
 * "Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, while you make a show of long prayers. You will therefore receive greater condemnation." (23:14)
 
-Translators are advised not to translate these passages. However, if older Bible versions that include this passage exist in the translators' region, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that they were probably not original to Matthew's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate these passages. However, if in the translators' region, there are older versions of the Bible that include one or more of these passages, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to Matthew's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
