@@ -25,7 +25,7 @@ This book does not give the reader the name of the author. However, since early 
 
 #### Who were the people that John spoke against? ####
 
-It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that Jesus was God, but that he was not really a human with a physical body on earth. The reason for their belief was their view that the physical world was evil. John writes this letter to assure his readers that he was a true eyewitness to the life of Jesus. (See: [[rc://en/tw/dict/bible/kt/evil]])
+It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that Jesus was God, but that he was not really a human with a physical body on earth. The reason for their belief was their view that the physical world was evil. John writes this letter to assure his readers that he had seen and heard Jesus. Jesus was a real human being. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
