@@ -39,7 +39,7 @@ Luke described women in a very positive way in his gospel. For example, he often
 
 #### Why does Luke write so much about the final week of Jesus' life? ####
 
-Luke wrote a lot about the week prior to Jesus' death, because wanted the readers to understand that Jesus willingly died on the cross. Jesus gave himself as a sacrifice so that God would forgive people for disobeying him.
+Luke wrote a lot about Jesus' final week. He wanted his readers to think deeply about Jesus' final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God would forgive them for sinning against him. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Part 3: Important Translation Issues ##
 
