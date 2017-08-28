@@ -19,25 +19,27 @@
 
 #### What is the Book of 1 Corinthians about? ####
 
-1 Corinthians is a book about conflicts among believers in the church in the city of Corinth. Paul had heard many bad reports about the believers' actions. Some of their problems included theological or doctrinal issues, but most of them were about bad behavior. This letter is Paul's response and encouragement for the Christians in Corinth to live in a God-pleasing way.
+1 Corinthians is a letter that Paul wrote to the believers in the city of Corinth. Paul had heard that there were problems among the believers. They were arguing with each other. Some of them misunderstood some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleases God.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "First Corinthians" or "Paul's First Letter to the Church in Corinth." This letter is actually the first of two letters to the Corinthian Christians that are in the New Testament. There was at least one earlier letter, but that letter no longer exists. (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of 1 Corinthians? ####
 
-Paul of Tarsus was the author. He probably wrote from Ephesus after he lived for some time in Corinth and planted the church there. Paul had been known as "Saul" before his conversion to Christ, when he had been a persecutor of the church. 
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
+
+Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was the city of Corinth like? ####
 
-Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many people bought and sold goods there. This caused the city to have people from many different cultures. It was known for its immorality. Its religious practices centered on Aphrodite, the goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
+Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many people bought and sold goods there. This caused the city to have people from many different cultures. People knew that those who lived there were immoral. The people worshipped Aphrodite, the goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
 
 #### What was the problem with meat sacrificed to idols? ####
 
-Many animals were slaughtered and sacrificed to the gods in Corinth. However, much of the meat was kept by the priests and worshipers, and much of it was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
+Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kepts some of the meat. And, much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
 
 ## Part 3: Important Translation Issues ##
 
@@ -45,24 +47,24 @@ Many animals were slaughtered and sacrificed to the gods in Corinth. However, mu
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULB uses the following principles:
 
-* Sometimes the context mainly implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2)
-* Sometimes the context mainly indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
-* Sometimes the context mainly implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
+* Sometimes its meaning in a passage imples moral holiness. Especially important for understanding the gospel is the the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2)
+* Sometimes its meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
+* Sometimes its meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
 
 As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
 #### What is the meaning of "flesh?" ####
 
-Paul frequently uses the terms "flesh" or "fleshly" to refer to Christians who follow their own sinful desires. Despite the imagery, it is not the physical world which is evil. Paul also describes Christians who live righteously as "spiritual" people because they follow the guidance of the Holy Spirit. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently uses the terms "flesh" or "fleshly" to refer to Christians who do the sinful things they desire to do. Despite the imagery, it is not the physical world which is evil. Paul also describes Christians who live righteously as "spiritual" people because they do what the Holy Spirit teaches them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-This kind of expression occurs in 1:2, 30, 31; 3:1; 4:10, 15, 17; 6:11, 19; 7:22; 9:1, 2; 11:11, 25; 12:3, 9, 13, 18, 25; 14:16; 15:18, 19, 22, 31, 58; 16:19, 24. Paul means in general to express the idea of very close union with Christ and the believers. At the same time, he often intends to signal other kinds of relationships. See, for example, "those who have been dedicated in Christ Jesus" (1:2), where Paul specifically signals that Christian believers have been set apart or "dedicated" to Christ.
+This kind of expression occurs in 1:2, 30, 31; 3:1; 4:10, 15, 17; 6:11, 19; 7:22; 9:1, 2; 11:11, 25; 12:3, 9, 13, 18, 25; 14:16; 15:18, 19, 22, 31, 58; 16:19, 24. Paul meant in general to express the idea of very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "those who have been dedicated in Christ Jesus" (1:2), where Paul specifically meant that Christian believers have been set apart or "dedicated" to Christ.
 
 Please see the introduction to the Book of Romans for more details about this kind of expression.
  
 #### What are the major issues in the text of the Book of 1 Corinthians? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The follow are the most significant issues in the Book of 1 Corinthians:
+The following are the most significant textual issues in the 1 Corinthians:
 
 * "and in your spirit, which are God's." (6:20) Some older versions read in this way, although the best copies do not have this reading. 
 * "I did this even though I was not under the law myself." (9:20) The ULB and UDB read in this way. However, some older versions leave this passage out.
@@ -70,4 +72,4 @@ The text of some English translations do not agree concerning what to include. T
 * "and if I give my body to be burned." (13:3) Most versions, including the ULB and UDB, read in this way. However, some versions prefer, "and if I give my body so that I might boast."
 * "But if anyone does not recognize this, let him not be recognized." (14:38) Most versions read in this way. However, some older versions read, "But if anyone is ignorant of this, let him be ignorant." 
 
-In the case of passages that newer versions often leave out, it is not wrong for translators to include them, especially if older Bible versions in their region include them. If these passages are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to the Book of 1 Corinthians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate the passages that new translation of the Bible leave out. However, if in the translators' region there are older Bible versions that have one or more of the passages, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to 1 Corinthians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
