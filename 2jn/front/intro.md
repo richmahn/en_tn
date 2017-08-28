@@ -19,7 +19,7 @@ Translators may choose to call this book by its traditional title, "2 John" or "
 
 #### Who wrote the Book of 2 John? ####
 
-The letter does not give the reader the name of the author. The author only identifies himself as "the elder." The letter was probably written by the Apostle John near the end of his life. The content of 2 John closely resembles the content found in John's Gospel. 
+The letter does not give the reader the name of the author. The author only identified himself as "the elder." The letter was probably written by the Apostle John near the end of his life. The content of 2 John closely resembles the content found in John's Gospel. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
