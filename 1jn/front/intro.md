@@ -33,7 +33,7 @@ It is possible that the people John spoke against were those who would eventuall
 
 John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. And, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
 
-Many translators will find it impossible to represent these ideas in their languages in exactly the same way. John intended to express the idea of the Christian being spiritually together with Jesus. For example, "He who says he remains in God" (1 John 2:6) often must be expressed in a different manner. The UDB says, "If we say that we are in union with God," but translators will often have to find other expressions that communicate well. 
+Many translators will find it impossible to represent these ideas in their languages in exactly the same way. For example, John intended to express the idea of the Christian being spiritually together with God when he said, "He who says he remains in God" (1 John 2:6). The UDB says, "If we say that we are in union with God," but translators will often have to find other expressions that communicate well. 
 
 In the passage, "the word of God remains in you" (1 John 2:13), the UDB expresses this idea as, "you continue to obey what God commands." Many translators will find it possible to use this translation as a model.
 
