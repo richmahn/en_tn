@@ -47,7 +47,7 @@ Terms such as those given above are complicated to explain. It is often hard or 
 
 Translators should also remember that some of these terms have more than one meaning. The meaning will depend on how the author is using the word in that particular passage. For example, "righteousness" sometimes means that a person can perfectly obey God's law. At other times, "righteousness" means that Jesus Christ has obeyed God's law for us, and that God allows us to share in Christ's obedience.
 
-#### What does Paul mean by "a remnant" of Israel (11:5)? ####
+#### What did Paul mean by "a remnant" of Israel (11:5)? ####
 
 The idea of a "remnant" is important both in the Old Testament and for Paul. Most of the Israelites were either killed or scattered among other people when the Assyrians and then the Babylonians conquered their land. Only a relatively few Jews survived. They were known as "the remnant."
 
@@ -55,7 +55,7 @@ In 11:1-9, Paul speaks of another remnant. These are the Jews who trusted in Jes
 
 ## Part 3: Important Translation Issues ##
 
-#### What does Paul mean by being "in Christ"? ####
+#### What did Paul mean by being "in Christ"? ####
 
 The phrase "in Christ" and similar phrase occur in 3:24; 6:11, 23; 8:1,2,39; 9:1; 12:5,17; 15:17; and 16:3,7,9,10. Paul used these kinds of phrases as a metaphor to express the reality of Christian believers belonging to Jesus Christ. Belonging to Christ means the believer is saved and is made into a friend with God. The believer is also promised to live with God forever. However, this idea can be difficult to represent in many languages, so translators must become creative.
 
@@ -66,9 +66,9 @@ Nevertheless, the basic idea of our union with Jesus Christ (and with the Holy S
 #### How are the ideas of "holy," "saints" or "holy ones," and "sanctify" represented in Romans ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Romans ULB uses the following principles:
-* Sometimes its meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
-* Sometimes its meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
-* Sometimes its meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to" or "reserved for." (See: 15:16)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
+* Sometimes the meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to" or "reserved for." (See: 15:16)
 
 As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
 
