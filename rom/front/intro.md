@@ -17,47 +17,47 @@
 
 #### What is the Book of Romans about? ####
 
-Rome was the most important city in the Mediterranean area at that time. Paul wrote this letter to the Christians in Rome in order to get them ready to receive him as a visitor. He stated his purpose was to "bring about the obedience of faith" (16:26). 
+Paul wrote this letter to the Christians in Rome. Rome was the most important city in the Mediterranean area at that time. Paul wanted to get them ready to recieve him as a visitor. He stated his purpose was to "bring about the obedience of faith" (16:26).
 
-In his letter to the Christians in Rome, Paul writes the fullest description of his understanding of the gospel of Jesus Christ. He explains that God offers everyone his love and acceptance through Jesus Christ. This is true, even though there were at that time deep divisions between Jews and non-Jews.
+In this letter Paul wrote the fullest description of his understanding of the gospel of Jesus Christ. He explained that God offers everyone his love and acceptance through Jesus Christ. This is true, even though there were at that time deep divisions between Jews and non-Jews.
  
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Romans." Or they may choose a clearer title, such as "Paul's Letter to the Church in Rome," or "A Letter to the Christians in Rome." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Romans? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life, when as a Pharisee he was a determined persecutor of Christians. After he began to trust in Jesus Christ, he made a number of missionary journeys in order to preach the gospel among both Jews and non-Jews living outside the land of Israel.
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-He probably wrote this letter while he was staying in the city of Corinth in Greece, on his third missionary journey. 
+He probably wrote this letter while he was staying in the city of Corinth in Greece during his third trip through the Roman Empire.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What are the titles used to refer to Jesus? ####
 
-In Romans, Paul describes Jesus Christ by many titles and descriptions: Jesus Christ (1:1), the Seed of David (1:3), the Son of God (1:4), the Lord Jesus Christ (1:7), Christ Jesus (3:24), Propitiation (3:25), Jesus (3:26), Jesus our Lord (4:24), Lord of Hosts (9:29), a Stumbling Stone and Rock of Offence (9:33), the End of the Law (10:4), the Deliverer (11:26), Lord of the Dead and the Living (14:9), and the Root of Jesse (15:12).
+In Romans, Paul described Jesus Christ by many titles and descriptions: Jesus Christ (1:1), the Seed of David (1:3), the Son of God (1:4), the Lord Jesus Christ (1:7), Christ Jesus (3:24), Propitiation (3:25), Jesus (3:26), Jesus our Lord (4:24), Lord of Hosts (9:29), a Stumbling Stone and Rock of Offence (9:33), the End of the Law (10:4), the Deliverer (11:26), Lord of the Dead and the Living (14:9), and the Root of Jesse (15:12).
 
 #### How should theological terms in Romans be translated? ####
 
-Romans contains many theological terms that do not occur very much in the four gospels. As early Christians thought more about the meaning of Jesus Christ and his message, they realized that they needed words and expressions for new ideas, such as "justification" (5:1), "works of the law" (3:20) and "gospel" (2:16). Other such terms are "righteousness" (1:17), "grace" (1:7), "reconcile" (5:10), "salvation" (1:16), "propitiation" (3:25), "sanctification" (6:19), "glorify" (8:17) and "the old man" (6:6).
+Romans contains many theological terms that do not occur very much in the four gospels. As early Christians thought more about the meaning of Jesus Christ and his message, they realized that they needed words and expressions for new ideas. Some examples of these words are "justification" (5:1), "works of the law" (3:20) and "gospel" (2:16). Other such terms are "righteousness" (1:17), "grace" (1:7), "reconcile" (5:10), "salvation" (1:16), "propitiation" (3:25), "sanctification" (6:19), "glorify" (8:17) and "the old man" (6:6).
 
 The "key terms" dictionary can help translators understand many of these terms. Also, many of the terms are abstract concepts. (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 
-Terms such as those given above are complicated to explain. It is often hard or impossible for translators to find equivalent terms in their own languages. It can help to know that word equivalents of these terms are not necessary. Instead, translators are free to develop any short expressions they can in order to communicate these ideas. For example, the term "gospel" can be translated as "the good news about Jesus Christ." "Grace" can be translated as "God's kind gifts" or "God's acceptance of people," etc. 
+Terms such as those given above are complicated to explain. It is often hard or impossible for translators to find equivalent terms in their own languages. It can help to know that word equivalents of these terms are not necessary. Instead, translators can develop any short expressions in order to communicate these ideas. For example, the term "gospel" can be translated as "the good news about Jesus Christ." "Grace" can be translated as "God's kind gifts" or "God's acceptance of people." 
 
-Translators should also remember that some of these terms have more than one meaning, depending on the context in which it is used. For example, "righteousness" sometimes signals the idea that a person can perfectly obey God's law. At other times, "righteousness" signals the idea that Jesus Christ has obeyed God's law for us, and that God allows us to share in Christ's obedience.
+Translators should also remember that some of these terms have more than one meaning. The meaning will depend on how the author is using the word in that particular passage. For example, "righteousness" sometimes means that a person can perfectly obey God's law. At other times, "righteousness" means that Jesus Christ has obeyed God's law for us, and that God allows us to share in Christ's obedience.
 
 #### What does Paul mean by "a remnant" of Israel (11:5)? ####
 
-The idea of a "remnant" (a few people who have survived a disaster) is important both in the Old Testament and for Paul. Most of the Israelites were either killed or scattered among other people when the Assyrians and then the Babylonians conquered their land. Only a relatively few Jews survived. They were known as "the remnant."
+The idea of a "remnant" is important both in the Old Testament and for Paul. Most of the Israelites were either killed or scattered among other people when the Assyrians and then the Babylonians conquered their land. Only a relatively few Jews survived. They were known as "the remnant."
 
-In 11:1-9, Paul speaks of another remnant. These are the Jews who trusted in Jesus Christ. Because of that, God saved them.
+In 11:1-9, Paul speaks of another remnant. These are the Jews who trusted in Jesus Christ. Because of that, God saved them. (See: rc://en/tw/dict/bible/kt/remnant)
 
 ## Part 3: Important Translation Issues ##
 
 #### What does Paul mean by being "in Christ"? ####
 
-This kind of expression occurs in 3:24; 6:11, 23; 8:1,2,39; 9:1; 12:5,17; 15:17; and 16:3,7,9,10. Paul uses a metaphor ("in Christ") to express the reality of the Christian believer's relationship to Jesus Christ. In this relationship, the believer is saved, is made into a friend with God, and is promised eternity with him. However, this idea can be difficult to represent in many languages, so translators must become very creative.
+This kind of expression occurs in 3:24; 6:11, 23; 8:1,2,39; 9:1; 12:5,17; 15:17; and 16:3,7,9,10. Paul uses the metaphor ("in Christ") to express the reality of the Christian believer's relationship to Jesus Christ. In this relationship, the believer is saved, is made into a friend with God, and is promised eternity with him. However, this idea can be difficult to represent in many languages, so translators must become very creative.
 
 While expressing the believer's relationship to Christ, Paul at the same time often uses phrases such as "in Christ," "in Jesus Christ," and "in the Lord" with more specific meanings that depend on context. For example, in 3:24 ("the redemption that is in Christ Jesus"), Paul refers to the redemption that we have "because" of Jesus Christ. In 8:9 ("you are not in the flesh but in the Spirit"), Paul speaks of the believers' submission "to" the Holy Spirit. In 9:1 ("I tell the truth in Christ"), Paul means that he is telling the truth that "is in agreement with" Jesus Christ. 
 
