@@ -11,8 +11,7 @@
 
 #### What is the Book of 2 John about? ####
 
-John addressed this letter to someone he called "the chosen lady" and to "her children" (1:1). This could be a reference to a specific friend and her children, or it may refer to a church, a group of believers, in a specific place or everywhere. John's purpose in writing this letter was to encourage the believers and to warn them of false teachers who were taking advantage of their kindness. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
+John addressed this letter to someone he called "the chosen lady" and to "her children" (1:1). This could refer to a specific friend and her children. Or it could refer to a specific group of believers or to believers in general. John's purpose in writing this letter was to warn his audience about false teachers. John did not want believers helping or giving money to teachers who were not teaching what is true. (See: [[rc://en/ta/man/translate/figs-metaphor]])
  
 #### How should the title of this book be translated? ####
 
@@ -20,14 +19,14 @@ Translators may choose to call this book by its traditional title, "2 John" or "
 
 #### Who wrote the Book of 2 John? ####
 
-The letter of 2 John was probably written by the Apostle John near the end of his life. John does not identify himself as the author; instead, he calls himself "the elder." The content of 2 John closely resembles the content found in John's Gospel.
+The letter does not give the reader the name of the author. The author only identifies himself as "the elder." The letter was probably written by the Apostle John near the end of his life. The content of 2 John closely resembles the content found in John's Gospel. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is hospitality? ####
 
-Hospitality was an important concept in the Ancient Near East. It was important to be friendly towards a foreigner or outsiders and provide help to them if they needed it. John distinguishes between offering hospitality towards a well-meaning guest and giving help to a false teacher who opposes the Christian faith. 
+Hospitality was an important concept in the Ancient Near East. It was important to be friendly towards a foreigner or outsiders and provide help to them if they needed it. John wanted beleivers to offer hospitality to guest. But, he did not want believers to offer hospitality to false teachers.
 
 #### Who were the people John spoke against? ####
 
-It is possible that the people John spoke against were those who would eventually become known as "Gnostics." These people believed that Jesus was completely God but that he was not really a human with a physical body on earth. They believed this because they viewed the physical world as evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
+It is possible that the people John spoke against were those who would eventually become known as "Gnostics." These people believed that Jesus was completely God. But they did not believe that he was really a human with a physical body on earth. They believed this because they thought the physical world was evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
