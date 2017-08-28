@@ -11,9 +11,11 @@ There is a great deal of controversy regarding properly identifying this specifi
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The twelve disciples #####
+##### The twelve apostles #####
 
-The following is the list of the twelve disciples: In Matthew: Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddeus, Simon the Zealot and Judas Iscariot.
+The following are the lists of the twelve apostles found in the Bible:
+
+In Matthew: Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddeus, Simon the Zealot and Judas Iscariot.
 
 In Mark: Simon (Peter), Andrew, James the son of Zebedee, and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot,
 
