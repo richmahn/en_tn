@@ -39,7 +39,7 @@ Corinth was a major city located in ancient Greece. Because it was near the Medi
 
 #### What was the problem with meat sacrificed to idols? ####
 
-Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kepts some of the meat. And, much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
+Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kept some of the meat. And, much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
 
 ## Part 3: Important Translation Issues ##
 
@@ -47,16 +47,16 @@ Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULB uses the following principles:
 
-* Sometimes its meaning in a passage imples moral holiness. Especially important for understanding the gospel is the the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2)
-* Sometimes its meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
-* Sometimes its meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
+* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
 
 As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
 #### What is the meaning of "flesh?" ####
 
-Paul frequently uses the terms "flesh" or "fleshly" to refer to Christians who do the sinful things they desire to do. Despite the imagery, it is not the physical world which is evil. Paul also describes Christians who live righteously as "spiritual" people because they do what the Holy Spirit teaches them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who do the sinful things they desire to do. Despite the imagery, it is not the physical world which is evil. Paul also described Christians who live in a righteous was as "spiritual." This is because they do what the Holy Spirit teaches them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
 This kind of expression occurs in 1:2, 30, 31; 3:1; 4:10, 15, 17; 6:11, 19; 7:22; 9:1, 2; 11:11, 25; 12:3, 9, 13, 18, 25; 14:16; 15:18, 19, 22, 31, 58; 16:19, 24. Paul meant in general to express the idea of very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "those who have been dedicated in Christ Jesus" (1:2), where Paul specifically meant that Christian believers have been set apart or "dedicated" to Christ.
 
