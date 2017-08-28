@@ -6,7 +6,7 @@
 Mark refers to a group of people as "sinful." The Jewish leaders thought these people were sinful, but in reality it was the leaders were truly being sinful. This can be taken as irony. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-irony]])
 
 ##### Fasting and Feasting #####
-Fasting was often done during a time of repentance. It was not done during joyous times. This is used in contrast to weddings, which were a time of great joy and had a large feast. Having Jesus on the Earth was a cause of celebration for mankind.
+Fasting was often done during times of grief and repentance. It was not done during joyous times. During times of great joy and celebration, such as at weddings, people had a large feast. Having Jesus on the earth was a cause of celebration for mankind.
 
 #### Important figures of speech in this chapter ####
 
