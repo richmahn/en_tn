@@ -17,9 +17,9 @@
 
 #### What is the Book of Romans about? ####
 
-Paul wrote this letter to the Christians in Rome. Rome was the most important city in the Mediterranean area at that time. Paul wanted to get them ready to recieve him as a visitor. He stated his purpose was to "bring about the obedience of faith" (16:26).
+Paul wrote this letter to the Christians in Rome. Paul wanted to get them ready to receive him when he visits them. He stated his purpose was to "bring about the obedience of faith" (16:26).
 
-In this letter Paul wrote the fullest description of his understanding of the gospel of Jesus Christ. He explained that God offers everyone his love and acceptance through Jesus Christ. This is true, even though there were at that time deep divisions between Jews and non-Jews.
+In this letter Paul wrote the fullest description of his understanding of the gospel of Jesus Christ. He explained that God loves people and accepts them through Jesus Christ. He explained that all people have sinned, the Jew and the non-Jew, and God will forgive them and declare them righteous only if they believe in Jesus.
  
 #### How should the title of this book be translated? ####
 
@@ -66,9 +66,9 @@ Nevertheless, the basic idea of our union with Jesus Christ (and with the Holy S
 #### How are the ideas of "holy," "saints" or "holy ones," and "sanctify" represented in Romans ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Romans ULB uses the following principles:
-* Sometimes the context mainly implies moral holiness. Especially important for understanding the gospel is the fact that God views Christians as sinless because they are united to Jesus Christ. Another related fact is that that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
-* Sometimes the context mainly indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
-* Sometimes the context mainly implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to" or "reserved for." (See: 15:16)
+* Sometimes its meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God views Christians as sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
+* Sometimes its meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
+* Sometimes its meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to" or "reserved for." (See: 15:16)
 
 As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
 
@@ -77,7 +77,7 @@ As translators think about how to represent these ideas in their own versions, t
 The following are the most significant textual issues in the Book of Romans:
 
 * "he [God] works all things together for good" (8:28). Some older versions read, "All things work together for good."
-* "But if it is by grace, it is no longer by works. Otherwise grace would no longer be grace." (11:6) The best ancient copies have this reading. However, some versions read: "But if it is by works, then is it no more grace: otherwise work is no more work."
-* "May the grace of our Lord Jesus Christ be with you all. Amen." (16:24) The best ancient copies do not have this verse.
+* "But if it is by grace, it is no longer by works. Otherwise grace would no longer be grace" (11:6). The best ancient copies have this reading. However, some versions read: "But if it is by works, then is it no more grace: otherwise work is no more work."
+* "May the grace of our Lord Jesus Christ be with you all. Amen" (16:24). The best ancient copies do not have this verse.
 
-Translators are advised not to translate this last passage. However, if older Bible versions exist in their region that have it, it is not wrong to translate it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Romans. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+Translators are advised not to translate this last passage. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Romans. (See: [[rc://en/ta/man/translate/translate-textvariants]])
