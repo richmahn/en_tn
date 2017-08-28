@@ -12,10 +12,6 @@ To this day, this symbolic action is practiced in nearly all churches in remembr
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Past Events #####
-
-Parts of this chapter are a sequence of events that have already happened. In a given passage, Mark sometimes writes as if the events have already occurred while other events are still in progress (even though they are complete at the time that he writes). This can cause difficulty in translation by creating an illogical order of events. It may be necessary to make these consistent by writing as if all the events have already happened.
-
 ##### "Son of Man" #####
 
 Jesus refers to himself as the "Son of Man" in this passage.
