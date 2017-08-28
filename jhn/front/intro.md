@@ -47,7 +47,7 @@ John wrote a lot about Jesus' final week. He wanted his readers to think deeply 
 
 John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. And, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
  
-Many translators will find it impossible to represent these ideas in their languages in exactly the same way. John intended to express the idea of the Christian being spiritually together with Jesus. For example, "He who eats my flesh and drinks my blood remains in me, and I in him" (John 6:56). The UDB uses the idea of "will be joined to me." But translators may have to find other ways of expressing the idea.
+Many translators will find it impossible to represent these ideas in their languages in exactly the same way. For example, Jesus intended to express the idea of the Christian being spiritually together with him when he said, "He who eats my flesh and drinks my blood remains in me, and I in him" (John 6:56). The UDB uses the idea of "will be joined to me." But translators may have to find other ways of expressing the idea.
 
 In the passage, "If my words remain in you" (John 15:7), the UDB expresses this idea as, "If you live by my message." Translators may find it possible to use this translation as a model.  
 
