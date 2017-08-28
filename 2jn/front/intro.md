@@ -25,7 +25,7 @@ The letter does not give the reader the name of the author. The author only iden
 
 #### What is hospitality? ####
 
-Hospitality was an important concept in the Ancient Near East. It was important to be friendly towards a foreigner or outsiders and provide help to them if they needed it. John wanted beleivers to offer hospitality to guest. But, he did not want believers to offer hospitality to false teachers.
+Hospitality was an important concept in the Ancient Near East. It was important to be friendly towards a foreigner or outsiders and provide help to them if they needed it. John wanted beleivers to offer hospitality to guests. But, he did not want believers to offer hospitality to false teachers.
 
 #### Who were the people John spoke against? ####
 
