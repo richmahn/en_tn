@@ -34,7 +34,7 @@ Corinth was a major city located in ancient Greece. Because it was near the Medi
 
 #### What did Paul mean by "false apostles" (11:13)? ####
 
-These were Christian leaders who taught that Gentile Christians had to obey the law of Moses in order to follow Christ. Christian leaders had met in Jerusalem and decided on the matter (See: Acts 15). But, it is clear that there were still some groups that disagreed with what the leaders in Jerusalem decided.
+These were Jewish Christians who taught that Gentile Christians had to obey the law of Moses in order to follow Christ. Christian leaders had met in Jerusalem and decided on the matter (See: Acts 15). But, it is clear that there were still some groups that disagreed with what the leaders in Jerusalem decided.
 
 ## Part 3: Important Translation Issues ##
 
@@ -50,9 +50,9 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 
 The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-This kind of expression occurs in 1:19, 20; 2:12, 17; 3:14; 5:17, 19, 21; 10:17; 12:2, 19; and 13:4. Paul meant to express the idea of a very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "A door was opened for me in the Lord," (2:12) where Paul specifically meatn that a door was opened for Paul by the Lord.
+This kind of expression occurs in 1:19, 20; 2:12, 17; 3:14; 5:17, 19, 21; 10:17; 12:2, 19; and 13:4. Paul meant to express the idea of a very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "A door was opened for me in the Lord," (2:12) where Paul specifically meant that a door was opened for Paul by the Lord.
 
 Please see the introduction to the Book of Romans for more details about this kind of expression.
 
