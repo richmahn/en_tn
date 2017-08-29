@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### "Anointed with oil" #####
-In the ancient Near East, anointing or smearing with oil was done for people who were sick.
+In the ancient Near East, people would anoint or smear oil on sick people so that they might be healed.
 
 #### Important figures of speech in this chapter ####
 
