@@ -23,7 +23,7 @@
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "First Corinthians" or "Paul's First Letter to the Church in Corinth." This letter is actually the first of two letters to the Corinthian Christians that are in the New Testament. There was at least one earlier letter, but that letter no longer exists. (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title, "First Corinthians." Or they may choose a clearer title, such as "Paul's First Letter to the Church in Corinth." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of 1 Corinthians? ####
 
@@ -35,11 +35,11 @@ Paul started the church in Corinth. He was staying in the city of Ephesus when h
 
 #### What was the city of Corinth like? ####
 
-Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many people bought and sold goods there. This caused the city to have people from many different cultures. People knew that those who lived there were immoral. The people worshipped Aphrodite, the goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
+Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many travelers and traders came to buy and sell goods there. This caused the city to have people from many different cultures. The city was famous for having people who lived in immoral ways. The people worshipped Aphrodite, the goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
 
 #### What was the problem with meat sacrificed to idols? ####
 
-Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kept some of the meat. And, much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
+Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kept some of the meat. And much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
 
 ## Part 3: Important Translation Issues ##
 
@@ -51,14 +51,15 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
 * Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
 
-As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
+The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
+
 #### What is the meaning of "flesh?" ####
 
-Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who do the sinful things they desire to do. Despite the imagery, it is not the physical world which is evil. Paul also described Christians who live in a righteous was as "spiritual." This is because they do what the Holy Spirit teaches them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. Despite the imagery, it is not the physical world which is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-This kind of expression occurs in 1:2, 30, 31; 3:1; 4:10, 15, 17; 6:11, 19; 7:22; 9:1, 2; 11:11, 25; 12:3, 9, 13, 18, 25; 14:16; 15:18, 19, 22, 31, 58; 16:19, 24. Paul meant in general to express the idea of very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "those who have been dedicated in Christ Jesus" (1:2), where Paul specifically meant that Christian believers have been set apart or "dedicated" to Christ.
+This kind of expression occurs in 1:2, 30, 31; 3:1; 4:10, 15, 17; 6:11, 19; 7:22; 9:1, 2; 11:11, 25; 12:3, 9, 13, 18, 25; 14:16; 15:18, 19, 22, 31, 58; 16:19, 24. Paul meant to express the idea of a very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "those who have been dedicated in Christ Jesus" (1:2), where Paul specifically meant that Christian believers have been dedicated to Christ.
 
 Please see the introduction to the Book of Romans for more details about this kind of expression.
  
