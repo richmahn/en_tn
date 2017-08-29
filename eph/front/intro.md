@@ -18,34 +18,37 @@
 
 #### What is the Book of Ephesians about? ####
 
-Paul wrote this letter to the Christians in Ephesus in order to encourage them. He wanted to explain to them God's love for them in Christ Jesus. He also wanted to describe the relationship of love and trust that they now had with God and the blessings that God was giving them because they were now united with Christ. Some of these blessings were the love and unity that God gave them to have with each other. 
+Paul wrote this letter to the Christians in Ephesus to explain God's love for them in Christ Jesus. He described the blessings that God was giving them because they were now united with Christ. He also explained that all believers are united together, whether Jew or Gentile. Paul also wanted to encourage them to live in a way that pleases God.
  
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title "Ephesians," or "Paul's Letter to the Church in Ephesus," or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### What was Paul's relationship to the church in Ephesus? ####
+#### What wrote the Ephesians? ####
 
-The Apostle Paul helped to establish the church in Ephesus earlier in his ministry. He also lived in Ephesus for a year and a half and helped the church during this time.
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the church. Paul wrote this letter probably while he was in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What was the "hidden truth" that Paul mentions in the Book of Ephesians? ####
+#### What was the "hidden truth" that Paul mentioned in the Book of Ephesians? ####
 
-Paul uses six times the expression translated in the ULB as "hidden truth." By it Paul always means something that is very important that God had to reveal to human beings because they could not know it on their own. It always refers to something about God's plan of salvation: either his plan to bring unity to mankind through Christ or his plan to bring mankind to himself. Sometimes he means by it the fact that the Gentiles are now able to benefit from the promises of Christ as equals with the Jews.
+Paul used six times the expression translated in the ULB as "hidden truth." By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite mankind through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
-#### What is the relationship between salvation and righteous living? ####
+#### What did Paul say about salvation and righteous living? ####
 
-This is a major theme of this letter and many of Paul's letters in general. Christians have been shown great grace by God because they have placed their faith in Jesus. After they come to know God, their righteous living demonstrates faith in Christ instead of obedience to the Law of Moses. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/lawofmoses]]) 
+Paul said a lot about salvation and righteous living in this letter and in many of his letter. He said that God has been very kind to Christians because they believe in Jesus. Therefore, after they trust God, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
 
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
+
 In this book, the word "I" refers to Paul. The word "you" is almost always plural and refers to the believers who may read this letter. The three exceptions to this are: 5:14, 6:2, and 6:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
-#### What does Paul mean by the "new self" or the "new man"? ####
+#### What did Paul mean by the "new self" or the "new man"? ####
 
-Paul means to say that a believer in Christ is given a new nature by the Holy Spirit, God's nature (See: 4:24). This is similar to God's action in bringing Jews and non-Jews together and so creating a new people, a people belonging to himself (See: 2:15).
+Paul meant that a believer in Christ is given a new nature by the Holy Spirit, that is, God's nature (See: 4:24). This is similar to God's action in bringing Jews and non-Jews together and so creating a new people, a people belonging to himself (See: 2:15).
 
 #### How are the ideas of "holy" and "sanctify" represented in Ephesians ULB? ####
 
