@@ -22,7 +22,7 @@ Translators may choose to call this book by its traditional title, "Galatians." 
 
 #### What does it mean to "live like Jews" (2:14)? ####
 
-To "live like Jews" means to follow the law of Moses, even though one trusts in Christ. The people among the early Christians who taught that this was necessary were called "Judaizers."
+To "live like Jews" means to obey the law of Moses, even though one trusts in Christ. The people among the early Christians who taught that this was necessary were called "Judaizers."
 
 ## Part 3: Important Translation Issues ##
 
