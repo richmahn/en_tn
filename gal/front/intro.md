@@ -12,11 +12,11 @@
 
 #### What is the Book of Galatians about? ####
 
-Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teaching that said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that salvation is through faith in Jesus Christ. It is a result of the kindness of God and not a result of people doing good works. Any attempt to please God by obeying the law of Moses will bring condemnation by God. (See: [[rc://en/tw/dict/bible/kt/goodnews]], [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/works]])
+Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[rc://en/tw/dict/bible/kt/goodnews]], [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/works]])
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "Galatians," or "Paul's Letter to the Church in Galatia." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title, "Galatians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Galatia." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -28,11 +28,11 @@ To "live like Jews" means to follow the law of Moses, even though one trusts in 
 
 #### How does Paul use the terms "law" and "grace" in the Book of Galatians? ####
 
-These terms are used in a relatively unique way in Galatians. There is an important teaching in Galatians about Christian living. Under the law of Moses, righteous or holy living required a person to follow a set of rules and regulations. As Christians, holy living is now motivated by grace. This means that Christians have freedom in Christ and are not required to follow a specific set of rules. Instead, Christians are to live a holy life out of thankfulness for the grace God has shown. This is called "the law of Christ." (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/holy]])
+These terms are used in a relatively unique way in Galatians. There is an important teaching in Galatians about Christian living. Under the law of Moses, righteous or holy living required a person to follow a set of rules and regulations. As Christians, holy living is now motivated by grace. This means that Christians have freedom in Christ and are not required to follow a specific set of rules. Instead, Christians are to live a holy life because they are thankful for the grace God has shown. This is called "the law of Christ." (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/holy]])
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-This kind of expression occurs in 1:22; 2:4, 17; 3:14, 26, 28; 5:6, 10. Paul means in general to express the idea of very close union with Christ and the believers. At the same time, he often intends to signal other kinds of relationships. See, for example, "when we seek for God to justify us in Christ" (2:17), where Paul speaks of justification by means of Christ.
+This kind of expression occurs in 1:22; 2:4, 17; 3:14, 26, 28; 5:6, 10. Paul meant to express the idea of s very close union with Christ and the believers. At the same time, he often intended other meanings as well. See, for example, "when we seek for God to justify us in Christ" (2:17), where Paul spoke of being justified by means of Christ.
 
 Please see the introduction to the Book of Romans for more details about this kind of expression.
 
@@ -40,6 +40,6 @@ Please see the introduction to the Book of Romans for more details about this ki
 
 The following passage is the most significant textual issue in the Book of Galatians:
 
-* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes?" (3:1) The ULB, UDB, and the other modern versions have this reading. However, the King James version adds, "[so] that ye should not obey the truth." Translators are advised not to include this expression, because it was probably not original to the Book of Galatians.
+* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes?" (3:1) The ULB, UDB, and the other modern versions have this reading. However, older versions of the Bible add, "[so] that ye should not obey the truth." Translators are advised not to include this expression. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Galatians. (See: rc://en/ta/man/translate/translate-textvariants)
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
