@@ -24,17 +24,17 @@ Paul wrote this letter to the Christians in Ephesus to explain God's love for th
 
 Translators may choose to call this book by its traditional title "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### What wrote the Ephesians? ####
+#### Who wrote Ephesians? ####
 
 Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the church. Paul wrote this letter probably while he was in prison in Rome.
+The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul wrote this letter probably while he was in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was the "hidden truth" that Paul mentioned in the Book of Ephesians? ####
 
-Paul used six times the expression translated in the ULB as "hidden truth." By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite mankind through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+Paul used the expression translated in the ULB as "hidden truth" six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
 #### What did Paul say about salvation and righteous living? ####
 
@@ -48,24 +48,25 @@ In this book, the word "I" refers to Paul. The word "you" is almost always plura
 
 #### What did Paul mean by the "new self" or the "new man"? ####
 
-Paul meant that a believer in Christ is given a new nature by the Holy Spirit, that is, God's nature (See: 4:24). This is similar to God's action in bringing Jews and non-Jews together and so creating a new people, a people belonging to himself (See: 2:15).
+When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer recieves from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used when Paul described God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
 
 #### How are the ideas of "holy" and "sanctify" represented in Ephesians ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Ephesians ULB uses the following principles:
-* Sometimes the context mainly implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 3:5)
-* Sometimes the context mainly indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 4:12; 5:3; 6:18)
-* Sometimes the context mainly implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:1; 3:5)
 
-As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
+* Sometimes the meaning in a passasage implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 3:5)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 4:12; 5:3; 6:18)
+* Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:1; 3:5)
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
 
-This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:6, 7, 10, 13, 15, 16, 18, 21, 22; 3:5, 6, 9, 11, 12, 21; 4:1, 17, 21, 32; 5:8, 18, 19; 6:1, 10, 18, 21. Paul means to express the idea of very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+
+This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:6, 7, 10, 13, 15, 16, 18, 21, 22; 3:5, 6, 9, 11, 12, 21; 4:1, 17, 21, 32; 5:8, 18, 19; 6:1, 10, 18, 21. Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of Ephesians? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The following are the most significant issues in the Book of Ephesians:
+The following are the most significant textual issues in Ephesians:
 
 * Some early manuscripts omit "in Ephesus" (1:1) but this expression is probably in the original letter. The ULB, UDB, and many modern versions have it. 
 * "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it. If translators do choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
