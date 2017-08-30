@@ -47,9 +47,9 @@ In this book, the word "I" refers to Paul. Also, the word "you" is almost always
 
 #### Who were the "enemies of the cross of Christ" (3:18) in this letter? ####
 
-The "enemies of the cross of Christ" were probably people who called themselves believers, but they did not obey God's commands. They taught that freedom in Christ meant that believers could do whatever they desired and God would not punish them (3:19).
+The "enemies of the cross of Christ" were probably people who called themselves believers, but they did not obey God's commands. They thought that freedom in Christ meant that believers could do whatever they desired and God would not punish them (3:19).
 
-#### Why are the words "joy" and "rejoice" frequently used in this letter? ####
+#### Why were the words "joy" and "rejoice" frequently used in this letter? ####
 
 Paul was in prison when he wrote this letter (1:7). Despite his suffering, Paul said many times that he was joyful because God had been kind to him through Jesus Christ. He wanted to encourage his readers to have the same trust in Jesus Christ. (See: [[rc://en/ta/man/translate/figs-irony]])
 
