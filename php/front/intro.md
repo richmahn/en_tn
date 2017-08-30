@@ -22,9 +22,9 @@
 
 #### What is the Book of Philippians about? ####
 
-The Book of Philippians is a letter that the Apostle Paul wrote to the Christians in the area of Philippi, a city in Macedonia. The Philippians had sent Epaphroditus, one of their beloved church members, to take a gift to Paul in Rome and to help him. Epaphroditus planned to stay in Rome with Paul, but he became very ill. The Philippians had written Paul to ask about Epaphroditus; the Book of Philippians may have been Paul's reply. 
+The Book of Philippians is a letter that the Apostle Paul wrote. The letter was to the Christians in the area of Philippi, a city in Macedonia. The Philippians had sent Epaphroditus, one of their beloved church members, to take a gift to Paul in Rome and to help him. Epaphroditus planned to stay in Rome with Paul, but he became very ill. The Philippians had written Paul to ask about Epaphroditus. The Book of Philippians may have been Paul's reply. 
 
-This letter also gave Paul the opportunity to write the Philippian church about matters of importance. He sent the letter to them by means of Epaphroditus.
+This letter also gave Paul the opportunity to write the Christians in Philippi about other matters as well. He sent the letter to them by means of Epaphroditus.
 
 #### How should the title of this book be translated? ####
 
@@ -33,30 +33,30 @@ Translators may choose to call this book by its traditional title, "Philippians.
  
 ## Part 2: Important Religious and Cultural Concepts ##
 
-=== What was the city of Philippi like?===
+=== What was the city of Philippi like? ===
 
 Philippi was founded in the region of Macedonia by Philip, who was the father of Alexander the Great. The city was honored with special privileges of citizenship within the Roman Empire. This is why the idea of citizenship plays an important role in Paul's letter to the church there. He says that Christians have their "citizenship in heaven" (3:20).
 
 ## Part 3: Important Translation Issues ##
 
 ##### Singular and plural "you" #####
-In this book, the word "I" refers to Paul. Also, the word "you" is almost always plural and refers to the believers who may read this letter. The exception to this is 4:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Paul. Also, the word "you" is almost always plural and refers to the believers in Philippi. The exception to this is 4:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
-#### Who does Paul mean as the "enemies of the cross of Christ" (3:18) in this letter? ####
+#### Who did Paul mean as the "enemies of the cross of Christ" (3:18) in this letter? ####
 
 It seems likely from 3:19 that these were probably people who taught that having freedom in Christ meant that one could live however they desire to as Christians without consequences.
 
 #### Why are the words "joy" and "rejoice" frequently used in this letter? ####
 
-Paul was in prison when he wrote this letter (See: 1:7). Despite his suffering, Paul repeated said that he was joyful because of the grace of God shown through Jesus. He wanted to encourage his readers to have the same trust in Jesus Christ. (See: [[rc://en/ta/man/translate/figs-irony]])
+Paul was in prison when he wrote this letter (See: 1:7). Despite his suffering, Paul said many times that he was joyful because of the grace of God shown through Jesus. He wanted to encourage his readers to have the same trust in Jesus Christ. (See: [[rc://en/ta/man/translate/figs-irony]])
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-This kind of expression occurs in 1:1, 8, 13, 14, 26, 27; 2:1, 5, 19, 24, 29; 3:1, 3, 9, 14; 4:1, 2, 4, 7, 10, 13, 19, 21. Paul means to express the idea of very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+This kind of expression occurs in 1:1, 8, 13, 14, 26, 27; 2:1, 5, 19, 24, 29; 3:1, 3, 9, 14; 4:1, 2, 4, 7, 10, 13, 19, 21. Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of Philippians? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The following are the most significant issues in the Book of Philippians:
+The following are the most significant textual issues in Philippians:
 
 * Some versions have "Amen" at the end of the final verse in the letter (4:23). The ULB, and UDB, and other many modern versions do not.
 
