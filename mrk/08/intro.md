@@ -3,7 +3,9 @@
 #### Special concepts in this chapter ####
 
 ##### Bread #####
-Bread is a special image in this chapter. Jesus gave the people their daily need for bread as God provided manna for Israel every day in the wilderness. Mark also spoke of yeast, the ingredient that causes bread to rise before it is baked. Yeast is used as a negative metaphor in scripture. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+Bread is a special image in this chapter. When Jesus miraculously provides bread for a large crowd of people, they would have thought about when God miraculously provided food for the people of Israel when they were in the wilderness. 
+
+Yeast is the ingredient that causes bread to rise before it is baked. The scriptures use yeast as a metaphor for things that influence people. In this chapter, Jesus also uses this metaphor. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### "Adulterous generation" #####
 This is a common image in scripture used to represent a generation of God's people who were unfaithful to him. (See: [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
