@@ -57,7 +57,7 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 
 #### Was Jesus created or is he eternal? ####
 
-Jesus was not a created being but has always existed as God. Jesus is God, who became a human being. There is potential for confusion in Colossians 1:15 where it says Jesus "is the firstborn of all creation." This statment means that Jesus is dominant over all of creation. It does not mean that he was the first thing God created. Translators should be careful not to imply that Jesus is a created being.
+Jesus was not a created being but has always existed as God. Jesus is God and he became a human being. There is potential for confusion in Colossians 1:15 where it says Jesus "is the firstborn of all creation." This statment means that Jesus is dominant over all of creation. It does not mean that he was the first thing God created. Translators should be careful not to imply that Jesus is a created being.
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
