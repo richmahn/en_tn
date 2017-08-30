@@ -33,15 +33,16 @@ Translators may choose to call this book by its traditional title, "Philippians.
 Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 Paul wrote this letter while in prison in Rome.
+
 ## Part 2: Important Religious and Cultural Concepts ##
 
-=== What was the city of Philippi like? ===
+#### What was the city of Philippi like? ####
 
 Philippi was founded in the region of Macedonia by Philip, who was the father of Alexander the Great. The city was a Roman colony. This meant that the citizens of Philippi were also considered citizens of Rome. The people of Philippi were proud of being citizens of Rome. But Paul told the believers that they are citizens of heaven (3:20).
 
 ## Part 3: Important Translation Issues ##
 
-##### Singular and plural "you" #####
+#### Singular and plural "you" ####
 In this book, the word "I" refers to Paul. Also, the word "you" is almost always plural and refers to the believers in Philippi. The exception to this is 4:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
 #### Who were the "enemies of the cross of Christ" (3:18) in this letter? ####
