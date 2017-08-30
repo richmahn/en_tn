@@ -27,39 +27,45 @@
 
 #### What is the Book of Colossians about? ####
 
-Much of Paul's letter to the believers in the city of Colossae is about false teachings that they had been given. There may have been some Jewish Christians who were trying to persuade the other believers to follow the Jewish laws from the Old Testament, especially the law requiring circumcision. Paul wanted to teach them that only Christ is needed for God to accept them; teachings based on human reasoning are useless.
+Paul wrote this letter to the believers in the city of Colossae in Asia Minor. The main purpose of this letter was to defend the gospel against false teachers. He did this by praising Jesus as the image of God, the sustainer of all things, and the head of the church. Paul wanted them to understand that only Christ is needed for God to accept them.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Colossians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Colossae," or "A Letter to the Christians in Colossae." (See: [[rc://en/ta/man/translate/translate-names]])
+
+#### Who wrote Philippians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What were the religious issues that the church in Colossae struggled with? ####
 
-In the church in Colossae, there were false teachers. These people taught things contrary to scripture. Their exact teaching is unknown, but it probably involved teaching believers that it was acceptable to continue practicing their old religious customs. For those from a Jewish background, this included trying to follow the law of Moses. For those from a Gentile background, it may have included teachings that the human body was evil and that Jesus was not truly human. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
+In the church in Colossae, there were false teachers. Their exact teaching is unknown. But they probably taught their followers to worship angels and to obey strict rules about religious ceremonies. They probably also taught that a person must be circumcised and can only eat certain types of food. Paul said these teachings came from the minds of men not from God.
+ 
+#### How did Paul use the imagery of heaven and earth? ####
 
-#### How does Paul use the imagery of heaven and earth? ####
-
-In this letter, Paul frequently speaks of heaven as above and distinguishes it from the earth, which Scripture speaks of as being below. The purpose of this imagery is not to teach that things on earth are inherently evil. Instead, the Christians are to live in a way that brings honor to God who lives in heaven, which is "above." (See: [[rc://en/tw/dict/bible/kt/evil]])
+In this letter, Paul frequently spoke of heaven as above. He distinguished it from the earth, which Scripture speaks of as being below. The purpose of this imagery was to teach Christians to live in a way that honors God who lives above in heaven. Paul is not teaching that the earth or the physical world is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
 #### How are the ideas of "holy" and "sanctify" represented in Colossians in the ULB? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, the context mainly indicates a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULB uses "believer" or "believers." (See: 1:2, 12, 26)
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, these words usually indicate a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULB uses "believer" or "believers." (See: 1:2, 12, 26)
 
-#### Was Jesus created, or is he eternal? ####
+#### Was Jesus created or is he eternal? ####
 
-Jesus is God, who became a human being. It was in this way that he joined the nature of God to the nature of humanity. Jesus was not a created being, but has always existed as God. There is potential for confusion in Colossians 1:15: " (Jesus) He is the firstborn of all creation" and "The Son has first place over everything that he has created." It is important that a translation not imply that Jesus is a created being; rather, he is the God-man, the person uniting the divine nature with human nature.
+Jesus was not a created being but has always existed as God. Jesus is God, who became a human being. There is potential for confusion in Colossians 1:15 where it says Jesus "is the firstborn of all creation." This statment means that Jesus is dominant over all of creation. It does not mean that he was the first thing God created. Translators should be careful not to imply that Jesus is a created being.
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-Paul means to express the idea of very close union with Christ and the believers. Please see the introduction to the book of Romans for more details about this kind of expression.
+Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of Colossians? ####
 
-The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The following are the most significant issues in the Book of Colossians:
+The following are the most significant textual issues in the Book of Colossians:
 
 * "Grace to you and peace from God our Father" (1:2). The ULB, UDB, and many other modern versions have this reading. Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
 * "Epaphras, our beloved fellow servant, a faithful servant of Christ for us" (1:7). Many versions, including the ULB and UDB, have this reading. However, other versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you." If other versions exist in the general region, translators should consider using the reading found in those versions.
