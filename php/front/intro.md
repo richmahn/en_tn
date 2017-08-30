@@ -26,7 +26,7 @@ The Book of Philippians is a letter that the Apostle Paul wrote to the Christian
 
 This letter also gave Paul the opportunity to write the Philippian church about matters of importance. He sent the letter to them by means of Epaphroditus.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Philippians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Philippi," or "A Letter to the Christians in Philippi." (See: [[rc://en/ta/man/translate/translate-names]])
 
