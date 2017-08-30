@@ -22,33 +22,35 @@
 
 #### What is the Book of Philippians about? ####
 
-The Book of Philippians is a letter that the Apostle Paul wrote. The letter was to the Christians in the area of Philippi, a city in Macedonia. The Philippians had sent Epaphroditus, one of their beloved church members, to take a gift to Paul in Rome and to help him. Epaphroditus planned to stay in Rome with Paul, but he became very ill. The Philippians had written Paul to ask about Epaphroditus. The Book of Philippians may have been Paul's reply. 
-
-This letter also gave Paul the opportunity to write the Christians in Philippi about other matters as well. He sent the letter to them by means of Epaphroditus.
+Paul wrote this letter to the believers in Philippi, a city in Macedonia. His purpose for writing was to thank the Philippians for the gift they had sent him. He also wanted to tell them about his condition in prison and to encourage them to rejoice even if they are suffering. He also wrote to them about a man named Epaphroditus. He was the one who brought the gift to Paul. While visiting Paul, Epaphroditus became ill. So, Paul decided to send him back to Philippi. Paul encouraged the believers in Philippi to be kind to Epaphroditus and to welcome him when he returns. 
 
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Philippians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Philippi," or "A Letter to the Christians in Philippi." (See: [[rc://en/ta/man/translate/translate-names]])
 
- 
+#### Who wrote Philippians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while in prison in Rome.
 ## Part 2: Important Religious and Cultural Concepts ##
 
 === What was the city of Philippi like? ===
 
-Philippi was founded in the region of Macedonia by Philip, who was the father of Alexander the Great. The city was honored with special privileges of citizenship within the Roman Empire. This is why the idea of citizenship plays an important role in Paul's letter to the church there. He says that Christians have their "citizenship in heaven" (3:20).
+Philippi was founded in the region of Macedonia by Philip, who was the father of Alexander the Great. The city was a Roman colony. This meant that the citizens of Philippi were also considered citizens of Rome. The people of Philippi were proud of being citizens of Rome. But Paul told the believers that they are citizens of heaven (3:20).
 
 ## Part 3: Important Translation Issues ##
 
 ##### Singular and plural "you" #####
 In this book, the word "I" refers to Paul. Also, the word "you" is almost always plural and refers to the believers in Philippi. The exception to this is 4:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
-#### Who did Paul mean as the "enemies of the cross of Christ" (3:18) in this letter? ####
+#### Who were the "enemies of the cross of Christ" (3:18) in this letter? ####
 
-It seems likely from 3:19 that these were probably people who taught that having freedom in Christ meant that one could live however they desire to as Christians without consequences.
+The "enemies of the cross of Christ" were probably people who called themselves believers, but they did not obey God's commands. They taught that freedom in Christ meant that believers could do whatever they desired and God would not punish them (3:19).
 
 #### Why are the words "joy" and "rejoice" frequently used in this letter? ####
 
-Paul was in prison when he wrote this letter (See: 1:7). Despite his suffering, Paul said many times that he was joyful because of the grace of God shown through Jesus. He wanted to encourage his readers to have the same trust in Jesus Christ. (See: [[rc://en/ta/man/translate/figs-irony]])
+Paul was in prison when he wrote this letter (1:7). Despite his suffering, Paul said many times that he was joyful because God had been kind to him through Jesus Christ. He wanted to encourage his readers to have the same trust in Jesus Christ. (See: [[rc://en/ta/man/translate/figs-irony]])
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
