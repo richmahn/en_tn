@@ -34,11 +34,11 @@ The Apostle Paul helped start the church in Ephesus on one of his trips. He also
 
 #### What was the "hidden truth" that Paul mentioned in the Book of Ephesians? ####
 
-Paul used the expression translated in the ULB as "hidden truth" six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+The expression translated in the ULB as "hidden truth" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
 #### What did Paul say about salvation and righteous living? ####
 
-Paul said a lot about salvation and righteous living in this letter and in many of his letter. He said that God has been very kind to Christians because they believe in Jesus. Therefore, after they trust God, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
+Paul said a lot about salvation and righteous living in this letter and in many of his letter. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they trust God, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
 
 ## Part 3: Important Translation Issues ##
 
