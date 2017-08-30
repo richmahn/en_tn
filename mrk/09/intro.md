@@ -15,14 +15,14 @@ This phrase introduces teachings that are intended to be taken as hyperbole. Oth
 #### Other possible translation difficulties in this chapter ####
 
 ##### Elijah and Moses #####
-Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they disappear. The translator may ask: is this a vision or did they actually appear to these men in physical form? Because they were talking with Jesus, it is best to translate this passage as if they appeared physically.
+Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they disappear. The translator may ask: is this a vision or did they actually appear to these men in physical form? Because they were talking with Jesus, it is best to translate this passage in a way that implies that they appeared physically.
 
 ##### "Son of Man" #####
 Jesus refers to himself as the "Son of Man" in this passage. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Paradox #####
 
-This is a statement that seems absurd or appears to contradict itself. For example, "If anyone wants to be first, he must be last of all and servant of all." (See: [Mark 9:35](./33.md))
+A paradox is a statement that seems absurd or appears to contradict itself. For example, "If anyone wants to be first, he must be last of all and servant of all." (See: [Mark 9:35](./33.md))
 
 ## Links: ##
 
