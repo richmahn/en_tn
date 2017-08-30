@@ -10,12 +10,12 @@ The glory of God is seen as a great, brilliant light in scripture. God's grandeu
 
 ##### "It would be better" #####
 
-This phrase introduces teachings that are intended to be taken as hyperbole. Otherwise, the church would be full of people without any hands. It is best to ensure your readers know these instructions are general principles not to be taken "literally." (See: [[rc://en/ta/man/translate/figs-hyperbole]] and [Mark 9:42-48](./42.md))
+This phrase introduces teachings that are intended to be taken as hyperbole. Otherwise, the church would be full of people without any hands. It is best to ensure your readers know these instructions are general principles not to be taken literally. (See: [[rc://en/ta/man/translate/figs-hyperbole]] and [Mark 9:42-48](./42.md))
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Elijah and Moses #####
-Elijah and Moses suddenly appear and disappear to Jesus, James, John and Peter. The translator may ask: is this a vision or did they actually appear to these men in physical form? It is best to translate this passage as if they appeared physically because thy were talking with Jesus.
+Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they disappear. The translator may ask: is this a vision or did they actually appear to these men in physical form? Because they were talking with Jesus, it is best to translate this passage as if they appeared physically.
 
 ##### "Son of Man" #####
 Jesus refers to himself as the "Son of Man" in this passage. (See: [[rc://en/ta/man/translate/figs-explicit]])
