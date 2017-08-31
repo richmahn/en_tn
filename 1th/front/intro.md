@@ -18,9 +18,9 @@
 
 #### What is the Book of 1 Thessalonians about? ####
 
-Paul wrote this letter to the believers in the city of Thessalonica after he had been forced by Jewish riots to suddenly leave the city. In this letter, he explains that in spite of that event, he viewed his visit to them as a success. 
+Paul wrote this letter to the believers in the city of Thessalonica. He wrote it after the Jews in the city forced him to leave. In this letter he said he considered his visit to them a success, even though he was forced to leave.
 
-Paul is also responding in this letter to news about the Thessalonian believers that Timothy had brought him. He encourages the believers to live in a way that honors God, and in a way that they will be ready for Jesus Christ when he comes again in triumph.
+Paul also responded to the news that Timothy told him about the Thessalonian believers. He encouraged the believers to live in a way that honors God. He wanted them to be ready for Jesus Christ when he comes again.
 
 #### How should the title of this book be translated? #### 
 
@@ -30,21 +30,21 @@ Translators may choose to call this book by its traditional title, "1 Thessaloni
 
 #### What is the "second coming" of Jesus? ####
 
-The Book of 1 Thessalonians focuses on Jesus' eventual return to Earth. At this time, Christ will judge all mankind; he will also begin his full rule as king, bringing peace to all creation.
+Paul wrote a lot in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation as king. And he will cause there to be peace everywhere.
 
 #### What happens to those who die before the return of Christ? ####
 
-There are many different interpretations of the events surrounding the return of Christ. What is universally understood about Paul's teaching here is that those who died before the return of Christ will enter into the Lord's presence. This news should encourage believers.
+Paul made clear that those who die before Christ's return will come back to life and be with Jesus. They will not remain dead forever. Paul wrote this to encourage those who worried that those who died would miss the great day when Jesus returns.
 
 ## Part 3: Important Translation Issues ##
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-Paul means to express the idea of very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+Paul meant to express the idea of very a close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of 1 Thessalonians? ####
 
-The texts of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The following are the most significant issues in the Book of 1 Thessalonians:
+The following are the most significant textual issues in 1 Thessalonians:
 
 * "Grace and peace to you." (1:1) The ULB, UDB, and most other modern versions have this reading. Some older versions have the reading: "Grace and peace to you from God our Father and the Lord Jesus Christ."
 * "Instead, we were as gentle among you as a mother comforting her own children." (2:7) The ULB, UDB, and many other modern versions have this reading. Other modern versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
