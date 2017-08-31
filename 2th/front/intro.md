@@ -26,7 +26,7 @@ Paul wrote this letter while staying in the city of Corinth.
 
 #### What is the Book of 2 Thessalonians about? ####
 
-Paul wrote this letter to the believeers in the city of Thessalonica. He wrote this letter for much the same reason he wrote the first letter to them. He wanted to encourage the believers because they were being persecuted. He told them to continue living in a way that pleases God. And he wanted to teach them again about Christ's return. 
+Paul wrote this letter to the believers in the city of Thessalonica. He wrote this letter for much the same reason he wrote the first letter to them. He wanted to encourage the believers because they were being persecuted. He told them to continue living in a way that pleases God. And he wanted to teach them again about Christ's return. 
 
 #### How should the title of this book be translated? ####
 
