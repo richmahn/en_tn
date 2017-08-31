@@ -26,7 +26,7 @@ Paul wrote this letter while staying in the city of Corinth. Of all Paul's lette
 
 Paul wrote this letter to the believers in the city of Thessalonica. He wrote it after the Jews in the city forced him to leave. In this letter he said he considered his visit to them a success, even though he was forced to leave.
 
-Paul also responded to the news that Timothy told him about the Thessalonian believers. He encouraged the believers to live in a way that honors God. He wanted them to be ready for Jesus Christ when he comes again.
+Paul also responded to the news that Timothy told him about the Thessalonian believers. The believers there were being persecuted. He wanted to encourage them to continue living in a way that pleases God. And he comforted them by explaining what happens to those who die before Christ returns.
 
 #### How should the title of this book be translated? ####
 
