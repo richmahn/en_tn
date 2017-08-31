@@ -26,7 +26,7 @@ This book is the first letter Paul wrote to his disciple and close friend Timoth
 
 #### What is the Book of 1 Timothy about? ####
 
-Paul wrote this letter to Timothy. Paul had left Timothy in the city of Ephesus to help the believers there. Paul wrote this letter to instruct Timothy on various matter. The topics he addressed included church worship, qualifications for church leaders, and warnings against false teachers. This letter shows how Paul was training Timothy to be a leader among the churches. 
+Paul wrote this letter to Timothy. Paul had left Timothy in the city of Ephesus to help the believers there. Paul wrote this letter to instruct Timothy about various matters. The topics he addressed included church worship, qualifications for church leaders, and warnings against false teachers. This letter shows how Paul was training Timothy to be a leader among the churches. 
 
 #### How should the title of this book be translated? ####
 
