@@ -16,6 +16,12 @@
     - Christ's return is a motive for godly living (5:1-11)
 1. Closing blessings, thanks, and prayers (5:12-22)
 
+#### Who wrote 1 Thessalonians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while staying in the city of Corinth. Of all Paul's letters that are in the Bible, many scholars think 1 Thessalonians was the first letter Paul wrote.
+
 #### What is the Book of 1 Thessalonians about? ####
 
 Paul wrote this letter to the believers in the city of Thessalonica. He wrote it after the Jews in the city forced him to leave. In this letter he said he considered his visit to them a success, even though he was forced to leave.
@@ -25,12 +31,6 @@ Paul also responded to the news that Timothy told him about the Thessalonian bel
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "1 Thessalonians" or "First Thessalonians." They may instead prefer to choose a clearer title, such as "Paul's First Letter to the Church in Thessalonica," or "The First Letter to the Christians in Thessalonica." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote Philippians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
-
-Paul wrote this letter while staying in the city of Corinth. Of all Paul's letters that are in the Bible, many scholars think 1 Thessalonians was the first letter Paul wrote.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
