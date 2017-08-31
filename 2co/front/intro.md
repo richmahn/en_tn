@@ -10,6 +10,12 @@
 1. Paul defends his authority as an apostle (10:1-13:10)
 1. Paul gives final greetings and encouragement (13:11-14)
 
+#### Who wrote the Book of 2 Corinthians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
+
+Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
+
 #### What is the Book of 2 Corinthians about? ####
 
 In 2 Corinthians, Paul continued to write about the conflicts among the Christians in the city of Corinth. It is clear from what Paul wrote in this letter that the Corinthians had obeyed the instructions he previously gave to them. In 2 Corinthians, Paul encouraged them to live in a way that will please God. 
@@ -19,12 +25,6 @@ Paul also wrote to assure them that Jesus Christ truly did send him as an apostl
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Second Corinthians." Or they may choose a clearer title, such as "Paul's Second Letter to the Church in Corinth." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote the Book of 2 Corinthians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
-
-Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
