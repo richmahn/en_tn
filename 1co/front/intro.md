@@ -17,6 +17,12 @@
 1. The resurrection of believers and the resurrection of Christ (15:1-58)
 1. Closing: the contribution for Christians in Jerusalem, requests, and personal greetings (16:1-24)
 
+#### Who wrote the Book of 1 Corinthians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
+
+Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
+
 #### What is the Book of 1 Corinthians about? ####
 
 1 Corinthians is a letter that Paul wrote to the believers in the city of Corinth. Paul had heard that there were problems among the believers. They were arguing with each other. Some of them misunderstood some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleases God.
@@ -24,12 +30,6 @@
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "First Corinthians." Or they may choose a clearer title, such as "Paul's First Letter to the Church in Corinth." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote the Book of 1 Corinthians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
-
-Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
