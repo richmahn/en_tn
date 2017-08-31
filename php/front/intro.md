@@ -20,19 +20,19 @@
     - Values (4:8-9)
     - Contentment (4:10-20)
 
-#### What is the Book of Philippians about? ####
+#### Who wrote Philippians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while in prison in Rome.
+
+### What is the Book of Philippians about? ####
 
 Paul wrote this letter to the believers in Philippi, a city in Macedonia. His purpose for writing was to thank the Philippians for the gift they had sent him. He also wanted to tell them about his condition in prison and to encourage them to rejoice even if they are suffering. He also wrote to them about a man named Epaphroditus. He was the one who brought the gift to Paul. While visiting Paul, Epaphroditus became ill. So, Paul decided to send him back to Philippi. Paul encouraged the believers in Philippi to be kind to Epaphroditus and to welcome him when he returns. 
 
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Philippians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Philippi," or "A Letter to the Christians in Philippi." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote Philippians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
-
-Paul wrote this letter while in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
