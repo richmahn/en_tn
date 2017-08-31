@@ -22,9 +22,15 @@ Paul wrote this letter to the believers in the city of Thessalonica. He wrote it
 
 Paul also responded to the news that Timothy told him about the Thessalonian believers. He encouraged the believers to live in a way that honors God. He wanted them to be ready for Jesus Christ when he comes again.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "1 Thessalonians" or "First Thessalonians." They may instead prefer to choose a clearer title, such as "Paul's First Letter to the Church in Thessalonica," or "The First Letter to the Christians in Thessalonica." (See: [[rc://en/ta/man/translate/translate-names]])
+
+#### Who wrote Philippians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while staying in the city of Corinth. Of all Paul's letters that are in the Bible, many scholars think 1 Thessalonians was the first letter Paul wrote.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
