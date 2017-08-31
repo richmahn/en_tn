@@ -18,13 +18,17 @@
 1. Paul give commands about idle believers (3:6-15)
 1. Closing (3:16-17)
 
+#### Who wrote 2 Thessalonians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while staying in the city of Corinth.
+
 #### What is the Book of 2 Thessalonians about? ####
 
-This letter was probably written because of new information about events affecting the church in Thessalonica since Paul's first letter. It implies that there was a false letter written in the name of Paul, received by the church in Thessalonica, and that its false teaching led to some confusion. 
- 
-There are several major issues addressed in 2 Thessalonians. The first matter is the confusion that arose about the second coming of Jesus Christ. The second matter Paul addresses is the issue of idleness. Thirdly, Paul also encourages Christians who are suffering from persecution.
+Paul wrote this letter to the believeers in the city of Thessalonica. He wrote this letter for much the same reason he wrote the first letter to them. He wanted to encourage the believers because they were being persecuted. He told them to continue living in a way that pleases God. And he wanted to teach them again about Christ's return. 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "2 Thessalonians" or "Second Thessalonians." Or they may choose a clearer title, such as "Paul's Second Letter to the Church in Thessalonica," or "The Second Letter to the Christians in Thessalonica." (See: [[rc://en/ta/man/translate/translate-names]])
 
@@ -32,19 +36,17 @@ Translators may choose to call this book by its traditional title, "2 Thessaloni
 
 #### What is the "second coming" of Jesus? ####
 
-The Book of 2 Thessalonians focuses on Jesus' eventual return to Earth. At this time, mankind will be judged, Christ's kingdom will begin, and peace will reign. This letter also explains that the Antichrist, the most powerful enemy of Christ, will appear before the return of Christ. (See: [[rc://en/tw/dict/bible/kt/antichrist]])
-
-#### What are eternal rewards and punishment? ####
-
-Those who do not believe in Jesus will suffer eternal punishment after they die. Christians are saved from this punishment, but they will be rewarded based on the faithfulness of the life they lived as Christians. (See: [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/other/reward]] and [[rc://en/tw/dict/bible/kt/faithful]])
+Paul wrote a lot in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation as king. And he will cause there to be peace everywhere. Paul also explained that a "man of lawlessness" will come before Christ's return. This person will obey Satan and cause many people to oppose God. But Jesus will destroy this person when he returns.
 
 ## Part 3: Important Translation Issues ##
 
-#### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-Paul means to express the idea of very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of 2 Thessalonians? ####
+
+The following are the most significant textual issues in 2 Thessalonians:
 
 * "and the man of lawlessness is revealed" (2:3). The ULB, UDB, and most modern versions have this reading. Older versions have, "and the man of sin is revealed."
 * "For God chose you as the first fruits for salvation" (2:13) The ULB, UDB, and some other versions have this reading. Other versions have, "For God chose you from the first for salvation." If there are other versions in their region, translators should consider following their reading in this passage.
