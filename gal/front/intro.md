@@ -10,6 +10,12 @@
 1. When people are joined to Christ, they become free from having to keep the law of Moses. They are also free to live as the Holy Spirit guides them. They are free to refuse the demands of sin. They are free to bear each other's burdens (5:1-6:10).
 1. Paul warns the Christians not to trust in being circumcised and in keeping the law of Moses. Instead, they must trust in Christ (6:11-18).
 
+#### Who wrote the Book of Galatians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
+
+It is uncertain when Paul wrote this letter and where he was when he wrote it. Some scholars think Paul was in the city of Ephesus and wrote this letter after the second time he traveled to tell people about Jesus. Other scholars think Paul was in the city of Antioch in Syria and wrote the letter soon after the first time he traveled.
+
 #### What is the Book of Galatians about? ####
 
 Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result of God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[rc://en/tw/dict/bible/kt/goodnews]], [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/works]])
