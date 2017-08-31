@@ -16,6 +16,12 @@
 1. Armor of God (6:10-20)
 1. Final greeting (6:21-24)
 
+#### Who wrote Ephesians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul wrote this letter probably while he was in prison in Rome.
+
 #### What is the Book of Ephesians about? ####
 
 Paul wrote this letter to the Christians in Ephesus to explain God's love for them in Christ Jesus. He described the blessings that God was giving them because they were now united with Christ. He also explained that all believers are united together, whether Jew or Gentile. Paul also wanted to encourage them to live in a way that pleases God.
@@ -23,12 +29,6 @@ Paul wrote this letter to the Christians in Ephesus to explain God's love for th
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote Ephesians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
-
-The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul wrote this letter probably while he was in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
