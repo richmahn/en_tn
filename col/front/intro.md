@@ -25,6 +25,12 @@
     - Paul gives directions to Archippus and the Christians in Laodicea (4:15-17)
     - Paul's personal greeting (4:18)
 
+#### Who wrote Philippians? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+Paul wrote this letter while in prison in Rome.
+
 #### What is the Book of Colossians about? ####
 
 Paul wrote this letter to the believers in the city of Colossae in Asia Minor. The main purpose of this letter was to defend the gospel against false teachers. He did this by praising Jesus as the image of God, the sustainer of all things, and the head of the church. Paul wanted them to understand that only Christ is needed for God to accept them.
@@ -32,12 +38,6 @@ Paul wrote this letter to the believers in the city of Colossae in Asia Minor. T
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Colossians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Colossae," or "A Letter to the Christians in Colossae." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote Philippians? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
-
-Paul wrote this letter while in prison in Rome.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
