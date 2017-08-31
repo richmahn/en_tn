@@ -15,6 +15,12 @@
 1. Paul gives practical advice for living as Christians (12:1-15:13)
 1. Paul's conclusion and greetings (15:14-16:27)
 
+#### Who wrote the Book of Romans? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
+He probably wrote this letter while he was staying in the city of Corinth in Greece during his third trip through the Roman Empire.
+
 #### What is the Book of Romans about? ####
 
 Paul wrote this letter to the Christians in Rome. Paul wanted to get them ready to receive him when he visits them. He stated his purpose was to "bring about the obedience of faith" (16:26).
@@ -24,12 +30,6 @@ In this letter Paul wrote the fullest description of his understanding of the go
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Romans." Or they may choose a clearer title, such as "Paul's Letter to the Church in Rome," or "A Letter to the Christians in Rome." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote the Book of Romans? ####
-
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
-
-He probably wrote this letter while he was staying in the city of Corinth in Greece during his third trip through the Roman Empire.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
