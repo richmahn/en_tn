@@ -8,11 +8,15 @@
 1. Paul instructs him to train people to live godly lives (2:1-3:11)
 1. Paul ends by sharing some of his plans and sending greetings to various believers (3:12-15)
 
+#### Who wrote the Book of Titus? ####
+
+Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+
 #### What is the Book of Titus about? ####
 
-Paul wrote this letter to Titus, his fellow worker, who was leading the churches on the island of Crete. Paul gave him specific instructions about how to select and train church leaders. His letter describes how church leaders should be held to a high standard, both by Titus and by the believers. 
+Paul wrote this letter to Titus, his fellow worker, who was leading the churches on the island of Crete. Paul instructed him about selecting church leaders. Paul also described how the believers should behave towards each other. And he encouraged them all to live in a way that pleases God. 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Titus." Or they may choose a clearer title, such as "Paul's Letter to Titus" or "A Letter to Titus." (See: [[rc://en/ta/man/translate/translate-names]])
 
@@ -20,7 +24,7 @@ Translators may choose to call this book by its traditional title, "Titus." Or t
 
 #### In what roles can people serve within the church? ####
 
-There are some controversial teachings in the Book of Titus concerning whether a woman or divorced man can serve in positions of leadership within the church. It is important to avoid relying on one's theological perspective while doing translation. Further research on these issues prior to translation may be necessary.
+There are some controversial teachings in the Book of Titus concerning whether a woman or divorced man can serve in positions of leadership within the church. Further research on these issues prior to translation may be necessary.  
 
 ## Part 3: Important Translation Issues ##
 
@@ -29,4 +33,4 @@ In this book, the word "I" refers to Paul. Also, the word "you" is almost always
 
 #### What is the meaning of "God our Savior?" ####
 
-This is a common phrase in this letter. It emphasizes the fact that God has saved Christians from the punishment for their sin.
+This is a common phrase in this letter. Paul meant to make the readers think about how God forgave them for sinning against him. And by forgiving them he saved them from being punished when he judges all people.
