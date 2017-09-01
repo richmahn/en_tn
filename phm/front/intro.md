@@ -16,9 +16,9 @@ Paul in a prison in when he wrote this letter.
 
 #### What is the Book of Philemon about? ####
 
-Paul wrote this letter to a man named Philemon. Philemon was a Christian who lived in the city of Colossae. He owned a slave named Onesimus. Onesimus had run away from his owner and possibly stole something from him as well. Onesimus went to Rome and visited Paul in prison. 
+Paul wrote this letter to a man named Philemon. Philemon was a Christian who lived in the city of Colossae. He owned a slave named Onesimus. Onesimus had run away from Philemon and possibly stole something from him as well. Onesimus went to Rome and visited Paul in prison. 
 
-Paul told Philemon that he was sending Onesimus back to him. By Roman law, Philemon had the right to execute Onesimus. But Paul argued that Philemon should accept Onesimus back as a Christian brother. He even suggested that Philemon should allow Onesimus to come back to Paul and help him in prison.
+Paul told Philemon that he was sending Onesimus back to him. By Roman law, Philemon had the right to execute Onesimus. But Paul said that Philemon should accept Onesimus back as a Christian brother. He even suggested that Philemon should allow Onesimus to come back to Paul and help him in prison.
 
 #### How should the title of this book be translated? ####
 
