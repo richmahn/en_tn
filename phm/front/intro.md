@@ -28,7 +28,7 @@ Translators may choose to call this book by its traditional title, "Philemon." O
 
 #### Does this letter approve of the practice of slavery? ####
 
-Paul instructed Onesimus to return to his former master. But that did not mean Paul regarded slavery as an acceptable practice. Instead, Paul's was more concerned with people serving God no matter the circumstances they were in.
+Paul instructed Onesimus to return to his former master. But that did not mean Paul regarded slavery as an acceptable practice. Instead, Paul was more concerned with people serving God no matter the circumstances they were in.
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
