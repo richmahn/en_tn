@@ -12,7 +12,7 @@
 
 Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-Paul was probably in a prison in Rome when he wrote this letter.
+Paul in a prison in when he wrote this letter.
 
 #### What is the Book of Philemon about? ####
 
@@ -36,6 +36,6 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 ## Part 3: Important Translation Issues ##
 
-##### Singular and plural "you" #####
+#### Singular and plural "you" ####
 
 In this book, the word "I" refers to Paul. Also, the word "you" is almost always singular and refers to Philemon. The two exceptions to this are 1:22 and 1:25. There "you" refers to Philemon and the believers that met at his house. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
