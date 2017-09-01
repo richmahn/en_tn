@@ -11,17 +11,17 @@
 1. Encouragement to be faithful to God (12:1-29)
 1. Concluding encouragements and greetings (13:1-25)
 
-#### What is the Book of Hebrews about? ####
-
-In the Book of Hebrews, the author wanted to show that Jesus fulfilled several Old Testament prophecies. Jesus' role as the perfect High Priest is explained; the author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Hebrews shows how Jesus completed the law of Moses, so that animal sacrifices would from then on be useless. Jesus was the sacrifice for all sins, once and for all time. He is therefore the one to truly trust for access to God the Father.
-
-#### How should the title of this book be translated? #### 
-
-Translators may choose to call this book by its traditional title, "Hebrews." Or they may choose a clearer title, such as "The Letter to the Hebrews" or "A Letter to the Jewish Christians." (See: [[rc://en/ta/man/translate/translate-names]])
-
 #### Who wrote the Book of Hebrews? ####
 
-No one knows who wrote Hebrews, but scholars have made suggestions such as the apostle Paul, Luke, or Barnabas. The date of writing is also not known, but most believe it was written not more than seventy years after the birth of Christ. Jerusalem was destroyed in A.D. 70, but the writer of this letter talks about Jerusalem as if it had not yet been destroyed. 
+No one knows who wrote Hebrews. Scholars have suggested several different people as the author, such as the apostle Paul, Luke, or Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
+
+#### What is the Book of Hebrews about? ####
+
+In the Book of Hebrews, the author wanted to show that Jesus fulfilled several Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. His sacrifice cause God to forgive people for sinning against him. Therefore, Jesus is one and only way for people to be accepted by God.
+
+#### How should the title of this book be translated? ####
+
+Translators may choose to call this book by its traditional title, "Hebrews." Or they may choose a clearer title, such as "The Letter to the Hebrews" or "A Letter to the Jewish Christians." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
