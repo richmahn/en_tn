@@ -7,7 +7,7 @@ Abraham's side, in Luke [Luke 16:22](./22.md), is also known as Abraham's bosom.
 
 ##### Jesus' teaching about divorce #####
 
-In this chapter, Jesus teaches about divorce as a response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus implicitly shows the mistakes that the religious leaders made in their traditions about marriage.
+In this chapter, Jesus teaches about divorce as a response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus shows the mistakes that the religious leaders made in their traditions about marriage.
 
 #### Important figures of speech in this chapter ####
 
