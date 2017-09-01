@@ -31,19 +31,19 @@ It would be very difficult for readers to understand this book without understan
 
 #### How is the idea of blood used in the Book of Hebrews? ####
 
-Beginning in [Hebrews 9:7](../09/06.md), the idea of blood is often used as metonymy to stand for the death of any animal that was sacrificed to meet the requirements of God's covenant with Israel. The author also uses blood to stand for the death of Jesus Christ, who became the perfect sacrifice for the entire world's sins. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+Beginning in [Hebrews 9:7](../09/06.md), the idea of blood is often used as metonymy to represent the death of any animal that was sacrificed according to God's covenant with Israel. The author also used blood to represent the death of Jesus Christ. Jesus became the perfect sacrifice so that God would forgive people for sinning against him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
-Beginning in [Hebrews 9:19](../09/06.md), the author uses the idea of sprinkling as a symaction. It was by sprinkling blood that the priests applied the benefit of the animals' death to the Israelites and to objects that had to be made acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]]) 
+Beginning in [Hebrews 9:19](../09/06.md), the author used the idea of sprinkling as a symbolic action. Old Testament priests sprinkled the blood of the animals sacrificed. This was a symbol of the benefits of the animal's death being applied to the people or to an object. This showed that the people or the object was acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]]) 
 
 ## Part 3: Important Translation Issues ##
 
 #### How are the ideas of "holy" and "sanctify" represented in Hebrews ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Hebrews ULB uses the following principles:
-* Sometimes the context mainly indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:10; 13:24)
-* Sometimes the context mainly implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
+* Sometimes the meaning indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:10; 13:24)
+* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
 
-As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
+The ULB will often ben helpful as translators think about how to represent these ideas in their own versions.
 
 #### What are the major issues in the text of the Book of Hebrews? ####
 
