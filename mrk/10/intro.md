@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 ##### Jesus' teaching about divorce #####
 
-In this chapter, Jesus teaches about divorce in response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus implicitly shows the mistakes the religious leaders made in their traditions about marriage. (See: [[rc://en/ta/man/translate/figs-explicit]])
+In this chapter, Jesus teaches about divorce in response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus  shows the mistakes the religious leaders made in their traditions about marriage. 
 
 #### Important figures of speech in this chapter ####
 
