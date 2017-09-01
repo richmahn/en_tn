@@ -13,11 +13,11 @@
 
 #### Who wrote the Book of Hebrews? ####
 
-No one knows who wrote Hebrews. Scholars have suggested several different people as the author, such as the apostle Paul, Luke, or Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
+No one knows who wrote Hebrews. Scholars have suggested several different people who could possibly be the author, such as the apostle Paul, Luke, or Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
 
 #### What is the Book of Hebrews about? ####
 
-In the Book of Hebrews, the author wanted to show that Jesus fulfilled several Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. His sacrifice cause God to forgive people for sinning against him. Therefore, Jesus is one and only way for people to be accepted by God.
+In the Book of Hebrews, the author wanted to show that Jesus fulfilled several Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. His sacrifice caused God to forgive people for sinning against him. Therefore, Jesus is one and only way for people to be accepted by God.
 
 #### How should the title of this book be translated? ####
 
@@ -27,7 +27,7 @@ Translators may choose to call this book by its traditional title, "Hebrews." Or
 
 #### Can readers understand this book without knowing about the sacrifices and the work of the priests required in the Old Testament? ####
 
-It would be very difficult for readers to understand this book without understanding these matters. Translators might consider giving some explanations to this effect in notes or in an introduction to this book.
+It would be very difficult for readers to understand this book without understanding these matters. Translators might consider explaining some of these Old Testament concepts in notes or in an introduction to this book.
 
 #### How is the idea of blood used in the Book of Hebrews? ####
 
