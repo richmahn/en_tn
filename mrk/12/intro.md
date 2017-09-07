@@ -2,7 +2,7 @@
 
 #### Structure and Format ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 12:10-11,36, 17, which are quotations from the Old Testament.
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 12:10-11, 36, 17, which are quotations from the Old Testament.
 
 #### Important figures of speech in this chapter ####
 
