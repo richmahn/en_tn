@@ -7,7 +7,7 @@ Luke 6:20-49 contains many blessings and woes which appear to correspond to Matt
 #### Special concepts in this chapter ####
 
 ##### "Eating the grain" #####
-This was a culturally acceptable practice for travelers to eat small amounts of grain off of plants in fields they traveled through or near. Farmers were required to allow this according to the law of Moses. The Pharisees considered this to be "gleaning" and forbade it because they would be working on the Sabbath. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/tw/dict/bible/kt/sabbath]])
+It was a culturally acceptable practice for travelers to pluck and eat small amounts of grain from plants in fields they traveled through or near. The law of Moses required farmers to allow this. The Pharisees considered it to be "gleaning," and thus working, and because the law of Moses forbade working on the Sabbath, the Pharisees forbade plucking and eating grain on the Sabbath. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/tw/dict/bible/kt/sabbath]])
 
 #### Important figures of speech in this chapter ####
 
@@ -20,7 +20,7 @@ Jesus used rhetorical questions to teach people and to condemn them. (See: [[rc:
 #### Other possible translation difficulties in this chapter ####
 
 ##### Implicit information #####
-There are many instances of Luke including information that would have been implicitly understood by someone in the ancient Near East that may not be understood by someone in a different culture today. An example is the expectation of a time of judgment in the future or possibly that people will be judged at the end of their life ([Luke 6:37](./37.md)). (See: [[rc://en/ta/man/translate/figs-explicit]])
+Luke often includes information that would have been implicitly understood by people in the ancient Near East that may not be understood by people in a different culture today. An example is the expectation of a time of judgment in the future or possibly that people will be judged at the end of their life ([Luke 6:37](./37.md)). (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### The twelve disciples #####
 The following are the lists of the twelve disciples: In Matthew: Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddeus, Simon the Zealot and Judas Iscariot.
