@@ -6,8 +6,8 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "(Jesus) was tempted there by the devil" #####
-In translation, it is important not to imply that Jesus actually considered or was in fact "tempted" by the devil. It is more accurate (theologically) to say that the devil "tried to tempt" Jesus.
+##### Jesus was tempted by the devil #####
+While it is true that the devil sincerely believed that he could persuade Jesus to obey him, it is important not to imply that Jesus actually ever really wanted to obey him.
 
 ## Links: ##
 
