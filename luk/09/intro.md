@@ -17,7 +17,7 @@ The term "kingdom of God" is used in this chapter to refer to a kingdom that was
 The glory of God is seen as a great, brilliant light in Scripture. God's grandeur always produces fear in the person who sees it. Such an event, presented in this chapter, is called the "transfiguration," in which Jesus is changed or transfigured so that he shows some of his divine glory. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/tw/dict/bible/kt/fear]])
 
 #### Other possible translation difficulties in this chapter ####
-  
+
 ##### Paradox ##### 
 
 This is a statement that seems absurd or appears to contradict itself. An example in this chapter is: "Whoever would try to save his life will lose it" ([Luke 9:24](./23.md)).
