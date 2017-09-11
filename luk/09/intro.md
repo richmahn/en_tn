@@ -18,7 +18,7 @@ The glory of God is seen as a great, brilliant light in Scripture. God's grandeu
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Paradox ##### 
+##### Paradox #####
 
 This is a statement that seems absurd or appears to contradict itself. An example in this chapter is: "Whoever would try to save his life will lose it" ([Luke 9:24](./23.md)).
 
