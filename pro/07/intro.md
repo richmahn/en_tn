@@ -14,7 +14,7 @@ Many of the proverbs are stated as promises or commands, but they are intended t
 
 ##### My Son #####
 
-Occasionally the author addresses a proverb to "my son". This is not intended to restrict the words of that proverb to only males, but is still given in the context of a father warning his son. 
+Occasionally the author addresses a proverb to "my son." This is not intended to restrict the words of that proverb to only males, but is still given in the context of a father warning his son. 
 
 ##### Adulteress #####
 
