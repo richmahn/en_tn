@@ -11,29 +11,29 @@
 1. Closing (5:12-14)
  
 
-#### What is the Book of 1 Peter about? ####
-
-Peter states that he wrote this letter for the purpose of "encouraging you and testifying that this is the true grace of God" (5:12). 
-He encourages Christians to persevere when there is suffering because the second coming of Christ is near. Peter also gives instructions about Christian relationships within one's family and with governmental authorities.
-
-#### How should the title of this book be translated? #### 
-
-Translators may choose to call this book by its traditional title "1 Peter" or "First Peter." Or they may choose a clearer title, such as "The First Letter from Peter" or "The First Letter Peter Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
-
 #### Who wrote the Book of 1 Peter? ####
 
-The Book of 1 Peter was written by the Apostle Peter. Peter begins his letter by saying who he is and to whom he is writing. He addresses the letter to all Christians. He refers several times to his readers as "strangers" because they are scattered in different countries. 
+The Book of 1 Peter was written by the Apostle Peter. He wrote the letter to Gentile Christians scattered throughout Asia Minor. 
+
+#### What is the Book of 1 Peter about? ####
+
+Peter stated that he wrote this letter for the purpose of "encouraging you and testifying that this is the true grace of God" (5:12). 
+He encouraged Christians to continue obeying God even when they are suffering. He told them to do this because Jesus will return soon. Peter also gave instructions about Christian relationships within one's family and with governmental authorities.
+
+#### How should the title of this book be translated? ####
+
+Translators may choose to call this book by its traditional title "1 Peter" or "First Peter." Or they may choose a clearer title, such as "The First Letter from Peter" or "The First Letter Peter Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### How were Christians treated in Rome? ####
 
-This letter was probably written from Rome. It appears that when Peter wrote this letter, Christians were being badly persecuted. When Peter speaks of the church that is in Babylon (5:13), he may have been referring to Rome. Or perhaps he was referring to Christians everywhere "in exile," that is, living in this world, away from the full reality of the kingdom of God where they would be in perfect peace.
+This letter was probably written from Rome. He gave Rome the symbolic name of "Babylon" (5:13). It appears that when Peter wrote this letter, Christians were being badly persecuted.
 
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
-In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to the believers in the Dispersion. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to the believers in the dispersion. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
 #### What are the major issues in the text of the Book of 1 Peter? ####
 
@@ -41,6 +41,6 @@ The following are the most significant textual issues in the Book of 1 Peter:
 
 * "You made your souls pure by obedience to the truth for the purpose of sincere brotherly love, so love one another earnestly from the heart" (1:22). The ULB, UDB, and most other modern versions have this reading. Some older versions have, "You made your souls pure by obedience to the truth through the Spirit for the purpose of sincere brotherly love, so love one another earnestly from the heart."
 
-Translators are advised not to translate the expression "through the Spirit." However, if older Bible versions that exist in their region have it, it is not wrong to translate it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of 1 Peter.
+Translators are advised not to translate the expression "through the Spirit." However, if older Bible versions that exist in their region have it, translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of 1 Peter.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
