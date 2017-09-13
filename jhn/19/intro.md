@@ -20,7 +20,7 @@ The following phrases are intended to be taken sarcastically: "Hail, King of the
 #### Other possible translation difficulties in this chapter ####
 
 ##### Gabbatha, Golgotha #####
-This is a phrase in Hebrew. John does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Hebrew letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+These are two Hebrew words. After translating the meanings of these words ("The Pavement" and "The Place of a Skull"), he transliterates their sounds by substituting the Hebrew letters with Greek letters. The translator should do the same thing but transliterate them using letters of the target language.
 
 ## Links: ##
 

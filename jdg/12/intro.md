@@ -7,7 +7,7 @@ The account of Jephthah concludes in this chapter.
 ##### Other possible translation difficulties in this chapter #####
 
 ##### Shibboleth #####
-This is a word in Hebrew, but it is usually left untranslated. The translator should not translate the meaning of this word, but should transliterate or transfer it into the target language by substituting letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+This is a word in Hebrew. Its importance in this chapter is because of its sounds, not its meaning. The translator should not translate the meaning of this word, but should transliterate or transfer it into the target language by substituting letters that have the same sounds. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ## Links: ##
 

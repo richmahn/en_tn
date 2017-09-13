@@ -8,7 +8,7 @@ The disciples had special power from the Holy Spirit given to them. He empowered
 #### Other possible translation difficulties in this chapter ####
 
 ##### Rabboni #####
-This is a phrase in Hebrew. Mark does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Hebrew letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+This is a Hebrew word. Mark "transliterate" its sounds by substituting the Hebrew letters with Greek letters. Then he explains that it means "Teacher." The translator should do the same, but transliterate it using letters of the target language.
 
 ##### Jesus' resurrection body #####
 There is some mystery about Jesus' body at this point. He was physically present with the scars from the crucifixion but he could also enter into rooms without having to use a door. It is best to leave the mystery in place but explanation may be necessary if the translation does not make sense to the reader.
