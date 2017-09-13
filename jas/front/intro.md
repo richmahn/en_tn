@@ -24,23 +24,29 @@
     - Prayer and healing (5:13-18)
     - Care for one another (5:19-20)
 
-#### What is the Book of James about? ####
-
-The Book of James is one of the "General Epistles." These letters are not addressed to a specific church or individual, but are addressed broadly to the whole church. This letter was written just prior to the Jerusalem Council and had a largely Jewish Christian audience. James is a topical letter; it quickly shifts from one topic to another. There are strong pleas and warnings with many figures of speech taken from nature. The treatment of the poor by the rich in the church is a major concern of this letter. Many parts of this letter correspond to portions of the Sermon on the Mount. 
-
-#### How should the title of this book be translated? #### 
-
-Translators may choose to call this book by its traditional title, "James." Or they may choose a clearer title, such as "A Letter from James" or "The Letter James Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
-
 #### Who wrote the Book of James? ####
 
-The Book of James was written by someone called James. This was probably James, the half-brother of Jesus, who was a leader in the early church and was part of the Jerusalem council. The Apostle Paul also called him a "pillar" of the church. 
+The author identifies himself as James. This was probably James, the half-brother of Jesus. James was a leader in the early church and was part of the Jerusalem council. The Apostle Paul also called him a "pillar" of the church. 
+
+This is not the same man as James the apostle. James the apostle was killed before this letter was written.
+
+#### What is the Book of James about? ####
+
+James said he was writing to the "twelve tribes in the dispersion" (1:1). Some scholars think that James was writing to Jewish Christians. Some scholars think that James was writing to all Christians in general. This letter is known as one of the "General Epistles" since it was not written to a specific church or individual.
+
+The letter of James quickly shifts from one topic to another. There are strong pleas and warnings with many figures of speech taken from nature. James also writes a lot about how rich believers should treat poor people.
+
+Also, many parts of this letter are similar to what Jesus wrote in the Sermon on the Mount (Mat 5-7). 
+
+#### How should the title of this book be translated? ####
+
+Translators may choose to call this book by its traditional title, "James." Or they may choose a clearer title, such as "A Letter from James" or "The Letter James Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Does James contradict Paul? ####
 
-Paul teaches in Romans that Christians are justified by faith and not by works, while James seems to teach that Christians are justified by works. There is no contradiction. One possible solution to this issue involves understanding that the word "justification" is used in two different way. Paul teaches that Christians are declared righteous in reference to God while James teaches that man is declared to be righteous in relation to other people by his actions. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
+Paul teaches in Romans that Christians are justified by faith and not by works. However, James seems to teach that Christians are justified by works. There is no contradiction. One possible solution to this issue involves understanding that the word "justification" is used in two different way. Paul teaches that Christians are declared righteous in reference to God while James teaches that man is declared to be righteous in relation to other people by his actions. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
 
 Another difficulty involves whether faith without works is "dead" or "useless." What James probably means is that, while good deeds cannot take the place of faith in Christ, faith in Christ always produces good deeds.
 
