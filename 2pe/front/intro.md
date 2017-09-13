@@ -9,33 +9,29 @@
 1. Warning against false teachers (2:1-22)
 1. Encouragement to prepare for the second coming of Jesus (3:1-17)
 
+#### Who wrote the Book of 2 Peter? ####
+
+The author identified himself as Simon Peter. This is the Apostle Peter, the same author who wrote 1 Peter. Peter wrote this letter probably while in a prison in Rome just before he died. Peter called this letter his second letter, so we can date it after 1 Peter. He addressed the letter to the same audience as his first letter. This was probably Christians scattered throughout Asia Minor. 
+
 #### What is the Book of 2 Peter about? ####
 
-Peter wrote this letter in order to encourage believers to live good lives and to warn them not to follow false teachers. He told them to ignore people who were saying that Jesus was taking too long to return. Instead, he pointed out that God is not slow but wants everyone to be saved.
+Peter wrote this letter in order to encourage believers to live good lives. He warned them about false teachers who were saying Jesus was taking too long to return. He told them that Jesus was not slow in returning. Instead God was giving people time to repent so that they would be saved.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "2 Peter" or "Second Peter." Or they may choose a clearer title, such as "The Second Letter from Peter" or "The Second Letter Peter Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of 2 Peter? ####
-
-The letter of 2 Peter states that it was written by the Apostle Peter. Peter probably wrote the letter near the end of his life. He was probably in prison in Rome and facing imminent death. Peter calls this letter his second letter, so we can date it after 1 Peter. He addresses the letter to all Christians. 
-
 ## Part 2: Important Religious and Cultural Concepts ##
-
-#### Why were false teachers a problem in the early church? ####
-
-False teachers were a problem for the early church for two reasons. First, the New Testament was not yet complete, and the Christians probably had poor access to what New Testament writings did exist. Because of this, it was easy for false teachers to lead believers astray. Second, there was very little knowledge of true Christian teachings in the world. This lack of knowledge was certainly an advantage for false teachers.
 
 #### What does it mean that God inspired Scripture? ####
 
-The doctrine of Scripture is a very important one. 2 Peter helps readers to understand that while each writer of Scripture has his own distinct way of writing, God is the true author of Scripture. 
+The doctrine of Scripture is a very important one. 2 Peter helps readers to understand that while each writer of Scripture has his own distinct way of writing, God is the true author of Scripture (1:20-21). 
 
 ## Part 3: Important Translation Issues ##
 
 ##### Singular and plural "you" #####
 
-In this book, the word "I" refers to Peter. Also, the word "you" is always plural and refers to the believers who may read this letter. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Peter. Also, the word "you" is always plural and refers Peter's audience. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
 #### What are the major issues in the text of the Book of 2 Peter? ####
 
