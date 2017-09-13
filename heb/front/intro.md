@@ -13,11 +13,11 @@
 
 #### Who wrote the Book of Hebrews? ####
 
-No one knows who wrote Hebrews. Scholars have suggested several different people who could possibly be the author, such as the apostle Paul, Luke, or Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
+No one knows who wrote Hebrews. Scholars have suggested several different people who could possibly be the author. Possible authors are Paul, Luke, or Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
 
 #### What is the Book of Hebrews about? ####
 
-In the Book of Hebrews, the author wanted to show that Jesus fulfilled several Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. His sacrifice caused God to forgive people for sinning against him. Therefore, Jesus is one and only way for people to be accepted by God.
+In the Book of Hebrews, the author wanted to show that Jesus fulfilled Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. His sacrifice caused God to forgive people for sinning against him. Therefore, Jesus is one and only way for people to be accepted by God.
 
 #### How should the title of this book be translated? ####
 
