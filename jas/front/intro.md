@@ -46,9 +46,7 @@ Translators may choose to call this book by its traditional title, "James." Or t
 
 #### Does James contradict Paul? ####
 
-Paul teaches in Romans that Christians are justified by faith and not by works. However, James seems to teach that Christians are justified by works. There is no contradiction. One possible solution to this issue involves understanding that the word "justification" is used in two different way. Paul teaches that Christians are declared righteous in reference to God while James teaches that man is declared to be righteous in relation to other people by his actions. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
-
-Another difficulty involves whether faith without works is "dead" or "useless." What James probably means is that, while good deeds cannot take the place of faith in Christ, faith in Christ always produces good deeds.
+Paul taught in Romans that Christians are justified by faith and not by works. However, James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they are not contradicting one another. Both of them believed that a person needs faith in order to be justified. And they both believed that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they were speaking to different audiences who misunderstood justification in different ways. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
 
 ## Part 3: Important Translation Issues ##
 
