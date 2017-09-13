@@ -46,13 +46,13 @@ Translators may choose to call this book by its traditional title, "James." Or t
 
 #### Does James contradict Paul? ####
 
-Paul taught in Romans that Christians are justified by faith and not by works. However, James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they are not contradicting one another. Both of them believed that a person needs faith in order to be justified. And they both believed that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they were speaking to different audiences who misunderstood justification in different ways. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
+Paul taught in Romans that Christians are justified by faith and not by works. However, James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they are not contradicting one another. Both of them believed that a person needs faith in order to be justified. And they both believed that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they were speaking to different audiences who needed to know different things about justification. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
 
 ## Part 3: Important Translation Issues ##
 
 #### How should the translator signal transitions between topics in the Book of James? ####
 
-The letter quickly shifts from one topic to another. The transitions are rarely smooth. It is acceptable to allow the verses to appear disconnected from each other. It may make sense to set the passages apart by starting a new line or putting a space between topics. 
+The letter quickly changes topics. And sometimes James does not tell the readers that he is about to change topics. It is acceptable to allow the verses to appear disconnected from each other. It may make sense to set the passages apart by starting a new line or putting a space between topics. 
 
 #### What are the major issues in the text of the Book of James? ####
 
