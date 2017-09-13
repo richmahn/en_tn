@@ -18,7 +18,7 @@ The Book of 1 Peter was written by the Apostle Peter. He wrote the letter to Gen
 #### What is the Book of 1 Peter about? ####
 
 Peter stated that he wrote this letter for the purpose of "encouraging you and testifying that this is the true grace of God" (5:12). 
-He encouraged Christians to continue obeying God even when they are suffering. He told them to do this because Jesus will return soon. Peter also gave instructions about Christian relationships within one's family and with governmental authorities.
+He encouraged Christians to continue obeying God even when they are suffering. He told them to do this because Jesus will return soon. Peter also gave instructions about Christians submitting to those in authority.
 
 #### How should the title of this book be translated? ####
 
