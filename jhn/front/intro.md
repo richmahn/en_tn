@@ -53,7 +53,7 @@ In the passage, "If my words remain in you" (John 15:7), the UDB expresses this 
 
 #### What are the major issues in the text of the Gospel of John? ####
 
-In certain parts of the Gospel of John, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+These are the most significant textual issues in the Gospel of John:
 
 * "waiting for the moving of the water. For an angel of the Lord occasionally went down into the pool and stirred the water and whoever went first after the stirring of the water, was made well from the disease they had." (5:3-4)
 
