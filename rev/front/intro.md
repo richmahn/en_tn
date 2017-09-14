@@ -16,45 +16,51 @@
 1. The new creation, the new Jerusalem (21:1-22:5)
 1. Jesus' promise to return, the witness from the angels, John's closing words, Christ's message to his church, the invitation and the warning (22:6-21)
 
+#### Who wrote the Book of Revelation? ####
+
+The Book of Revelation was probably written by the apostle John. He wrote the Book of Revelation while on the island of Patmos. The Romans exiled John there for teaching people about Jesus.
+
 #### What is the Book of Revelation about? ####
 
-Revelation talks about "the end of time." Many commentators understand this to be the entire period of the Christian church, because it has always been under attack. Other interpreters view Revelation's description of events as relating to a more tightly limited period closer to Christ's return to earth. While some of the book gives specific words of prophecy to churches, most of the events described in the book concern the wrath of God being poured out on creation. During this time, the opposition of the antichrist will unfold over a period of seven years. Ultimately, Jesus will be victorious, and all who put their trust in him will live forever with him. This book warns its readers and gives them assurance that God is in control. Eventually, evil and sin will come to an end. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/sin]])
+John wrote the book of Revelation to encourage believers to remain faithful even when they are suffering. John described visions he had of Satan and his followers fighting against and killing believers. In the vision God caused many terrible things to happen on the earth to punish wicked people. But, in the end, Jesus defeated Satan and his followers. Then Jesus comforted those who were faithful. And, they all lived together with God forever.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "Revelation," "The Revelation of Jesus Christ," "The Revelation to Saint John," or "The Apocalypse of John." Or they may choose a possibly clearer title, such as "The Things that Jesus Christ Showed to John." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of Revelation? ####
-
-The Book of Revelation was probably written by the apostle John. He wrote the Book of Revelation while on the island of Patmos, where he was exiled for preaching the good news about Jesus Christ.
-
 #### What type of writing is the Book of Revelation? ####
 
-John uses many images throughout the book to describe the things he saw. He uses a special style typical of writing about the end of this world. Many symbols and events symbolic of other events are usually present in such writing, as well as many dreams and visions. 
+John used a special style of writing to describe his vision. John described what he saw by using many symbols. This style of writing is called apocalyptic literature.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Are the events of Revelation past or future? ####
 
-Scholars have many different theories about the Book of Revelation. Some treat the events of the book as symbols, while others treat them as being fulfilled (at least in part) by the destruction of the Jewish temple in A.D. 70. Others believe that the events of the book are entirely set in the future. It is probable that at least many of the events are still for future fulfillment, and that any fulfillment of these prophecies in the past was either partial or a foreshadowing of what would eventually come. If this is allowed by the project language's preferences, the translator should leave the prophecies in the tense they are found in the ULB. 
+Since the early Christian times, scholars have interpreted Revelation differently. Some scholars think John described events that happened during his time. Some scholars think John described events are happening from his time until the return of Jesus. Some scholars think John described events that will happen in a short period of time in the future just before Christ returns.
 
-#### How does the Book of Revelation relate to the rest of scripture? ####
+Translators will not need to choose any interpretation to be able to translate this book. Translators should leave the prophecies in the tense they are found in the ULB.
 
-While the Book of Revelation is very different than the rest of scripture, it is rooted in the Old Testament understanding of the end times. Revelation, Daniel, Ezekiel, Zechariah and a number of other books are all thematically related to each other; they form one cohesive account of the end times. Because of their shared imagery and background, it may be beneficial to translate Revelation about the same time that one translates Daniel. 
+#### Are there any other books in the Bible like Revelation? ####
+
+The Book of Revelation is unique when compared to the rest of scripture. But, passages in Ezekiel, Zechariah, and especially Daniel are similar in content and style as Revelation. It may be beneficial to translate Revelation at the same time as Daniel since they have imagery and style in common.
 
 ## Part 3: Important Translation Issues ##
 
 #### Does one need to understand the Book of Revelation in order to translate it? ####
 
-One does not need to have a definite understanding of the theology of the Book of Revelation in order to properly translate it. Symbols should not be given any possible identification to their meaning. The same holds true for numbers, which have great significance in the Book of Revelation. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+One does not need to have a definite understanding of all of the symbols in the Book of Revelation in order to properly translate it. Translators should not give possible meanings for the symbols or numbers in their translation. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 #### How are the ideas of "holy" and "sanctify" represented in Revelation ULB? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Revelation ULB uses the following principles:
-* In one passage, the context mainly implies moral holiness. Here, the ULB uses "holy." (See: 22:11)
-* Usually the context in Revelation mainly indicates a simple reference to Christians without implying any particular role filled by them. In these cases, Revelation ULB uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 14:12; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
+The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Revelation ULB uses the following principles:
+* The meaning in one passage indicates moral holiness. Here, the ULB uses "holy." (See: 22:11)
+* Usually the meaning in Revelation indicates a simple reference to Christians without implying any particular role filled by them. In these cases, Revelation ULB uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 14:12; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
 
 As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
+
+#### Periods of time ####
+
+John referred to various periods of time in Revelation. For example, there are many references to forty-two months,  seven years, and three and a half days. Some scholars think these time periods are symbolic. Other scholars think these are literal time periods. The translator should treat these time periods as referencing actual periods of time. It is then up to the interpreter to determine their significance or what they may represent.
 
 #### What are the major issues in the text of the Book of Revelation? ####
 
@@ -71,6 +77,3 @@ The following are the most significant textual issues in the Book of Revelation:
 * "God will take away his share in the tree of life and in the holy city" (22:19). The ULB, UDB, and most modern versions have this reading. Some older manuscripts read, "God will take away his share in the book of life and in the holy city." 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
-
-##### Periods of time #####
-There are many different periods of time referenced in Revelation. For example, there are many references to forty-two months,  seven years, and three and a half days. Scholars are divided over whether or not these time periods are symbolic. The translator should treat these time periods as referencing actual periods of time. It is then up to the interpreter to determine their significance or what they may represent. It is also probable that these time periods give the Book of Revelation some overall structure, but the exact chronology of these events is very difficult to determine.
