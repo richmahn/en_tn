@@ -59,7 +59,7 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-In certain parts of the Gospel of Luke, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+These are the most significant textual issues in the Book of Luke:
 
 * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) The ULB and UDB include this passage, but some other versions do not.
 * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) The ULB and UDB include this passage, but some other versions do not.
