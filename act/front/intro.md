@@ -38,7 +38,7 @@ The Church is a group of people who believe in Christ. The Church includes both 
 
 #### What are the major issues in the text of the Book of Acts? ####
 
-In certain parts of the Book of Acts, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+These are the most significant textual issues in Acts:
 
 * "Philip said, 'If you believe with all your heart, you may be baptized.' The Ethiopian answered, 'I believe that Jesus Christ is the Son of God'" (Acts 8:37). Some older versions have this verse, but it is not in the best ancient copies of the Bible. Some modern version put the verse in square brackets ([]). The ULB and UDB put it in a footnote.
 * "They returned from there" (Acts 12:25). Some versions read, "They returned to Jerusalem (or to there)." It is uncertain what was in the original text. But it makes more sense to think that Saul and Barnabas returned from Jerusalem to Antioch.
