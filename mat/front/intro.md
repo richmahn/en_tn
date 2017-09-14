@@ -56,7 +56,7 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Matthew? ####
 
-In certain parts of the Gospel of Matthew, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+These are the most significant textual issues in the Book of Matthew:
 
 * "Bless those who curse you, do good to those who hate you" (5:44) 
 * "For yours is the kingdom and the power and the glory forever. Amen" (6:13)
