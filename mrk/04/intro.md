@@ -13,9 +13,8 @@ There are many parables in this chapter. They are a way Jesus teaches about the 
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Implicit knowledge #####
-
-Implicit knowledge is needed in several parts of this chapter. The UDB can be quite effective in helping the reader to understand unknown words and figures of speech. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
+##### Implicit Information #####
+In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UDB often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

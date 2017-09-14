@@ -3,7 +3,8 @@
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Talitha koum" #####
-This is a phrase in Aramaic. Mark does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Aramaic letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning. 
+This is a phrase in Aramaic. The author transliterates its sounds by substituting the Aramaic letters with Greek letters. The translator should do the same thing but transliterate the sounds using letters of the target language. Afterward the author explains the meaning of this phrase.
+ 
 
 ## Links: ##
 

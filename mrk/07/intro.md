@@ -13,7 +13,7 @@ This was a practice done by the Pharisees, but it was not an obligation accordin
 
 ##### "Ephphatha" #####
 
-This is a phrase in Aramaic. Mark does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Aramaic letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+This is an Aramaic word. Mark "transliterates" it into Greek by writing its sounds with Greek letters. The translator should transliterate the Aramaic word using letters of the target language. After transliterating the word, Mark explains what it means. 
 
 ## Links: ##
 

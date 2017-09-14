@@ -19,7 +19,8 @@ Jesus uses a hypothetical situation to condemn the Pharisees. This passage inclu
 #### Other possible translation difficulties in this chapter ####
 
 ##### Implicit Information #####
-In several parts of this chapter the author left some information implicit. Readers will need to know that information in order to understand the chapter well. The UDB can be quite effective in helping the reader to understand things about the culture that readers would not know otherwise. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
+
+In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UDB often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Past Events #####
 Parts of this chapter are sequences of events that have already happened. In a given passage, Luke sometimes writes as if the events have already happened while other events are still in progress (even though they are complete at the time he writes). This can cause difficulty in translation by creating an illogical order of events. It may be necessary to make these consistent by writing as if all the events have already happened. 
