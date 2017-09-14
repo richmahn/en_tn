@@ -11,7 +11,7 @@
 
 #### Who wrote the Book of 2 Peter? ####
 
-The author identified himself as Simon Peter. This is the Apostle Peter, the same author who wrote 1 Peter. Peter wrote this letter probably while in a prison in Rome just before he died. Peter called this letter his second letter, so we can date it after 1 Peter. He addressed the letter to the same audience as his first letter. This was probably Christians scattered throughout Asia Minor. 
+The author identified himself as Simon Peter. Simon Peter was an apostle and also wrote 1 Peter. Peter wrote this letter probably while in a prison in Rome just before he died. Peter called this letter his second letter, so we can date it after 1 Peter. He addressed the letter to the same audience as his first letter. This was probably Christians scattered throughout Asia Minor. 
 
 #### What is the Book of 2 Peter about? ####
 
@@ -25,7 +25,7 @@ Translators may choose to call this book by its traditional title, "2 Peter" or 
 
 #### What does it mean that God inspired Scripture? ####
 
-The doctrine of Scripture is a very important one. 2 Peter helps readers to understand that while each writer of Scripture has his own distinct way of writing, God is the true author of Scripture (1:20-21). 
+The doctrine of scripture is a very important one. 2 Peter helps readers to understand that while each writer of scripture has his own distinct way of writing, God is the true author of scripture (1:20-21). 
 
 ## Part 3: Important Translation Issues ##
 
