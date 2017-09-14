@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart poems or special prayers. The ULB and many other English translations indent the lines of 11:2-4, which is a special prayer, commonly called the "Lord's Prayer." This prayer in Matthew 6 also has the phrase, "but deliver us from the evil one."
+Some translations prefer to set apart poems or special prayers. The ULB and many other English translations indent the lines of 11:2-4, which is a special prayer, commonly called the "Lord's Prayer." This prayer in Matthew 6 has the additional phrase "but deliver us from the evil one."
 
 #### Special concepts in this chapter ####
 
