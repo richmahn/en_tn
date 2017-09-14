@@ -53,7 +53,7 @@ The Gospel of Mark uses the word "immediately" forty-two times. Mark does this t
 
 #### What are the major issues in the text of the Book of Mark? ####
 
-In certain parts of the Gospel of Mark, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+These are the most significant textual issues in the Book of Mark:
 
 * "If any man has ears to hear, let him hear." (7:16)
 * "where their worm never dies and the fire is never quenched" (9:44)
