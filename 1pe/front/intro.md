@@ -28,7 +28,7 @@ Translators may choose to call this book by its traditional title "1 Peter" or "
 
 #### How were Christians treated in Rome? ####
 
-This letter was probably written from Rome. He gave Rome the symbolic name of "Babylon" (5:13). It appears that when Peter wrote this letter, Christians were being badly persecuted.
+This letter was probably written from Rome. He gave Rome the symbolic name of "Babylon" (5:13). It appears that when Peter wrote this letter, Romans were badly persecuting Christians.
 
 ## Part 3: Important Translation Issues ##
 
