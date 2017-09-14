@@ -25,7 +25,7 @@ Translators may choose to call this book by its traditional title, "1 John" or "
 
 #### Who were the people that John spoke against? ####
 
-It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that the physical world was evil. Therefore, since they believed Jeses was divine, they denied that he was truly human. They thought God would not become human since the physical body is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
+It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that the physical world was evil. Since they believed Jeses was divine, they denied that he was truly human. This is because they thought God would not become human since the physical body is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
