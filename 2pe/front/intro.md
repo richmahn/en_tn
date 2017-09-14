@@ -23,6 +23,10 @@ Translators may choose to call this book by its traditional title, "2 Peter" or 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
+#### Who were the people Peter spoke against? ####
+
+It is possible that the people Peter spoke against were those who would eventually become known as Gnostics. These teachers distorted the teachings of scripture for their own gain. They lived in immoral ways and taught others to do the same. 
+
 #### What does it mean that God inspired Scripture? ####
 
 The doctrine of scripture is a very important one. 2 Peter helps readers to understand that while each writer of scripture has his own distinct way of writing, God is the true author of scripture (1:20-21). 
