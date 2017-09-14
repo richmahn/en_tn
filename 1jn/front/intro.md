@@ -9,23 +9,23 @@
 1. The command to love one another (3:11-5:12)
 1. Conclusion (5:13-21)
 
+#### Who wrote the Book of 1 John? ####
+
+This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that John was the author. John was one of Jesus' disciples. He was also the author of the Gospel of John.
+
 #### What is the Book of 1 John about? ####
 
-John wrote this letter to Christians at a time when a certain group of people was troubling them. This group of people denied some of the things that the apostles taught were true about God and Jesus. John wrote this letter because he wanted to prevent believers from sinning. He wanted to protect believers from false teachings. And he wanted to assure believers that they are saved.
+John wrote this letter to Christians at a time when a certain group of people was troubling them. This group of people denied some of the things that the apostles taught were true about God and Jesus. John wrote this letter because he wanted to prevent believers from sinning. He wanted to protect believers from false teachings. And he wanted to assure believers that they were saved.
 
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "1 John" or "First John." Or they may choose a clearer title, such as "The First Letter From John" or "The First Letter John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of 1 John? ####
-
-This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that John was the author. John was one of Jesus' disciples. He was also the author of the Gospel of John.
-
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Who were the people that John spoke against? ####
 
-It is possible that the people John spoke against were those who would eventually become known as "Gnostics." These people believed that Jesus was God. But they did not believe that he was really a human with a physical body on earth. They believed this because they thought the physical world was evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
+It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that the physical world was evil. Therefore, since they believed Jeses was divine, they denied that he was truly human. They thought God would not become human since the physical body is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
@@ -39,7 +39,7 @@ In the passage, "the word of God remains in you" (1 John 2:13), the UDB expresse
 
 #### What are the major issues in the text of the Book of 1 John? ####
 
-In certain parts of 1 John, the text in modern English Bibles is different than the text in older English Bibles. This is because ancient copies of the Bible were discovered after the older English Bibles were translated. Most scholars think these ancient copies of the Bible are better than the copies used for the older English Bibles. They think these ancient copies are more like what the authors of the Bible originally wrote. The following are the issues that affect the translation the most.
+The following are the most significant textual issues in 1 John:
 
 * "And we are writing these things so that our joy may be complete." (1:4) The ULB, UDB, and most modern versions have this reading. Some older versions have, "And we are writing these things to you so that your joy may be complete."
 * "And you all know the truth." (2:20) The ULB, UDB, and most modern versions have either this reading or the following reading: "And you all have knowledge." Some older versions have, "and you know all things."
