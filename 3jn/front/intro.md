@@ -9,6 +9,10 @@
 1. Diotrephes and Demetrius (1:9-12)
 1. Conclusion (1:13-14)
 
+#### Who wrote the Book of 3 John? ####
+
+The letter does not give the reader the name of the author. The author only identified himself as "the elder" (1:1). The letter was probably written by the Apostle John near the end of his life.
+
 #### What is the Book of 3 John about? ####
 
 John wrote this letter to a believer named Gaius. He instructed Gaius to be hospitable to fellow believers who were traveling through his area. 
@@ -16,10 +20,6 @@ John wrote this letter to a believer named Gaius. He instructed Gaius to be hosp
 #### How should the title of this book be translated? ####
 
 Translators may choose to call this book by its traditional title, "3 John" or "Third John." Or they may choose a clearer title, such as "The Third Letter from John" or "The Third Letter John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
-
-#### Who wrote the Book of 3 John? ####
-
-The letter does not give the reader the name of the author. The author only identified himself as "the elder" (1:1). The letter was probably written by the Apostle John near the end of his life.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
