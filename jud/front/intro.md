@@ -16,7 +16,7 @@ The author identifies himself as Jude brother of James. Both Jude and James were
 
 #### What is the Book of Jude about? ####
 
-The purpose of this letter was to warn believers against false teachers. In his arguments, Jude often referred to the Old Testament. This may suggest that Jude was writing to a Jewish Christian audience. This letter is has content that is similar to 2 Peter. They both speak about angels, Sodom and Gomorrah, and false teachers.
+The purpose of this letter was to warn believers against false teachers. In his arguments, Jude often referred to the Old Testament. This may suggest that Jude was writing to a Jewish Christian audience. This letter has content that is similar to 2 Peter. They both speak about angels, Sodom and Gomorrah, and false teachers.
 
 #### How should the title of this book be translated? ####
 
