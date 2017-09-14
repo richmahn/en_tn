@@ -30,13 +30,13 @@ Translators may choose to call this book by its traditional title, "Revelation,"
 
 #### What type of writing is the Book of Revelation? ####
 
-John used a special style of writing to describe his vision. John described what he saw by using many symbols. This style of writing is called apocalyptic literature.
+John used a special style of writing to describe his vision. John described what he saw by using many symbols. This style of writing is called symbolic prophecy or apocalyptic literature. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Are the events of Revelation past or future? ####
 
-Since the early Christian times, scholars have interpreted Revelation differently. Some scholars think John described events that happened during his time. Some scholars think John described events are happening from his time until the return of Jesus. Some scholars think John described events that will happen in a short period of time in the future just before Christ returns.
+Since the early Christian times, scholars have interpreted Revelation differently. Some scholars think John described events that happened during his time. Some scholars think John described events happening from his time until the return of Jesus. Some scholars think John described events that will happen in a short period of time just before Christ returns.
 
 Translators will not need to choose any interpretation to be able to translate this book. Translators should leave the prophecies in the tense they are found in the ULB.
 
@@ -60,7 +60,7 @@ As translators think about how to represent these ideas in their own versions, t
 
 #### Periods of time ####
 
-John referred to various periods of time in Revelation. For example, there are many references to forty-two months,  seven years, and three and a half days. Some scholars think these time periods are symbolic. Other scholars think these are literal time periods. The translator should treat these time periods as referencing actual periods of time. It is then up to the interpreter to determine their significance or what they may represent.
+John referred to various periods of time in Revelation. For example, there are many references to forty-two months, seven years, and three and a half days. Some scholars think these time periods are symbolic. Other scholars think these are actual time periods. The translator should treat these time periods as referencing actual periods of time. It is then up to the interpreter to determine their significance or what they may represent.
 
 #### What are the major issues in the text of the Book of Revelation? ####
 
