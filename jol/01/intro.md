@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Joel is written in poetic form and with striking imagery. The ULB is written in poetic form but the UDB has been transferred to a prose form. If possible, use the poetic form to communicate the meaning of this book in order to stay closer to the original meaning of the text. 
+Joel is written in poetic form and with striking imagery. The ULB is written in poetic form, but the UDB has been transferred to a prose form. If possible, use the poetic form to communicate the meaning of this book in order to stay closer to the original meaning of the text. 
 
 #### Special concepts in this chapter ####
 
