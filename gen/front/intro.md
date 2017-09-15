@@ -47,13 +47,13 @@ In the covenant with Abraham, God promised to make Abrahams descendants into a g
 
 The book of Genesis says that a perfect God created a perfect world. However, the world became imperfect because human beings began to sin. But Genesis shows that God continues to have complete control over the world.
 
-Genesis also describes the start of God's plan to bring the sinful world back to himself. An important event in this process occurred when God began a special relationship with Abraham and his descendants. He expressed this relationship in a covenant with Abraham.
+Genesis also describes the start of God's plan to bless the whole world again. This is shown when God makes a covenant with Abraham. With this covenant God chose Abraham and his descendants to be his people. God promised to bless the world through Abraham's desendants.
 
 #### What was the custom for inheritance as described by Genesis? ####
 
-The cultural concepts of inheritance and of the passing on of a father's blessing are very significant in Genesis. The blessing that Abraham passed on to his son Isaac placed him as an ancestor of the people of Israel. This is unlike the experience of Ishmael, Abraham's other son, who did not receive that same divine blessing. Likewise, Isaac's older son Esau foolishly gave up the same blessing, which his younger brother Jacob received instead. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/bless]])
+The cultural concepts of inheritance and of the passing on of a father's blessing occur several times in Genesis. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham's other son, did not receive that same divine blessing. Likewise, Isaac's older son Esau  did not receive the blessing. Isaac's younger son, Jacob, received it instead. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/bless]])
 
-Additionally, it was customary for a man to divide among his sons his material wealth and land. All his sons received equal portions, except that the oldest son received twice as much. The oldest son's portion was called a double portion. It was this double portion that Esau also gave up.
+Also, it was the custom for a man to divide among his sons his material wealth and land. All his sons received equal portions except that the oldest son. The firstborn son received twice as much. His portion was called a double portion. Esau was foolish and gave up his right to receive the double portion.
 
 #### How does Genesis present sin and evil? ####
 
@@ -71,9 +71,9 @@ If the translator wants to translate in only two ways, we recommend for most pas
 
 #### Why are the beginnings of some narrative sections in Genesis difficult to translate? ####
 
-This is because Hebrew style often makes an opening statement that summarizes the following narrative. Probable examples of this style occur in Gen. 1:1, 6:22, 18:1, 21:1 and 22:1.
+Often in Genesis, the author first states a summary of what is about to happen. Then in the following verses, the author tells what happened. Probable examples of this style occur in Gen. 1:1, 6:22, 18:1, 21:1 and 22:1.
 
-Many languages, however, do not prefer to summarize a narrative until the end. In this case, translators may choose a different approach. For example, in Gen. 1:1 ("In the beginning God created the heavens and the earth"), translators may decide to translate like this: "This is about how God made the heavens and the earth in the beginning."
+However, in many languages, it is preferred to summarize a narrative at the end. In this case, translators may choose a different approach. For example, in Gen. 1:1 ("In the beginning God created the heavens and the earth"), translators may decide to translate like this: "This is about how God made the heavens and the earth in the beginning."
 
 #### What is the difference between "people," "peoples," and "people groups"? ####
 
