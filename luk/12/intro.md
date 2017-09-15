@@ -12,11 +12,6 @@ Although the word "steward" is not used in this chapter, stewardship, which is t
 ##### Division #####
 There is an important teaching about division in this chapter ([Luke 12:51-56](./51.md)). This division is not intended to imply that people will become enemies. Instead, it references that there is now a clear division in the world between those who are Christians and those who are not. One's identity as a follower of Jesus is more significant than any family relation.
 
-#### Important figures of speech in this chapter ####
-
-##### "There is nothing concealed that will not be revealed" #####
-There are some teachings that have implicit knowledge associated with them. This phrase and others concern a future time of judgment ([Luke 12:2-5](./02.md)). (See: [[rc://en/ta/man/translate/figs-explicit]])
-
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
