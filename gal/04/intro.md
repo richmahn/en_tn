@@ -11,8 +11,8 @@ This is a complex issue discussed in this chapter. Scholars have many views on t
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Abba #####
-This is a word in Aramaic. It was an informal way to refer to a person's father in ancient Israel. Paul does not "translate" this word into Greek but "transliterates" it by writing the Aramaic word using Greek letters. The translators of the ULB also transliterated the word, while the translators of the UDB translated its meaning. 
+##### Abba, Father #####
+Abba is an Aramaic word. It was an informal way to refer to a person's father in ancient Israel. Paul "transliterates" its sounds by writing it with Greek letters. 
 ## Links: ##
 
 * __[Galatians 4:1](./01.md)__

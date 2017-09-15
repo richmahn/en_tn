@@ -20,7 +20,7 @@ The following phrases are intended to be taken sarcastically: "Hail, King of the
 #### Other possible translation difficulties in this chapter ####
 
 ##### Gabbatha, Golgotha #####
-These are two Hebrew words. After translating the meanings of these words ("The Pavement" and "The Place of a Skull"), the author transliterates their sounds by substituting the Hebrew letters with Greek letters. The translator should do the same thing but transliterate them using letters of the target language.
+These are two Hebrew words. After translating the meanings of these words ("The Pavement" and "The Place of a Skull"), the author transliterates their sounds by writing them with Greek letters.
 
 ## Links: ##
 

@@ -3,7 +3,7 @@
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Talitha koum" #####
-This is a phrase in Aramaic. The author transliterates its sounds by substituting the Aramaic letters with Greek letters. The translator should do the same thing but transliterate the sounds using letters of the target language. Afterward the author explains the meaning of this phrase.
+This is a phrase in Aramaic. Mark transliterates its sounds by writing them with Greek letters. Then he explains its meaning.
  
 
 ## Links: ##

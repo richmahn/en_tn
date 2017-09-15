@@ -13,7 +13,7 @@ This was a practice done by the Pharisees, but it was not an obligation accordin
 
 ##### "Ephphatha" #####
 
-This is an Aramaic word. Mark "transliterates" it into Greek by writing its sounds with Greek letters. The translator should transliterate the Aramaic word using letters of the target language. After transliterating the word, Mark explains what it means. 
+This is an Aramaic word. Mark "transliterates" its sounds by writing them with Greek letters. After transliterating the word, Mark explains what it means. 
 
 ## Links: ##
 
