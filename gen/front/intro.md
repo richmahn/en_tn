@@ -19,7 +19,7 @@
 
 #### What is Genesis about? ####
 
-Genesis is a record of God's mighty acts, the beginning of human life, and how sin brought death and separation between people and God. Yet Genesis gives us hope and tells us about God's ultimate promise to save us. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/save]])
+Genesis is a record of God's mighty acts and the beginning of human life. It tells about the first time humans sinned. This caused humans to die and to be separated from God. It also records the beginning of God's people through Abraham, Isaac, and Jacob. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
 
 #### How should the title of this book be translated? ####
 
@@ -27,7 +27,7 @@ Genesis is a record of God's mighty acts, the beginning of human life, and how s
 
 #### Who wrote Genesis? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the book of Genesis.
+The writers of both the Old and New Testament presented Moses as being very involved with writing the book of Genesis. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
 #### What are the different parts of Genesis? ####
 
