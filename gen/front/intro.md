@@ -19,7 +19,11 @@
 
 #### What is Genesis about? ####
 
-Genesis is a record of God's mighty acts and the beginning of human life. It tells about the first time humans sinned. This caused humans to die and to be separated from God. It also records the beginning of God's people through Abraham, Isaac, and Jacob. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
+Genesis is about the the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over thousands of years. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
+
+Genesis is also about the beginning of God's people. Genesis 12-50 tells about how God remained faithful to Abraham and his descendants. Abrahams descendants became known as the Hebrews and later as the Israelites. These people would worship Yahweh and be his people.
+
+Genesis ends with Abraham's descendants living in Egypt with the hope of returning one day to the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 #### How should the title of this book be translated? ####
 
@@ -29,15 +33,15 @@ Genesis is a record of God's mighty acts and the beginning of human life. It tel
 
 The writers of both the Old and New Testament presented Moses as being very involved with writing the book of Genesis. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
-#### What are the different parts of Genesis? ####
-
-Genesis 1–11 is an account of the early years of creation. It very briefly records significant events occurring over a period of several thousand years. Genesis 12–50 focuses on the special relationship God began with Abraham and his descendants. Abraham's descendants, who came to be known as the Hebrews and later as Israelites, would come to worship Yahweh. Genesis ends with Abraham's descendants living in Egypt with the hope of returning one day to the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
-
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What are the covenants mentioned in Genesis? ####
 
-There are three covenants mentioned in Genesis. The covenant with Adam involved God's instruction not to eat fruit from the tree of the knowledge of good and evil. The punishment for disobedience would be death. The covenant that God made with Noah was a promise to never again destroy the world with a flood. God made yet another covenant with Abraham. In it, God promised to make his descendants into a great nation. He also promised to protect them and to give them land of their own.
+There are three covenants mentioned in Genesis. In the covenant with Adam, God promised to bless Adam and cause him to prosper. But, Adam was not allowed to eat fruit from the tree of knowledge of good and evil. God promised that Adam would die if he disobeyed what he commanded.
+
+In the covenant with Noah, God promised to never again destroy the world with a flood.
+
+In the covenant with Abraham, God promised to make Abrahams descendants into a great nation. He also promised to protect them and to give them land of their own. 
 
 #### What was God's purpose for the book of Genesis? ####
 
