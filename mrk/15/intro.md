@@ -13,7 +13,7 @@ This is sarcasm, which is the use of irony to insult someone. The phrases "save 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Eloi, Eloi, lama sabachthani? #####
-This is a phrase in Aramaic. Mark does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Aramaic letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+This is a phrase in Aramaic. Mark transliterates its sounds by writing them using Greek letters. He then explains its meaning.
 
 ## Links: ##
 
