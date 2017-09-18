@@ -19,9 +19,9 @@
 
 #### What is Genesis about? ####
 
-Genesis is about the the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over thousands of years. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
+Genesis is about the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over thousands of years. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
 
-Genesis is also about the beginning of God's people. Genesis 12-50 tells about how God remained faithful to Abraham and his descendants. Abrahams descendants became known as the Hebrews and later as the Israelites. These people would worship Yahweh and be his people.
+Genesis is also about the beginning of God's people. Genesis 12-50 tells about how God remained faithful to Abraham and his descendants. Abraham's descendants became known as the Hebrews and later as the Israelites. These people would worship Yahweh and be his people.
 
 Genesis ends with Abraham's descendants living in Egypt with the hope of returning one day to the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
@@ -47,7 +47,7 @@ In the covenant with Abraham, God promised to make Abrahams descendants into a g
 
 The book of Genesis says that a perfect God created a perfect world. However, the world became imperfect because human beings began to sin. But Genesis shows that God continues to have complete control over the world.
 
-Genesis also describes the start of God's plan to bless the whole world again. This is shown when God makes a covenant with Abraham. With this covenant God chose Abraham and his descendants to be his people. God promised to bless the world through Abraham's desendants.
+Genesis also describes the start of God's plan to bless the whole world again. This is shown when God makes a covenant with Abraham. With this covenant God chose Abraham and his descendants to be his people. God promised to bless the world through Abraham's descendants.
 
 #### What was the custom for inheritance as described by Genesis? ####
 
@@ -81,7 +81,7 @@ The word "people" refers to all the individuals who belong to a group, such as "
 
 #### What is the relationship between individuals and peoples that have similar names? ####
 
-Many individuals in Genesis eventually had large numbers of descendants who were called after their ancestor's name. For example, Cush was the name of an individual. But, "Cush" also became the name of nation that his descendants formed. They were called "Cushites." If possible, when translating these names, the translator should make the individual's name and the nation's name similar. For example, "Cush" and "Cushite" or "Moab" and "Moabite." Otherwise, the translator may say, "the descendants of Cush" or "the descendants of Moab."
+Many individuals in Genesis eventually had large numbers of descendants who were called after their ancestor's name. For example, Cush was the name of an individual. But, "Cush" also became the name of nation that his descendants formed. They were called "Cushites." If possible, when translating these names, the translator should make the individual's name and the nation's name similar. Examples of this are "Cush" and "Cushite" or "Moab" and "Moabite." Otherwise, the translator may say, "the descendants of Cush" or "the descendants of Moab."
 
 #### What does the phrase "to this day" mean? ####
 
