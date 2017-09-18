@@ -29,7 +29,7 @@
 
 #### What is the Book of Exodus about? ####
  
-Exodus continues the story of the previous book, Genesis. The first half of Exodus is about how Yahweh made Abraham's descendants into a nation. This nation, which would be called "Israel," was meant to belong to Yahweh and worship him. The second half of Exodus describes how God gave the Israelites his law through Moses. The law of Moses told the Israelites how to properly obey and worship Yahweh.
+Exodus continues the story of the previous book, Genesis. The first half of Exodus is about how Yahweh made Abraham's descendants into a nation. This nation, which would be called "Israel," was meant to belong to Yahweh and worship him. The second half of Exodus describes how God gave the Israelites his law through Moses. The law of Moses told the Israelites how to obey and worship Yahweh properly.
 
 The Book of Exodus also includes instructions about how the Israelites were to build the tabernacle. The tabernacle was a tent where Yahweh's presence would dwell. The Israelites worshiped and sacrificed animals to Yahweh at the tabernacle. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/tabernacle]])
 
@@ -41,13 +41,13 @@ The Book of Exodus also includes instructions about how the Israelites were to b
 
 The writers of both the Old and New Testament present Moses as being very involved with writing the book of Exodus. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
-#### Why did Moses write so much about God delievering or rescuing the people of Israel? ####
+#### Why did Moses write so much about God delivering or rescuing the people of Israel? ####
 
-Moses wrote a lot about God rescuing his people from the Egyptians to show that Yahweh is very powerful. Egypt was the most powerful nation at that time. And Yahweh was still able to free the Israelites from the Egyptians. Also, by rescuing the Isralites, Yahweh showed that he had chosen them as his people and they should worship him.
+Moses wrote a lot about God rescuing his people from the Egyptians to show that Yahweh is very powerful. Egypt was the most powerful nation at that time. And Yahweh was still able to free the Israelites from the Egyptians. Also, by rescuing the Israelites, Yahweh showed that he had chosen them as his people and they should worship him.
 
 #### How does the Book of Exodus show the fulfillment of the promises given to Abraham? ####
  
-The Book of Exodus shows God beginning to fulfill his promise that Abraham. In Genesis, God promised Abraham that he would have many descendants and that they would form a large nation. When God rescued the Israelites from the Egyptians, he took them to Moun Sinai. There he made a covenant with them, and they became the nation that belonged to Yahweh.
+The Book of Exodus shows God beginning to fulfill his promise that Abraham. In Genesis, God promised Abraham that he would have many descendants and that they would form a large nation. When God rescued the Israelites from the Egyptians, he took them to Mount Sinai. There he made a covenant with them, and they became the nation that belonged to Yahweh.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -57,7 +57,7 @@ The Jewish Passover was a festival that Yahweh commanded the Israelites to celeb
 
 #### What was the law of Moses to the people of Israel? ####
 
-The law of Moses was a set of instructions for the people of Israel. These instructions told them what Yahweh required them to do as his people. In the law, God told the people how they should live so that they honor him. He also instructed them about their need to offer animal sacrifices. God required these sacrafices so that he could forgive their sins and continue living among them. The law also described the duties of the priests. It also gave instructions for building the tabernacle.
+The law of Moses was a set of instructions for the people of Israel. These instructions told them what Yahweh required them to do as his people. In the law, God told the people how they should live so that they honor him. He also instructed them about their need to offer animal sacrifices. God required these sacrifices so that he could forgive their sins and continue living among them. The law also described the duties of the priests. It also gave instructions for building the tabernacle.
  
 #### What did it mean that Israel was to be a "kingdom of priests and a holy nation?" ####
 
