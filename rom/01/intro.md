@@ -24,7 +24,7 @@ Many scholars view the phrases "God gave them over" and "God gave them up" as th
 
 ##### Difficult phrases and concepts #####
 
-There are many abstract concepts in this chapter and Paul's personal style makes many of the phrases in this chapter difficult to translate. The translator may need to use the UDB to understand the meaning of the phrases and it may be necessary to use more freedom in translating these phrases. The difficult phrases include: "obedience of faith," "whom I serve in my spirit," "from faith to faith" and "exchanged the glory of the imperishable God for the likenesses of an image of perishable man."
+There are many abstract concepts in this chapter and Paul's personal style makes many of the phrases in this chapter difficult to translate. The translator may need to use the UDB to understand the meaning of the phrases, and it may be necessary to use more freedom in translating these phrases. The difficult phrases include: "obedience of faith," "whom I serve in my spirit," "from faith to faith" and "exchanged the glory of the imperishable God for the likenesses of an image of perishable man."
 
 ## Links: ##
 

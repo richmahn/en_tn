@@ -35,7 +35,7 @@ The Song of Solomon shows approval of sexual behavior as an expression of love b
 
 The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks, and who also themselves make comments, but that group of women might be imaginary, existing only in the young woman's mind.
 
-Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognize only the man, the woman, and the group of women.
+Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognizes only the man, the woman, and the group of women.
 
 #### How should one translate The Song of Solomon if the readers will view certain terms as coarse, vulgar, or improper? ####
 
