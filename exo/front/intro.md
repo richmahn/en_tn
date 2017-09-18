@@ -29,9 +29,9 @@
 
 #### What is the Book of Exodus about? ####
  
-Exodus appears to be a continuation of the previous book, Genesis. The first half of Exodus is about how Yahweh created a nation out of Abraham's descendants. This nation, which would be called "Israel," was meant to live in close relationship to Yahweh. The second half of Exodus describes how the Israelites received the Law of God to guide them in how to live in this way. 
+Exodus continues the story of the previous book, Genesis. The first half of Exodus is about how Yahweh made Abraham's descendants into a nation. This nation, which would be called "Israel," was meant to belong to Yahweh and worship him. The second half of Exodus describes how God gave the Israelites his law through Moses. The law of Moses told the Israelites how to properly obey and worship Yahweh.
 
-The Book of Exodus also includes instructions about how the Israelites were to build the Tabernacle, the tent of worship that they would carry with them through the wilderness. The book also gives instructions as to how the Israelites were to worship Yahweh. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/tabernacle]])
+The Book of Exodus also includes instructions about how the Israelites were to build the tabernacle. The tabernacle was a tent where Yahweh's presence would dwell. The Israelites worshiped and sacrificed animals to Yahweh at the tabernacle. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/tabernacle]])
 
 #### How should the title of this book be translated? ####
 
@@ -39,40 +39,40 @@ The Book of Exodus also includes instructions about how the Israelites were to b
 
 #### Who wrote the Book of Exodus? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the book of Exodus.
+The writers of both the Old and New Testament present Moses as being very involved with writing the book of Exodus. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
-#### Why is deliverance or rescue a very important theme in the Book of Exodus? ####
+#### Why did Moses write so much about God delievering or rescuing the people of Israel? ####
 
-Deliverance is a very important theme in the Book of Exodus because it shows God as forming the nation of Israel and then as rescuing them from being slaves in Egypt. God then rescues them from the Egyptian army that pursues them, and he leads them to Mount Sinai, where he officially marks them as the one nation on earth that will worship him.
+Moses wrote a lot about God rescuing his people from the Egyptians to show that Yahweh is very powerful. Egypt was the most powerful nation at that time. And Yahweh was still able to free the Israelites from the Egyptians. Also, by rescuing the Isralites, Yahweh showed that he had chosen them as his people and they should worship him.
 
-#### How does the Book of Exodus relate to the fulfillment of the promises given to Abraham? ####
+#### How does the Book of Exodus show the fulfillment of the promises given to Abraham? ####
  
-The Book of Exodus shows God beginning to fulfill his promise that Abraham would have many descendants, and that they would form a large nation. At Mount Sinai, God makes an official covenant with the nation of Israel.
+The Book of Exodus shows God beginning to fulfill his promise that Abraham. In Genesis, God promised Abraham that he would have many descendants and that they would form a large nation. When God rescued the Israelites from the Egyptians, he took them to Moun Sinai. There he made a covenant with them, and they became the nation that belonged to Yahweh.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was the Jewish Passover? ####
 
-The Jewish Passover was a festival that the Israelites were commanded to celebrate every year in order to remember their people's departure from Egypt. The first Passover meal was eaten in the evening just before they left, and it became part of the covenant requirements that Yahweh gave them at Mount Sinai.
+The Jewish Passover was a festival that Yahweh commanded the Israelites to celebrate every year. Passover was a time for the people to remember how God rescued them from the Egyptians. The first Passover meal was eaten in the evening just before they left Egypt.
 
 #### What was the law of Moses to the people of Israel? ####
 
-The law of Moses was a set of instructions for the people of Israel which told them what Yahweh required them to do in order to participate in his covenant with them. The Law gave instructions for how the people should live in a way that would honor him. It also instructed them about their need to offer animal sacrifices for their sins, and for their need to maintain a right relationship with Yahweh. The Law gave instructions for how the priests should present the people's worship to Yahweh, and for how they should build the tabernacle, the place of worship that would be the center of Yahweh's presence among them.
+The law of Moses was a set of instructions for the people of Israel. These instructions told them what Yahweh required them to do as his people. In the law, God told the people how they should live so that they honor him. He also instructed them about their need to offer animal sacrifices. God required these sacrafices so that he could forgive their sins and continue living among them. The law also described the duties of the priests. It also gave instructions for building the tabernacle.
  
 #### What did it mean that Israel was to be a "kingdom of priests and a holy nation?" ####
 
-Even though most nations in the time of Israel honored many gods, Israel was to worship only Yahweh. This fact was meant to make them very different from the other nations in the world. The entire nation was to honor Yahweh by living according to his standards.
+Israel was a holy nation because Yahweh separated them from all other nations to belong to him. They were to honor and worship him only. This made them different than all the other nations of the world. These other nations worshiped many false gods.
 
 ## Part 3: Important Translation Issues ##
 
 #### Why are the details of the construction of the tabernacle in Exodus 25–32 repeated in Exodus 35–40? ####
 
-The first description of the construction of the tabernacle was God's specific instructions to Israel. The details were repeated exactly to show that the people carefully followed God's plan. 
+The first description of the construction of the tabernacle was God's specific instructions to Israel. The details were repeated exactly to show that the people were careful to do what God commanded them to do.
 
-#### Are the events in chronological order? ####
+#### Are the events in the order that they actually happened? ####
 
-While most of the events follow a chronological order, not all of the events are in a strict chronological sequence. Translators may have to be careful that they present in translation the unusual time relationships among various parts. 
+Not all of the events in the Book of Exodus are told in the order that they actually happened. However, most of the events are in the order that they happened. Translators may need to make it clear when the events are in an unusual order. 
 
 #### What does it mean that God "lived" among his people? ####
 
-God is present everywhere in the world, but the Book of Exodus presents him as creating a special relationship with the people of Israel. In this relationship, he promised to lead them and bless them. In return, the people should worship him and honor him sincerely in how they lived.
+The Book of Exodus presents God as living in the tabernacle among the nation of Israel. God is present everywhere in the world, but his presence was among the Israelites in a special way. God dwelled with Israelites because they belonged to him. He promised to lead them and bless them. In return, the people were to worship him and honor him.
