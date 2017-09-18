@@ -57,7 +57,7 @@ Also, it was the custom for a man to divide among his sons his material wealth a
 
 #### How does Genesis present sin and evil? ####
 
-Ancient Near Eastern societies, like many societies today, view sin and disasters of all kinds as if they were physical dirt or rottenness that could spread among people, throughout their communities, and even their land. As a result, many societies have very little trouble understanding the Genesis account of how sin was introduced into the world.
+Genesis speaks of sin and evil as if they were physical dirt or rottenness that spread among people, communities, and even their land. Many societies today also think of sin and evil in this way. As a result, many societies have very little trouble understanding the Genesis account of how sin was introduced into the world.
 
 These societies also assume that the way to stop the spread of evil is to perform sacrifices. For this reason, many societies still today easily understand the reason for the animal sacrifices of which Genesis speaks.
 
@@ -77,11 +77,11 @@ However, in many languages, it is preferred to summarize a narrative at the end.
 
 #### What is the difference between "people," "peoples," and "people groups"? ####
 
-The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to groups that speak the same languages, have the same customs, and worship the same gods, such as the peoples of Edom, Moab, and Ammon. The expression "people groups" (used in the UDB) is equivalent to "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
+The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to groups that speak the same languages, have the same customs, and worship the same gods, such as the peoples of Edom, Moab, and Ammon. The expression "people groups" (used in the UDB) means the same thing as "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
 
 #### What is the relationship between individuals and peoples that have similar names? ####
 
-Many individually named persons in Genesis eventually had large numbers of descendants who were called after their ancestor's name. For example, Cush was the name of such an individual, but it also became the name of the nation that his descendants formed (the Cushites), as well as the name of the region in which they lived. If possible, when translating these names, the translator should make a strong resemblance between them, as, for example, "Cush" and "Cushite" or "Moab" and "Moabite." Otherwise, the translator may say, "the descendants of Cush."
+Many individuals in Genesis eventually had large numbers of descendants who were called after their ancestor's name. For example, Cush was the name of an individual. But, "Cush" also became the name of nation that his descendants formed. They were called "Cushites." If possible, when translating these names, the translator should make the individual's name and the nation's name similar. For example, "Cush" and "Cushite" or "Moab" and "Moabite." Otherwise, the translator may say, "the descendants of Cush" or "the descendants of Moab."
 
 #### What does the phrase "to this day" mean? ####
 
