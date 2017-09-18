@@ -3,7 +3,8 @@
 #### Structure and formatting ####
 
 ##### The parable of the prodigal son #####
-Luke [Luke 15:13-32](./13.md) form a single parable, known as the parable of the prodigal son. There are three figures in the story. It is generally agreed that the father represents God (the Father), the sinful younger son represents those who repent and come to faith in Jesus, and the self-righteous older son represents the Pharisees. The forgiveness shown to the lost and sinful son becomes a stumbling block for the older son, causing him to reject the father. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/forgive]])
+
+[Luke 15:13-32](./13.md) forms a single parable, known as the parable of the prodigal son. There are three figures in the story. It is generally agreed that the father represents God (the Father), the sinful younger son represents those who repent and come to faith in Jesus, and the self-righteous older son represents the Pharisees. The forgiveness shown to the lost and sinful son becomes a stumbling block for the older son, causing him to reject the father. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/forgive]])
 
 #### Special concepts in this chapter ####
 
