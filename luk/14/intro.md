@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Verse 3 says, "Jesus asked the experts in the Jewish law and the Pharisees, "Is it lawful to heal on the Sabbath, or not?" Many times, the Pharisees got angry with Jesus for healing on the Sabbath. In this passage, Jesus dumbfounds the Pharisees. It was normally the Pharisees who tried to trap Jesus.
+Verse 3 says, "Jesus asked the experts in the Jewish law and the Pharisees, 'Is it lawful to heal on the Sabbath, or not?'" Many times, the Pharisees got angry with Jesus for healing on the Sabbath. In this passage, Jesus dumbfounds the Pharisees. It was normally the Pharisees who tried to trap Jesus.
 
 ##### Abrupt transitions #####
 
