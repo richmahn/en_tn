@@ -21,7 +21,8 @@ The tone of this chapter is meant to shock the reader. This should not be minimi
 
 ##### Armageddon #####
 
-This is a word in Hebrew. Paul does not translate this word into Greek but chooses to transliterate it by transferring it into Greek using Greek letters instead of Hebrew letters. The translators of the ULB and UDB have not translated this word either. The translator should try to form the sounds of this without translating its meaning. 
+This is a word in Hebrew, and it is used as the name of a place. John transliterates the sounds of this word by writing them with Greek letters. Translators are encouraged to transliterate it using the letters of the target language. 
+
 ## Links: ##
 
 * __[Revelation 16:01 Notes](./01.md)__

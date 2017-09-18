@@ -38,7 +38,7 @@ John used a special style of writing to describe his vision. John described what
 
 Since the early Christian times, scholars have interpreted Revelation differently. Some scholars think John described events that happened during his time. Some scholars think John described events happening from his time until the return of Jesus. Some scholars think John described events that will happen in a short period of time just before Christ returns.
 
-Translators will not need to choose any interpretation to be able to translate this book. Translators should leave the prophecies in the tense they are found in the ULB.
+Translators will not need to choose any interpretation to be able to translate this book. Translators should leave the prophecies in the tenses that are used in the ULB.
 
 #### Are there any other books in the Bible like Revelation? ####
 
