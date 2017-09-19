@@ -29,51 +29,53 @@
 
 #### What is the book of Leviticus about? ####
 
-Leviticus sets forth the requirements that Yahweh presented to the Israelites that they should obey for keeping their part of his covenant with them. 
-
+In the Book of Leviticus, God continues to give laws through Moses to the people of Israel. The people were to obey all of these laws in order to honor the covenant they had with God.
+ 
 #### How should the title of this book be translated? ####
 
 "Leviticus" means "about the Levites." The Levites were the tribe of Israel that provided priests and other workers in the tabernacle. If the people in the project language do not understand the term "Levites," it will probably be better to create a title such as, "The Book about the Priests" or "The Book about the Tabernacle Workers." (See: [[rc://en/tw/dict/bible/kt/tabernacle]] and [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the book of Leviticus? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the book of Leviticus.
+The writers of both the Old and New Testament present Moses as being very involved with writing the book of Leviticus. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
 #### What is the meaning of "holy" and "holiness" in the book of Leviticus? ####
 
-These terms concern the separation of someone or something from the rest of the people, from the world, or from ordinary use, to belong only to God. The places for worshiping God or for honoring him in any way were considered to be separate from any other possible use. God required the Israelites to live in a certain way in order to live as a nation belonging to him alone. To be "clean" was therefore to be acceptable to God.
+These terms concern the separation of someone or something from the rest of the people, from the world, or from ordinary use. These people or things that are separated belong only to God. The places for worshiping God or for honoring him in any way were considered to be separate. They could not be used for anything else. God required the Israelites to live in a certain way in order to live as a nation belonging to him alone. 
 
-In the same way, anyone or anything "unclean" was not acceptable to God, because it was not "holy," that is, not fit for him to accept. 
+Anyone or anything that was acceptable to God or "holy" was spoken of as if they were physically clean.
 
-Some people and some things could be made clean or "cleansed," that is, acceptable to God, if the people performed the right sacrifices and ceremonies. This was true for foreigners who wished to live among the Israelites and worship Yahweh. However, there were other people and things that could never be made acceptable to him.
+In the same way, anyone or anything that was not acceptable to God or not holy was spoken of if they were physically unclean. 
 
-It is important to know that not all unclean things or conditions were actually sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days, until the suitable animal sacrifice could be offered for her. It was the flow of blood that made the woman unclean (See: [Leviticus 12:7](../12/07.md)), but it is never suggested that someone with a flow of blood was sinning. In the same way, it was forbidden to eat many animals because God considered them to be unfit for the people to eat or to sacrifice to himself, not because those animals were sinful.
+Some people and some things could be made clean or "cleansed," that is, acceptable to God. People or things were made clean if the people performed the right sacrifices and ceremonies. For example, foreigners who wished to live among the Israelites and worship Yahweh could be made clean. However, there were other people and things that could never be made acceptable to him.
 
-Because God is without sin, the terms "holy" and "holiness" often signal this same idea. Something belonging to God must be treated well out of respect for God and for his moral standards.
+It is important to know that not all unclean things or conditions were actually sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days. Then until the proper animal sacrifice could be offered for her. It was the flow of blood that made the woman unclean (See: [Leviticus 12:7](../12/07.md)). But it is never suggested that someone with a flow of blood was sinning. In the same way, God did not allow Israelites to eat many kinds of animals. This is because God considered them to be unfit for the people to eat or to sacrifice to himself, not because those animals were sinful.
+
+Because God does not sin, the terms "holy" and "holiness" often suggest this same idea. Something belonging to God is holy. Because people must respect God, they must respect the things that belong to him.
 
 #### What are the the important narrative features of Leviticus? ####
 
-On seventeen occasions, the phrase "The Lord said to Moses" (and Aaron), is often used to begin paragraphs. God and Moses frequently speak to others. The verb "speak" is used thirty-eight times. 
+On seventeen occasions, the phrase "The Lord said to Moses" (and Aaron), is often used to begin paragraphs. God and Moses frequently spoke to others. The verb "speak" is used thirty-eight times. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### Why did the Israelites need an elaborate sacrificial system? ####
+#### Why did the Israelites need so many rules about sacrificing animals? ####
 
-Leviticus shows that God is holy, that is, very different than humanity and the rest of the created world. He is free from sin. Because of this, it is impossible to be acceptable to him without being "cleansed." The system of sacrifices was meant to make people and things acceptable to God. However, the people's need to become ritually acceptable to God pointed to a further need to be acceptable on the true spiritual level, that is, the need to be truly freed from sin. (See: [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+Leviticus shows that God is holy. That means God is very different than humanity and the rest of the created world. God does not sin. Because of this, it is impossible to be acceptable to him without being "cleansed." The many kinds of sacrifices were meant to make people and things acceptable to God. However, the people had to continue making animal sacrifices so that they would continue to be acceptable to God. This was a sign that pointed to a need for a better sacrifice. They needed a sacrifice that would cause them to be acceptable to God forever. (See: [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Why was the priesthood important in the book of Leviticus? ####
 
-Priests were individuals who acted as go-betweens the people and God. They were the persons whom God authorized to present the Israelite's sacrifices to himself.
+Priests were individual who would go to God on behalf of the people. God authorized the priests to bring the Israelite's sacrifces to himself.
 
-#### How was the Israelite sacrificial system different than the sacrificial rituals of other nations in the ancient Near East? ####
+#### How did the Israelite's rules for worshiping God and sacrificing animals differ from the other nations at that time? ####
 
-It was common for other nations to sacrifice animals to their idols, but also to practice other kinds of rituals, such as sacred prostitution, in order to persuade the gods to bless their land with the ability to grow crops. Moreover, human sacrifice was by no means unknown. 
+It was common for other nations to sacrifice animals to their idols. But, the other nations did other things to worship their false gods. For instance people would sleep with prostitutes at the temple of their gods. They did this to try to persuade their gods to bless their land with the ability to grow crops. Also, people of other nations would sometimes offer human sacrifices to their gods. The God of Israel did allow his people to do these kinds of things.
 
 ## Part 3: Important Translation Issues ##
 
 #### What important symbols are introduced in Leviticus? ####
 
-Oil was poured on someone or something meant to be set apart for Yahweh's service. Water was used to symbolize the cleansing of someone or something in order to become acceptable to God. Blood was also used for cleansing and purification because it represented life which needed to be shed for sin. 
+Oil was poured on someone or something meant to be set apart for Yahweh. Water was used to symbolize the cleansing of someone or something in order to become acceptable to God. Blood was also used to cleanse and purify people and things. This is because blood represented life which needed to be shed in order for God to forgive people for sinning. 
 
 #### Why do many sections begin with the phrase "Yahweh said to Moses?" ####
 
