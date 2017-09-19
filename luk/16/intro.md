@@ -2,13 +2,6 @@
 
 #### Special concepts in this chapter ####
 
-##### "Abraham's side" #####
-Abraham's side, in Luke [Luke 16:22](./22.md), is also known as Abraham's bosom. Many people view this as a place where the righteous dead went when they died. This is because their sins were only covered until they were eventually paid for by the death of Christ. (See: [[rc://en/tw/dict/bible/kt/sin]])
-
-##### Jesus' teaching about divorce #####
-
-In this chapter, Jesus teaches about divorce as a response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus shows the mistakes that the religious leaders made in their traditions about marriage.
-
 #### Important figures of speech in this chapter ####
 
 ##### Allusion #####

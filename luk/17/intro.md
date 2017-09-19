@@ -7,7 +7,7 @@ In the cleansing of the 10 men ([Luke 17:11-17](./11.md)), there should be an im
 #### Special concepts in this chapter ####
 
 ##### Old Testament Examples #####
-This chapter uses a series of examples from the Old Testament. All of these examples are times when the people did not concern themselves with God. Properly understanding the meaning of each individual example will be difficult without the necessary background understanding from the book of Genesis. 
+This chapter uses a series of examples from the Old Testament. All of these examples are of times when the people did not concern themselves with God. Properly understanding the meaning of each individual example will be difficult without the necessary background understanding from the book of Genesis. 
 
 #### Important figures of speech in this chapter ####
 
@@ -20,11 +20,11 @@ Jesus uses two figures of speech at the same time in this chapter. He combines a
 #### Other possible translation difficulties in this chapter ####
 
 ##### Son of Man #####
-Jesus refers to himself as the "Son of Man." Every language may not have the ability to have a person refer to himself in the third person. 
+Jesus refers to himself as the "Son of Man." Not every language may allow a person to refer to himself in the third person. 
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
+This is a statement that seems absurd and appears to contradict itself. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
 
 ## Links: ##
 
