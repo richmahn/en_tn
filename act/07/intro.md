@@ -24,7 +24,7 @@ Saul, also known as Paul, is included here to foreshadow the role he will play i
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Implicit Knowledge #####
+##### Background Knowledge #####
 This chapter will be very difficult to understand if the book of Genesis has not yet been translated into one's language. In many ways, it summarizes the book of Genesis, with many details left out.
 
 ## Links: ##
