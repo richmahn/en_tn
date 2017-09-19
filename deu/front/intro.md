@@ -18,32 +18,32 @@
  
 #### What is the Book of Deuteronomy about? ####
 
-This book records a retelling of the covenant with Israel, in which Yahweh reminds the Israelites of what he has done for them and what he expects from them. In fact, the book appears to present the Law as more closely applied to the Israelites once they shall have settled in the Promised Land. In this book, Moses warns the people against idolatry and the danger of losing their trust in Yahweh. Yahweh promises judgment on those who disobey him, and blessings on those who obey his Law. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+The book of Deuteronomy retells the covenant that God made with the people of Israel. The people of Israel were about to go into the Promised Land. Before they entered the land Moses reminded them of what Yahweh did for them and what he expected from them. Moses warned the people about worshipping idols and no longer trusting Yahweh once they settled in the Promised Land. Yahweh promised to judge those who disobey him and to bless those who obey his Law. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### How should the title of this book be translated? ####
 
-The name "Deuteronomy" means "Second Law" or "the retelling of the Law." Translators may decide on a title such as, "A Repeat of the Law" or "Moses explains the Law Again." (See: [[rc://en/ta/man/translate/translate-names]]). 
+The name "Deuteronomy" means "Second Law" or "the retelling of the Law." Translators may decide on a title such as, "A Repeat of the Law" or "Moses Explains the Law Again." (See: [[rc://en/ta/man/translate/translate-names]]). 
 
 #### Who wrote the Book of Deuteronomy? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Deuteronomy. However, many people have assumed that Joshua wrote chapter 34, which concerns how Moses died.
+The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Deuteronomy. However, many scholars think that Joshua wrote chapter 34. This chapter concerns how Moses died.
 
 #### What are the important features of the Book of Deuteronomy? ####
 
-The book contains a series of speeches that Moses gave to Israel before he died, as they would soon enter the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+The book contains a series of speeches that Moses gave to Israel before he died. He spoke these things just before the people entered the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### When Yahweh commanded the Israelites to completely destroy the people who lived in the Promised Land, what was the significance of this command? ####
+#### Why did Yahweh command the Israelites to completely destroy the people who lived in the Promised Land? ####
 
-As God was preparing the Israelites to enter the Promised Land, he gave them instructions to completely destroy the people whom they would defeat. In this way, the people in the land would become like the animals that Israel brought as whole burnt offerings to Yahweh, completely dedicated to him. Also in this way, the Israelites would not be tempted to associate with them and adopt their idols and their evil ways.
+As God prepared the Israelites to enter the Promised Land, he gave them instructions to completely destroy the people who were living there. These people become like the animals that Israel brought as whole burnt offerings to Yahweh. Yahweh wanted the people completely destroyed so that the Israelites would not be tempted to join them and worship their false gods.
 
 ## Part 3: Important Translation Issues ##
 
 #### What is the role of God's name in Deuteronomy? ####
 
-God's name is mentioned over thirty times in the book of Deuteronomy. The use of God's name in this book usually functions as metonomy and represents God's honor or fame. At other times in Deuteronomy, God's name represents his presence, especially in connection with a place such as Jerusalem where he says he will be worshiped. 
+God's name is mentioned over thirty times in the book of Deuteronomy. The use of God's name in this book usually represents God's honor or fame. At other times in Deuteronomy, God's name represents his presence. God said he would choose a place and make his name dwell there. This means God's presence will be there. The people were to go to that place to worship him.
 
 #### Can this book be translated before the rest of the Pentateuch? ####
 
-The books of Genesis and Exodus provide the context for Deuteronomy. For this reason, those books should be translated before the Book of Deuteronomy.
+The books of Genesis and Exodus provide help explain what is happening in Deuteronomy. For this reason, those books should be translated before the Book of Deuteronomy.
