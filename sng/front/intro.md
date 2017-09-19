@@ -37,6 +37,12 @@ The two main characters in this book are the man and the woman, who love each ot
 
 Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognizes only the man, the woman, and the group of women.
 
+#### What are the lines about people speaking? ####
+
+The Song of Solomon is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations have headings identifying the speaker and audience of the lines below them. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
+
+Some of the headings used in the  ULB are the following: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include headings and a note explaining that the headings are not actually part of the scripture.
+
 #### How should one translate The Song of Solomon if the readers will view certain terms as coarse, vulgar, or improper? ####
 
 There are many images or forms appearing in the Song of Solomon that, when translated, may be considered improper. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
