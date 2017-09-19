@@ -33,7 +33,7 @@ Leviticus sets forth the requirements that Yahweh presented to the Israelites th
 
 #### How should the title of this book be translated? ####
 
-"Leviticus" means "about the Levites," that is, about the tribe of Levi, the Israelite tribe that was to provide the priests and other workers in the tabernacle and, later, in the temple. Unless the people in the project language already understand the term "Levites," it will probably be better to create a title such as, "The Book about the Priests" or "The Book about the Tabernacle Workers." (See: [[rc://en/tw/dict/bible/kt/tabernacle]] and [[rc://en/ta/man/translate/translate-names]])
+"Leviticus" means "about the Levites." The Levites were the tribe of Israel that provided priests and other workers in the tabernacle. If the people in the project language do not understand the term "Levites," it will probably be better to create a title such as, "The Book about the Priests" or "The Book about the Tabernacle Workers." (See: [[rc://en/tw/dict/bible/kt/tabernacle]] and [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the book of Leviticus? ####
 
