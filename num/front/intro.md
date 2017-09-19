@@ -37,21 +37,21 @@
 
 #### What is the Book of Numbers about? ####
 
-Numbers is the story of the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. After many hardships, the Israelites were very discouraged, and they rebelled against the leaders whom God had given them. It was at the Jordan River that the people of Israel refused to enter the Promised Land. Because the Israelites were afraid to follow Yahweh's guidance, he delayed Israel's entry for forty years (13:1–14:45). (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+Numbers tells about the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. While traveling, the Israelites were very discouraged, and they rebelled against the leaders whom God had given them. It was at the Jordan River that the people of Israel refused to enter the Promised Land. Because the Israelites were afraid and did not trust God to protect them in the Promised Land, he delayed Israel's entry for forty years (13:1–14:45). (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 #### How should the title of this book be translated? ####
 
-The title of this book, "Numbers," refers to the census that was to be taken of the Israelites. Unless the people of the project language are already familiar with the name "Numbers" from other Bible versions, the translator should consider creating a modified name, such as "The Counting of the People of Israel." (See: [[rc://en/tw/dict/bible/other/census]])
+The title of this book, "Numbers," refers to the census that was to be taken of the Israelites. The people of the project language may already familiar with the name "Numbers" from other Bible versions. If not, the translator could consider a clearer name for the book, such as "The Counting of the People of Israel." (See: [[rc://en/tw/dict/bible/other/census]])
 
 #### Who wrote the Book of Numbers? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Numbers. However, later scribes and priests probably put the book into its present form; they included material from other sources such as eyewitness accounts and books of history (21:14). One such book was "The Book of the Wars of Yahweh," which may have been completed after Moses' death and which was known to later scribes who worked on the book of Numbers. 
+The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Numbers. However, later scribes and priests probably put the book into its present form. They included material from other sources such as eyewitness accounts and books of history (21:14). One such book was "The Book of the Wars of Yahweh." This book may have been completed after Moses' death. Scribes may have used it when they worked on the Book of Numbers.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What importance does collective or group responsibility play in the Book of Numbers? ####
+#### How does Numbers present the idea of the whole community being responsible when only a few people sinned? ####
 
-The tendency was to assume that the entire community of Israel would suffer God's punishment if some of them rebelled against him. Indeed, divine punishment often did fall across the entire nation. This would, in fact, have been the expectation among all peoples in the Ancient Near East. At the same time, Moses and Aaron, the leaders of Israel, are shown as praying to God for him to punish only the guilty.
+The people understood and assumed that God would punish the entire community of Israel if some of the people rebelled against him. And, often, God did punish the entire nation when some of them sinned. All of the people in the Ancient Near East would have understood and expected this. However, Moses and Aaron, the leaders of Israel, are shown as praying to God for him to punish only those who are guilty.
 
 ## Part 3: Important Translation Issues ##
 
