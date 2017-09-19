@@ -37,7 +37,7 @@
 
 #### What is the Book of Numbers about? ####
 
-Numbers tells about the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. While traveling, the Israelites were very discouraged, and they rebelled against the leaders whom God had given them. It was at the Jordan River that the people of Israel refused to enter the Promised Land. Because the Israelites were afraid and did not trust God to protect them in the Promised Land, he delayed Israel's entry for forty years (13:1–14:45). (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+Numbers tells about the people of Israel as they traveled from Mount Sinai in the wilderness to the Jordan River. While traveling, the Israelites became very discouraged. Therefore, they rebelled against the leaders whom God had given them. It was at the Jordan River that the people of Israel refused to enter the Promised Land. Because the Israelites were afraid and did not trust God to protect them in the Promised Land, he delayed Israel's entry for forty years (13:1–14:45). (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 #### How should the title of this book be translated? ####
 
@@ -45,7 +45,7 @@ The title of this book, "Numbers," refers to the census that was to be taken of 
 
 #### Who wrote the Book of Numbers? ####
 
-The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Numbers. However, later scribes and priests probably put the book into its present form. They included material from other sources such as eyewitness accounts and books of history (21:14). One such book was "The Book of the Wars of Yahweh." This book may have been completed after Moses' death. Scribes may have used it when they worked on the Book of Numbers.
+The writers of both the Old and New Testament present Moses as being very involved with writing the Book of Numbers. However, at a later time, scribes and priests probably put the book into its present form. They included material from other sources such as eyewitness accounts and books of history (21:14). One such book was "The Book of the Wars of Yahweh." This book may have been completed after Moses' death. Scribes may have used it when they worked on the Book of Numbers.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
