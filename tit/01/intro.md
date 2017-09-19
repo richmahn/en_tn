@@ -14,8 +14,8 @@ There is some disagreement over the titles used for church leaders. Some titles 
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The way an action occurs #####
-There are several verbs included in this chapter (should, may, must) which describe the way in which an action occurs. These verbs have different levels of force attached to them. The subtle differences may be difficult to translate. The UDB has chosen to translate these verbs more generically. 
+##### How things ought to be #####
+There are several words in this chapter (should, may, must, is necessary) which indicate that there is some kind of requirement or obligation. These verbs have different levels of force attached to them. The subtle differences may be difficult to translate. The UDB has chosen to translate these verbs more generically. 
 
 ## Links: ##
 
