@@ -15,7 +15,7 @@
 
 The Song of Solomon is a poem or a series of poems about the love between a man and a woman. It became traditional for Jews to interpret the book as a picture of God's love for the people of Israel. In the same way, it became traditional for Christians to interpret it as a picture of Christ's love for all Christian believers.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 This book may also be called the "Songs of Love," "Great Poems of Love" or "The Love Songs of Solomon." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
