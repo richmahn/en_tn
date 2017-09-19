@@ -16,7 +16,7 @@ In the ancient Near East, it was common to describe a woman using metaphors invo
 #### Other possible translation difficulties in this chapter ####
 
 ##### "I am dark" #####
-In the ancient Near East, many people were more attracted to light skinned people. This is because light skinned people were typically rich and did not need to work outside in the sun. 
+In the ancient Near East, rich people usually had lighter skin because they did not need to work outside in the sun. This young woman had to work out in the sun, and her skin became darker than it was when she was younger.
 
 ## Links: ##
 
