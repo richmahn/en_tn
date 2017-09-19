@@ -49,11 +49,11 @@ In the same way, anyone or anything that was not acceptable to God or not holy w
 
 Some people and some things could be made clean or "cleansed," that is, acceptable to God. People or things were made clean if the people performed the right sacrifices and ceremonies. For example, foreigners who wished to live among the Israelites and worship Yahweh could be made clean. However, there were other people and things that could never be made acceptable to him.
 
-It is important to know that not all unclean things or conditions were actually sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days. Then until the proper animal sacrifice could be offered for her. It was the flow of blood that made the woman unclean (See: [Leviticus 12:7](../12/07.md)). But it is never suggested that someone with a flow of blood was sinning. In the same way, God did not allow Israelites to eat many kinds of animals. This is because God considered them to be unfit for the people to eat or to sacrifice to himself, not because those animals were sinful.
+It is important to know that not all unclean things or conditions were actually sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days. Then the proper animal sacrifice would be offered for her. It was the flow of blood that made the woman unclean (See: [Leviticus 12:7](../12/07.md)). But it is never suggested that someone with a flow of blood was sinning. In the same way, God did not allow Israelites to eat many kinds of animals. This is because God considered them to be unfit for the people to eat or to sacrifice to himself, not because those animals were sinful.
 
 Because God does not sin, the terms "holy" and "holiness" often suggest this same idea. Something belonging to God is holy. Because people must respect God, they must respect the things that belong to him.
 
-#### What are the the important narrative features of Leviticus? ####
+#### What are the important narrative features of Leviticus? ####
 
 On seventeen occasions, the phrase "The Lord said to Moses" (and Aaron), is often used to begin paragraphs. God and Moses frequently spoke to others. The verb "speak" is used thirty-eight times. 
 
@@ -65,7 +65,7 @@ Leviticus shows that God is holy. That means God is very different than humanity
 
 #### Why was the priesthood important in the book of Leviticus? ####
 
-Priests were individual who would go to God on behalf of the people. God authorized the priests to bring the Israelite's sacrifces to himself.
+Priests were individual who would go to God on behalf of the people. God authorized the priests to bring the Israelite's sacrifices to himself.
 
 #### How did the Israelite's rules for worshiping God and sacrificing animals differ from the other nations at that time? ####
 
