@@ -4,7 +4,7 @@
 
 This chapter unlike the previous one is a warning against the leaders amongst the exiles.
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 11:1-3,17, which are extended quotations.
+Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 11:1-3, 17, which are extended quotations.
 
 #### Important figures of speech in this chapter ####
 

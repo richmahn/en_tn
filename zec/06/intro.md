@@ -4,7 +4,7 @@
 
 This chapter is written mainly in prose and tells the last vision of the four chariots in the first part of the chapter. 
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 6:12-15, which is an extended quotation.
+Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 6:12-13, which is an extended quotation.
 
 #### Special concepts in this chapter ####
 
