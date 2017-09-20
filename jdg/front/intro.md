@@ -18,11 +18,11 @@
 
 #### What is the book of Judges about? ####
 
-The book of Judges tells of some events that occurred in Israel over a period of about 150 years. This was a period after the Israelites had settled in the Promised Land and leading up to the death of Samson. 
+The book of Judges tells of some events that occurred after the Israelites settled in the Promised Land. The events in these book happened over a period of about 150 years.
 
-The theme of this book is how the Israelites repeatedly went against Yahweh by adopting the idolatry and immoral practices of the surrounding peoples. The Israelites then came under the oppression of enemy nations, in which they suffered until they called to Yahweh for help. Yahweh would then bring forward someone to lead the nation to victory and freedom. This person, called a "judge," would then lead Israel or part of Israel in time of peace until he or she died. 
+This books describes how the Israelites repeatedly sinned against Yahweh. They worshiped false gods and did the same wicked things as the peoples who lived around them. Therefore, God would allow enemies to defeat and oppress the Israelites. Eventually, the Israelites would call to Yahweh for help. Yahweh would then cause someone to help the Israelites defeat their enemies. This person was called a "judge." The Israelites would live in peace until the judge died.
 
-After that judge's death, the same pattern of events would repeat itself.
+After that the judge died, the Israelites would start sinning again. So this pattern of events would repeat.
 
 #### How should the title of this book be translated? ####
 
@@ -32,11 +32,13 @@ This book traditionally has the title "Judges" because it gives accounts of some
 
 #### What kind of leaders were the judges? ####
 
-These were men and women whom God chose to lead the Israelites to victory over their enemies. After achieving victory, these leaders usually continued to serve the people by deciding disputes among them and by helping them to make important decisions. Many of these leaders served the entire people of Israel, but some of these leaders seem to have served only certain tribes.
+These were men and women whom God chose to help the Israelites defeat their enemies. After defeating their enemies, these leaders usually continued to serve the people by deciding disputes among them. They also helped them make important decisions. Many of these leaders served the entire people of Israel, but some of these leaders seem to have served only certain tribes.
 
 #### What kind of society was Israel during the time of the judges? ####
 
-Rather than being a unified nation during this time, Israel was a loose association of twelve tribes. These tribes were descended from the same ancestors: Abraham, Isaac, and Jacob. They shared in the same covenant with Yahweh and sometimes helped each other in time of military need.
+During this time, the twelve tribes of Israel were independent of one another. They were not a unified nation with one king ruling them all. The tribes would sometimes help each other when enemies were threatening them.
+
+These tribes were descended from the same ancestors: Abraham, Isaac, and Jacob. They shared in the same covenant with Yahweh.
 
 #### What spiritual struggles did Israel experience during the time of the judges? ####
 
@@ -46,10 +48,10 @@ Israel struggled during this time to remain faithful to Yahweh. The best judges 
 
 #### What is the meaning of the phrase "in those days there was no king in Israel, and everyone did what was right in his own eyes?" ####
 
-This phrase occurs twice in the book of Judges, and shorter versions occur two other times. These phrases imply that the writer or editor of this book was alive during the later time of kings of Israel. They also seem to imply that the writer was looking back at this earlier history of Israel in a negative way. 
+This phrase occurs twice in the book of Judges. Shorter versions of the phrase occur two other times. These phrases imply that the writer or editor of this book was alive at a later time when there was a king in Israel. They also seem to imply that the writer thought that things were not good in Israel before there was a king. 
 
 The translation of these phrases should imply to the reader that the book's writer is looking back a long time into the past.
 
 #### What is the meaning of the phrase "to this day"? ####
 
-This phrase was used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" refers to a time which has already passed. He must avoid giving the impression that the present day of the translation's readers is meant. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Judges 1:26; 6:24; 10:4; 15:19; 18:12.
+The narrator used this phrase to refer to the time when he was writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator must avoid giving the impression that the present day of the translation's readers is meant. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Judges 1:21, 26; 6:24; 10:4; 15:19; 18:12.
