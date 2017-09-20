@@ -14,11 +14,11 @@
 
 #### What is the Book of Joshua about? ####
 
-The Book of Joshua is about the Israelites entering the Promised Land and occupying it. Joshua was the leader that replaced Moses. He led the Israelites in battle and defeated the people living in the Promised Land. This book also tells how the Israelites divided the land amont the twelve tribes. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+The Book of Joshua is about the Israelites entering the Promised Land and occupying it. Joshua was the leader that replaced Moses. He led the Israelites in battle to fight the people living in the Promised Land. This book also tells how the Israelites divided the land among the twelve tribes. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 #### How should the title of this book be translated? ####
 
-Translators may create a short title such as "The Book About When Joshua Led Israel." Translators should avoid a title that points to Joshua as the writer of the book.
+Translators may create a short title such as "The Book about When Joshua Led Israel." Translators should avoid a title that suggests Joshua as the writer of the book.
 
 #### Who wrote the Book of Joshua? ####
 
@@ -28,7 +28,7 @@ The book does not indicate who wrote it. However, there are verses in the book t
 
 #### How does the Book of Joshua present the cause of historical events ####
 
-In the ancient Near East, people assumed that the gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, historical events occurred because of Yahweh's promises to the Israelites. However, the result of the events were also based on whether the Israelites obeyed or disobeyed Yahweh.
+In the ancient Near East, people assumed that the gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, these events occurred because Yahweh promised the Israelites that he would give them the Promised Land. However, the results of the events were also based on whether the Israelites obeyed or disobeyed Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
