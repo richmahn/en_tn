@@ -18,7 +18,7 @@
  
 #### What is the Book of Deuteronomy about? ####
 
-The book of Deuteronomy retells the covenant that God made with the people of Israel. The people of Israel were about to go into the Promised Land. Before they entered the land Moses reminded them of what Yahweh did for them and what he expected from them. Moses warned the people about worshipping idols and no longer trusting Yahweh once they settled in the Promised Land. Yahweh promised to judge those who disobey him and to bless those who obey his Law. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+In the book of Deuteronomy, Moses repeats the laws of the covenant that God made with the people of Israel. The people of Israel were about to go into the Promised Land. Before they entered the land Moses reminded them of what Yahweh did for them and what he expected from them. Moses warned the people about worshipping idols and no longer trusting Yahweh once they settled in the Promised Land. Yahweh promised to judge those who disobey him and to bless those who obey his Law. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### How should the title of this book be translated? ####
 
