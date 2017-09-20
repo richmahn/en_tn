@@ -33,7 +33,7 @@ This letter was probably written from Rome. He gave Rome the symbolic name of "B
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
-In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to the believers in the dispersion. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to the believers in the dispersion. (See: [[rc://en/ta/man/translate/figs-you]])
 
 #### What are the major issues in the text of the Book of 1 Peter? ####
 
