@@ -22,13 +22,13 @@ Translators may create a short title such as "The Book About When Joshua Led Isr
 
 #### Who wrote the Book of Joshua? ####
 
-The book does not indicate who wrote it. However, there are verses in the book that indicate that Joshua wrote some things down. Since ancient times, Jews have thought that Joshua wrote most of the book.
+The book does not indicate who wrote it. However, there are verses in the book that indicate that Joshua may have written some it. Since ancient times, Jews have thought that Joshua wrote most of the book.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What concept of history begins to be presented in the Book of Joshua? ####
+#### How does the Book of Joshua present the cause of historical events ####
 
-Although humans made choices that affected historical events, it was common in the ancient Near East to assume that the gods determined most world events. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, historical events occur because of Yahweh's promises to his people, Israel. They also occur because of Israel's response of trust and obedience to Yahweh, or lack of faith and disobedience. Israel's trust in Yahweh was all the more remarkable because it was normally assumed that gods had no power outside of the territories that they controlled. 
+In the ancient Near East, people assumed that the gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, historical events occurred because of Yahweh's promises to the Israelites. However, the result of the events were also based on whether the Israelites obeyed or disobeyed Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
@@ -38,7 +38,7 @@ This phrase was used by the writer to refer to the time when he was writing. The
 
 #### What does the phrase "all Israel" mean? ####
 
-This phrase appears many times in the Book of Joshua, but it does not always mean the entire Israelite nation, that is, literally every Israelite. At times it means the Israelite army; at other times it means the representatives of the twelve tribes of Israel. In still other passages it probably means many people in the nation of Israel.
+This phrase appears many times in the Book of Joshua, but it does not always mean every Israelite in the nation. At times it means the Israelite army. At other times it means the representatives of the twelve tribes of Israel. In still other passages it probably means many people in the nation of Israel.
 
 #### When should Joshua be translated? ####
 
