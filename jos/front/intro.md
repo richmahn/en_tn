@@ -26,9 +26,9 @@ The book does not indicate who wrote it. However, there are verses in the book t
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### How does the Book of Joshua present the cause of historical events ####
+#### How does the Book of Joshua present the cause of historical events? ####
 
-In the ancient Near East, people assumed that the gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, these events occurred because Yahweh promised the Israelites that he would give them the Promised Land. However, the results of the events were also based on whether the Israelites obeyed or disobeyed Yahweh.
+In the Ancient Near East, people assumed that the gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. In Joshua, these events occurred because Yahweh promised the Israelites that he would give them the Promised Land. However, the results of the events were also based on whether the Israelites obeyed or disobeyed Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
