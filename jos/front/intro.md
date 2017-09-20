@@ -14,7 +14,7 @@
 
 #### What is the Book of Joshua about? ####
 
-The Book of Joshua is about how God fulfilled his promise that the Israelites would enter the Promised Land and occupy it. They did this as they united in obedience to God and as they fought battles under his direction through Joshua, the leader who took the place of Moses. This book also tells how each of the twelve tribes received its portion of the land when it was divided among them. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+The Book of Joshua is about the Israelites entering the Promised Land and occupying it. Joshua was the leader that replaced Moses. He led the Israelites in battle and defeated the people living in the Promised Land. This book also tells how the Israelites divided the land amont the twelve tribes. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 #### How should the title of this book be translated? ####
 
@@ -22,7 +22,7 @@ Translators may create a short title such as "The Book About When Joshua Led Isr
 
 #### Who wrote the Book of Joshua? ####
 
-The book does not indicate who wrote it, although there are several references in it to Joshua writing some things down. Traditional Judaism believes that Joshua wrote most of the book.
+The book does not indicate who wrote it. However, there are verses in the book that indicate that Joshua wrote some things down. Since ancient times, Jews have thought that Joshua wrote most of the book.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
