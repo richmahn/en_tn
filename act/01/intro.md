@@ -31,7 +31,7 @@ It may be difficult to translate the phrase, "Jesus began to do and to teach" be
 
 ##### Akeldama #####
 
-This is a phrase in Hebrew or Aramaic. Luke does not "translate" this phrase into Greek but chooses to "transliterate" or transfer it into Greek by substituting Greek letters for Hebrew letters. The translators of the ULB and UDB have not translated this phrase either. The translator should try to form the sounds of this phrase without translating its meaning.
+This is a phrase in Hebrew or Aramaic. Luke transliterates this word by writing it with Greek letters, and then he explains the meaning. Translators are encouraged to transliterate it using the letters of the target language and then explain the meaning.
 
 ## Links: ##
 

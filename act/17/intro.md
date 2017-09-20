@@ -1,9 +1,5 @@
 # Acts 17 General Notes #
 
-#### Structure and formatting ####
-
-The ULB begins a new line in the middle of [Acts 15:22](../15/22.md) and [Acts 15:28](../15/27.md) because long quotations begin. The translators of the ULB have chosen to separate these longer quotes from the rest of the text by beginning a new line. The translator may wish to follow this practice, but they are not obliged to do so. 
-
 #### Special concepts in this chapter ####
 
 ##### Misunderstandings about the messiah #####
