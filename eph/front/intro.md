@@ -34,7 +34,7 @@ Translators may choose to call this book by its traditional title "Ephesians." O
 
 #### What was the "hidden truth" that Paul mentioned in the Book of Ephesians? ####
 
-The expression translated in the ULB as "hidden truth" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+The expression translated in the ULB as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
 #### What did Paul say about salvation and righteous living? ####
 
