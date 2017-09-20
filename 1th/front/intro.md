@@ -52,7 +52,7 @@ Paul meant to express the idea of very a close union with Christ and the believe
 
 The following are the most significant textual issues in 1 Thessalonians:
 
-* "Grace and peace to you." (1:1) The ULB, UDB, and most other modern versions have this reading. Some older versions have the reading: "Grace and peace to you from God our Father and the Lord Jesus Christ."
+* "May grace and peace be to you." (1:1) The ULB, UDB, and most other modern versions have this reading. Some older versions have the reading: "Grace and peace to you from God our Father and the Lord Jesus Christ."
 * "Instead, we were as gentle among you as a mother comforting her own children." (2:7) The ULB, UDB, and many other modern versions have this reading. Other modern versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
 * "Timothy, our brother and fellow worker for God." (3:2) The ULB, UDB, and many other modern versions have this reading. Some other versions have the reading: "Timothy, our brother and servant of God."
 

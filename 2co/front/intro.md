@@ -44,9 +44,14 @@ In this book, the word "I" refers to Paul. Also, the word "you" is almost always
 
 #### How are the ideas of "holy" and "sanctify" represented in 2 Corinthians ULB? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 2 Corinthians ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
 
-* The meaning in most passages is a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 1:1; 8:4; 9:1, 12; 13:13)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people."
+
+* The meaning in most passages in 2 Corinthians is a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 1:1; 8:4; 9:1, 12; 13:13)
+
+* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." 
+
 
 The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
 

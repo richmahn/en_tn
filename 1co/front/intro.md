@@ -47,9 +47,9 @@ Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULB uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2; 3:17)
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
-* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:2; 3:17; 6:11; 7:14, 34)
+* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." (See: 1:2; 6:11; 7:14, 34)
 
 The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
 
@@ -68,7 +68,7 @@ Please see the introduction to the Book of Romans for more details about this ki
 The following are the most significant textual issues in the 1 Corinthians:
 
 * "and in your spirit, which are God's." (6:20) Some older versions read in this way, although the best copies do not have this reading. 
-* "I did this even though I was not under the law myself." (9:20) The ULB and UDB read in this way. However, some older versions leave this passage out.
+* "I did this even though I myself was not under the law." (9:20) The ULB and UDB read in this way. However, some older versions leave this passage out.
 * "For the earth and everything in it belong to the Lord." (10:28) Some older versions have this passage, but the best copies do not have it. The ULB and UDB do not have it.
 * "and if I give my body to be burned." (13:3) Most versions, including the ULB and UDB, read in this way. However, some versions prefer, "and if I give my body so that I might boast."
 * "But if anyone does not recognize this, let him not be recognized." (14:38) Most versions read in this way. However, some older versions read, "But if anyone is ignorant of this, let him be ignorant." 
