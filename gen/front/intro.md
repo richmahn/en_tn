@@ -51,7 +51,7 @@ Genesis also describes the start of God's plan to bless the whole world again. T
 
 #### What was the custom for inheritance as described by Genesis? ####
 
-The cultural concepts of inheritance and of the passing on of a father's blessing occur several times in Genesis. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham's other son, did not receive that same divine blessing. Likewise, Isaac's older son Esau  did not receive the blessing. Isaac's younger son, Jacob, received it instead. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/bless]])
+There are several passages in Genesis that show the customs of a father who is about to die passing on a blessing to his son. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham's other son, did not receive that same divine blessing. Likewise, Isaac's older son Esau  did not receive the blessing. Isaac's younger son, Jacob, received it instead. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/bless]])
 
 Also, it was the custom for a man to divide among his sons his material wealth and land. All his sons received equal portions except that the oldest son. The firstborn son received twice as much. His portion was called a double portion. Esau was foolish and gave up his right to receive the double portion.
 
@@ -65,24 +65,26 @@ These societies also assume that the way to stop the spread of evil is to perfor
 
 #### What is one way in which Genesis marks the beginning of important sections? ####
 
-Genesis uses one Hebrew phrase that the ULB translates as either, "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses himself. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; and 37:2.
+Genesis uses one Hebrew phrase that the ULB translates as either, "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses himself. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
 
 If the translator wants to translate in only two ways, we recommend for most passages a phrase such as, "this is the record about" or "this is information about." Some passages will be better translated, however, as "These were the descendants of."
 
 #### Why are the beginnings of some narrative sections in Genesis difficult to translate? ####
 
-Often in Genesis, the author first states a summary of what is about to happen. Then in the following verses, the author tells what happened. Probable examples of this style occur in Gen. 1:1, 6:22, 18:1, 21:1 and 22:1.
+Often in Genesis, the author first summarizes what is about to happen. Then in the following verses, the author tells the details of what happened. Probable examples of this style occur in Gen. 1:1, 6:22, 18:1, 21:1 and 22:1.
 
-However, in many languages, it is preferred to summarize a narrative at the end. In this case, translators may choose a different approach. For example, in Gen. 1:1 ("In the beginning God created the heavens and the earth"), translators may decide to translate like this: "This is about how God made the heavens and the earth in the beginning."
+However, in many languages, it is preferred to write summaries at the end of a narrative. In this case, translators may choose a different approach. For example, in Gen. 1:1 ("In the beginning God created the heavens and the earth"), translators may decide to translate like this: "This is about how God made the heavens and the earth in the beginning."
 
 #### What is the difference between "people," "peoples," and "people groups"? ####
 
-The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to groups that speak the same languages, have the same customs, and worship the same gods, such as the peoples of Edom, Moab, and Ammon. The expression "people groups" (used in the UDB) means the same thing as "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
+The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to multiple groups of people. Each group speaks their own language, has their own customs, and worships their own gods. Some different peoples in the Ancient Near East were those of Israel, Egypt, Edom, Moab, and Ammon.
+
+The expression "people groups" (used in the UDB) means the same thing as "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
 
 #### What is the relationship between individuals and peoples that have similar names? ####
 
 Many individuals in Genesis eventually had large numbers of descendants who were called after their ancestor's name. For example, Cush was the name of an individual. But, "Cush" also became the name of nation that his descendants formed. They were called "Cushites." If possible, when translating these names, the translator should make the individual's name and the nation's name similar. Examples of this are "Cush" and "Cushite" or "Moab" and "Moabite." Otherwise, the translator may say, "the descendants of Cush" or "the descendants of Moab."
 
-#### What does the phrase "to this day" mean? ####
+#### What do the phrases "to this day" or "of today" mean? ####
 
-This phrase was used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" refers to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Gen. 19:37, 19:38, 22:14, 26:33, 32:32, 35:20, 47:26, 48:18.
+These phrases were used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" and "of today" refer to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Gen. 19:37, 19:38, 22:14, 26:33, 32:32, 35:20, 47:26, 48:18.
