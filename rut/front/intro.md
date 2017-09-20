@@ -14,9 +14,7 @@
 
 #### What is the Book of Ruth about? ####
 
-This book tells how Ruth, a non-Israelite woman from the land of Moab, came to join the people of Yahweh. The book also explains how Ruth became an ancestor of King David.
-
-In this account, the reader finds the blessings that came when God's people faithfully followed his covenant. The story of Ruth has many lessons about faith, fidelity, self-sacrifice, and integrity. 
+This book is about a non-Israelite woman named Ruth. It tells how she came to join the people of Yahweh. The book also explains how Ruth became an ancestor of King David.
 
 #### How should the title of this book be translated? ####
 
@@ -24,24 +22,25 @@ Translators should use a self-explanatory title such as, "The Book about Ruth." 
 
 #### When did the events in the Book of Ruth occur? ####
 
-The story of Ruth is set during the time when there were "judges" in Israel. These were leaders over Israel or parts of Israel both in time of war and in time of peace.
+The story of Ruth is set during the time when there were "judges" in Israel. These were leaders whom God chose to help the Israelites defeat their enemies. They also helped the people by deciding disputes among them. And, they helped them make important decisions. Many of these leaders served the entire people of Israel, but some of these leaders seem to have served only certain tribes.
 
 ## Part 2: Important Religious and Cultural Concepts ##
+
 #### Why does Scripture include a book about a woman from the foreign land of Moab? ####
 
-In a period when Israel is often unfaithful to Yahweh, Yahweh finds a woman from Moab who displays great faith in him. The Israelites' frequent lack of faith in Yahweh is contrasted with the faith of one of their enemies. (See: [[rc://en/tw/dict/bible/kt/unfaithful]])
+In a period when Israel is often unfaithful to Yahweh, Yahweh finds a woman from Moab who shows great faith in him. The Israelites' frequent lack of faith in Yahweh is contrasted with the faith of one of their enemies. (See: [[rc://en/tw/dict/bible/kt/unfaithful]])
 
 #### What important marriage custom is found in the Book of Ruth? ####
 
-Israelites practiced what is called "levirate marriage." This was a custom for the closest male relative to provide for a childless widow by marrying her. Any children coming from this union were to be regarded as children of the dead man, so that his line of descendants would continue. If the closest relative did not marry the woman, another relative could.
+Israelites practiced what is called "levirate marriage." This was a custom for the closest male relative to provide for a childless widow by marrying her. Any children born to them were to be regarded as children of the dead man. They did this so that dead man would still have descendants. If the closest relative did not marry the woman, another relative could.
 
-#### What was a "kinsman-redeemer"? ####
+#### What was a "kinsman-redeemer" (2:20 ULB)? ####
 
-A person's close relative or relatives were expected to act as "kinsmen-redeemers" for him or her. They had the responsibility of providing for their relative who was in need, such as the widow Ruth. In other situations, they had the responsibility of taking revenge on anyone who dared to injure or kill one of their relatives. In the Book of Ruth, Boaz is one such kinsman-redeemer.
+A person's close relative or relatives were expected to act as "kinsmen-redeemers" for him or her. They were responsible to provide for a relative in need. In other situations, they were also responsible for taking revenge on anyone who dared to injure or kill one of their relatives. In the Book of Ruth, Boaz is one such kinsman-redeemer.
 
 #### What was gleaning in the Book of Ruth? ####
 
-There was a practice instituted in the law of Moses called gleaning. Gleaning occurred when very poor people were allowed to follow after the men who harvested a field. These "gleaners" picked up sheaves of grain that the harvesters missed or dropped by accident. In this way, poor people were able to find some food for themselves. Ruth became a gleaner in a field belonging to Boaz.
+Gleaning occurred when very poor people were allowed to follow after the men who harvested a field. These "gleaners" picked up sheaves of grain that the harvesters missed or dropped by accident. In this way, poor people were able to find some food for themselves. Ruth became a gleaner in a field belonging to Boaz.
 
 #### What is the concept of covenant faith or covenant loyalty? ####
 
