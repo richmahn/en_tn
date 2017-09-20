@@ -44,7 +44,7 @@ Paul said a lot about salvation and righteous living in this letter and in many 
 
 #### Singular and plural "you" ####
 
-In this book, the word "I" refers to Paul. The word "you" is almost always plural and refers to the believers who may read this letter. The three exceptions to this are: 5:14, 6:2, and 6:3. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Paul. The word "you" is almost always plural and refers to the believers who may read this letter. The three exceptions to this are: 5:14, 6:2, and 6:3. (See: [[rc://en/ta/man/translate/figs-you]])
 
 #### What did Paul mean by the "new self" or the "new man"? ####
 
@@ -54,9 +54,9 @@ When Paul spoke of the "new self" or the "new man," he meant the new nature that
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Ephesians ULB uses the following principles:
 
-* Sometimes the meaning in a passasage implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 3:5)
-* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 4:12; 5:3; 6:18)
-* Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 1:1; 3:5)
+* Sometimes the meaning in a passasage implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers."
+* Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 3:5)
 
 The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
 
