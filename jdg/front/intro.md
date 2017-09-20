@@ -20,9 +20,9 @@
 
 The book of Judges tells of some events that occurred after the Israelites settled in the Promised Land. The events in these book happened over a period of about 150 years.
 
-This books describes how the Israelites repeatedly sinned against Yahweh. They worshiped false gods and did the same wicked things as the peoples who lived around them. Therefore, God would allow enemies to defeat and oppress the Israelites. Eventually, the Israelites would call to Yahweh for help. Yahweh would then cause someone to help the Israelites defeat their enemies. This person was called a "judge." The Israelites would live in peace until the judge died.
+This book describes how the Israelites repeatedly sinned against Yahweh. They worshiped false gods and did the same wicked things as the peoples who lived around them. Therefore, God would allow enemies to defeat and oppress the Israelites. Eventually, the Israelites would call to Yahweh for help. Yahweh would then cause someone to help the Israelites defeat their enemies. This person was called a "judge." The Israelites would live in peace until the judge died.
 
-After that the judge died, the Israelites would start sinning again. So this pattern of events would repeat.
+After that judge died, the Israelites would start sinning again. So this pattern of events would repeat.
 
 #### How should the title of this book be translated? ####
 
