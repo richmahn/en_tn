@@ -6,9 +6,9 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 #### Special concepts in this chapter ####
 
-##### Donkey #####
+##### Donkey and Colt #####
 
-The way in which Jesus entered into Jerusalem, mounted on a donkey, was similar to the way a king would have entered into a city after a great victory. It was traditional for the kings of Israel to ride donkeys instead of horses. Jesus could not have ridden two animals at the same time. It is best to translate this as it appears in the ULB without trying to reconcile these two passages. (See: [Mark 11:1-7](../../mrk/11/01.md))
+The way in which Jesus entered Jerusalem, riding on an animal was similar to the way a king would have entered a city after a great victory. And for the kings of Israel, it was traditional to ride on a donkey instead of on a horse. Matthew, Mark, Luke, and John all wrote about this event, but they did not all give the same details. Matthew wrote about there being both a donkey and a colt, but it is not clear which one Jesus rode on. It is best to translate each of these passages as it appears in the ULB without trying to make them all say exactly the same thing. (See: [Mark 11:1-7](../../mrk/11/01.md) and [John 12:14-15](../../jhn/12/14.md))
 
 ##### Hosanna #####
 This is what the people shouted in order to welcome Jesus into Jerusalem. It was an exclamation of praise, although it was a word in Hebrew meaning, "Save us!"

@@ -13,7 +13,7 @@ It was customary to anoint a body in preparation for the body's burial. This wou
 
 ##### Donkey #####
 
-The way in which Jesus entered into Jerusalem, mounted on an animal, was similar to the way a king would have entered into a city after a great victory. It was traditional for the kings of Israel to ride on a powerful donkey. There was also a donkey present with colt but it is unclear which animal Jesus rode. It is best to translate this as it appears in the ULB without trying to reconcile these two passages. (See: [Matthew 21:1-7](../../mat/21/01.md))
+The way in which Jesus entered Jerusalem, riding on an animal was similar to the way a king would have entered a city after a great victory. And for the kings of Israel, it was traditional to ride on a donkey instead of on a horse. Matthew, Mark, Luke, and John all wrote about this event, but they did not all give the same details. It is best to translate each of these passages as they appear in the ULB without trying to make them all say exactly the same thing. (See: [Matthew 21:1-7](../../mat/21/01.md))
 
 ##### Light #####
 Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/unrighteous]])

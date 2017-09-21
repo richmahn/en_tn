@@ -8,7 +8,7 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 
 ##### Colt #####
 
-The way in which Jesus entered into Jerusalem, seated on an animal, was similar to the way a king would have entered into a city after a great victory. It was traditional for the kings of Israel to ride on a donkey. Mark wrote that Jesus rode on a colt. Matthew wrote about a donkey and a colt and said that Jesus rode on them. It is best to translate each passage as it appears in the ULB without trying to make them the same. (See:[Matthew 21:1-7](../../mat/21/01.md))
+The way in which Jesus entered Jerusalem, riding on an animal was similar to the way a king would have entered a city after a great victory. And for the kings of Israel, it was traditional to ride on a donkey instead of on a horse. Matthew, Mark, Luke, and John all wrote about this event, but they did not all give the same details. Matthew wrote about there being both a donkey and a colt, but it is not clear which one Jesus rode on. It is best to translate each of these passages as it appears in the ULB without trying to make them all say exactly the same thing. (See:[Matthew 21:1-7](../../mat/21/01.md) and [John 12:14-15](../../jhn/12/14.md))
 
 ## Links: ##
 

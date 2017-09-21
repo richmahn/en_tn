@@ -15,7 +15,7 @@ Although this word is not used in this chapter, it is a concept which plays a si
 
 ##### Colt #####
 
-The way in which Jesus entered into Jerusalem, mounted on an animal, was similar to the way a king would have entered into a city after a great victory. It was traditional for the kings of Israel to ride on a donkey. There was also a donkey present with a colt but it is unclear which animal Jesus rode.  It is best to translate this as it appears in the ULB without trying to reconcile these two passages. (See:[Matthew 21:1-7](../../mat/21/01.md))
+The way in which Jesus entered Jerusalem, riding on an animal was similar to the way a king would have entered a city after a great victory. And for the kings of Israel, it was traditional to ride on a donkey instead of on a horse. Matthew, Mark, Luke, and John all wrote about this event, but they did not all give the same details. Matthew wrote about there being both a donkey and a colt, but it is not clear which one Jesus rode on. It is best to translate each of these passages as it appears in the ULB without trying to make them all say exactly the same thing. (See:[Matthew 21:1-7](../../mat/21/01.md) and [John 12:14-15](../../jhn/12/14.md))
 
 ##### Spreading the garments and branches #####
 
