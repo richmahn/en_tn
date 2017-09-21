@@ -50,7 +50,7 @@ A curse is a strong statement a person makes to cause a divine being or demonic 
  
 The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
-The Book of 1 Samuel has two references to Israel and Judah ([1 Samuel 17:52](../17/52.md), [1 Samuel 18:15](../18/15.md)), but these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to Israel and Judah were put into the text because the writer was working at a far later time, during the period of the split between the two kingdoms. He wanted to emphasize that all the twelve tribes had enthusiastically supported David.
+The Book of 1 Samuel has two references to Israel and Judah ([1 Samuel 17:52](../17/52.md), [1 Samuel 18:16](../18/15.md)), but these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to Israel and Judah were put into the text because the writer was working at a far later time, during the period of the split between the two kingdoms. He wanted to emphasize that all the twelve tribes had enthusiastically supported David.
 
 #### What is the meaning of the phrase "to this day"? ####
 
