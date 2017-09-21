@@ -50,11 +50,12 @@ In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are
 
 #### What function did city gates have in the Ancient Near East? ####
 
-City gates in the time of Boaz were natural meeting places for the city elders, honored men who decided business matters and legal matters together. Because city walls were very substantial, perhaps two to three meters in width, the gateway openings in them provided public spaces that were shady, spaces that were often much more comfortable to sit in, rather than in the hot sunshine. For this reason, although English Bible versions usually speak of Boaz sitting "at" the city gate to discuss who would marry Ruth, he and the other elders undoubtedly actually sat "in" the gateway itself. It may be best for the translator to make this clear. 
+City gates in the time of Boaz were natural meeting places for the city elders. Elders were honored men who decided business matters and legal matters together. The city walls were large, perhaps two to three meters in width. Therefore the gateway opening provided a comfortable and shady area for public meetings. For this reason, Boaz and the other elders sat in the gateway. 
 
+Some English Bible version speak of Boaz sitting "at" the city gate. It may be best for translators to make clear that Boaz sat "in" the city gate.
  
 ## Part 3: Important Translation Issues ##
 
-#### How does Ruth shift from one topic to another topic? ####
+#### How does Ruth change from one topic to another topic? ####
 
-The book of Ruth has many transitions as it changes topics and marks new episodes in the story. The ULB uses various words for this purpose such as "so," "then" and "now." Translators should use the ways most natural in their own languages to signal these developments in the narrative.
+The book of Ruth transitions often to new topics or new parts of the story. The ULB uses various words to indicate these transitions, such as "so," "then" and "now." Translators should use the ways most natural in their own languages to signal these developments in the narrative.
