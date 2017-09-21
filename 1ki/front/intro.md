@@ -27,11 +27,11 @@
 
 #### What are the Books of 1 and 2 Kings about? ####
 
-These books are about the history of the people of Israel from the time of king Solomon to the time of the destruction of both the northern and southern kingdoms. These books describe how Israel split into two kingdoms after Solomon dies. It also tells about the various kings that ruled over each kingdom. 
+These books are about the history of the people of Israel from the time of King Solomon to the time of the destruction of both the northern and southern kingdoms. These books describe how Israel split into two kingdoms after Solomon dies. It also tells about the various kings that ruled over each kingdom. 
 
 There were some good kings in the southern kingdom that pleased God. One such king was Josiah. He repaired the temple and reformed the worship of Yahweh. His actions were in response to the rediscovery of a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
 
-The northern kingdoms was destroyed by the Assyrians in 722 BC. The southern kingdom was destroy by the Babylonians in 586 BC.  
+The northern kingdom was destroyed by the Assyrians in 722 BC. The southern kingdom was destroyed by the Babylonians in 586 BC.  
 
 #### How should the title of this book be translated? ####
 
@@ -47,11 +47,11 @@ These books were probably written during the exile, after the temple had been de
 
 #### Why do the Books of 1 and 2 Kings refer to someone being addressed indirectly? ####
 
-In the Bible, people often referred to themselves as "your servant" when speaking to anyone in a superior position to themselves. For example, David frequently called himself "your servant" when he spoke to King Saul. He also called Saul "my master." ThisBtype of indirect reference was intended to show honor to the one addressed. English sometimes uses the address "sir" in this way. but a translator should use whatever expressions that are natural in the project language in order to honor someone in a superior position.
+In the Bible, people often referred to themselves as "your servant" when speaking to anyone in a superior position to themselves. For example, David frequently called himself "your servant" when he spoke to King Saul. He also called Saul "my master." This type of indirect reference was intended to show honor to the one addressed. English sometimes uses the address "sir" in this way. But a translator should use whatever expressions that are natural in the project language in order to honor someone in a superior position.
 
 #### What does the king "did what was right (or evil) in the eyes of Yahweh" mean? ####
 
-This kind of expression is repeated throughout the Books of 1 and 2 Kings. Here "in the eyes of Yahweh" represents what Yahweh thinks about a someone. If a king was faithful and obeyed the covenant, he did what was right according to Yahweh. If he was not faithful and disobeyed the covenant, he did what was evil according to Yahweh.
+This kind of expression is repeated throughout the Books of 1 and 2 Kings. Here "in the eyes of Yahweh" represents what Yahweh thinks about someone. If a king was faithful and obeyed the covenant, he did what was right according to Yahweh. If he was not faithful and disobeyed the covenant, he did what was evil according to Yahweh.
 
 #### What is the meaning of the term Israel? ####
 
