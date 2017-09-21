@@ -32,7 +32,9 @@ Translators can use the traditional title "1 Samuel," or "First Samuel." But, tr
 
 #### What is the purpose of the Book of 1 Samuel? ####
  
-It is uncertain who wrote 1 Samuel. It may have been someone alive soon after king Solomon died. When Solomon died, the kingdom of Israel split into two kingdoms. The author probably lived in the southern kingdom of Judah. A descendant of David continued to rule over the southern kingdom. The author may have written 1 Samuel to defend David's right to be king. This would prove that David's descendant was the rightful king of God's people.
+The purpose 1 Samuel is show how the twelve tribes of Israel became unified under the first king of Israel. 
+
+It is uncertain who wrote 1 Samuel. It may have been someone alive soon after king Solomon died. When Solomon died, the kingdom of Israel split into two kingdoms. The author probably lived in the southern kingdom of Judah. A descendant of David continued to rule over the southern kingdom. The author may have written 1 Samuel to defend David's right to be king. This would prove that David's descendant was the rightful king of God's people and the northern kingdom had not right to rebel against him.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
