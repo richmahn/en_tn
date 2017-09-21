@@ -35,20 +35,28 @@ Translators can use the traditional title "12 Samuel," or "Second Samuel." But, 
 
 #### What was the purpose of the Book of 2 Samuel? ####
 
-The Book of 2 Samuel is a continuation of 1 Samuel. The writer continues in this book with the same purposes in mind, telling how Israel developed into a unified nation under its first kings. It seems clear that the writer also wanted to defend David's right to rule in the place of Saul. This theme implies that the northern tribes had no right to rebel against the descendants of David, the king whom Yahweh had chosen to rule. It is likely that the author wrote at a time when the nation of Israel was in a civil war, and that he supported the kingdom of Judah.
+The Book of 2 Samuel is a continuation of 1 Samuel. The writer continues to show how the tribes of Israel became unified under the first kings of Israel.
+
+It is uncertain who wrote 2 Samuel. It may have been someone alive soon after king Solomon died. When Solomon died, the kingdom of Israel split into two kingdoms. The author probably lived in the southern kingdom of Judah. A descendant of David continued to rule over the southern kingdom. The author may have written 2 Samuel to defend David's right to be king. This would prove that David's descendant was the rightful king of God's people and the northern kingdom had no right to rebel against him.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What covenant has its beginning in the Book of 2 Samuel? ####
-2 Samuel 7 records how Yahweh made a covenant, in which he promised to make descendants of David rule forever over Israel. This covenant is viewed by Christians as being fulfilled by Jesus Christ, who in his human nature is a descendant of David. In this way, Jesus Christ is the ultimate "anointed one," the person chosen by God to be king forever. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+
+In 2 Samuel 7 Yahweh made a covenant with David. God promised to make descendants of David rule forever over Israel. Christians believe that Jesus Christ fulfilled this covenant. Jesus was a descendant of David. Jesus is the true "anointed one," the person God chose to be king forever. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 ## Part 3: Important Translation Issues ##
 
 #### Why does the book refer to someone being addressed indirectly? ####
-David frequently refers to himself as "your servant" when he speaks to King Saul. He also calls Saul "my master." This type of indirect reference can be difficult to translate. It is intended to show submissiveness to the one addressed. English sometimes uses the address "sir" or "ma'am" in this way.
+
+David frequently refers to himself as "your servant" when he speaks to King Saul. He also calls Saul "my master." This type of indirect reference can be difficult to translate. It is intended to show that the speaker submits to the one being addressed. English sometimes uses the address "sir" or "ma'am" in this way.
 
 #### Can I translate this book before 1 Samuel? #### 
+
 1 Samuel should be translated before 2 Samuel, since it is a continuation of that book.
 
 #### How is the name "Israel" used in the Bible? ####
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. 2 Samuel speaks of both the northern kingdom of Israel and the whole nation of Israel as "Israel." This can cause confusion because the civil war has not begun at this point in the history of Israel (See: [2 Samuel 2:10](../02/10.md); [2 Samuel 3:10](../03/09.md); [2 Samuel 5:5](../05/03.md); [2 Samuel 11:11](../11/09.md); [2 Samuel 12:8](../12/07.md); [2 Samuel 19:4](../19/03.md),[2 Samuel 42-43](../19/42.md); [2 Samuel 21:2](../21/02.md); [2 Samuel 24:1](../24/01.md)).
+
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
+
+2 Samuel speaks of both the northern kingdom of Israel and the whole nation of Israel as "Israel." However, these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to the northern kingdom as "Israel" indicate that the author wrote at a time after the kingdoms split. (See: [2 Samuel 2:10](../02/10.md); [2 Samuel 3:10](../03/09.md); [2 Samuel 5:5](../05/03.md); [2 Samuel 11:11](../11/09.md); [2 Samuel 12:8](../12/07.md); [2 Samuel 19:4](../19/03.md),[2 Samuel 42-43](../19/42.md); [2 Samuel 21:2](../21/02.md); [2 Samuel 24:1](../24/01.md)).
