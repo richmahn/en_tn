@@ -21,18 +21,20 @@
 
 #### What is the Book of 2 Samuel about? ####
 
-This book is about David's rule as king over Israel. At first he ruled over the tribe of Judah for seven years. Then the other eleven tribes agreed to have him become their king as well, and he ruled over all Israel for thirty-three years. 
+This book is about David's rule as king over Israel. At first he ruled over the tribe of Judah for seven years. Then the other eleven tribes agreed to have him become their king as well. He ruled over all Israel for thirty-three years. 
 
-Throughout this time, David fought foreign enemies who attacked Israel. His most difficult struggle, however, was against someone in his own family, when his son Absalom rebelled against him (See: [2 Samuel 13-19](../13/01.md)).
+Throughout this time, David led his army to fight foreign enemies who attacked Israel. His most difficult struggle, however, was against someone in his own family. Absolom, his son, rebelled and fought against him (See: [2 Samuel 13-19](../13/01.md)).
 
-Besides telling about David's struggles and victories, the Book of 2 Samuel tells how David committed adultery with Bathsheba, the wife of Uriah the Hittite. David went further into sin by arranging for the death of her husband. David's moral failure led to great suffering for himself and all Israel. 
+The Book of 2 Samuel also tells about when David committed adultery. He slept with Bathsheba, the wife of Uriah the Hittite. When she became pregnant, David arranged for her husband to be killed in battle. David's moral failure led to great suffering for himself and all Israel. 
 
 However, the writer also presents the divine grace and love that David repeatedly experienced when he turned to God in repentance.
 
 #### How should the title of this book be translated? ####
-Like the Book of 1 Samuel, this book has a very vague meaning at best. Translators should use the same kind of title as they gave to that book, perhaps "The Second Book about Samuel, Saul, and David." (See: [[rc://en/ta/man/translate/translate-names]])
+
+Translators can use the traditional title "12 Samuel," or "Second Samuel." But, translators may consider a clearer title such as "The Second Book about Samuel, Saul, and David." (See: rc://en/ta/man/translate/translate-names)
 
 #### What was the purpose of the Book of 2 Samuel? ####
+
 The Book of 2 Samuel is a continuation of 1 Samuel. The writer continues in this book with the same purposes in mind, telling how Israel developed into a unified nation under its first kings. It seems clear that the writer also wanted to defend David's right to rule in the place of Saul. This theme implies that the northern tribes had no right to rebel against the descendants of David, the king whom Yahweh had chosen to rule. It is likely that the author wrote at a time when the nation of Israel was in a civil war, and that he supported the kingdom of Judah.
 
 ## Part 2: Important Religious and Cultural Concepts ##
