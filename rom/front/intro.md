@@ -68,7 +68,7 @@ Nevertheless, the basic idea of our union with Jesus Christ (and with the Holy S
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
 * Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
-* Sometimes the meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to" or "reserved for." (See: 15:16)
+* Sometimes the meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "consecrated," or "reserved for." (See: 15:16)
 
 The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
 
