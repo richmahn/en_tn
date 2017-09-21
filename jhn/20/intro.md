@@ -13,7 +13,7 @@ This is a Hebrew word. Mark "transliterate" its sounds by substituting the Hebre
 ##### Jesus' resurrection body #####
 There is some mystery about Jesus' body at this point. He was physically present with the scars from the crucifixion but he could also enter into rooms without having to use a door. It is best to leave the mystery in place but explanation may be necessary if the translation does not make sense to the reader.
 
-##### A young man #####
+##### Two angels in white #####
 The gospel accounts differ as to how many men or angels appeared in this interaction. It is probable that the men were angels, but their number is unclear. It is best to translate this as it appears in the ULB without trying to reconcile these passages. (See: [Matthew 28:1-2](../../mat/28/01.md), [Mark 16:5](../../mrk/16/05.md) and [Luke 24:4](../../luk/24/04.md))
 
 ## Links: ##
