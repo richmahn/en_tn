@@ -43,7 +43,7 @@ Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and
 
 ## Part 3: Important Translation Issues ##
 
-#### How are the ideas of "holy" and "sanctify" represented in 1 Corinthians ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in 1 Corinthians in the ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULB uses the following principles:
 
@@ -51,7 +51,7 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
 * Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." (See: 1:2; 6:11; 7:14, 34)
 
-The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What is the meaning of "flesh?" ####
 

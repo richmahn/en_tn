@@ -50,15 +50,15 @@ In this book, the word "I" refers to Paul. The word "you" is almost always plura
 
 When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer recieves from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used when Paul described God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
 
-#### How are the ideas of "holy" and "sanctify" represented in Ephesians ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULB? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Ephesians ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
 
 * Sometimes the meaning in a passasage implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers."
 * Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 3:5)
 
-The ULB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 

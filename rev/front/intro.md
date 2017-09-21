@@ -50,13 +50,14 @@ The Book of Revelation is unique when compared to the rest of scripture. But, pa
 
 One does not need to have a definite understanding of all of the symbols in the Book of Revelation in order to properly translate it. Translators should not give possible meanings for the symbols or numbers in their translation. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-#### How are the ideas of "holy" and "sanctify" represented in Revelation ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Revelation in the ULB? ####
 
 The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Revelation ULB uses the following principles:
 * The meaning in one passage indicates moral holiness. Here, the ULB uses "holy." (See: 22:11)
 * Usually the meaning in Revelation indicates a simple reference to Christians without implying any particular role filled by them. In these cases, Revelation ULB uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 14:12; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
+* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "sanctify," "set apart," "dedicated to," or "reserved for." 
 
-As translators think about how to represent these ideas in their own versions, they will often be helped by the choices made in the ULB.
+The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### Periods of time ####
 
