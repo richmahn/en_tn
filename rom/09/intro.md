@@ -4,7 +4,7 @@
 
 This chapter marks a noticeable shift in Paul's argument. His focus in chapters 9-11 is on the nation of Israel.
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 9:25-26, 29, 33, which are quotations from the Old Testament.
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 9:25-29, 33, which are quotations from the Old Testament.
 
 #### Special concepts in this chapter ####
 

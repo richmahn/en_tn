@@ -58,4 +58,4 @@ Some English Bible versiosn speak of Boaz sitting "at" the city gate. It may be 
 
 #### How does Ruth change from one topic to another topic? ####
 
-The book of Ruth transitions often to new topics or new parts of the story. The ULB uses various words to indicate these transitions, such as "so," "then" and "now." Translators should use the ways most natural in their own languages to signal these developments in the narrative.
+The book of Ruth transitions often to new topics or new parts of the story. The ULB uses various words to indicate these transitions, such as "so," "then," and "now." Translators should use the ways most natural in their own languages to signal these developments in the narrative.
