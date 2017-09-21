@@ -31,7 +31,7 @@ However, the writer also presents the divine grace and love that David repeatedl
 
 #### How should the title of this book be translated? ####
 
-Translators can use the traditional title "12 Samuel," or "Second Samuel." But, translators may consider a clearer title such as "The Second Book about Samuel, Saul, and David." (See: rc://en/ta/man/translate/translate-names)
+Translators can use the traditional title "2 Samuel," or "Second Samuel." But, translators may consider a clearer title such as "The Second Book about Samuel, Saul, and David." (See: rc://en/ta/man/translate/translate-names)
 
 #### What was the purpose of the Book of 2 Samuel? ####
 
