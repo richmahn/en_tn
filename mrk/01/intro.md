@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of [Mark 1:2-3](./01.md), which is a quotation from the Old Testament.
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 1:2-3, which is a quotation from the Old Testament.
 
 #### Special concepts in this chapter ####
 

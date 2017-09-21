@@ -1,7 +1,7 @@
 # Numbers 26 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 26:12-18, 20-27, 29-39, 44-45, 48-49 and 57-58, which are lists.
+Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 26:12-17, 20-26, 29-32, 35, 38-39, 44-45, 48-49 and 57-58, which are lists.
 
 The people are counted in preparation for entering into the Promised Land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
