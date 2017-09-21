@@ -24,31 +24,31 @@
 
 #### What is the Book of 1 Samuel about? ####
 
-This book focuses on three individuals: Samuel, Saul, and David. Samuel was the last of the judges over Israel. Saul was the first king of Israel. Saul's rise and fall take up much of the narrative in 1 Samuel. After Saul, David became the king of Israel. One of the book's most important themes is that David was chosen by God himself to become king and to establish a line of royal succession in Israel.
+First Samuel is about Samuel, Saul, and David. Samuel was the last of the judges over Israel. Saul was the first king of Israel. Much of the book is about how Saul became king, then how he later sinned against God and died. God chose David to be king after Saul. This book shows how God helped and protected David when Saul tried to kill him.
 
 #### How should the title of this book be translated? ####
  
-The traditional title "1 Samuel," that is, "First Samuel," has a very vague meaning at best. Translators should consider a title such as "The First Book About Samuel, Saul, and David." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators can use the traditional title "1 Samuel," or "First Samuel." But, translators may consider a clearer title such as "The First Book About Samuel, Saul, and David." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### What is the purpose of the Book of 1 Samuel? ####
  
-The Book of 1 Samuel contains a great amount of information about how Israel developed into a more unified nation under the first kings in Israel. The author may have wished to defend David's right to rule in place of Saul. He may have also wished to condemn the actions of the northern tribes who would break away to form the northern kingdom. It is likely that the author wrote at a time when the nation of Israel was in a civil war, and that he supported the southern kingdom of Judah, which continued to have a descendant of King David as their king.
+It is uncertain who wrote 1 Samuel. It may have been someone alive soon after king Solomon died. When Solomon died, the kingdom of Israel split into two kingdoms. The author probably lived in the southern kingdom of Judah. A descendant of David continued to rule over the southern kingdom. The author may have written 1 Samuel to defend David's right to be king. This would prove that David's descendant was the rightful king of God's people.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Who is "Yahweh's anointed"? ####
  
-There are many references in 1 Samuel to "Yahweh's anointed." This is a reference to the one whom Yahweh has chosen to be the king of his people. Ultimately, this book looks forward to a time when a descendant of David who is Yahweh's anointed, the Messiah, will become the king chosen by God. (See: [[rc://en/tw/dict/bible/kt/anoint]], [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/tw/dict/bible/kt/christ]])
+There are many references in 1 Samuel to "Yahweh's anointed." This is a reference to the one whom Yahweh has chosen to be the king of his people. Also, the phrase "Yahweh's anointed" made later readers think about the future descendant of David who would become king of God's people. This person who was chosen by Yahweh would be known as the Messiah. (See: [[rc://en/tw/dict/bible/kt/anoint]], [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/tw/dict/bible/kt/christ]])
 
 ## Part 3: Important Translation Issues ##
 
 #### What are curses, as found in 1 Samuel and elsewhere? ####
  
-A person speaks a curse when he calls down divine or demonic punishment upon someone or something. A curse usually has this pattern: "May God do so to you, and even more, if you hide anything from me of all the words that he spoke to you" (1 Sam. 3:17). Other instances of curses in 1 and 2 Samuel are found in 1 Sam 14:44; 20:13; 25:22; 2 Sam 3:9, 35; and 19:13. The translator should represent a curse in the project language in as strong a way as possible.
+A curse is a strong statement a person makes to cause a divine being or demonic being to punish someone or something. A curse usually has this pattern: "May God do so to you, and even more, if you hide anything from me of all the words that he spoke to you" (1 Sam. 3:17). Other instances of curses in 1 and 2 Samuel are found in 1 Sam 14:44; 20:13; 25:22; 2 Sam 3:9, 35; and 19:13. The translator should represent a curse in the project language in as strong a way as possible.
 
 #### How is the name "Israel" used in the Bible? ####
  
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 The Book of 1 Samuel has two references to Israel and Judah ([1 Samuel 17:52](../17/52.md), [1 Samuel 18:15](../18/15.md)), but these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to Israel and Judah were put into the text because the writer was working at a far later time, during the period of the split between the two kingdoms. He wanted to emphasize that all the twelve tribes had enthusiastically supported David.
 
