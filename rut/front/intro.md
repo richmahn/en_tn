@@ -42,11 +42,11 @@ A person's close relative or relatives were expected to act as "kinsmen-redeemer
 
 Gleaning occurred when very poor people were allowed to follow after the men who harvested a field. These "gleaners" picked up sheaves of grain that the harvesters missed or dropped by accident. In this way, poor people were able to find some food for themselves. Ruth became a gleaner in a field belonging to Boaz.
 
-#### What is the concept of covenant faith or covenant loyalty? ####
+#### What is covenant faith or covenant loyalty? ####
 
-This concept, which is very important in the Book of Ruth, is what parties in God's covenant with Israel were expected to have for each other: faithfulness and, therefore, even mercy and love. God promised that he would act in faithfulness and love for the Israelites, and the Israelites were to do the same toward him and toward each other. 
-
-In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are shown to be part of the obligations in God's covenant with Israel. The story of Boaz, Ruth and Naomi gives good examples to all of Israel of the good effects of covenant faithfulness.
+Covenant faith or covenant loyalty is when a person does what he said he would do according to a covenant he has with someone else. God promised that he would love and be faithful to the Israelites. The Israelites were to do the same toward him and toward each other.
+ 
+In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are shown to be part of the obligations in God's covenant with Israel. The story of Boaz, Ruth and Naomi gives good examples to all of Israel of the good effects of covenant faithfulness. (See: rc://en/tw/dict/bible/kt/covenantfaith)
 
 #### What function did city gates have in the Ancient Near East? ####
 
