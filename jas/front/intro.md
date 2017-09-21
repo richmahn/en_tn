@@ -58,6 +58,6 @@ The letter quickly changes topics. And sometimes James does not tell the readers
 
 The following are the most significant textual issues in the Book of James:
 
-* "Do you want to know, foolish man, how it is that faith without works is useless?" (2:20). The ULB, UDB, and modern versions have this reading. Some older versions have, "Do you want to know, foolish man, how it is that faith without works is dead?"
+* "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULB, UDB, and modern versions have this reading. Some older versions have, "Do you want to know, foolish man, that faith without works is dead?"
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

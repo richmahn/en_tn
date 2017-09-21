@@ -41,7 +41,7 @@ Beginning in [Hebrews 9:19](../09/06.md), the author used the idea of sprinkling
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, Hebrews ULB uses the following principles:
 * Sometimes the meaning indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:10; 13:24)
-* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
+* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "sanctify," "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
 
 The ULB will often ben helpful as translators think about how to represent these ideas in their own versions.
 
