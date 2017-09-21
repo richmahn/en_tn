@@ -52,7 +52,7 @@ In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are
 
 City gates in the time of Boaz were natural meeting places for the city elders. Elders were honored men who decided business matters and legal matters together. The city walls were large, perhaps two to three meters in width. Therefore the gateway opening provided a comfortable and shady area for public meetings. For this reason, Boaz and the other elders sat in the gateway. 
 
-Some English Bible version speak of Boaz sitting "at" the city gate. It may be best for translators to make clear that Boaz sat "in" the city gate.
+Some English Bible versiosn speak of Boaz sitting "at" the city gate. It may be best for translators to make clear that Boaz sat "in" the city gate.
  
 ## Part 3: Important Translation Issues ##
 
