@@ -4,7 +4,7 @@
 
 Chapter 19 continues the material contained in chapter 18 and both should be seen as a single unit.
 
-Some translations set apart quotations. The ULB and many other English translations indent the lines of 19:1-8, which are extended quotations, and possibly songs.
+Some translations set apart quotations. The ULB and many other English translations indent the lines of 19:1-8, which is a series of quotations and possibly songs.
 
 #### Special concepts in this chapter ####
 

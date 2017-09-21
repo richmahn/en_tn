@@ -4,7 +4,7 @@
 
 Chapter 19 will continue the material contained in this chapter and both should be seen as a single unit.
 
-Some translations set apart quotations. This entire chapter contains a series of long quotations that are set apart through the use of indentation in the ULB. 
+Some translations set apart quotations. The first eight verses are a long quotation that is set apart through the use of indentation in the ULB. 
 
 #### Special concepts in this chapter ####
 

@@ -11,7 +11,7 @@ There is probably an intended connection between the tree of life in the Garden 
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Alpha and Omega #####
+##### Alpha and omega #####
 
 These are the names of the first and last letters in the Greek alphabet. The ULB spells out their names in English. This strategy can serve as a model for other translators.  Some translators, however, may decide to use the first and last letters in their own alphabet, for example, "A and Z" in English. 
 ## Links: ##

@@ -4,7 +4,7 @@
 
 Many scholars believe the events of this chapter are both future and past. The author may shift between the events without shifting the tense in which he speaks. Despite this, John speaks as if these events are about to happen.
 
-Some translations set apart quotations. The ULB and many other English translations indent the lines of 12:10-22, which are extended quotations.
+Some translations set apart quotations. The ULB and many other English translations indent the lines of 12:10-12, which is an extended quotation.
 
 #### Special concepts in this chapter ####
 
