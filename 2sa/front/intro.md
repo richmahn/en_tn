@@ -23,7 +23,7 @@
 
 This book is about David's rule as king over Israel. At first he ruled over the tribe of Judah for seven years. Then the other eleven tribes agreed to have him become their king as well. He ruled over all Israel for thirty-three years. 
 
-Throughout this time, David led his army to fight foreign enemies who attacked Israel. His most difficult struggle, however, was against someone in his own family. Absolom, his son, rebelled and fought against him (See: [2 Samuel 13-19](../13/01.md)).
+Throughout this time, David led his army to fight foreign enemies who attacked Israel. His most difficult struggle, however, was against someone in his own family. Absalom, his son, rebelled and fought against him (See: [2 Samuel 13-19](../13/01.md)).
 
 The Book of 2 Samuel also tells about when David committed adultery. He slept with Bathsheba, the wife of Uriah the Hittite. When she became pregnant, David arranged for her husband to be killed in battle. David's moral failure led to great suffering for himself and all Israel. 
 
@@ -59,4 +59,4 @@ David frequently refers to himself as "your servant" when he speaks to King Saul
 
 The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
-2 Samuel speaks of both the northern kingdom of Israel and the whole nation of Israel as "Israel." However, these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to the northern kingdom as "Israel" indicate that the author wrote at a time after the kingdoms split. (See: [2 Samuel 2:10](../02/10.md); [2 Samuel 3:10](../03/09.md); [2 Samuel 5:5](../05/03.md); [2 Samuel 11:11](../11/09.md); [2 Samuel 12:8](../12/07.md); [2 Samuel 19:4](../19/03.md),[2 Samuel 42-43](../19/42.md); [2 Samuel 21:2](../21/02.md); [2 Samuel 24:1](../24/01.md)).
+2 Samuel speaks of both the northern kingdom of Israel and the whole nation of Israel as "Israel." However, these references appear in the narrative long before the split between the two kingdoms occurred. It seems clear that the references to Israel and Judah indicate that the author wrote at a time after the kingdoms split. (See: [2 Samuel 2:10](../02/10.md); [2 Samuel 3:10](../03/09.md); [2 Samuel 5:5](../05/03.md); [2 Samuel 11:11](../11/09.md); [2 Samuel 12:8](../12/07.md); [2 Samuel 19:42-43](../19/42.md); [2 Samuel 21:2](../21/02.md); [2 Samuel 24:1](../24/01.md)).
