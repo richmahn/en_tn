@@ -17,32 +17,35 @@
  
 #### What are the Books of 1 and 2 Kings about? ####
 
-These books are about the history of the people of Yahweh from the time when they split into two kingdoms after Solomon's death. This was the time when the northern kingdom went its own way under its own kings. The Books of 1 and 2 Kings tell this story from the viewpoint that the kings and the priests should have taught their people to be faithful to Yahweh and to his covenant with them.
+These books are about the history of the people of Israel from the time of king Solomon to the time of the destruction of both the northern and southern kingdoms. These books describe how Israel split into two kingdoms after Solomon dies. It also tells about the various kings that ruled over each kingdom. 
 
-The Book of 2 Kings tells how King Josiah repaired the temple and reformed the worship of Yahweh. His actions were in response to the rediscovery of a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../22/01.md)). But at the same time, the northern kingdom was growing increasingly corrupt until the Assyrians conquered it in 722 BC. Finally, the southern kingdom fell to the Babylonian Empire in 586 BC.
+There were some good kings in the southern kingdom that pleased God. One such king was Josiah. He repaired the temple and reformed the worship of Yahweh. His actions were in response to the rediscovery of a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
+
+The northern kingdoms was destroyed by the Assyrians in 722 BC. The southern kingdom was destroy by the Babylonians in 586 BC. 
 
 #### How should the title of this book be translated? ####
  
 The Books of 1 and 2 Kings were originally one book in Hebrew but were separated into two books when they were translated in Greek. Translators might choose to create a more meaningful title such as "The First Book about the Kings" and "The Second Book about the Kings."
 
 ## Part 2: Important Religious and Cultural Concepts ##
+
 #### What is the religious purpose of 1 and 2 Kings? ####
 
-These books were probably written during the exile, after the temple had been destroyed by the Babylonians. Because the temple had had such great religious and cultural significance, the writer may have wanted to explain why the Jews were in exile and how they could continue to worship Yahweh without performing temple sacrifices.
+These books were probably written during the exile, after the temple had been destroyed by the Babylonians. The writer may have wanted to explain why the Jews were in exile and how they could continue to worship Yahweh without performing temple sacrifices.
 
 ## Part 3: Important Translation Issues ##
 
 #### Why do the Books of 1 and 2 Kings refer to someone being addressed indirectly? ####
 
-In the languages of the original Old Testament, people often referred to themselves as "your servant" when speaking to anyone in a superior position to themselves. For example, David frequently called himself "your servant" when he spoke to King Saul. He also called Saul "my master." This type of indirect reference was intended to show honor to the one addressed. English sometimes uses the address "sir" in this way, but a translator should use whatever expressions that are natural in the project language in order to honor someone in a superior position.
+In the Bible, people often referred to themselves as "your servant" when speaking to anyone in a superior position to themselves. For example, David frequently called himself "your servant" when he spoke to King Saul. He also called Saul "my master." ThisBtype of indirect reference was intended to show honor to the one addressed. English sometimes uses the address "sir" in this way. but a translator should use whatever expressions that are natural in the project language in order to honor someone in a superior position.
 
 #### What does the king "did what was right (or) evil in the eyes of Yahweh" mean? ####
 
-This kind of expression is repeated throughout the Books of 1 and 2 Kings. The writer evaluated the achievements and failures of the people and their kings by how well they kept the covenant with Yahweh.
+This kind of expression is repeated throughout the Books of 1 and 2 Kings. Here "in the eyes of Yahweh" represents what Yahweh thinks about a someone. If a king was faithful and obeyed the covenant, he did what was right according to Yahweh. If he was not faithful and disobeyed the covenant, he did what was evil according to Yahweh.
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the Kingdom of Judah.
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: rc://en/tw/dict/bible/kt/israel)
 
 #### What does the phrase "to this day" mean? ####
 
