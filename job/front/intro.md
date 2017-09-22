@@ -28,9 +28,9 @@
 
 #### What is the Book of Job about? ####
 
-The Book of Job presents a situation in which disaster comes to Job, even though he is faithful to Yahweh. The book asks why God permits trials and losses to come into the lives of those who worship him. The book explains that when this happens, it is more important to trust God and to find peace in him than it is to understand the reason for the suffering.
+This book describes a situation where Job experiences disaster even though he was faithful to Yahweh. The book asks why God permits those who worship him to experience trials and losses. The book explains that when this happens, it is more important to trust God and to find peace in him than it is to understand the reason for the suffering.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 The Book of Job is named for Job, the main character in the book. His name is not related to the English word "job." Translators might choose to make the title clearer, for example, "The Book About Job."
 
@@ -42,22 +42,22 @@ The author of the Book of Job is not known. Many suggest that Moses composed or 
 
 #### Does sin cause suffering? ####
 
-Although sin causes suffering, this does not mean that sin causes all suffering. It was generally believed in the Ancient Near East that a person suffered because of certain sins in his life or in the lives of his parents or ancestors. This is, in fact, what many religions teach. (See: [[rc://en/tw/dict/bible/kt/sin]])
+When a person sins against God, it can cause the person to experience suffering. It was generally believed in the Ancient Near East that a person suffered because a person or his ancestors sinned against God. This is, in fact, what many religions teach. However, the Book of Job shows that a person may suffer even if he has not sinned. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Were Eliphaz, Bildad, and Zophar really Job's friends? ####
 
-Job 2:11 refers to Elipahz, Bildad, and Zophar as Job's friends. But they did not comfort Job. Instead, they tried to persuade Job to say something about God that he believed was false. So we might wonder if it is right to translate the word as "friends." The problem was not that they did not care about Job. They believed that they were his friends and they wanted to help him, but what they said was not any help to Job because they did not understand the truth about God.
+Job 2:11 refers to Elipahz, Bildad, and Zophar as Job's friends. But they did not comfort Job. Instead, they tried to persuade Job to say something about God that he believed was false. So we might wonder if it is right to translate the word as "friends." The problem was not that they did not care about Job. They believed that they were his friends and they wanted to help him. However, what they said was not any help to Job because they did not understand the truth about God.
 
 #### When did the events presented in the Book of Job take place? ####
 
-The story about Job is set in the time of the patriarchs—Abraham, Isaac, and Jacob. Very little is known for certain about the religious and cultural context of the book. 
+The story about Job is set in the time period of Abraham, Isaac, and Jacob in the Book of Genesis. Very little is known for certain about the religious or cultural situation of the author when he wrote the book of Job. 
 
 ## Part 3: Important Translation Issues ##
 
 #### What style of writing is in the Book of Job? ####
 
-The beginning and the end of the Book of Job are mostly narrative, forming the introduction and conclusion. However, most of the book is poetry. This is well-suited to the lessons in the book, which apply equally well to people living in any time period. There are many examples of this philosophical kind of poetry from the ancient Near East. 
+The introduction and the conclusion of the Book of Job are narrative for the most part. The other chapters were written as poetry. In the Ancient Near East, writers often used poetry to discuss matters of wisdom. 
 
 #### Is the Book of Job difficult to translate? ####
 
-Because Job is not connected with a specific historical context, the translator may wish to translate this book before other Old Testament books. On the other hand, the book of Job has many unique words and phrases, which make parts difficult to understand. The translator should be aware that this causes the book to be hard to translate. For this reason, translators may decide not to attempt to translate this book until they have gained much experience translating other portions of the Bible.
+Because Job is not connected with a specific historical situation, the translator may wish to translate this book before other Old Testament books. On the other hand, the book of Job has many unique words and phrases, which make parts difficult to understand. The translator should be aware that this causes the book to be hard to translate. For this reason, translators may decide not to attempt to translate this book until they have gained much experience translating other portions of the Bible.
