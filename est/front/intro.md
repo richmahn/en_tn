@@ -15,13 +15,13 @@
  
 #### What is the Book of Esther about? ####
 
-This book tells how a young Jewish woman named Esther became the queen of Persia. As queen she worked to save the Jews from being destroyed throughtout the Persian Empire. 
+This book tells how a young Jewish woman named Esther became the queen of Persia. As queen she worked to save the Jews from being destroyed throughout the Persian Empire. 
 
 The Book of Esther ends by explaining why the Jews started celebrating the festival of Purim. The name "Purim" comes from the word "pur." It means "lots" or "dice." Haman, the enemy of Jews, threw dice to determine when to attack and destroy the Jews. The Jews celebrated Purim to remember how God rescued the people from being destroyed.
 
 #### How should the title of this book be translated? ####
 
-The traditional title of this book is "The Book of Esther." However, it is possible to make the title more clear in other languages. We recommend, "The Book About Esther" or "The History About Esther."
+The traditional title of this book is "The Book of Esther." However, it is possible to make the title clearer in other languages. We recommend, "The Book About Esther" or "The History About Esther."
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
