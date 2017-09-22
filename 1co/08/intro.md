@@ -2,7 +2,11 @@
 
 #### Structure and formatting ####
 
+<<<<<<< Updated upstream
 Chapters 8-10 form a single unit, answering the question: "Is it acceptable to eat meat that has been sacrificed to an idol?"
+=======
+Chapters 8-10 form a single unit that answers the question: "Is it acceptable to eat meat that has been sacrificed to an idol?"
+>>>>>>> Stashed changes
 
 #### Special concepts in this chapter ####
 

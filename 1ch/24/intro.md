@@ -4,8 +4,6 @@
 
 The preparation for the temple continues in this chapter. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-This chapter indents some of the lines of 24:20-30 because they are long lists. 
-
 #### Special concepts in this chapter ####
 
 ##### Arranging the priests #####

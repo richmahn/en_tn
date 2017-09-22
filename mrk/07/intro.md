@@ -2,7 +2,7 @@
 
 #### Structure and Format ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 7:6-7, which is a quotation from the Old Testament.
+Some translations prefer to set apart quotations from the Old Testament by indenting them. The ULB and many other English translations indent some of the words of 7:6-7, which are quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 

@@ -4,8 +4,6 @@
 
 This chapter records the descendants of Jacob's sons who lived east of the Jordan River: Reuben, Gad and Manasseh.
 
-This chapter indents some of the lines of 5:4-10, 14 because they are long lists. 
-
 ## Links: ##
 
 * __[1 Chronicles 05:01 Notes](./01.md)__

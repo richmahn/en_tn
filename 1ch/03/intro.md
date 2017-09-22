@@ -4,7 +4,7 @@
 
 This chapter records the descendants of King David. 
 
-This chapter indents some of the lines of 3:1-3, 6-8, 10-24 because they are long lists. 
+The ULB indents words in 3:1-3, 6-8, 10-24 because they are long lists.
 
 ## Links: ##
 

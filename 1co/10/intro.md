@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. Many English translations indent the line of 10:7, which is a quotation from the Old Testament. 
+Many English translations indent the words in 10:7 that are quoted from the Old Testament. 
 
 Chapters 8-10 form a single unit, answering the question: "Is it acceptable to eat meat that has been sacrificed to an idol?" In this chapter, Paul uses the exodus as a warning to people not to sin.  Then, he returns to discussing meat offered to idols, using the Lord's Supper as an example. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
