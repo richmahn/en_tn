@@ -18,7 +18,7 @@ In the time of Noah, God sent a great flood to punish people for their sins. He 
 
 ##### "Let" #####
 
-The ULB uses this word to begin several commands of Jesus, such as "let those who are in Judea flee to the mountains" (24:16), "let him who is on the housetop not go down to take out anything that is in his house" (24:17), and "and let him who is in the field not return to take his cloak" (24:17). There are many different ways to form a command. Translators must select the most natural ways in their own languages. 
+The ULB uses this word to begin several commands of Jesus, such as "let those who are in Judea flee to the mountains" (24:16), "let him who is on the housetop not go down to take anything out of his house" (24:17), and "let him who is in the field not return to take his cloak" (24:18). There are many different ways to form a command. Translators must select the most natural ways in their own languages. 
 
 ## Links: ##
 

@@ -44,6 +44,10 @@ The author of the Book of Job is not known. Many suggest that Moses composed or 
 
 Although sin causes suffering, this does not mean that sin causes all suffering. It was generally believed in the Ancient Near East that a person suffered because of certain sins in his life or in the lives of his parents or ancestors. This is, in fact, what many religions teach. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
+#### Were Eliphaz, Bildad, and Zophar really Job's friends? ####
+
+Job 2:11 refers to Elipahz, Bildad, and Zophar as Job's friends. But they did not comfort Job. Instead, they tried to persuade Job to say something about God that he believed was false. So we might wonder if it is right to translate the word as "friends." The problem was not that they did not care about Job. They believed that they were his friends and they wanted to help him, but what they said was not any help to Job because they did not understand the truth about God.
+
 #### When did the events presented in the Book of Job take place? ####
 
 The story about Job is set in the time of the patriarchs—Abraham, Isaac, and Jacob. Very little is known for certain about the religious and cultural context of the book. 
@@ -53,10 +57,6 @@ The story about Job is set in the time of the patriarchs—Abraham, Isaac, and J
 #### What style of writing is in the Book of Job? ####
 
 The beginning and the end of the Book of Job are mostly narrative, forming the introduction and conclusion. However, most of the book is poetry. This is well-suited to the lessons in the book, which apply equally well to people living in any time period. There are many examples of this philosophical kind of poetry from the ancient Near East. 
-
-#### How do I translate the term "friends"? ####
-
-While the ULB uses the term "friends" in reference to Eliphaz, Bildad, and Zophar, this word is somewhat misleading. Eliphaz, Bildad, and Zophar are not really Job's friends. Instead, they try to persuade Job to say something about God that he believes is false. 
 
 #### Is the Book of Job difficult to translate? ####
 
