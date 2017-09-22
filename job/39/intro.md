@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter is a continuation of the previous chapter. Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. Yahweh continues to speak in this chapter. 
+Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. Yahweh continues to speak in this chapter. 
 
 #### Special concepts in this chapter ####
 
