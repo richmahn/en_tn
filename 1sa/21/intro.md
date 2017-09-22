@@ -2,7 +2,7 @@
  
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotes, songs, or poems. The ULB sets [1 Samuel 21:11](./10.md) apart through the use of indentation because it is a song. 
+Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 21:11 because they are a song that people sang in praise of David.
 
 #### Special concepts in this chapter ####
 

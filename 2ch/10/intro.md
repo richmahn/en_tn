@@ -4,8 +4,6 @@
 
 This begins a section on King Rehoboam. (2 Chronicles 10-12)
 
-Some translations prefer to set apart extended quotations through the use of indentation. The ULB indents the lines of 10:14-15.
-
 #### Special concepts in this chapter ####
 
 ##### Rehoboam's taxes #####

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Many translations set apart quotations, prayers, or songs. 1 Samuel 29:5 is a song praising David. It has been set apart in the ULB through the use of indentation.
+Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 29:5 because they are the words of a song that was sung about David.
 
 #### Other possible translation difficulties ####
 

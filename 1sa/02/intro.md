@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Many translations set apart quotations, prayers, or songs. 1 Samuel 2:1-10 is a song of praise to God for the birth of Samuel. It has been set apart in the ULB through the use of indentation.
+Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 2:1-10 because they are the words of a prayer.
 
 #### Special concepts in this chapter ####
 

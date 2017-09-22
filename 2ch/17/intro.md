@@ -4,8 +4,6 @@
 
 This chapter begins the story of King Jehoshaphat.
 
-This chapter indents some of the lines of 17:14-18 because they are long lists. 
-
 #### Special concepts in this chapter ####
 
 ##### Trust in Yahweh #####

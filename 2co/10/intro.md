@@ -2,8 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the last line of 10:17, which is a quotation from the Old Testament.
-  
+Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 10:17 that are quoted from the Old Testament.
 
 In this chapter, Paul returns to the topic of defending his authority. He also addresses the difference between the way he speaks and the way he writes.
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB has chosen to indent the lines of 2:11-13 to set it apart from the rest of the text as the "trustworthy saying." It is not necessary for translators to do this in their own versions, but they may find it helpful to do so.
+Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 2:11-13 because they are the "trustworthy saying."
 
 #### Special concepts in this chapter ####
 

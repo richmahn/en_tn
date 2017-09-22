@@ -4,7 +4,7 @@
 
 Chapters 8 and 9 begin a new section dealing with the gift from the churches in Greece to the poor believers in Jerusalem.
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 8:15, which is a quotation from the Old Testament.  
+Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 8:15 that are quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 

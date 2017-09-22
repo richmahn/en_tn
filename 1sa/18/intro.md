@@ -4,7 +4,7 @@
  
 This is the first chapter of a section explaining why Saul wants to kill David. 
 
-Many translations set apart quotations, prayers, or songs. 1 Samuel 18:7 is a song praising David. It has been set apart in the ULB through the use of indentation.
+Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 18:7 that are a song that praises David.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 3:10-12, which is a reference to the Old Testament.
+Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 3:10-12 that are quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 
