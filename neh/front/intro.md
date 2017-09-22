@@ -38,10 +38,6 @@ Foreigners worshiped many false gods. Yahweh did not allow his people to marry f
 
 Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them had become successful in Babylon and desired to remain there. However, this meant that they were unable to participate in the temple worship as their ancestors had done. The remnant who returned to Israel were very faithful because they returned. (See: [[rc://en/tw/dict/bible/kt/promisedland]], [[rc://en/tw/dict/bible/kt/remnant]] and [[rc://en/tw/dict/bible/kt/faithful]])
 
-#### What was the religious environment like upon the people's return to Israel? ####
-
-Although the people returning to Israel committed significant sins, the word of God always brought them to repentance and restored their relationship with Yahweh. In addition to this, the religion of Israel became less centered on the temple and its sacrifices. The building of the walls in Ezra and Nehemiah show the separation of Israel from the world around it both physically and spiritually. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/other/wordofgod]] and [[rc://en/tw/dict/bible/kt/repent]])
-
 ## Part 3: Important Translation Issues ##
 
 #### How does the Book of Nehemiah use the term "Israel"? #### 
