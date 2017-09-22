@@ -24,7 +24,7 @@
 
 The book of Nehemiah is about a Jew named Nehemiah. He lived in Persian and worked for the king. Nehemiah received a report about the condition of the wall around Jerusalem. In those times, the city wall was essential to the protection of the city against armies and invaders. Nehemiah returned to Jerusalem to help rebuild the city walls. 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 It is suggested that translators use a self-explanatory title or follow the regional or the national language versions of the Bible. "Nehemiah" is named for the events of the book which focus on the leadership of Nehemiah. One possible title is "The Book about Nehemiah." (See: [[rc://en/ta/man/translate/translate-names]])
 
