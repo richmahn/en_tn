@@ -33,7 +33,7 @@ This is sarcasm, a special type of irony used to mock or insult. Paul does not b
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: Paul boasts in his weakness. This is a counter-intuitive reaction to difficulties.
+This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: Paul boasts in his weakness. Most people do not boast about being weak.
 
 ## Links: ##
 

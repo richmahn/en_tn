@@ -20,7 +20,7 @@ It is likely that Paul's usage of the pronoun "we" represents at least Timothy a
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd and appears to contradict itself. A paradox occurs in this chapter: having joy in affliction. This is a counter-intuitive reaction to difficulties. Paul also uses riches and poverty in other apparent paradoxes.
+This is a statement that seems absurd and appears to contradict itself. A paradox occurs in this chapter: having joy in affliction. Most people do not think that they will rejoice in difficulty. Paul also uses riches and poverty in other paradoxes.
 
 ## Links: ##
 
