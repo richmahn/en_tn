@@ -8,7 +8,7 @@
 
 ##### The use of paradox #####
 
-This is a seemingly absurd statement, which appears to contradict itself. A paradox occurs in this chapter: persecution is a sign of blessing from God.
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: persecution is a sign of blessing from God.
 
 ## Links: ##
 

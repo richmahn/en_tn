@@ -20,7 +20,7 @@ It is likely that Paul's usage of the pronoun "we" represents at least Timothy a
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd and appears to contradict itself. A paradox occurs in this chapter: having joy in affliction. Most people do not think that they will rejoice in difficulty. Paul also uses riches and poverty in other paradoxes.
+A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 8:2 is a paradox: "the abundance of their joy and the extremity of their poverty have produced great riches of generosity." In 8:3 Paul explains how their poverty produced riches. Paul also uses riches and poverty in other paradoxes.
 
 ## Links: ##
 

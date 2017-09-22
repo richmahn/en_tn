@@ -19,7 +19,7 @@ Jesus uses many rhetorical questions in this chapter as a way of both teaching t
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, and appears to contradict itself. A paradox occurs in this chapter: "Whoever wants to save his life will lose it" ([Mark 8:35-37](./35.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever wants to save his life will lose it" ([Mark 8:35-37](./35.md)).
 
 ## Links: ##
 

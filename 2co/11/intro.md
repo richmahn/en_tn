@@ -33,7 +33,7 @@ This is sarcasm, a special type of irony used to mock or insult. Paul does not b
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: Paul boasts in his weakness. Most people do not boast about being weak.
+A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 12:5 is a paradox: "I will not boast, except about my weaknesses." Most people do not boast about being weak. And this sentence in 12:10 is a paradox: "For whenever I am weak, then I am strong." In 12:9 Paul explains why both these statements are true.
 
 ## Links: ##
 

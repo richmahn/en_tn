@@ -24,7 +24,7 @@ Jesus refers to himself as the "Son of Man." Not every language may allow a pers
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd and appears to contradict itself. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
 
 ## Links: ##
 

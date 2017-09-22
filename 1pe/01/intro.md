@@ -16,7 +16,7 @@ This chapter contrasts living for things of this world, which will not last, wit
 
 ##### The use of paradox #####
 
-A paradox is a seemingly absurd statement that appears to contradict itself. A paradox occurs in this chapter: "You rejoice in this, even though now it is necessary for you to feel sorrow in many different trials" (1:6).
+A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 1:6 is a paradox. "You are very glad about this, even though it is now necessary for you to feel sadness in many different troubles." But in 1:7 Peter explains why the people are very glad even though they have troubles.
 
 ##### "You are now" #####
 Even though the statement, "You are now receiving for yourselves the result of your faith, the salvation of your souls," is in the present tense, it refers to an action that has already happened. Therefore, it can be translated as a completed action. Some English translations do this and use a slightly different construction.

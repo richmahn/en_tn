@@ -13,7 +13,7 @@ This is probably a reference to the day when Christ returns. It was common for P
 
 ##### The use of paradox #####
 
-This is a seemingly absurd statement, which appears to contradict itself. A paradox occurs in this chapter: Paul rejoices in his suffering. Most people do not think that they will rejoice in difficulty. Paul's statement, "to die is gain" is another paradox.
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: Paul rejoices in his suffering. Most people do not think that they will rejoice in difficulty. Paul's statement, "to die is gain" is another paradox.
 
 ## Links: ##
 

@@ -22,7 +22,7 @@ Jesus refers to himself as the "Son of Man" in this passage. (See: [[rc://en/ta/
 
 ##### Paradox #####
 
-A paradox is a statement that seems absurd or appears to contradict itself. For example, "If anyone wants to be first, he must be last of all and servant of all." (See: [Mark 9:35](./33.md))
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. For example, "If anyone wants to be first, he must be last of all and servant of all." (See: [Mark 9:35](./33.md))
 
 ## Links: ##
 

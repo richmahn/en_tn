@@ -18,7 +18,7 @@ Luke [Luke 14:15-24](./15.md) probably functions as an extended metaphor. The ki
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](./10.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](./10.md)).
 
 ## Links: ##
 

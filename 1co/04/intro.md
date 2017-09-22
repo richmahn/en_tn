@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the last line of 4:6, which is a quotation from the Old Testament. 
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the Old Testament quotation in 4:6.
 
 #### Special concepts in this chapter ####
 

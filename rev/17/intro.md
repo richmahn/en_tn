@@ -24,7 +24,7 @@ This phrase is intended to contrast the statement that Jesus "was and is and is 
 
 ##### The use of paradox #####
 
-This is a seemingly absurd statement, which appears to contradict itself. A paradox occurs in this chapter: the beast "is himself also an eighth king; but he is one of those seven kings." The translator should not attempt to resolve this paradox and it should remain a mystery.
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: the beast "is himself also an eighth king; but he is one of those seven kings." The translator should not attempt to resolve this paradox and it should remain a mystery.
 
 ## Links: ##
 

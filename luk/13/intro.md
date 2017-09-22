@@ -9,7 +9,7 @@ This chapter begins with references to two events, the details of which have not
 
 ##### The use of paradox #####
 
-This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "the last are the first, and the first will be last" ([Luke 13:30](./28.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "the last are the first, and the first will be last" ([Luke 13:30](./28.md)).
 
 ## Links: ##
 

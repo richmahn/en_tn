@@ -19,7 +19,7 @@ There are many metaphors in this chapter. Jesus uses them in his teaching to exp
 
 ##### Paradox #####
 
-This is a statement that seems absurd or appears to contradict itself. For example, "Whoever wishes to become great among you must be your servant." (See: [Mark 10:43](./43.md))
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. For example, "Whoever wishes to become great among you must be your servant." (See: [Mark 10:43](./43.md))
 
 ## Links: ##
 

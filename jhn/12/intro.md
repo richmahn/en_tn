@@ -27,7 +27,7 @@ Jesus' prophesy about being glorified is a reference to his death. The disciples
 
 ##### The use of paradox #####
 
-A paradox is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "he who loves his life will lose it" ([John 12:25-26](./25.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "he who loves his life will lose it" ([John 12:25-26](./25.md)).
 
 ## Links: ##
 
