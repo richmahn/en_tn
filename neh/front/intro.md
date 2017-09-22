@@ -36,14 +36,14 @@ Foreigners worshiped many false gods. Yahweh did not allow his people to marry f
 
 #### Did all of the people of Israel return to their homeland? ####
 
-Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them had become successful in Babylon and desired to remain there. However, this meant that they were unable to participate in the temple worship as their ancestors had done. The remnant who returned to Israel were very faithful because they returned. (See: [[rc://en/tw/dict/bible/kt/promisedland]], [[rc://en/tw/dict/bible/kt/remnant]] and [[rc://en/tw/dict/bible/kt/faithful]])
+Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them had become successful in Babylon and desired to remain there. However, this meant that they were unable to participate in the temple worship as their ancestors had done. . (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 ## Part 3: Important Translation Issues ##
 
-#### How does the Book of Nehemiah use the term "Israel"? #### 
+#### How does the Book of Nehemiah use the term "Israel"? ####
 
 The Book of Nehemiah uses the term "Israel" to refer to the kingdom of Judah, which was composed mostly of the two tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they became a part of other ethnic groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
-#### Are the events in the Book of Nehemiah told in the order that they acutally happened? ####
+#### Are the events in the Book of Nehemiah told in the order that they actually happened? ####
 
 Some of the events in the Book of Nehemiah are not told in the order they actually happened. Translators should pay attention to notes that signal when events are probably out of order with each other.
