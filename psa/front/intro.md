@@ -57,9 +57,9 @@ When people honor someone, they think well of him and may even admire him. On th
 
 #### Why do the ULB and UDB display the Book of Psalms as poetry, but some modern versions do not? ####
 
-The Psalms were written as Hebrew poetry. This style uses poetic lines that stand in different kinds of relationships with each other. Usually, poetic lines are said to be "parallel" to each other. The ULB and UDB show these lines of poetry in English. These lines are shown by their indentation. (See: [[rc://en/ta/man/translate/figs-parallelism]])
+The Psalms were written as Hebrew poetry. This style typically uses pairs of poetic lines that stand in different kinds of relationships with each other. Usually, poetic lines are said to be "parallel" to each other. The ULB and UDB use indentation to show that the writing is poetry rather than prose. A line that is indented further to the right is paired with the line above it. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 
-Translators will have to decide whether or not to present the Psalms as poetry in their own language. This decision may well make it necessary to consider whether their language has poetic forms that are suitable for expressing the thought of the Psalms. Some translators will certainly decide to present the Book of Psalms not as poetry, but as prose.
+Translators will have to decide whether or not to present the Psalms as poetry in their own language. This decision may well make it necessary to consider whether their language has poetic forms that are suitable for expressing the thought of the Psalms. Some translators will decide to present the Book of Psalms not as poetry, but as prose.
 
 #### Why do some versions number the Psalms differently than others? ####
 
