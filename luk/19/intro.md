@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Luke 19:11-27 forms a single parable. This parable instructs believers how to live in light of the coming kingdom of God because they wrongly believed that the kingdom was going to appear very quickly. Although the kingdom could appear at any time, this does not mean it is going to happen today or tomorrow, just that it could. (See: [[rc://en/tw/dict/bible/kt/kingdomofgod]])
+Luke 19:11-27 forms a single parable. This parable instructs believers how to live in light of the coming kingdom of God. Jesus' hearers wrongly believed that the kingdom was going to appear very quickly. Although the kingdom could appear at any time, this does not mean it is going to happen today or tomorrow, just that it could. (See: [[rc://en/tw/dict/bible/kt/kingdomofgod]])
 
 #### Special concepts in this chapter ####
 
