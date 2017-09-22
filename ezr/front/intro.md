@@ -14,7 +14,7 @@
 
 The Book of Ezra is about how the people of Israel returned from Babylon and tried to worship Yahweh again as the law required. To do this they needed to establish their nation again and affirm their covenant with Yahweh. They also needed to rebuild their temple so they could sacrifice to Yahweh.(See: [[rc://en/tw/dict/bible/kt/temple]]) 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 The Book of Ezra is named for the priest Ezra who led the first group of Jews out of exile and back to Judah. Translators might choose to make the title clearer, for example, "The book about Ezra." 
 
