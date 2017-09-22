@@ -20,23 +20,23 @@
 1. The dedication of the walls of Jerusalem (12:27–47)
 1. Correcting abuses and bringing reforms (13:1–31)
 
-#### What is Nehemiah about? ####
+#### What is the Book of Nehemiah about? ####
 
-Nehemiah's mission was to rebuild the walls of Jerusalem. Nehemiah received a report about the condition of the wall around Jerusalem. In those times, the city wall was essential to the protection of the city against armies and invaders.
+The book of Nehemiah is about a Jew named Nehemiah. He lived in Persian and worked for the king. Nehemiah received a report about the condition of the wall around Jerusalem. In those times, the city wall was essential to the protection of the city against armies and invaders. Nehemiah returned to Jerusalem to help rebuild the city walls. 
 
 #### How should the title of this book be translated? #### 
 
-It is suggested that translators use a self-explanatory title or follow the regional or the national language versions of the Bible. "Nehemiah" is named for the events of the book which focus on the leadership of Nehemiah. It is likely that the books of Ezra and Nehemiah were originally one book but were separated. One possible title is "The Book about Nehemiah." (See: [[rc://en/ta/man/translate/translate-names]])
+It is suggested that translators use a self-explanatory title or follow the regional or the national language versions of the Bible. "Nehemiah" is named for the events of the book which focus on the leadership of Nehemiah. One possible title is "The Book about Nehemiah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why were Israelites not allowed to marry people from other nations? ####
 
-Yahweh knew that marry foreign wives would cause the people of Israel to worship other gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners because he knew this would cause the people of Israel to worship other gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### Did all of the people of Israel return to their homeland? ####
 
-Most of the people remained in Babylon and did not return to the Promised Land. They had a life in Babylon and desired to remain there but the were not able to sacrifice in the temple. The remnant who returned to Israel were very faithful because they returned. (See: [[rc://en/tw/dict/bible/kt/promisedland]], [[rc://en/tw/dict/bible/kt/remnant]] and [[rc://en/tw/dict/bible/kt/faithful]])
+Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them had become successful in Babylon and desired to remain there. However, this meant that they were unable to participate in the temple worship as their ancestors had done. The remnant who returned to Israel were very faithful because they returned. (See: [[rc://en/tw/dict/bible/kt/promisedland]], [[rc://en/tw/dict/bible/kt/remnant]] and [[rc://en/tw/dict/bible/kt/faithful]])
 
 #### What was the religious environment like upon the people's return to Israel? ####
 
@@ -44,10 +44,10 @@ Although the people returning to Israel committed significant sins, the word of 
 
 ## Part 3: Important Translation Issues ##
 
-#### What is the meaning of the term Israel? #### 
+#### How does the Book of Nehemiah use the term "Israel"? #### 
 
-Israel is used in many different ways in Scripture. The descendants of Jacob, also known as Israel, were a people group who became known as Israel. This people group is also the nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, which is a reference to the "kingdom of Israel." Nehemiah uses the term "Israel" to refer to the kingdom of Judah, since the people from the kingdom of Israel have lost their identity through intermarriage. (See: [[rc://en/tw/dict/bible/kt/israel]] and [[rc://en/tw/dict/bible/other/kingdomofisrael]])
+The Book of Nehemiah uses the term "Israel" to refer to the kingdom of Judah, which was composed mostly of the two tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they became a part of other ethnic groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
-#### Is the book in chronological order? ####
+#### Are the events in the Book of Nehemiah told in the order that they acutally happened? ####
 
-No, there are parts of Nehemiah that do not follow a strict chronological sequence.
+Some of the events in the Book of Nehemiah are not told in the order they actually happened. Translators should pay attention to notes that signal when events are probably out of order with each other.
