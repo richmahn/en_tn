@@ -33,19 +33,20 @@ The Song of Solomon shows approval of sexual behavior as an expression of love b
 
 #### How many characters are in The Song of Solomon? ####
 
-The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks, and who also themselves make comments, but that group of women might be imaginary, existing only in the young woman's mind.
+The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women are not real and the woman is only imagining them.
 
 Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognizes only the man, the woman, and the group of women.
 
 #### What are the lines about people speaking? ####
 
-The Song of Solomon is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations have headings identifying the speaker and audience of the lines below them. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
+The Song of Solomon is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
-Some of the headings used in the  ULB are the following: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include headings and a note explaining that the headings are not actually part of the scripture.
+The ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
 #### How should one translate The Song of Solomon if the readers will view certain terms as coarse, vulgar, or improper? ####
 
 There are many images or forms appearing in the Song of Solomon that, when translated, may be considered improper. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
 #### How do I translate metaphors in this book? ####
-There are many metaphors in this book. These metaphors are often ambiguous. If they have sexual meanings, metaphors describing feelings or emotions are often used as euphemisms in order to avoid offense by veiling their meaning. However, since their meanings are often very unclear, ambiguity in translation is encouraged. You might choose to translate the words as they are written in order to avoid committing to a specific meaning or defining the precise intended meaning.
+
+There are many metaphors in this book. These metaphors are often ambiguous. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by veiling their meaning. However, since their meanings are often very unclear, ambiguity in translation is encouraged. You might choose to translate the words as they are written in order to avoid committing to a specific meaning. [[rc://en/ta/man/translate/figs-metaphor]]
