@@ -33,7 +33,7 @@ The Song of Solomon shows approval of sexual behavior as an expression of love b
 
 #### How many characters are in The Song of Solomon? ####
 
-The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women are not real and the woman is only imagining them.
+The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
 
 Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognizes only the man, the woman, and the group of women.
 
@@ -49,4 +49,4 @@ There are many images or forms appearing in the Song of Solomon that, when trans
 
 #### How do I translate metaphors in this book? ####
 
-There are many metaphors in this book. These metaphors are often ambiguous. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by veiling their meaning. However, since their meanings are often very unclear, ambiguity in translation is encouraged. You might choose to translate the words as they are written in order to avoid committing to a specific meaning. [[rc://en/ta/man/translate/figs-metaphor]]
+There are many metaphors in this book. These metaphors are often ambiguous. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by veiling their meaning. However, since their meanings are often very unclear, ambiguity in translation is encouraged. You might choose to translate the words as they are written in order to avoid committing to a specific meaning. (See: [[rc://en/ta/man/translate/figs-metaphor]])
