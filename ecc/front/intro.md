@@ -10,11 +10,11 @@
 
 #### What is the Book of Ecclesiastes about? ####
 
-Ecclesiastes is a group of short teachings that try to answer the question, "What is life?" Ecclesiastes is a series of thoughts about a variety of subjects, all of them about the purpose and worth of various actions and events. From the author's viewpoint, any work we perform or any knowledge and skill we gain are useless.
+Ecclesiastes is a group of short teachings that try to answer the question, "What is life?" Ecclesiastes is a series of thoughts about a variety of subjects, all of them about the purpose and worth of various actions and events. From the author's viewpoint, any work we perform or any knowledge and skill we gain is useless.
 
 #### How should the title of this book be translated? ####
 
-The traditional title "The Book of Ecclesiastes" is another name for "assembly" and carries no meaning as a title. Translators might decide on a better title such as "Thoughts of a Teacher" or "Thoughts of a Wise Man."
+The traditional title "Ecclesiastes" is another name for "assembly" and carries no meaning as a title. Translators might decide on a better title such as "Thoughts of a Teacher" or "Thoughts of a Wise Man."
 
 #### Who wrote the Book of Ecclesiastes? ####
 
@@ -22,7 +22,7 @@ The author appears to be Solomon, "the Teacher, the descendant of David and king
 
 #### Why are there so many contradictions in the Book of Ecclesiastes? ####
 
-Some scholars think the author was a faithful man. Other scholars think that the author made bad decision and was sorrowful when he wrote the book. The apparent contradictions in the book may be a reflection of Solomon's wavering faith. Or, it is also possible that the teachings in the book differ from each other in order to relevant to various circumstances in the reader's life.
+Some scholars think the author was a faithful man. Other scholars think that the author made bad decisions and was sorrowful when he wrote this book. The apparent contradictions in the book may indicate Solomon's wavering faith. Or, it is also possible that the teachings in the book differ from each other in order to be relevant to various circumstances in the reader's life.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -32,7 +32,7 @@ In the Ancient Near East, people were concerned with the reason they were being 
 
 #### What value did the Israelites place on the Book of Ecclesiastes? ####
 
-The Israelites have often questioned the value of this book. This is due in large part to its unusual wording and theology. At times, it appears to disagree with the rest of Scripture. While many have questioned its authority, it has ultimately been affirmed to be Scripture. This is because it gives valuable lessons concerning the uselessness of pursuing any goal other than to give Yahweh glory.
+The Israelites have often questioned the value of this book. This is due in large part to its unusual wording and teachings. At times, it appears to disagree with the rest of Scripture. While many have questioned its authority, it has ultimately been affirmed to be Scripture. This is because it gives valuable lessons concerning the uselessness of pursuing any goal other than to give Yahweh glory.
 
 ## Part 3: Important Translation Issues ##
 
