@@ -20,19 +20,19 @@ Another title of this book means, "Songs of Praise." Translators may express thi
 
 #### When was the Book of Psalms written? ####
 
-The Psalms were written from around 1400 BC to about the time they were collected in the 200 BC. One of the earliest psalms was written by Moses, perhaps about 1400 BC. David's psalms have been dated between 1020 and 975 BC. Asaph's psalms are probably from the same time as David's. The psalms of Korah may have come from the time just before the destruction of Jerusalem and the exile to Babylonia (587 BC). 
+The Psalms were written from around 1400 B.C. to about the time they were collected in the 200 B.C. One of the earliest psalms was written by Moses, perhaps about 1400 B.C. David's psalms have been dated between 1020 and 975 B.C. Asaph's psalms are probably from the same time as David's. The psalms of Korah may have come from the time just before the destruction of Jerusalem and the exile to Babylonia (587 B.C.). 
 
-No psalm is definitely identified as having been written after the exile, which formally ended in 538 BC. However, Psalms 126 and 137 appear to date from the period after the exile.
+No psalm is definitely identified as having been written after the exile. The exile ended in 538 B.C. However, Psalms 126 and 137 appear to date from the period after the exile.
 
 #### What are the Messianic psalms? ####
 
-Some psalms, called "Messianic psalms," contain passages that the New Testament writers considered to prophesy the coming and work of the Messiah, Jesus Christ. The psalms usually considered to be Messianic are Psalms 2, 8, 16, 22, 34, 40, 41, 45, 68, 69, 89, 102, 109, 110, and 118. Each of these psalms is cited at least one time in the New Testament.
+Some psalms are called "Messianic psalms." These are psalms that New Testament writers considered to prophesy about the Messiah, Jesus Christ. The psalms usually considered to be Messianic are Psalms 2, 8, 16, 22, 34, 40, 41, 45, 68, 69, 89, 102, 109, 110, and 118. Each of these psalms is cited at least one time in the New Testament.
 
 #### What are superscriptions in the Psalms? ####
 
-Superscriptions are the information that is given before the beginning of many psalms. Seventy-three psalms are called "A psalm of David," which may mean they were written by King David, for David, or perhaps in the style that David used when he composed poetry. For some psalms, the superscriptions give the historical situations in which they were written.
+Superscriptions are the information that is given before the beginning of many psalms. Seventy-three psalms are called "A psalm of David," which may mean they were written by King David. Or, it could mean they were written for David or in the style that David used when he composed poetry. For some psalms, the superscriptions give the historical situations in which they were written.
 
-Some superscriptions give instructions about how they should be played and sung, with what instruments, with which singers, and apparently sometimes with which melodies. Fifty-five psalms are addressed "to the choirmaster" or "chief musician;" these seem to have been specially meant for use in temple worship.
+Some superscriptions give instructions about how they should be played and sung. They tell which instruments, singers, or melodies that should be used for that psalm. Fifty-five psalms are addressed "to the choirmaster" or "chief musician." These seem to have been meant for use in temple worship.
 
 Some of the expressions in the superscriptions are difficult to understand, so modern versions often have different interpretations of them. 
 
@@ -57,13 +57,13 @@ When people honor someone, they think well of him and may even admire him. On th
 
 #### Why do the ULB and UDB display the Book of Psalms as poetry, but some modern versions do not? ####
 
-The Psalms were written as Hebrew poetry. This style typically uses pairs of poetic lines that stand in different kinds of relationships with each other. Usually, poetic lines are said to be "parallel" to each other. The ULB and UDB use indentation to show that the writing is poetry rather than prose. A line that is indented further to the right is paired with the line above it. (See: [[rc://en/ta/man/translate/figs-parallelism]])
+The Psalms were written as Hebrew poetry. This style typically uses pairs of poetic lines that relate to each other in different ways. Usually, poetic lines are said to be "parallel" to each other. The ULB and UDB use indentation to show that the writing is poetry rather than prose. A line that is indented further to the right is paired with the line above it. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 
-Translators will have to decide whether or not to present the Psalms as poetry in their own language. This decision may well make it necessary to consider whether their language has poetic forms that are suitable for expressing the thought of the Psalms. Some translators will decide to present the Book of Psalms not as poetry, but as prose.
+Translators will have to decide whether or not to present the Psalms as poetry in their own language. Translators will need to consider whether their language has poetic forms that are suitable for expressing the thought of the Psalms. Some translators will decide to present the Book of Psalms not as poetry but as prose.
 
 #### Why do some versions number the Psalms differently than others? ####
 
-There have been different numbering systems for the Psalms from ancient times. When Jews translated the Book of Psalms from Hebrew into Greek, they eventually numbered many psalms differently. As a result, the Hebrew numbering and the Greek numbering of psalms were both passed down through the centuries. Both systems are still in use today. Translators will probably want to use the system that most versions in their own country use.
+From ancient times, people have numbered the Psalms differently. The Jews numbered the Psalms in Hebrew in one way. When they translated the Psalms into Greek, they numbered them in a different way. As a result, the Hebrew numbering and the Greek numbering of Psalms were both passed down through the centuries. They are both still in use today. Translators will probably want to use the numbering that most versions in their own country use.
 
 #### How should the translator view the terms Selah and Higgaion that occur in various psalms? ####
 
