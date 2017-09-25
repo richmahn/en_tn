@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 6:2, 16-18 that are quoted from the Old Testament.
+Some translations set apart quotations from the Old Testament by indenting them. The ULB and other English translations indent the words in 6:2, 16-18 that are quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 

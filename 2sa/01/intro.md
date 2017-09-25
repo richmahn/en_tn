@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations, songs and poems. The ULB and many other English translations indent all the lines of 1:19-27, which is a song.
+Some translations set apart quotations, songs and poems. The ULB and many other English translations indent all the lines of 1:19-27, which is a song.
 
 This chapter continues the material from 1 Samuel. 
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations, poems or songs. The ULB and many other English translations indent the lines of 23:1-23:7, which is a song or psalm.
+Some translations set apart quotations, poems or songs. The ULB and many other English translations indent David's psalm in 23:2-7.
 
 23:8-39 is a list of the famous people in David's army along with some of the special deeds some of them did. (See: [[rc://en/tw/dict/bible/kt/works]])
 

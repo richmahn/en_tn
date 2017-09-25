@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations, poems or songs. The ULB and many other English translations indent the lines of 22:1-51, which is a song or psalm.
+Some translations set apart quotations, poems or songs. The ULB and many other English translations indent the prayer that David sang in 22:2-51.
 
 #### Special concepts in this chapter ####
 

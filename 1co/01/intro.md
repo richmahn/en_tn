@@ -4,7 +4,7 @@
 
 The first paragraph of 1 Corinthians was a common way of opening a letter in the ancient Near East. 
 
-Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 1:19 that are quoted from the Old Testament.
+Some translations set apart quotations from the Old Testament by indenting them. The ULB and other English translations indent the words in 1:19 that are quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 

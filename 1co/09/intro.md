@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. Many other English translations indent the words of 9:9 that are quoted from the Old Testament. 
+Some translations prefer to set apart quotations from the Old Testament. Many other English translations indent the words of 9:9 that are quoted from the Old Testament. 
 
 Chapters 8-10 form a single unit, answering the question: "Is it acceptable to eat meat that has been sacrificed to an idol?" In this chapter, Paul defends himself from the claim of trying to make financial gains from the church. 
 

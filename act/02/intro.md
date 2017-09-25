@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 2:17-21, 25-28, 31, 34-35, which are quotations from the Old Testament.
+Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the quotations from the Old Testament in 2:17-21, 25-28, 31, and 34-35.
 
 The events described in this chapter are commonly called "Pentecost." Many people believe the coming of the Holy Spirit to indwell believers in this chapter marks the beginning of the church. (See: [[rc://en/tw/dict/bible/kt/believe]])
 
