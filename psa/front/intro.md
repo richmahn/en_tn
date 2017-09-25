@@ -12,15 +12,15 @@
 
 #### What is the Book of Psalms? ####
 
-The Book of Psalms is a collection of songs that were written for different reasons. In some psalms, the psalmists (that is, the psalm writers) expressed their praise for God. In other psalms, they ask God for help and express confidence in his love and power. In still other psalms, the psalmists confess their sins and beg for mercy. The Israelites wrote some psalms to pray for military victory over the nation's enemies. Still other psalms celebrate the coronation of new kings of Israel. Psalmists also wrote to praise the city of Jerusalem. Some psalms were written to instruct people on how to be wise, that is, how to obey the law of Moses and to honor God. In addition, some psalms became popular for pilgrims to sing while traveling to Jerusalem to worship there. Some psalms apparently became favorite songs of praise to sing in the temple worship of God. 
+The Book of Psalms is a collection of songs that were written for different reasons. In some psalms, the psalmists (that is, the psalm writers) expressed their praise for God. In other psalms, they asked God for help and expressed confidence in his love and power. In still other psalms, the psalmists confessed their sins and begged for mercy. The Israelites wrote some psalms to pray for military victory over the nation's enemies. Still other psalms celebrated the event of a new king beginning his reign. Psalmists also wrote to praise the city of Jerusalem. Some psalms were written to instruct people on how to be wise, that is, how to obey the law of Moses and to honor God. In addition, some psalms became popular for pilgrims to sing while traveling to Jerusalem to worship there. Some psalms apparently became favorite songs of praise to sing in the temple worship of God. 
 
 #### How should the title of this book be translated? ####
 
-Another title of this book means, "Songs of Praise." Translators may express this meaning in their own languages, or they may choose to transliterate a name from other language versions if it is well-known. For example, the French title "Les Psaumes" might be understood by everyone in a project language, if French is the language of wider communication in the region.
+Another title of this book means, "Songs of Praise." Translators may express this meaning in their own languages, or they may choose to transliterate a name from other language versions if it is well-known. For example, the French title "Les Psaumes" might be understood by everyone in a project language, if French is the language of wider communication in the region. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 #### When was the Book of Psalms written? ####
 
-The Psalms were written from the 15th Century BC to about the time they were collected in the 3rd Century BC. One of the earliest psalms was written by Moses, perhaps about 1400 BC. David's psalms have been dated between 1020 and 975 BC. Asaph's psalms are probably from the same time as David's. The psalms of Korah may have come from the time just before the destruction of Jerusalem and the exile to Babylonia (587 BC). 
+The Psalms were written from around 1400 BC to about the time they were collected in the 200 BC. One of the earliest psalms was written by Moses, perhaps about 1400 BC. David's psalms have been dated between 1020 and 975 BC. Asaph's psalms are probably from the same time as David's. The psalms of Korah may have come from the time just before the destruction of Jerusalem and the exile to Babylonia (587 BC). 
 
 No psalm is definitely identified as having been written after the exile, which formally ended in 538 BC. However, Psalms 126 and 137 appear to date from the period after the exile.
 
