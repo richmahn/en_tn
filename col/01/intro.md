@@ -21,7 +21,7 @@ There are many different images used to describe christian living. In this chapt
 
 ##### The use of paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: Paul rejoices in his suffering. Most people do not think that they will rejoice in suffering.
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in 1:24: "Now I rejoice in my sufferings for you." Most people do not think that they will rejoice in suffering. But in 1:25-29 Paul explains why his suffering is good.
 
 ## Links: ##
 

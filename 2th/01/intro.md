@@ -8,8 +8,7 @@
 
 ##### The use of paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: persecution is a sign of blessing from God.
-
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in 1:4-5: "We talk about your patience and faith in all your persecutions. We talk about the afflictions that you endure. This is a sign of God's righteous judgment." People would not normally think that having faith in God when being persecuted is a sign of God's righteous judgment. But in 1:5-10, Paul explains how God will reward those who have faith in him and how he will judge those who afflict them.
 ## Links: ##
 
 * __[2 Thessalonians 01:01 Notes](./01.md)__
