@@ -4,7 +4,7 @@
 
 This chapter forms a rather abrupt ending to this historical book because it does not record the deaths of Peter, or Paul, or the destruction of the temple in Jerusalem. Many scholars believe this chapter forms an ellipsis, which implies that the church is responsible for continuing the story. Other scholars believe it ends this way because Luke died. (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 28:26-27 to set this apart from the rest of the chapter.
+Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the words in 28:26-27 that are quoted from the Old Testament.
 
 After extensive details of the events of Paul's life, this story glosses over two years in Rome without discussing what happened during this time. It is unknown why this is the case, but apparently the church did not need to learn anything from this time. 
 

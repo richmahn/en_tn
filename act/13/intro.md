@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 13:33-36, 41, which are quotations from the Old Testament.
+Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the words in 13:33-35 and 41 that are quoted from the Old Testament.
 
 The chapter marks the beginning of the second half of Acts which focuses on Paul instead of Peter. The church's ministry shifts its focus from the Jewish people to the Gentiles. Peter was the apostle ministering to the Jews, while Paul was the apostle who was responsible for the ministry to the Gentiles.
 

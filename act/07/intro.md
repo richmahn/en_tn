@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 7:42-43, 49-50, which are quotations from the Old Testament.
+Some translations prefer to set apart quotations from the Old Testament. The ULB and many other English translations indent the words in 7:42-43 and 49-50 that are quoted from the Old Testament.
 
 It appears that 8:1 is part of the narrative of this chapter.
 

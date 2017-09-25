@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 8:32-33, which is a quotation from the Old Testament. 
+Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the words in 8:32-33 that are quoted from the Old Testament. 
 
 The first verse appears connected to the narrative of chapter 7 and not the events of Chapter 8.
 
