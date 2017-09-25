@@ -46,4 +46,6 @@ There are parts of the book that can be shocking or surprising to read in Script
 
 #### How is life described in the Book of Ecclesiastes? ####
 
-After observing the lack of justice in the world, the author of Ecclesiastes concludes that life without God has no value or purpose and because of this it is without meaning. There are some subtle differences in the meaning for each of these words. It can be concluded that apart from God, a person's circumstances or character and even all of the things of this world have little or no significance apart from God who gives meaning to everything. At the end of their life, a person commonly sees their life as short. The author uses the metaphor of vapor or breath to describe how life ends while it seems to still be beginning.
+The author of Ecclesiastes concluded that life without God has no value or purpose. Therefore life has no meaning. There are some subtle differences in the meaning for each of these words. A person's circumstances or character and even all of the things of this world have little or no significance apart from God. That is because God gives meaning to everything. 
+
+At the end of their life, a person commonly sees their life as brief. The author used the metaphor of vapor or breath to describe how life ends while it seems to still be beginning.
