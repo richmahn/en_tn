@@ -17,7 +17,7 @@ Jesus mentions the New Covenant during the last supper. The New Covenant is a so
 
 ##### Son of Man #####
 
-Jesus refers to himself as the "Son of Man." Every language may not have the ability to have a person refer to himself (the first person) in the third person.
+Jesus refers to himself as the "Son of Man." Not every language allows a person refer to himself in the third person.
 
 ##### "this is your hour" #####
 In many cultures, there is a belief that only bad things happen in the middle of the night, when the good people are asleep. This phrase is an insult suggesting that the people arresting Jesus are doing evil. (See: [[rc://en/tw/dict/bible/kt/evil]]) 
