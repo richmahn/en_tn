@@ -14,7 +14,7 @@ At the same time, the mention of bread in this chapter is meant to remind the re
 
 ##### The use of paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it" ([Matthew 16:24-28](./24.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it." ([Matthew 16:24-28](./24.md)).
 
 ## Links: ##
 * __[Matthew 16:01 Notes](./01.md)__

@@ -18,7 +18,7 @@ Like the other gospel writers, Matthew assumes that his readers will understand 
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. In this chapter, Jesus quotes a psalm referencing that David calls his son "lord," that is, master. The Jews always expected that ancestors would be greater than their descendants. In this passage, Jesus is trying to gradually lead his hearers to the true understanding that the Messiah will himself be divine, and that he, Jesus, is in fact the Messiah.
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. In this chapter, Jesus quotes a psalm referencing that David calls his son "lord," that is, master. The Jews always expected that ancestors would be greater than their descendants. In this passage, Jesus is trying to gradually lead his hearers to the true understanding that the Messiah will himself be divine, and that he, Jesus, is in fact the Messiah. ([Matthew 22:43-44](./43.md))
 
 ## Links: ##
 

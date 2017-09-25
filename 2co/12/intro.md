@@ -23,9 +23,11 @@ Paul uses many rhetorical question defending himself against accusations from hi
 
 Paul uses sarcasm, a special type of irony, when he reminds them how he had helped them at no cost. He says, "Forgive me for this wrong!" He also uses regular irony when he says: "But, since I am so crafty, I am the one who caught you by deceit" to introduce his defense against this accusation by showing how impossible it was to be true. (See: [[rc://en/ta/man/translate/figs-irony]]). 
 
+#### Other possible translation difficulties in this chapter ####
+
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 12:5 is a paradox: "I will not boast, except about my weaknesses." Most people do not boast about being weak. And this sentence in 12:10 is a paradox: "For whenever I am weak, then I am strong." In 12:9 Paul explains why both of these statements are true.
+A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 12:5 is a paradox: "I will not boast, except about my weaknesses." Most people do not boast about being weak. And this sentence in 12:10 is a paradox: "For whenever I am weak, then I am strong." In 12:9 Paul explains why both of these statements are true. ([2 Corinthians 12:5](./03.md))
 
 ## Links: ##
 

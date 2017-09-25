@@ -13,7 +13,7 @@ This chapter contains two questions designed to catch someone admitting somethin
 
 ##### Paradox #####
 
-A paradox is a statement that seems to be silly and to contradict itself, but really does not. In this chapter, Jesus quotes a psalm that records David as calling his son "lord," that is, "master." However, to the Jews, their ancestors were greater than their descendants. In this passage, Jesus is trying to lead his hearers to the true understanding that the Messiah will himself be divine, and that he himself is the Messiah.
+A paradox is a statement that seems to be absurd and to contradict itself, but really does not. In this chapter, Jesus quotes a psalm that records David calling his son "lord," that is, "master." However, to the Jews, ancestors were greater than their descendants. In this passage, Jesus is trying to lead his hearers to the true understanding that the Messiah will himself be divine, and that he himself is the Messiah. ([Luke 20:41-44](./41.md)).
 
 ## Links: ##
 
