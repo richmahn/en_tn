@@ -12,17 +12,17 @@
 
 Ecclesiastes is a group of short teachings that try to answer the question, "What is life?" Ecclesiastes is a series of thoughts about a variety of subjects, all of them about the purpose and worth of various actions and events. From the author's viewpoint, any work we perform or any knowledge and skill we gain are useless.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 The traditional title "The Book of Ecclesiastes" is another name for "assembly" and carries no meaning as a title. Translators might decide on a better title such as "Thoughts of a Teacher" or "Thoughts of a Wise Man."
 
 #### Who wrote the Book of Ecclesiastes? ####
 
-The author appears to be Solomon, "the Teacher, the descendant of David and king in Jerusalem." This matches evidence in the book pointing to Solomon which are consistent with the status and reputation of Solomon: his wisdom (See: [Ecclesiastes 1:16](../01/16.md) and twenty-six other references to wisdom); his vast wealth (See: [Ecclesiastes 2:8](../02/07.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md)); the large number of servants (See: [Ecclesiastes 2:7](../02/07.md) and [Ecclesiastes 10:7](../10/05.md)); the limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/12.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and the wide range of his many construction projects (See: [Ecclesiastes 2:4-6](../02/04.md)). The book appears to be written near the end of Solomon's reign as he reflects on how he wasted much of his life.
+The author appears to be Solomon, "the Teacher, the descendant of David and king in Jerusalem." This matches evidence in the book whic is consistent with the status and reputation of Solomon: his wisdom (See: [Ecclesiastes 1:16](../01/16.md) and twenty-six other references to wisdom); his vast wealth (See: [Ecclesiastes 2:8](../02/07.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md)); the large number of servants (See: [Ecclesiastes 2:7](../02/07.md) and [Ecclesiastes 10:7](../10/05.md)); the limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/12.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and the wide range of his many construction projects (See: [Ecclesiastes 2:4-6](../02/04.md)). The book appears to be written near the end of Solomon's reign as he reflects on how he wasted much of his life.
 
 #### Why are there so many contradictions in the Book of Ecclesiastes? ####
 
-Some scholars think the author was a faithful man. Other scholars think that he was a tragic figure. The apparent contradictions in the book may be a reflection of Solomon's wavering faith. Or, it is also possible that the teachings in the book differ from each other in order to suit various circumstances in the reader's life.
+Some scholars think the author was a faithful man. Other scholars think that the author made bad decision and was sorrowful when he wrote the book. The apparent contradictions in the book may be a reflection of Solomon's wavering faith. Or, it is also possible that the teachings in the book differ from each other in order to relevant to various circumstances in the reader's life.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -42,7 +42,7 @@ The Israelites have often questioned the value of this book. This is due in larg
 
 #### How do I translate harsh or shocking passages? ####
 
-There are parts of the book that can be shocking or surprising to read in Scripture. For example, "If a man fathers a hundred children and lives many years, so that the days of his years are many, but if his heart is not satisfied with good and he is not buried with honor, then I say that a baby that is born dead is better off than he is" (6:3). The translator should allow these difficulties to remain and not try to "soften" them.
+There are parts of the book that can be shocking or surprising to read in Scripture. For example, "If a man fathers a hundred children and lives many years, so that the days of his years are many, but if his heart is not satisfied with good and he is not buried with honor, then I say that a baby that is born dead is better off than he is" (6:3). The translator should allow these difficulties to remain and not try to make them less surprising.
 
 #### How is life described in the Book of Ecclesiastes? ####
 
