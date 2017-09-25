@@ -20,7 +20,7 @@ The glory of God is seen as a great, brilliant light in Scripture. God's grandeu
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. An example in this chapter is: "Whoever would try to save his life will lose it" ([Luke 9:24](./23.md)).
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. An example in this chapter is: "Whoever would save his life will lose it, but whoever loses his life for my sake will save it." ([Luke 9:24](./23.md)).
 
 ##### Son of Man #####
 Jesus refers to himself as the "Son of Man" in this passage. Referring to oneself using the third person may not be possible in all languages. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
