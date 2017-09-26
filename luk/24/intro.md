@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Faith of the women #####
-It appears Luke purposefully contrasts the faith of the women in this chapter with the twelve disciples.
+It appears Luke purposefully contrasts the faith of the women in this chapter with the faith of the twelve disciples.
 
 ##### Resurrection #####
 Luke goes to great lengths in this chapter to defend Jesus's physical resurrection from the dead. Luke shows that it was not possible for another person to have died in Jesus' place. He also shows that the resurrection was not a metaphor. (See: [[rc://en/tw/dict/bible/kt/resurrection]] and [[rc://en/ta/man/translate/figs-metaphor]])
@@ -12,7 +12,7 @@ Luke goes to great lengths in this chapter to defend Jesus's physical resurrecti
 
 ##### Son of Man #####
 
-Jesus refers to himself as the "Son of Man." Every language may not have the ability to have a person refer to himself in the third person.
+Jesus refers to himself as the "Son of Man." Not every language allows a person to refer to himself in the third person.
 
 ##### "On the third day" #####
 Jesus is said to have risen from the dead on the third day. He died on a Friday afternoon (before sunset) and was raised on a Sunday. In ancient Israel, a day began and ended at sunset. They also counted any part of the day as a "day." 
