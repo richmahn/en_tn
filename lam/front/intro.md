@@ -19,14 +19,14 @@
 
 #### What is the Book of Lamentations about? ####
 
-This book expresses grief over the capture of the city of Jerusalem by the Babylonians in about 586 BC. The book is organized into five poems. In them the writer speaks of the people's sin and unfaithfulness to God that led to their destruction. However, he also remembers God's faithfulness for those who turn back to him. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/faith]])
+In the Book of Lamentations, the author expressed grief over the capture of the city of Jerusalem by the Babylonians in about 586 B.C. The book is organized into five poems. In them the writer described how God allowed Jerusalem to be destroyed becase the people sinned against him. However, the author also stated that God is always loving and faithful to his people. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Who wrote the Book of Lamentations? ####
 
 The name of the author of Lamentations is not given in the text, but it became traditional to say that the author was Jeremiah. It is fitting that a lament was made over the fall and destruction Jerusalem.
 The eyewitness nature of the laments seems to fit closely with the Book of Jeremiah. Certainly the serious and grieving tone of Jeremiah is carried into the Book of Lamentations, and there is nothing to suggest that Jeremiah was not the author. 
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 Translators may call the book "Poems of Sadness." If translators want to keep to the traditional view that the prophet Jeremiah wrote this book, they might decide on a title such as "The Sad Sayings of Jeremiah." (See: [[rc://en/ta/man/translate/translate-names]])
 
