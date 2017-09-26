@@ -23,7 +23,7 @@ Feet were considered to be very dirty in the Ancient Near East. It would have be
 #### Other possible translation difficulties in this chapter ####
 
 ##### Son of Man #####
-Jesus refers to himself as the "Son of Man" in this passage. Referring to oneself in the third person may not be possible in all languages. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ## Links: ##
 

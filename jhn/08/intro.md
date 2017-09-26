@@ -20,7 +20,7 @@ If the woman was caught in the act of adultery, there was a man who was also cau
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. It may not be possible in every language to have someone speaking in the first person refer to themselves in the third person.
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person.
 
 ## Links: ##
 

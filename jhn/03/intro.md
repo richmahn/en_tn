@@ -12,7 +12,7 @@ Although this appears to be a display of faith, it is not. This is because belie
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. It may not be possible in every language to have someone speaking about himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ## Links: ##
 

@@ -24,7 +24,7 @@ This chapter records the events of a man who was born without sight. Jesus also 
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. It may not be possible in every language to have someone speaking in the first person, also speak in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ## Links: ##
 

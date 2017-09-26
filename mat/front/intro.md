@@ -48,7 +48,7 @@ The texts are considered "parallel" when they are the same or almost the same am
 
 #### Why does Jesus refer to himself as the "Son of Man"? ####
 
-In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
+In the gospels, Jesus calls himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people worshiped him forever. 
 
 Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 

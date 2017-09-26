@@ -27,7 +27,7 @@ Parts of this chapter are sequences of events that have already happened. In a g
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. It may not be possible in every language to have someone speaking in the third person about himself. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ## Links: ##
 

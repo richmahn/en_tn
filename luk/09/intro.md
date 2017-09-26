@@ -23,7 +23,7 @@ The glory of God is seen as a great, brilliant light in Scripture. God's grandeu
 A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. An example in this chapter is: "Whoever would save his life will lose it, but whoever loses his life for my sake will save it." ([Luke 9:24](./23.md)).
 
 ##### Son of Man #####
-Jesus refers to himself as the "Son of Man" in this passage. Referring to oneself using the third person may not be possible in all languages. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ##### "Receiving" #####
 The ULB uses this word several times in this chapter with a variety of meanings. Jesus says, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me" ([Luke 9:48](./46.md)). In this verse, "receiving" could be translated as "serving." In another verse it is said, "the people there did not receive him" ([Luke 9:53](./51.md)). In this verse, "receive" can be translated as "believe" or "accept." (See: [[rc://en/tw/dict/bible/kt/believe]])

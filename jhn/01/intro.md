@@ -7,13 +7,13 @@ Some translations prefer to set apart quotations of the Old Testament. The ULB a
 #### Special concepts in this chapter ####
 
 ##### "The Word" #####
-This is a rather unique construction used to reference Jesus. He is the "Word of God" embodied in flesh and the final revelation of God himself on earth. Although this can appear to be a complex teaching, it is rather simple: Jesus is God, the creator of the heavens and the earth. (See: [[rc://en/tw/dict/bible/other/wordofgod]], [[rc://en/tw/dict/bible/kt/flesh]], and [[rc://en/tw/dict/bible/kt/reveal]])
+This is a unique construction used to reference Jesus. He is the "Word of God" embodied in flesh and the final revelation of God himself on earth. Although this can appear to be a complex teaching, it is rather simple: Jesus is God, the creator of the heavens and the earth. (See: [[rc://en/tw/dict/bible/other/wordofgod]], [[rc://en/tw/dict/bible/kt/flesh]], and [[rc://en/tw/dict/bible/kt/reveal]])
 
 ##### Light and Darkness #####
 These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 ##### "Children of God" #####
-When one believes in Jesus, they go from being a "child of wrath" to a "child of God." They are adopted into the "family of God." This is an important image that will be unfolded in the New Testament. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/adoption]])
+When people believes in Jesus, they go from being "children of wrath" to "children of God." They are adopted into the "family of God."They are adopted into the "family of God." This is an important image that will be unfolded in the New Testament. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/adoption]])
 
 #### Important figures of speech in this chapter ####
 
@@ -25,8 +25,8 @@ Although the other gospel accounts frequently contain metaphors in the teachings
 ##### "In the beginning was the word" #####
 The first part of this chapter follows a logical and almost poetic pattern, which will be difficult to duplicate in translation.
 
-##### "Son of man" #####
-Jesus refers to himself as the "Son of Man." Some languages may struggle having a person refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+##### "Son of Man" #####
+Jesus refers to himself as the "Son of Man." Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ## Links: ##
 

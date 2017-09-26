@@ -12,7 +12,7 @@ This is a reference to a time after death when all of mankind will be judged. (S
 
 ##### Son, Son of God #####
 
-Jesus refers to himself as "the Son," the "Son of Man" and the "Son of God." Some languages may struggle having a person refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
+Jesus refers to himself as "the Son," the "Son of Man" and the "Son of God."Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
 
 ##### "He has testified concerning me" #####
 Jesus speaks about the Old Testament testifying concerning himself. The Old Testament gives many prophecies concerning the Messiah which described Jesus before he came to earth. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])

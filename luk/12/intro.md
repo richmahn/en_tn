@@ -15,7 +15,7 @@ There is an important teaching about division in this chapter ([Luke 12:51-56](.
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
-Jesus refers to himself as the "Son of Man." Some languages may not be able to have a person refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man." Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 ##### General and Specific Instructions #####
 There are times that the New Testament gives specific instructions or commands that always apply to all Christians. At other times, its instructions are considered to be more general instructions and should only be taken as "good ideas." For example, "do not be anxious" or "sell your possessions" are not meant to be instructions to all Christians. 
