@@ -19,7 +19,7 @@
 
 #### What is the Book of Lamentations about? ####
 
-In the Book of Lamentations, the author expressed grief over the capture of the city of Jerusalem by the Babylonians in about 586 B.C. The book is organized into five poems. In them the writer described how God allowed Jerusalem to be destroyed becase the people sinned against him. However, the author also stated that God is always loving and faithful to his people. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
+In the Book of Lamentations, the author expressed grief over the capture of the city of Jerusalem by the Babylonians in about 586 B.C. The book is organized into five poems. In them the writer described how God allowed Jerusalem to be destroyed because the people sinned against him. However, the author also stated that God is always loving and faithful to his people. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Who wrote the Book of Lamentations? ####
 
@@ -33,7 +33,7 @@ Translators may call the book "Poems of Sadness." If translators want to keep to
 
 #### Did God abandon Israel? ####
 
-The author of Lamentation often spoke of God abandoning Israel. But this ddid not mean that God had completely given up on Israel.
+The author of Lamentation often spoke of God abandoning Israel. But this did not mean that God had completely given up on Israel.
 He rejected Israel for a period of time as the special place where he would be present. However, God remained faithful to what he promised Israel in his covenant. 
 
 While it was common in the Ancient Neat East to think that a god might leave his city, he usually did so because he was too weak to defend it. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
@@ -46,7 +46,7 @@ It is common for cultures to sing songs at a funeral or when someone has died. D
 
 #### What style of writing is Lamentations? ####
 
-    Lamentations is a collection of five poems. These laments may have been sung or chanted by the Jewish exiles living in captivity in Babylon. They may also have been sung by those Jews who remained in Jerusalem after the Babylonians conquered it. In Chapters 1, 2, and 4 each line of the poem begins with a different Hebrew letter in the order of their alphabet. The third chapter repeats three lines with the same letter. Then they are followed by the next three lines beginning with next letter in the Hebrew alphabet. 
+Lamentations is a collection of five poems. These laments may have been sung or chanted by the Jewish exiles living in captivity in Babylon. They may also have been sung by those Jews who remained in Jerusalem after the Babylonians conquered it. In Chapters 1, 2, and 4 each line of the poem begins with a different Hebrew letter in the order of their alphabet. The third chapter repeats three lines with the same letter. Then they are followed by the next three lines beginning with next letter in the Hebrew alphabet. 
 
 #### Who are the woman and the man in Lamentations? ####
 
