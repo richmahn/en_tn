@@ -41,7 +41,7 @@ Some interpreters believe there may be more characters than these, but this is n
 
 The Song of Solomon is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
-The ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience. The translators should also include a note explaining that these explanations are not actually part of the scripture.
+Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
 #### How should one translate The Song of Solomon if the readers will view certain terms as coarse, vulgar, or improper? ####
 
