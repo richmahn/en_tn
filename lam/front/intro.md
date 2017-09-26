@@ -23,8 +23,7 @@ In the Book of Lamentations, the author expressed grief over the capture of the 
 
 #### Who wrote the Book of Lamentations? ####
 
-The name of the author of Lamentations is not given in the text, but it became traditional to say that the author was Jeremiah. It is fitting that a lament was made over the fall and destruction Jerusalem.
-The eyewitness nature of the laments seems to fit closely with the Book of Jeremiah. Certainly the serious and grieving tone of Jeremiah is carried into the Book of Lamentations, and there is nothing to suggest that Jeremiah was not the author. 
+The name of the author of Lamentations is not given in the text, but it became traditional to say that the author was Jeremiah. The author seems to have seen the destruction of Jerusalem personally. Certainly the serious and grieving words in the book of Jeremiah are similar to the Book of Lamentations. And, there is nothing to suggest that Jeremiah was not the author. 
 
 #### How should the title of this book be translated? ####
 
@@ -34,19 +33,20 @@ Translators may call the book "Poems of Sadness." If translators want to keep to
 
 #### Did God abandon Israel? ####
 
-Jeremiah often uses the imagery of abandonment in Lamentations, but this does not mean that God had completely given up on Israel. He rejected Israel for a period of time as the special place where he would be present. However, God remained faithful to his covenant promises. 
+The author of Lamentation often spoke of God abandoning Israel. But this ddid not mean that God had completely given up on Israel.
+He rejected Israel for a period of time as the special place where he would be present. However, God remained faithful to what he promised Israel in his covenant. 
 
-While it was common in the ancient Neat East to think that a god might leave his city, he usually did so because he was too weak to defend it. In Lamentations, Yahweh abandons Jerusalem because of the people's sinfulness, not because of any weakness on his part. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+While it was common in the Ancient Neat East to think that a god might leave his city, he usually did so because he was too weak to defend it. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### What is a funeral song? ####
 
-It is common for cultures to sing songs at a funeral or when someone has died. Depending on the culture, these songs can sound either happy or sad. Lamentations is somewhat reminiscent of a sad song sung at a funeral. Some have said that the rhythm of the poems in Hebrew makes the poems sound as if they are slow or sluggish, like a funeral procession. 
+It is common for cultures to sing songs at a funeral or when someone has died. Depending on the culture, these songs can sound either happy or sad. Lamentations is somewhat like a sad song sung at a funeral. Some scholars have said that the rhythm of the poems in Hebrew makes the poems sound slow or sluggish, like a funeral procession. 
 
 ## Part 3: Important Translation Issues ##
 
 #### What style of writing is Lamentations? ####
 
-Lamentations is a collection of five poems. These laments may have been sung or chanted by the Jewish exiles living in captivity in Babylon, and also by those Jews who remained in Jerusalem after its conquest. In Chapters 1, 2 and 4, each line of the poem begins with a different Hebrew letter in alphabetical order. The third chapter repeats three lines with the same letter followed by the next three lines beginning with next letter in alphabetical order. 
+    Lamentations is a collection of five poems. These laments may have been sung or chanted by the Jewish exiles living in captivity in Babylon. They may also have been sung by those Jews who remained in Jerusalem after the Babylonians conquered it. In Chapters 1, 2, and 4 each line of the poem begins with a different Hebrew letter in the order of their alphabet. The third chapter repeats three lines with the same letter. Then they are followed by the next three lines beginning with next letter in the Hebrew alphabet. 
 
 #### Who are the woman and the man in Lamentations? ####
 
