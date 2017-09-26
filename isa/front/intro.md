@@ -9,7 +9,7 @@
 1. Universal judgment and promise of redemption (24–27)
 1. Accusation of the chosen people of Yahweh (28–31)
 1. Promised restoration of the line of kings descended from David (32–33)
-1. Judgment on Edom and the the nations, and the promise of restoration of the ransomed (34–35)
+1. Judgment on Edom and the nations, and the promise of restoration of the ransomed (34–35)
 1. Hezekiah and Sennacherib (36–39)
 1. Comfort promised, comfort, deliverance, and judgment (40–45)
 1. Prophecies against Babylon (46–48)
@@ -30,7 +30,7 @@ The second part of the book (40-66) contains prophecies about how God will later
 
 #### When did the prophet Isaiah live? ####
 
-The prophet Isaiah wrote down the prophecies in this book about 740–700 B.C., when the Assyrian Empire was increasing in power. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Jotham, Ahaz, Hezekiah, and Manasseh. The story of Isaiah helping King Hezekiah against the Assyrians is also found in 2 Kings 19–20.
+The prophet Isaiah wrote down the prophecies in this book about 740–700 B.C., when the Assyrian Empire was becoming more powerful. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Jotham, Ahaz, Hezekiah, and Manasseh. The story of Isaiah helping King Hezekiah against the Assyrians is also found in 2 Kings 19–20.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -40,7 +40,7 @@ There are many passages in Isaiah that Jews and Christians have interpreted to b
 
 #### What did Isaiah mean by "the last days"? ####
 
-The Book of Isaiah was one of the first books to present the concept of the last days, that is, the end times. Isaiah explained that in the last days there would be a future kingdom of Israel. Jerusalem would be its main city. And people from all the world would go there to learn about Yahweh and worship him.
+The Book of Isaiah was one of the first books to present the concept of the last days, that is, the end times. Isaiah explained that in the last days there would be a future kingdom of Israel. Jerusalem would be its main city. And people from all over the world will go there to learn about Yahweh and worship him.
 
 ## Part 3: Important Translation Issues ##
 
@@ -54,4 +54,4 @@ Most of Isaiah's prophecies are put into poetic form. It seems many prophets in 
 
 Sometimes his messages are hard to understand because he assumed his original hearers would know what he was talking about. But, readers today do not always understand what he meant. However, the basic topics about which Isaiah spoke to his audience are still clear to us today. These topics are about how the people sinned against God, how God would punish them, and how he would eventually comfort and restore them.  
 
-Isaiah also speaks about the so-called Servant of Yahweh, in four different poems that are today called the "Four Servant Songs." The later Christians understood these very clearly as prophecies about Jesus Christ, the future Messiah. These "songs" are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/mercy]] and [[rc://en/tw/dict/bible/kt/christ]])
+Isaiah also speaks about the Servant of Yahweh, in four different poems that are today called the "Four Servant Songs." The later Christians understood these very clearly as prophecies about Jesus Christ, the future Messiah. These "songs" are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/mercy]] and [[rc://en/tw/dict/bible/kt/christ]])
