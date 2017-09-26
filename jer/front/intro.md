@@ -2,7 +2,7 @@
 
 ## Part 1: General Introduction ##
 
-===Outline of the Book of Jeremiah===
+#### Outline of the Book of Jeremiah ####
 
 1. Yahweh calls Jeremiah to be a prophet
     - The situation in which Jeremiah will work (1:1–13)
@@ -36,38 +36,39 @@
 
 #### What is the Book of Jeremiah about? ####
 
-Jeremiah's account begins about 626 BC. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these wanted to depend on Egypt to protect the nation. Others were idol worshipers, who hated Jeremiah for denouncing their gods.  (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Jeremiah's began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 During the reign of King Jehoiakim, Jeremiah proclaimed his prophecies about the temple of Yahweh. King Jehoiakim received some of these prophecies in writing and burned the document. The next king, Zedekiah, imprisoned Jeremiah when he called for the king to surrender to Babylon. 
 
-When Nebuchadnezzar, king of Babylonia, began conquering the region (he invaded Judah in 597 BC and finally captured Jerusalem in 587 BC), he offered Jeremiah housing and money if he would go to Babylon. However, Jeremiah remained in Jerusalem to help the few Jews who were left there. 
+Nebuchadnezzar, king of Babylonia, invaded Judah in 597 B.C. and conquered Jerusalem in 587 B.C. He offered Jeremiah housing and money if he would go to Babylon. However, Jeremiah remained in Jerusalem to help the few Jews who were left there.
 
-Shortly after that, Gedaliah, whom Nebuchadnezzar had chosen to be governor over Judah, was murdered. Some Jewish rebels captured Jeremiah and took him to Egypt. Those rebels went to Egypt for protection rather than to live under Nebuchadnezzar's rule. Jeremiah may have died soon after being taken to Egypt, but not before he prophesied that the Babylonians would invade and conquer Egypt.
+Shortly after that, Gedaliah, whom Nebuchadnezzar had chosen to be governor over Judah, was murdered. Some Jewish rebels captured Jeremiah and took him to Egypt. Those rebels went to Egypt for protection rather than to live under Nebuchadnezzar's rule. Jeremiah may have died soon after being taken to Egypt. But while in Egypt he prophesied that the Babylonians would invade and conquer Egypt.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 "The Book of Jeremiah" may also be called the "The Book about Jeremiah" or "What the Prophet Jeremiah said." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Jeremiah? ####
 
-This book contains prophecies spoken by Jeremiah, who was a priest and a prophet living in Judah. According to the witness of the book itself, some of its prophecies had been written down earlier and put into the hands of King Jehoiakim, who burned the document.
+This book contains prophecies spoken by Jeremiah, who was a priest and a prophet living in Judah. Jeremiah's friend, Baruch, wrote down many of the prophecies as Jeremiah spoke them to him.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the New Covenant that is presented in the Book of Jeremiah? ####
 
-Jeremiah 31 introduced a "new covenant" between Yahweh and Israel. This covenant would be "written" on the hearts of the people, that is, God would create a heartfelt attachment between the people and their God. (See: [[rc://en/tw/dict/bible/kt/newcovenant]])
+Jeremiah 31 introduced a "new covenant" between Yahweh and Israel. This covenant would be "written on the hearts" of the people. This means that the covenant will be a part of the people instead of just written on stone. The people would obey the new covenant with all their heart. (See: [[rc://en/tw/dict/bible/kt/newcovenant]])
 
 #### What relationship do Jeremiah's prophecies have to the other nations besides Israel? ####
 
-While much of the Old Testament prior to this time is concerned only with the nation of Israel, Jeremiah began to focus on God's judgment on the other nations of the world. Judgment must also come upon these other nations because of their sin. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/sin]])
+While much of the Old Testament prior to this time is concerned only with the nation of Israel, Jeremiah also spoke about God's judgment on the other nations of the world. God would also punish other nations for the wicked things they did. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Part 3: Important Translation Issues ##
 
-#### Is the Book of Jeremiah arranged in chronological order? ####
+#### Are the events in the Book of Jeremiah told in the order that they actually happened ####
+Is the Book of Jeremiah arranged in chronological order? ####
 
-No, Jeremiah has many instances where it is clearly out of chronological order. Instead, the various prophecies appear to be topically arranged.
+No, many of the events in the Book of Jeremiah are not told in the order that they actually happened. Instead, the various prophecies appear to be arranged by their topic.
 
 #### Why does the Book of Jeremiah refer to this prophet as "he" or "him"? ####
 
-There are many instances in the book where the author refers to Jeremiah as "Jeremiah" or "he." This is unusual if Jeremiah wrote the book. The reason this occurs is perhaps because Baruch, Jeremiah's secretary, wrote down some parts of the book. Translators should keep the words "Jeremiah" and "he" and not try to smooth over this issue.
+There are many instances in the book where the author refers to Jeremiah as "Jeremiah" or "he." This is unusual if Jeremiah wrote the book. The reason this occurs is perhaps because Baruch, Jeremiah's secretary, wrote down some parts of the book. Translators should keep the words "Jeremiah" and "he."
