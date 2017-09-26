@@ -36,7 +36,7 @@
 
 #### What is the Book of Jeremiah about? ####
 
-Jeremiah's began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Jeremiah began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 During the reign of King Jehoiakim, Jeremiah proclaimed his prophecies about the temple of Yahweh. King Jehoiakim received some of these prophecies in writing and burned the document. The next king, Zedekiah, imprisoned Jeremiah when he called for the king to surrender to Babylon. 
 
@@ -65,7 +65,6 @@ While much of the Old Testament prior to this time is concerned only with the na
 ## Part 3: Important Translation Issues ##
 
 #### Are the events in the Book of Jeremiah told in the order that they actually happened ####
-Is the Book of Jeremiah arranged in chronological order? ####
 
 No, many of the events in the Book of Jeremiah are not told in the order that they actually happened. Instead, the various prophecies appear to be arranged by their topic.
 
