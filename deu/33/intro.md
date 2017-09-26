@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of chapter 33, which are a series of quotation.
+Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the poetic lines of Moses' blessing in 33:2-29.
 
 #### Special concepts in this chapter ####
 

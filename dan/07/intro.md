@@ -1,7 +1,7 @@
 # Daniel 07 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of 7:9-14, 23-27, which are the poetic parts of the quotation.
+Some translations set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the poetic lines in 7:9-10, 13-14, 23-27.
 
 #### Special concepts in this chapter ####
 ##### The four beasts #####

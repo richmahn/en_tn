@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB signals each of the Ten Commandments by indenting them.
+Some translations set apart extended quotations, prayers, songs, and lists. Some translations indent each of the commandements in the list of Ten Commandments in 5:7-21. The ULB uses a separate paragraph for each commandment.
 
 #### Special concepts in this chapter ####
 
