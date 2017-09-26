@@ -21,11 +21,11 @@
 
 Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
 
-Paul started the church in Corinth. He was staying in the city of Ephesus when he wrote this letter.
+Paul started the church that met in Corinth. He was staying in the city of Ephesus when he wrote this letter.
 
 #### What is the Book of 1 Corinthians about? ####
 
-1 Corinthians is a letter that Paul wrote to the believers in the city of Corinth. Paul had heard that there were problems among the believers. They were arguing with each other. Some of them misunderstood some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleases God.
+1 Corinthians is a letter that Paul wrote to the believers in the city of Corinth. Paul had heard that there were problems among the believers. They were arguing with each other. Some of them did not understand some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleases God.
 
 #### How should the title of this book be translated? ####
 
@@ -55,7 +55,7 @@ The UDB will often be helpful as translators think about how to represent these 
 
 #### What is the meaning of "flesh?" ####
 
-Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. Despite the imagery, it is not the physical world which is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. However, it is not the physical world which is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
