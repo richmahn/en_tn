@@ -7,7 +7,7 @@ The ULB sets the last line of this chapter apart because it is more connected wi
 #### Special concepts in this chapter ####
 
 ##### "They began to accuse him" #####
-These men did not just accuse Jesus of these things, they also lied about it and perverted the facts to try to get Pilate to sentence Jesus to death.
+These men did not just accuse Jesus of doing evil, their accusations were false. They perverted the facts to try to get Pilate to sentence Jesus to death.
 
 ##### "The curtain of the temple was split in two" #####
 
