@@ -1,4 +1,4 @@
-# Song of Solomon 08 General Notes #
+# Song of Songs 08 General Notes #
 
 #### Special concepts in this chapter ####
 
@@ -10,6 +10,6 @@ The chapter describes the passion that can exist between a husband and a wife. T
 
 ## Links: ##
 
-* __[Song of Solomon 08:01 Notes](./01.md)__
+* __[Song of Songs 08:01 Notes](./01.md)__
 
 __[<<](../07/intro.md) | __

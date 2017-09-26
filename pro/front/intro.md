@@ -17,7 +17,7 @@
 
 #### What is the book of Proverbs about? ####
 
-Proverbs are usually short sentences well-known for their meanings and understood by everyone who speaks that language. Most societies have their own proverbs. The book of Proverbs is a collection of this kind of statements. It also includes general teachings about how to live wisely. Scholars refer to Proverbs, Psalms, Job, Ecclesiastes, and the Song of Solomon as Wisdom Literature. (See: [[rc://en/ta/man/translate/writing-proverbs]])
+Proverbs are usually short sentences well-known for their meanings and understood by everyone who speaks that language. Most societies have their own proverbs. The book of Proverbs is a collection of this kind of statements. It also includes general teachings about how to live wisely. Scholars refer to Proverbs, Psalms, Job, Ecclesiastes, and the Song of Songs as Wisdom Literature. (See: [[rc://en/ta/man/translate/writing-proverbs]])
 
 #### How should the title of this book be translated? ####
 

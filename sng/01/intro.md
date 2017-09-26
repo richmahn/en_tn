@@ -1,4 +1,4 @@
-# Song of Solomon 01 General Notes #
+# Song of Songs 01 General Notes #
 
 #### Special concepts in this chapter ####
 
@@ -20,7 +20,7 @@ In the ancient Near East, rich people usually had lighter skin because they did 
 
 ## Links: ##
 
-* __[Song of Solomon 01:01 Notes](./01.md)__
-* __[Song of Solomon intro](../front/intro.md)__
+* __[Song of Songs 01:01 Notes](./01.md)__
+* __[Song of Songs intro](../front/intro.md)__
 
 __| [>>](../02/intro.md)__

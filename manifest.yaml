@@ -48,7 +48,7 @@ projects:
   identifier: sng
   path: ./sng
   sort: 0
-  title: Song of Solomon translationNotes
+  title: Song of Songs translationNotes
   versification: ''
 - categories: []
   identifier: lev

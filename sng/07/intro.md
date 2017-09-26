@@ -1,4 +1,4 @@
-# Song of Solomon 07 General Notes #
+# Song of Songs 07 General Notes #
 
 #### Special concepts in this chapter ####
 
@@ -12,6 +12,6 @@ There are many similes in this chapter. Their purpose is to describe the beauty 
 
 ## Links: ##
 
-* __[Song of Solomon 07:01 Notes](./01.md)__
+* __[Song of Songs 07:01 Notes](./01.md)__
 
 __[<<](../06/intro.md) | [>>](../08/intro.md)__

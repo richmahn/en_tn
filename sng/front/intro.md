@@ -1,8 +1,8 @@
-# Introduction to The Song of Solomon #
+# Introduction to The Song of Songs #
 
 ## Part 1: General Introduction ##
 
-#### Outline of The Song of Solomon ####
+#### Outline of The Song of Songs ####
 
 1. The bride longs for the bridegroom to arrive (1:1–2:7)
 1. The bridegroom praises the woman he loves (2:8–3:5)
@@ -11,27 +11,27 @@
 1. The bridegroom praises the beauty of his bride (6:1–8:4)
 1. Final thoughts about love between a man and a woman (8:5–14)
 
-#### What is the Song of Solomon about? ####
+#### What is the Song of Songs about? ####
 
-The Song of Solomon is a poem or a series of poems about the love between a man and a woman. It became traditional for Jews to interpret the book as a picture of God's love for the people of Israel. In the same way, it became traditional for Christians to interpret it as a picture of Christ's love for all Christian believers.
+The Song of Songs is a poem or a series of poems about the love between a man and a woman. It became traditional for Jews to interpret the book as a picture of God's love for the people of Israel. In the same way, it became traditional for Christians to interpret it as a picture of Christ's love for all Christian believers.
 
 #### How should the title of this book be translated? ####
 
 This book may also be called the "Songs of Love," "Great Poems of Love" or "The Love Songs of Solomon." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
-#### Who wrote The Song of Solomon? ####
+#### Who wrote The Song of Songs? ####
 
 The idea that Solomon, king of Israel, was its author comes from the opening verse of the book ("The Song of Songs, which is Solomon's"). However, there are different ways to interpret this verse, so not everyone is persuaded that Solomon was the book's author.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What place do the descriptions of sexual behavior have in The Song of Solomon? ####
+#### What place do the descriptions of sexual behavior have in The Song of Songs? ####
 
-The Song of Solomon shows approval of sexual behavior as an expression of love between a husband and wife. 
+The Song of Songs shows approval of sexual behavior as an expression of love between a husband and wife. 
 
 ## Part 3: Important Translation Issues ##
 
-#### How many characters are in The Song of Solomon? ####
+#### How many characters are in The Song of Songs? ####
 
 The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
 
@@ -39,13 +39,13 @@ Some interpreters believe there may be more characters than these, but this is n
 
 #### What are the lines about people speaking? ####
 
-The Song of Solomon is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
+The Song of Songs is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
 Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
-#### How should one translate The Song of Solomon if the readers will view certain terms as coarse, vulgar, or improper? ####
+#### How should one translate The Song of Songs if the readers will view certain terms as coarse, vulgar, or improper? ####
 
-There are many images or forms appearing in the Song of Solomon that, when translated, may be considered improper. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
+There are many images or forms appearing in the Song of Songs that, when translated, may be considered improper. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
 #### How do I translate metaphors in this book? ####
 
