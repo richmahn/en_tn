@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of 4:3, 34-35, which are poetic.
+Some translations set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the poetry in 4:3 and 4:34-35.
 
 #### Special concepts in this chapter ####
 

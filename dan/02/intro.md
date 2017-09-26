@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of 2:20-23, which is a special prayer.
+Some translations set apart extended quotations, prayers, or songs. The ULB and many other English translations indent Daniel's prayer in 2:20-23.
 
 #### Special concepts in this chapter ####
 
