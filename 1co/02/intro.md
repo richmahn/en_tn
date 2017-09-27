@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:6, 7, 8, and 22.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:9 and 2:16
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:10.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:16.
 
 #### Special concepts in this chapter ####
 
