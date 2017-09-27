@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations from the Old Testament by indenting them. The ULB and other English translations indent the words in 3:19-20 that are quoted from the Old Testament.
+Some translation indent quotations from the Old Testament. The ULB does this with the quotations in 3:19 and 3:20.
 
 #### Special concepts in this chapter ####
 
