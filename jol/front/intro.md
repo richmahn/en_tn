@@ -16,29 +16,29 @@
 
 #### What is the Book of Joel about? ####
 
-The major theme of Joel is the "day of Yahweh." This expression is found five times in Joel (1:15; 2:1; 11, 21; and 3:14); this phrase is also found in thirteen places in Isaiah, Jeremiah, Ezekiel, Amos, Obadiah, Zephaniah, and Malachi. This "day" is the time when Yahweh will judge and punish his people, and also the other nations. The time will come when Yahweh will put an end to the rebellion and sin of his people and of all the nations.
+In this book, Joel speaks a lot about the "day of Yahweh." This expression is found five times in Joel (1:15; 2:1; 11, 21; and 3:14). This phrase is also found in thirteen places in Isaiah, Jeremiah, Ezekiel, Amos, Obadiah, Zephaniah, and Malachi. This "day" is the time when Yahweh will judge and punish his people and also the other nations. At this time, Yahweh will stop those who rebel and sin against him.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 "The Book of Joel" may also be called the "The Book about Joel" or "The Sayings of Joel." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Joel? ####
 
-The prophecies in this book are messages given by Yahweh to Joel, son of Pethuel, who is otherwise unknown to us. It was traditionally thought that Joel lived in the time of the northern and southern kingdoms, perhaps during the reign of King Joash of Judah in the second part of the seventh century BC. However, most scholars today think that Joel probably lived in post-exilic times, after the Jews had returned to Judah from Babylonia.
+Very little is known about the prophet Joel, son of Pethuel. According to tradition, Joel lived in the time of the northern and southern kingdoms. He may have lived during the reign of King Joash of Judah some time between 650-600 B.C. However, most scholars today think that Joel probably lived after the Jews had returned to Judah from Babylonia.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the meaning of the locust attacks in Joel 1 and 2, and of the drought in Joel 2? ####
 
-It was common for farmers in the ancient Near East to experience massive locust attacks. Millions of these insects would come and eat all crops in their fields. Joel might be describing such attacks in the first two chapters. But because Joel uses military terms and images to describe these locust attacks, it is easy to think that his descriptions might instead be a picture of the enemy invaders who would come and destroy the land and its people. 
+It was common for farmers in the Ancient Near East to experience massive locust attacks. Millions of these insects would come and eat all crops in their fields. Joel might have been describing such attacks in the first two chapters. But because Joel used military terms to describe these locust attacks, he may have be describing enemy invaders who would come and destroy the land and its people. 
 
-In the same manner, the drought (severe lack of rain) that Joel describes might be a real drought, or it might be a picture of either enemy invaders or of Yahweh himself coming to punish his people and the other nations.
+In the same manner, the drought that Joel described might have been a real lack of rain. Or it might have been a description of either enemy invaders or of Yahweh himself coming to punish his people and the other nations.
 
-Translators should translate simply, presenting the scenes of locusts and drought as Joel describes them, and not worry about the various possible meanings.
+Translators should translate simply as Joel described them and not worry about the various possible meanings.
 
-#### What kind of picture of the future does Joel present? ####
+#### What did Joel prophesy about the future for God's people? ####
 
-Joel presents a picture of the future that God will bring about. In this picture, God will defeat Israel's enemies, rebuild the city of Jerusalem, and rule as victorious king over the whole world. At the same time, God will give his Spirit to all his servants, who will receive messages from him in dreams and visions. (See: [[rc://en/tw/dict/bible/kt/holyspirit]])
+Joel prophesied that God will defeat Israel's enemies, rebuild the city of Jerusalem, and rule as victorious king over the whole world. At the same time, God will give his Spirit to all his people, and they will receive messages from him in dreams and visions. (See: [[rc://en/tw/dict/bible/kt/holyspirit]])
 
 ## Part 3: Important Translation Issues ##
 
