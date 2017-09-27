@@ -20,7 +20,7 @@
 
 #### What is the Book of Daniel about? ####
 
-The Book of Daniel is about several Jewish young men, Daniel and his friends, who were taken to Babylon as prisoners from Jerusalem. The first section of the book (Chapters 1–6) is a narrative about Daniel and his friends. This section showst how they were faithful to Yahweh even though they were living in a pagan land and serving a pagan king. And it shows how God rewarded them because they were faithful. 
+The Book of Daniel is about several Jewish young men, Daniel and his friends, who were taken to Babylon as prisoners from Jerusalem. The first section of the book (Chapters 1–6) is a narrative about Daniel and his friends. This section shows how they were faithful to Yahweh even though they were living in a pagan land and serving a pagan king. And it shows how God rewarded them because they were faithful. 
 
 Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and the appearance of a type of the great enemy of God. It ends with a final vision that describes the end times.
 
@@ -30,15 +30,16 @@ Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 a
 
 #### Who wrote the Book of Daniel? ####
 
-Daniel was a Jewish governmental official in Babylon during the exile. He may have written the book himself or at least the original parts of the book. At a later time, these parts may have been put together the way we have them now..
+Daniel was a Jewish governmental official in Babylon during the exile. He may have written the book himself. Or he may have written the parts of the book and someone put them together at a later time in the form that we have now.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why is there a missing week in Daniel's prophecy? ####
 
-There is much speculation regarding Daniel's "missing week." It is best for translators to allow this mystery to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+There is much speculation regarding Daniel's "missing week" in 9:24-27. It is best for translators to allow this mystery to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 #### When do the seventy weeks begin? ####
+
 An exact date for the beginning of the prophecy of the seventy weeks is unknown. The timeline begins when a decree is issued to rebuild the city of Jerusalem, but there were several decrees that allowed this to happen.
 
 #### Who was Darius the Mede? ####
