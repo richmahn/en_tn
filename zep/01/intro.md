@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 1:2-16, which is an extended quotation. The lines 1:7, 17-18 are indented again to further set them apart from the rest of the quote. 
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 1:2-18.
 
 #### Special concepts in this chapter ####
 
