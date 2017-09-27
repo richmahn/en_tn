@@ -9,7 +9,7 @@ It was customary for wine to be used during times of celebration. It was not con
 This is the first account of Jesus driving the money changers out of the temple. This event showed the authority Jesus had over the temple and over all of Israel. 
 
 ##### "He knew what was in them" #####
-John knows this type of knowledge would only be possible if Jesus was God. (See: [[rc://en/ta/man/translate/figs-explicit]])
+John knows that it is possible for Jesus to have this type of knowledge only because Jesus is God. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### Other possible translation difficulties in this chapter ####
 
