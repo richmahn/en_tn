@@ -19,7 +19,7 @@
 
 #### What is the Book of Amos about? ####
 
-Amos began his work about 760 BC. He spoke Yahweh's messages against the wicked behavior of God's people, both in the southern kingdom of Judah and in the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
+Amos began to prophesy about 760 BC. He spoke Yahweh's messages against the wicked behavior of God's people. He spoke messages to the southern kingdom of Judah and to the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 Yahweh gave Amos the "judgment prophecies" found in the first six chapters of the book to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULB). 
 
@@ -31,13 +31,13 @@ The Book of Amos may also be called the "The Book of the Sayings of Amos." (See:
 
 #### Who wrote the Book of Amos? ####
 
-It is likely that Amos wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he demonstrated a very thorough knowledge and understanding of the law of Moses. Also, Amos was very skilled at communicating with expressive and meaningful words.
+It is likely that Amos wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he demonstrated a very thorough knowledge and understanding of the law of Moses. Also, Amos was very skilled at communicating with expressive and meaningful words.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is social justice? ####
 
-Amos was very concerned with justice. A godly society or community was to be just. Amos described this as obeying Yahweh and treating poor people, orphans, and widows in a fair way. Amos explains that Yahweh would prefer that the people act justly rather than sacrifice to him. This is true obedience to the Law of Moses. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Amos was very concerned with justice. A godly society or community was to be just. Amos said that if the people wanted to be just they must obey Yahweh and treat poor people, orphans, and widows in a fair way. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. True obedience to the law of Moses meant being just to other people. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### What is a lawsuit? ####
 
