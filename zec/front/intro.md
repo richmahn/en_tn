@@ -28,7 +28,7 @@
 
 Zechariah wrote to the people of Judah who returned from exile in Babylon. The people of Judah were committing the same sins that caused the exile. Zechariah calls on the people to return to the Lord and renew the covenant with Yahweh. Also, many people were disappointed that the new temple was much smaller than the original temple. He encourages the people and shares the vision about the temple in the future. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 It is suggested that translators use a self-explanatory title or follow the regional or the national language versions of the Bible. "Zechariah" may also be called the "The Book About Zechariah" or "The Sayings of Zechariah." (See: [[rc://en/ta/man/translate/translate-names]])
 
