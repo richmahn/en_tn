@@ -21,7 +21,7 @@
 
 Hosea lived in the northern kingdom of Israel. Hosea often called this kingdom Ephraim or Samaria. He lived in the period of time just before Assyria conquered the northern kingdom. 
 
-Hosea began to prophesy around 753 B.C. just before King Jeroboam II died. This was when the kingdom of Israel was its most powerful. Despite its prosperity, the kingdom of Israel was spiritually weak. Hosea prophecied for about 38 years and predicted that the kingdom would be destroyed. The kingdom of Israel was destroyed by the Assyrians in 721 B.C.
+Hosea began to prophesy around 753 B.C. just before King Jeroboam II died. This was when the kingdom of Israel was its most powerful. Despite its prosperity, the kingdom of Israel was spiritually weak. Hosea prophesied for about 38 years and predicted that the kingdom would be destroyed. The kingdom of Israel was destroyed by the Assyrians in 721 B.C.
 
 #### How should the title of this book be translated? ####
  
@@ -39,7 +39,7 @@ Hosea's marriage to the prostitute Gomer is a type of metaphor that represents t
 
 #### What is a lawsuit? ####
 
-Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. The Book of Hosea contains a number of legal terms. This is because Yahweh's accusations against Israel is spoken of as if he were a husband accusing his wife in court of being unfaithful to him. Part of the book follows the form of a lawsuit. There is a problem that is identified (4:1), someone is accused (4:4), someone is found guilty (4:15), and punishment follows (5:1).
+Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. The Book of Hosea contains a number of legal terms. This is because Yahweh is spoken of as if he were a husband accusing his wife in court of being unfaithful to him. Part of the book follows the form of a lawsuit. There is a problem that is identified (4:1), someone is accused (4:4), someone is found guilty (4:15), and punishment follows (5:1).
 
 #### Who did the people of the kingdom of Israel worship? ####
 
