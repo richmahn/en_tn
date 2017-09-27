@@ -18,7 +18,7 @@ After Jerusalem was destroyed, the Edomites captured fleeing Jews and gave them 
 
 #### How should the title of this book be translated? ####
 
-Translators may decide to translate this traditional title, "The Book of Obadiah," in a way that is more clear to the readers. They may decide to call it, "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
+Translators may decide to translate this traditional title, "The Book of Obadiah," in a way that is clearer to the readers. Translators may decide to call it, "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Obadiah? ####
 
@@ -34,4 +34,4 @@ Obadiah referred to Edom as Israel's brother. This is because the Edomites were 
 
 #### How do I translate the concept of "pride"? ####
 
-Obadiah spoke a lot about "pride" in his book. When Obadiah spoke about the "pride" of Edom, he meant that the nation thought they were more powerful than Yahweh and that he would not or was not able to punish them. (See: rc://en/tw/dict/bible/other/proud)
+Obadiah spoke a lot about "pride" in his book. When Obadiah spoke about the "pride" of Edom, he meant that the Edomites thought they were more powerful than Yahweh and that he would not or was not able to punish them. (See: rc://en/tw/dict/bible/other/proud)
