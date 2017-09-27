@@ -1,4 +1,4 @@
-====== Introduction to Daniel======
+# Introduction to Daniel #
 
 ## Part 1: General Introduction ##
 
