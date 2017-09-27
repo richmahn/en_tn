@@ -19,9 +19,9 @@
 
 #### What is the Book of Hosea about? ####
 
-Hosea lived in the northern kingdom of Israel, which he often called Ephraim or Samaria. He lived in the period of time just before Assyria conquered the northern kingdom. 
+Hosea lived in the northern kingdom of Israel. Hosea often called this kingdom Ephraim or Samaria. He lived in the period of time just before Assyria conquered the northern kingdom. 
 
-Hosea begins with the events of 753 BC, just before the death of Jeroboam II, when the kingdom of Israel was at its most powerful. Despite its prosperity, the kingdom of Israel was spiritually weak. Hosea predicts the demise of the kingdom of Israel and witnesses its destruction. The challenges and difficulties that Hosea was instructed to endure were unlike those faced by any other Old Testament prophet. (See: [[rc://en/tw/dict/bible/kt/evil]])
+Hosea began to prophesy around 753 B.C. just before King Jeroboam II died. This was when the kingdom of Israel was its most powerful. Despite its prosperity, the kingdom of Israel was spiritually weak. Hosea prophecied for about 38 years and predicted that the kingdom would be destroyed. The kingdom of Israel was destroyed by the Assyrians in 721 B.C.
 
 #### How should the title of this book be translated? ####
  
@@ -29,21 +29,21 @@ Hosea begins with the events of 753 BC, just before the death of Jeroboam II, wh
 
 #### Who wrote the Book of Hosea? ####
 
-Hosea, son of Beeri, transmitted the messages in the book from God. Hosea prophesied at the same time as Amos, Isaiah, and Micah. They followed the earlier prophets Obadiah, Joel, and Jonah. Hosea lived in the northern kingdom, probably in the city of Samaria. In Hosea 7:5, he refers to the king of the northern kingdom as "our king." The name Hosea means "salvation." (See: [[rc://en/tw/dict/bible/kt/salvation]])
+This book contains the prophecies of Hosea, son of Beeri. It is uncertain whether Hosea wrote the book himself. It was probably written after Samaria, the capital of the norther kingdom, was destroyed in 721 B.C.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why did God command Hosea to marry a prostitute? ####
 
-Hosea's marriage to the prostitute Gomer is a type of metaphor for the kingdom of Israel's relationship to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him, as a woman who is unfaithful to her husband breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
+Hosea's marriage to the prostitute Gomer is a type of metaphor that represents the kingdom of Israel's relationship to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared with a woman who is unfaithful to her husband and  breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
-#### What is a lawsuit? #### 
+#### What is a lawsuit? ####
 
-Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. The Book of Hosea contains a number of legal terms, because it pictures Yahweh's accusations against Israel as if a husband were accusing his wife of being unfaithful to him. Part of the book follows the form of a lawsuit. There is a problem that is identified (4:1), someone is accused (4:4), someone is found guilty (4:15), and punishment follows (5:1).
+Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. The Book of Hosea contains a number of legal terms. This is because Yahweh's accusations against Israel is spoken of as if he were a husband accusing his wife in court of being unfaithful to him. Part of the book follows the form of a lawsuit. There is a problem that is identified (4:1), someone is accused (4:4), someone is found guilty (4:15), and punishment follows (5:1).
 
-#### What was the religious environment in the kingdom of Israel? ####
+#### Who did the people of the kingdom of Israel worship? ####
 
-While Israel was supposed to worship Yahweh alone, they combined the worship of Yahweh with the worship of the Canaanite gods, including the idol named Baal. This was a major cause of God's judgment upon the kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/judge]])
+While Israel was supposed to worship Yahweh alone, they combined the worship of Yahweh with the worship of the Canaanite gods. The name of one of the false gods they worshiped was Baal. This was a major cause of God's judgment upon the kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/judge]])
 
 ## Part 3: Important Translation Issues ##
 
