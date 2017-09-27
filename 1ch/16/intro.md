@@ -4,7 +4,7 @@
 
 Chapters 15 and 16 tell how David organized the priests and Levites. (See: [[rc://en/tw/dict/bible/kt/priest]])
 
-Many translations set apart poetry and lists by indenting them. The ULB indents each line in the poetic song in 16:8-36.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 16:8-36.
 
 #### Special concepts in this chapter ####
 
