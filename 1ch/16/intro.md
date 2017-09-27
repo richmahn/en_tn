@@ -4,7 +4,7 @@
 
 Chapters 15 and 16 tell how David organized the priests and Levites. (See: [[rc://en/tw/dict/bible/kt/priest]])
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 16:8-36 because they are a psalm or song.
+Many translations set apart poetry and lists by indenting them. The ULB indents each line in the poetic song in 16:8-36.
 
 #### Special concepts in this chapter ####
 
