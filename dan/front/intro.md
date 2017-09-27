@@ -20,17 +20,17 @@
 
 #### What is the Book of Daniel about? ####
 
-The Book of Daniel is about several Jewish young men, Daniel and his friends, who were taken to Babylon as prisoners from Jerusalem. The first section of the book (Chapters 1–6) is a narrative about Daniel and his friends, and about how they were faithful to Yahweh even though they were living in a pagan land and serving a pagan king. It praises their faithfulness to Yahweh as they were faced with difficulties, and it tells how he rewarded them. 
+The Book of Daniel is about several Jewish young men, Daniel and his friends, who were taken to Babylon as prisoners from Jerusalem. The first section of the book (Chapters 1–6) is a narrative about Daniel and his friends. This section showst how they were faithful to Yahweh even though they were living in a pagan land and serving a pagan king. And it shows how God rewarded them because they were faithful. 
 
-Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–12 are prophecies and visions leading up to the destruction of Jerusalem and the appearance of a type of the great enemy of God, ending with a final vision in Chapter 12 that leads up to the time of the Messiah.
+Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and the appearance of a type of the great enemy of God. It ends with a final vision that describes the end times.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
 "The Book of Daniel" may also be called "The Book About Daniel" or "The Book About the Deeds and Visions of Daniel." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Daniel? ####
 
-Daniel was a Jewish governmental official in Babylon during the exile. He may have written the book himself or at least the original parts of the book, which were perhaps later put together in the way we have it now.
+Daniel was a Jewish governmental official in Babylon during the exile. He may have written the book himself or at least the original parts of the book. At a later time, these parts may have been put together the way we have them now..
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -38,7 +38,7 @@ Daniel was a Jewish governmental official in Babylon during the exile. He may ha
 
 There is much speculation regarding Daniel's "missing week." It is best for translators to allow this mystery to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-===When do the seventy weeks begin?===
+#### When do the seventy weeks begin? ####
 An exact date for the beginning of the prophecy of the seventy weeks is unknown. The timeline begins when a decree is issued to rebuild the city of Jerusalem, but there were several decrees that allowed this to happen.
 
 #### Who was Darius the Mede? ####
@@ -49,8 +49,8 @@ Darius the Mede was a king of Babylon who sent Daniel into the lion's den. Unfor
 
 #### How does Daniel use the word "king"? ####
 
-There are many kings in Daniel, but not all of the kings were rulers of all of Babylon or Persia. Some of the kings may have been kings of regions or cities.
+There are many kings in the Book of Daniel, but not all of the kings were rulers over all of Babylon or Persia. Some of the kings may have been kings of regions or cities.
 
 #### How many chapters does Daniel have? ####
 
-Daniel has twelve chapters. Some Bible versions include the stories called "Bel and the Dragon" and "The Prayer of Azariah," but few people believe that these stories are equal in authority with the rest of scripture. Therefore, there is no need to translate them.
+Daniel has twelve chapters. Some Bible versions include the stories called "Bel and the Dragon" and "The Prayer of Azariah." However, not many people think that these stories are equal in authority with the rest of scripture. Therefore, there is no need to translate them.
