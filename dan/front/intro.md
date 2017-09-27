@@ -22,7 +22,7 @@
 
 The Book of Daniel is about several Jewish young men, Daniel and his friends, who were taken to Babylon as prisoners from Jerusalem. The first section of the book (Chapters 1–6) is a narrative about Daniel and his friends. This section shows how they were faithful to Yahweh even though they were living in a pagan land and serving a pagan king. And it shows how God rewarded them because they were faithful. 
 
-Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and the appearance of a type of the great enemy of God. It ends with a final vision that describes the end times.
+Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and the appearance of a type of the great enemy of God. Chapter 12 is a final vision that describes the end times.
 
 #### How should the title of this book be translated? ####
 
@@ -30,7 +30,7 @@ Following this is a section of prophetic visions (Chapters 7–12). Chapters 7 a
 
 #### Who wrote the Book of Daniel? ####
 
-Daniel was a Jewish governmental official in Babylon during the exile. He may have written the book himself. Or he may have written the parts of the book and someone put them together at a later time in the form that we have now.
+Daniel was a Jew who became an official in the Babylonian government during the exile. He may have written the book himself. Or he may have written the parts of the book and someone put them together at a later time in the form that we have now.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
