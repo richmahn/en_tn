@@ -24,13 +24,13 @@ In this book, Joel speaks a lot about the "day of Yahweh." This expression is fo
 
 #### Who wrote the Book of Joel? ####
 
-Very little is known about the prophet Joel, son of Pethuel. According to tradition, Joel lived in the time of the northern and southern kingdoms. He may have lived during the reign of King Joash of Judah some time between 650-600 B.C. However, most scholars today think that Joel probably lived after the Jews had returned to Judah from Babylonia.
+Very little is known about the prophet Joel, son of Pethuel. According to tradition, Joel lived in the time of the northern and southern kingdoms. He may have lived during the reign of King Joash of Judah sometime between 650-600 B.C. However, most scholars today think that Joel probably lived after the Jews had returned to Judah from Babylonia.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the meaning of the locust attacks in Joel 1 and 2, and of the drought in Joel 2? ####
 
-It was common for farmers in the Ancient Near East to experience massive locust attacks. Millions of these insects would come and eat all crops in their fields. Joel might have been describing such attacks in the first two chapters. But because Joel used military terms to describe these locust attacks, he may have be describing enemy invaders who would come and destroy the land and its people. 
+It was common for farmers in the Ancient Near East to experience massive locust attacks. Millions of these insects would come and eat all crops in their fields. Joel may have been describing such attacks in the first two chapters. But because Joel used military terms to describe these locust attacks, he may have been describing enemy invaders who would come and destroy the land and its people. 
 
 In the same manner, the drought that Joel described might have been a real lack of rain. Or it might have been a description of either enemy invaders or of Yahweh himself coming to punish his people and the other nations.
 
