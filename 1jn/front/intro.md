@@ -11,7 +11,7 @@
 
 #### Who wrote the Book of 1 John? ####
 
-This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that John was the author. John was one of Jesus' disciples. He was also the author of the Gospel of John.
+This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the Apostle John was the author. John was one of Jesus' disciples. He was also the author of the Gospel of John.
 
 #### What is the Book of 1 John about? ####
 
@@ -45,6 +45,6 @@ The following are the most significant textual issues in 1 John:
 * "And you all know the truth." (2:20) The ULB, UDB, and most modern versions have either this reading or the following reading: "And you all have knowledge." Some older versions have, "and you know all things."
 * "and this is what we are!" (3:1). The ULB, UDB, and most modern versions have this reading. Some older manuscripts omit this phrase.
 * "and every spirit that does not acknowledge Jesus is not from God." (4:3) The ULB, UDB, and most modern versions have this reading. Some older manuscripts read, "and every spirit that does not acknowledge that Jesus has come in the flesh is not of God."
-* "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." (5:7-8). The ULB, UDB, and most other versions do not have this reading. Translators are advised not to translate this passage. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it was probably not original to 1 John. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." (5:7-8). The ULB, UDB, and most other versions do not have this reading. Translators are advised to translate this as ULB does. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it was probably not original to 1 John. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
