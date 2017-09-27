@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 2:1-10 because they are the words of a prayer.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with Hannah's poetic prayer in 2:1-10 .
 
 #### Special concepts in this chapter ####
 

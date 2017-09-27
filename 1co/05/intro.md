@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translation indent quotations from the Old Testament. The ULB does this with the quoted material in 5:13.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 5:13.
 
 #### Important figures of speech in this chapter ####
 

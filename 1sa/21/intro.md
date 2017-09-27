@@ -2,7 +2,7 @@
  
 #### Structure and formatting ####
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 21:11 because they are a song that people sang in praise of David.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 21:11.
 
 #### Special concepts in this chapter ####
 

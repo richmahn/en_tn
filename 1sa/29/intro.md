@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 29:5 because they are the words of a song that was sung about David.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 29:5.
 
 #### Other possible translation difficulties ####
 

@@ -4,7 +4,7 @@
  
 This is the first chapter of a section explaining why Saul wants to kill David. 
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 18:7 that are a song that praises David.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 18:7.
 
 #### Special concepts in this chapter ####
 
