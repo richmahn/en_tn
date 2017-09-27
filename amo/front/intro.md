@@ -19,11 +19,11 @@
 
 #### What is the Book of Amos about? ####
 
-Amos began his work about 760 BC. He was not a professional prophet, but he spoke Yahweh's messages against the wicked behavior of God's people, both in the southern kingdom of Judah, where his home was, and in the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
+Amos began his work about 760 BC. He spoke Yahweh's messages against the wicked behavior of God's people, both in the southern kingdom of Judah and in the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 Yahweh gave Amos the "judgment prophecies" found in the first six chapters of the book to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULB). 
 
-The last part of the book of Amos has three visions of the coming judgment from God. The final vision promises both destruction and rescue (9:11-15). The "tent of David" would be raised up again, that is, David's descendants would provide kings once again to the throne of Israel. 
+The last part of the book of Amos contains three visions of the coming judgment from God. The final vision promises both destruction and rescue (9:11-15). The "tent of David" would be raised up again, that is, David's descendants would once again be king over Israel. 
 
 #### How should the title of this book be translated? ####
  
@@ -31,13 +31,13 @@ The Book of Amos may also be called the "The Book of the Sayings of Amos." (See:
 
 #### Who wrote the Book of Amos? ####
 
-It is likely that Amos wrote this book. Amos came from a poor family—from farmers and herdsmen. They grew sycamore trees, he may have had cows (based on the description of him in 7:14, 15), and he was a shepherd (See: [Amos 1:1](../01/01.md)). Though Amos was a farmer, he demonstrates a very thorough knowledge, even extensive understanding, of the law of Moses, but he was not formally trained. There is no record of another prophet ordaining him. However, Amos was one of the most eloquent of the prophets.
+It is likely that Amos wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he demonstrated a very thorough knowledge and understanding of the law of Moses. Also, Amos was very skilled at communicating with expressive and meaningful words.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is social justice? ####
 
-A major focus of Amos's ministry is on justice. A godly society or community was to be just. Amos describes this as fair treatment of the poor, helping orphans and widows and obeying Yahweh. Amos explains that Yahweh would prefer that the people act justly rather than sacrifice to him. This is true obedience to the Law of Moses. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Amos was very concerned with justice. A godly society or community was to be just. Amos described this as obeying Yahweh and treating poor people, orphans, and widows in a fair way. Amos explains that Yahweh would prefer that the people act justly rather than sacrifice to him. This is true obedience to the Law of Moses. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### What is a lawsuit? ####
 
@@ -47,8 +47,8 @@ Many cultures have a process for resolving disputes through the use of courts. T
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. In Amos, "Israel" almost exclusively refers to the northern kingdom of Israel.
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, "Israel" almost always refers to the northern kingdom of Israel. (See: rc://en/tw/dict/bible/kt/israel)
 
-#### Where do narrative sequences begin and end? ####
+#### Where do the various narratives begin and end? ####
 
-The structure of the Book of Amos has caused difficulties in understanding how Amos's thoughts flow. It may be helpful to solve these issues with carefully divided lines or paragraphs.
+The structure of the Book of Amos may make it difficult to understand where Amos ends one thought and begins another. It may be helpful to solve these issues with carefully divided lines or paragraphs.
