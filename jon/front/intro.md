@@ -32,7 +32,7 @@ Translators may decide to translate this traditional title "The Book of Jonah" i
 
 #### Who wrote the Book of Jonah? ####
 
-The author of the Book of Jonah is unknown. The prophet Jonah lived in the northern kingdom of Israel. He prophecied sometime between 800-750 B.C., during the reign of King Jeroboam II.
+The author of the Book of Jonah is unknown. The prophet Jonah lived in the northern kingdom of Israel. He prophesied sometime between 800-750 B.C. during the reign of King Jeroboam II.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
