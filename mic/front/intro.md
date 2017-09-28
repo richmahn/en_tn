@@ -24,39 +24,41 @@
 
 #### What is the Book of Micah about? ####
 
-The Book of Micah is a collection of many prophetic pronouncements. Micah repeated many of the great prophetic themes in Isaiah. He began his ministry in the kingdom of Israel and then moved to the kingdom of Judah. Micah warned of the pending attacks of Assyria and the coming fall of both kingdoms. Micah condemned injustice and immorality. He denounced those who did not work for a living and he renounced the false prophets who were giving Israel and Judah a sense of false security, by telling them that they were safe and that Yahweh would protect and deliver them.
+This book contains many of Micah's prophecies. Micah repeated many similar prophecies as found in Isaiah.  Micah warned the kingdom of Israel and the kingdom of Judah that the Assyrians would soon attack them. Micah condemned those who were unjust and immoral. He spoke agaisnt those who did not work for a living. He also spoke against the false prophets in Israel and Judah. These false prophets were telling the people that Yahweh would never let a foreign kingdom harm or conquer them.
  
-Micah appealed to the people to live righteous and holy lives because of their connection with Yahweh. Their sins were evidence that they were not worshiping and serving Yahweh. The way they lived their lives, especially how they treated their fellow countrymen, proved the failure of their faith and showed that they had lost their love for Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/unjust]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
+Micah called the the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countryment proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/unjust]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### How should the title of this book be translated? #### 
 Translators may decided to translate the traditional title "The Book of Micah" in a way that is clearer to the readers. They may decide to call it, "The Sayings of Micah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote Micah? ####
 
-Micah probably wrote this book. Micah lived at the same time as Isaiah and Hosea (in the mid to late 8th century BC) during the reigns of Jotham, Ahaz, and Hezekiah, kings of Judah.
+Micah probably wrote this book. Micah lived at the same time as Isiah and Hosea. This was sometime between 750 B.C. - 700 B.C., during the reigns of Jotham, Ahaz, and Hezekiah, kings of Judah. He began prophesying when he lived in the northern kingdom of Israel. Then he moved to the kingdom of Judah. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
+
 #### Who is the deliverer Micah mentions? ####
 
-Micah frequently mentions a king who will deliver the people. While he is not directly mentioned to be the Messiah, it becomes clear that the person Micah mentions is the Messiah, the descendant of David who will rule forever. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/christ]])
+Micah frequently mentioned a king who would deliver the people. It is clear that Micah meant the Messiah, the descendant of David who would rule forever, though he never referred to him as the Messiah. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/christ]])
 
 #### Were the Israelites required to offer sacrifices or live holy lives to please Yahweh? ####
 
-While much of the Old Testament focuses on offering sacrifices according to the law of Moses, Micah explains to the people that Yahweh is only pleased when the people offer these sacrifices in faith. Without faith sacrifices become empty religious practices. True faith will result in the people living just lives. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/justice]]) 
+Many of the Old Testament writers were concerned with offering sacrifices according to the law of Moses. However, Micah explained to the people that Yahweh was pleased only when they offered these sacrifices in faith. Without faith, the sacrifices had no meaning. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/justice]]) 
 
 ## Part 3: Important Translation Issues ##
 
 #### Why does Micah 1:10-16 sound unusual? ####
 
-This passage sounds unusual because of its construction in Hebrew, called a play on words. The names of the cities are used to describe their destruction. "Lachish will be lashed" is an example of this type of construction. This is a poetic element that might not correspond to the actual way they will be punished.
+This passage sounds unusual because of its construction in Hebrew. It includes what is called a play on words. The names of the cities were used to describe their destruction. "Lachish will be lashed" is an example of this type of construction. This is a poetic element that might not correspond to the actual way they will be punished.
 
 #### What does a translator need to know before translating Micah? ####
 
-Micah does not frequently explain the historical context of his prophecies. This may result in the translator's failure to understand implicit information unless they have a solid understanding of the time of Micah's ministry. It is therefore suggested that translators have a good understanding of the history of the kingdoms of Israel and Judah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Micah did not often explain the historical situation of his prophecies. This may result in the translator's failure to understand implicit information unless they have a good understanding of Micha's time. It is therefore suggested that translators have a good understanding of the history of the kingdoms of Israel and Judah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### How do I translate passages where the speaker or addressee is not mentioned explicitly? ####
  
-Micah often fails to mention who is speaking or who is being addressed. The context of the quote will often help the reader to understand who is speaking or being addressed. It is acceptable to make this information explicit so the reader can more easily understand it. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Micah often did not mention who was speaking or who was being addressed. Reading the verses before and after the quote will often help the reader to understand who is speaking or being addressed. It is acceptable to make this information explicit so the reader can more easily understand it. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### How should the text of Micah be formatted? ####
-The ULB tries to use the same poetic language style as the Hebrew text. Many languages will be capable of doing this but some languages will not be capable of doing this. The ULB also sets apart the poetic portions of the text by indenting the poetic lines. With the exception of the first verse, the entire book is indented because the book is written as a series of poetic prophecies.
+
+The ULB tries to use the same poetic language style as the Hebrew text. Many languages will be capable of doing this but some languages will not be capable of doing this. The ULB also sets apart the poetic portions of the text by indenting the poetic lines. With the exception of the first verse, the entire book is indented because the prophecies were written as a series of poems.
