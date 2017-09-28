@@ -18,32 +18,32 @@
 
 #### What is the Book of Habakkuk about? ####
 
-While many other prophets complained about Israel's sin and failure to obey the law of Yahweh, Habakkuk accuses Yahweh by asking him questions about the things he does. Habakkuk says the Babylonians are more evil and are more deserving of Yahweh's punishment. Overall, the book is addressed to the rich people in Judah who mistreated the poor and to the evil religious leaders. Because of this fact, the idea of justice is important in the Book of Habakkuk. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
+While many other prophets complained about Israel's sin and failure to obey the law of Yahweh, Habakkuk questioned Yahweh about the things he did. God said he would punish the people of Judah by sending the Babylonian army. Habakkuk complained because the Babylonians were more wicked than the people of Judah. God assured Habakkuk that he would also punish the Babylonians. Justice is a major concern for Habakkuk in this book. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
-Translators may decide to translate this traditional title "The Book of Habakkuk" in a way that is more clear to the readers. They may decide to call it "The Sayings of Habakkuk." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may decide to translate this traditional title "The Book of Habakkuk" in a way that is clearer to the readers. They may decide to call it "The Sayings of Habakkuk." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote Habakkuk? ####
 
-Nothing is known about Habakkuk, from whom this message came. The Chaldean empire, mentioned in several places in Habakkuk, helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 BC. It is probable that Habakkuk worked about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
+Nothing is known about Habakkuk, from whom this message came. The Chaldean empire, another name for the Babylonian empire, was mentioned in several places in Habakkuk, helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 BC. It is probable that Habakkuk worked about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why did God use an evil nation to punish Judah? ####
 
-Habakkuk seeks to address this issue. He explains that a person should be obedient to Yahweh and should live a righteous life. He says evil must be punished, but that God determines the timing of its punishment. (See: [[rc://en/tw/dict/bible/kt/righteous]])
+Habakkuk wanted to know why God used an evil nation to punish Judah. In the book it is explained that everyone who does evil must be punished. However, it is God who determines when and how to punish the person.
 
 ## Part 3: Important Translation Issues ##
 
 #### How do I identify the speaker? ####
 
-It should be noted that Habakkuk often speaks to Yahweh, and Yahweh replies to him. The translator should be careful to identify the speaker (Habakkuk or Yahweh) in each section. The translator may wish to make the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
+It should be noted that Habakkuk often spoke to Yahweh, and Yahweh replied to him. The translator should be careful to identify whether the speaker is Habakkuk or Yahweh in each section. The translator may wish to make the identity of the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### What style of writing is the Book of Habakkuk? ####
 
-While much of the book of Habakkuk is conversation between the prophet and God, the third chapter is a psalm. This chapter contains information about how to sing this psalm; the author uses musical terms. 
+While much of the book of Habakkuk is a conversation between the prophet and God, the third chapter is a psalm. This chapter contains information about how to sing this psalm. The author included musical terms. 
 
 #### Does Habakkuk question or challenge God? ####
 
-There are times when Habakkuk speaks directly to God in a way that can be taken as challenging God. Habakkuk is not intending to question the authority of Yahweh but is stating, "I do not understand." In some cultures, it may be improper to speak to an authority in this way. It may be necessary to rephrase Habakkuk's questions to emphasize his sincere desire to learn why God is doing what he is doing, without doubting him.
+There are times when Habakkuk spoke directly to God in a way that can be interpreted as challenging God. Habakkuk was not intending to question the authority of Yahweh. He was telling God that he does not understand what God is doing. In some cultures, it may be improper to speak to an authority in this way. It may be necessary to rephrase Habakkuk's questions to emphasize his sincere desire to learn why God is doing what he is doing, without doubting him.
