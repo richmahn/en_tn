@@ -10,11 +10,12 @@
 1. Paul's concerns for their spiritual growth 
     - Like a mother (2:7)
     - Like a father (2:11)
+1. Paul sends Timothy to the Thessalonians and Timothy reports back to Paul (3:1-13)
 1. Practical instructions
     - Live to please God (4:1-12)
     - Comfort regarding those who have died (4:12-18)
     - Christ's return is a motive for godly living (5:1-11)
-1. Closing blessings, thanks, and prayers (5:12-22)
+1. Closing blessings, thanks, and prayers (5:12-28)
 
 #### Who wrote 1 Thessalonians? ####
 
@@ -40,11 +41,11 @@ Paul wrote a lot in this letter about Jesus' eventual return to Earth. When Jesu
 
 #### What happens to those who die before the return of Christ? ####
 
-Paul made clear that those who die before Christ's return will come back to life and be with Jesus. They will not remain dead forever. Paul wrote this to encourage those who worried that those who died would miss the great day when Jesus returns.
+Paul made clear that those who die before Christ's return will come back to life and be with Jesus. They will not remain dead forever. Paul wrote this to encourage the Thessalonians. For some of them worried that those who died would miss the great day when Jesus returns.
 
 ## Part 3: Important Translation Issues ##
 
-#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by expressions like "in Christ" and "in the Lord."? ####
 
 Paul meant to express the idea of very a close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
