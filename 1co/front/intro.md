@@ -19,13 +19,13 @@
 
 #### Who wrote the Book of 1 Corinthians? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus. 
+Paul wrote 1 Corinthians. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus. 
 
 Paul started the church that met in Corinth. He was staying in the city of Ephesus when he wrote this letter.
 
 #### What is the Book of 1 Corinthians about? ####
 
-1 Corinthians is a letter that Paul wrote to the believers in the city of Corinth. Paul had heard that there were problems among the believers. They were arguing with each other. Some of them did not understand some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleases God.
+1 Corinthians is a letter that Paul wrote to the believers who were in the city of Corinth. Paul had heard that there were problems among the believers there. They were arguing with each other. Some of them did not understand some of the Christian teachings. And some of them were behaving badly. In this letter, Paul responded to them and encouraged them to live in a way that pleased God.
 
 #### How should the title of this book be translated? ####
 
@@ -35,11 +35,11 @@ Translators may choose to call this book by its traditional title, "First Corint
 
 #### What was the city of Corinth like? ####
 
-Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many travelers and traders came to buy and sell goods there. This caused the city to have people from many different cultures. The city was famous for having people who lived in immoral ways. The people worshipped Aphrodite, the goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
+Corinth was a major city located in ancient Greece. Because it was near the Mediterranean Sea, many travelers and traders came to buy and sell goods there. This resulted in the city having people from many different cultures. The city was famous for having people who lived in immoral ways. The people worshipped Aphrodite, the Greek goddess of love. As part of the ceremonies honoring Aphrodite, her worshipers had sexual intercourse with temple prostitutes.
 
 #### What was the problem with meat sacrificed to idols? ####
 
-Many animals were slaughtered and sacrificed to the gods in Corinth. Priests and worshipers kept some of the meat. And much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
+Many animals were slaughtered and sacrificed to the false gods in Corinth. Priests and worshipers kept some of the meat. Much of the meat was sold in markets. Many Christians disagreed with each other over whether it was right for them to eat this meat, because it had been dedicated to a false god. Paul writes about this problem in 1 Corinthians.
 
 ## Part 3: Important Translation Issues ##
 
@@ -55,7 +55,7 @@ The UDB will often be helpful as translators think about how to represent these 
 
 #### What is the meaning of "flesh?" ####
 
-Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. However, it is not the physical world which is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. However, it is not the physical world that is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
