@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the words of 15:16-17 that are quoted from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 15:16-17.
 
 The events of this chapter are commonly called the "Jerusalem Council." This was a time when many church leaders got together to discuss the relationship between the Gentiles and the law of Moses. The council affirmed that Gentiles did not need to follow the law. In fact, no one within the church should follow this law. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 

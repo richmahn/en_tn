@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations from the Old Testament. The ULB and many other English translations indent the words in 23:5 that are quoted from the Old Testament.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 23:5.
 
 #### Special concepts in this chapter ####
 
