@@ -19,26 +19,27 @@
 
 #### What is the Book of Jonah about? ####
 
-The Book of Jonah is a narrative about the prophet. Its purpose is to show that Yahweh wants to include the Gentiles in his mercy and grace. It presents the Ninevites' willingness to repent of their sin and to call out to Yahweh for mercy. (See: [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/grace]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
+This book is a narrative about the prophet Jonah. The purpose of this book is to tell how God showed mercy and grace to Gentiles.
+It also tells how the Ninevites were willing to repent and to call out to Yahweh for mercy. (See: [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/grace]], and [[rc://en/tw/dict/bible/kt/repent]])
 
-Jonah was given a mission to warn the people of Nineveh and call them to repentance. As a loyal Israelite, Jonah refused the mission and ran away. 
+God sent Jonah to warn the people of Nineveh that he was about to punish them. God said that if they would repent he would not harm them. However, Jonah was an Israeite and he did not want God to forgive the Ninevites. So, he tried to sail away in the opposite direction instead of doing what God told him to do. But, God stopped him by sending a large fish to swallow him. 
 
-In the final part of the book, it becomes clear that Jonah had no wish for the Ninevites to repent, because they were Israel's enemies. As a result, God teaches him a lesson about his love for all human beings, not just the Israelites.
+Eventually, Jonah repented and went to warn the Ninevites. As a result, God taught him a lesson about his love for all human beings, not just the Israelites.
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
-Translators may decide to translate this traditional title "The Book of Jonah" in a way that is more clear to the readers. They may decide to call it, "The Book about Jonah." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may decide to translate this traditional title "The Book of Jonah" in a way that is clearer to the readers. They may decide to call it, "The Book about Jonah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Jonah? ####
 
-The author of the Book of Jonah is unknown. The prophet Jonah lived in the northern kingdom of Israel in the 8th century BC, during the reign of King Jeroboam II. 
+The author of the Book of Jonah is unknown. The prophet Jonah lived in the northern kingdom of Israel. He prophecied sometime between 800-750 B.C., during the reign of King Jeroboam II.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was the nation of Assyria? ####
 
-During the time of Jonah, Assyria was the most powerful kingdom in the ancient Near East. It was known for its cruelty to its enemies. Eventually, God punished Assyria for its sin.
+During the time of Jonah, Assyria was the most powerful kingdom in the ancient Near East. It was known for its cruelty to its enemies. Eventually, God punished the Assyrians for the wicked things they did.
 
 #### Did Assyria convert to Judaism? ####
 
-While it is possible that the Assyrians came to worship Yahweh alone, it is likely that they continued to worship other gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Some scholars think that the Assyrians started worshipping Yahweh alone. However, most scholars think they continued to worship other false gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
