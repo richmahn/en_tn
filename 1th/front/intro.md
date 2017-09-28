@@ -19,7 +19,7 @@
 
 #### Who wrote 1 Thessalonians? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote 1 Thessalonians. Paul from the city of Tarsus.. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 Paul wrote this letter while staying in the city of Corinth. Of all Paul's letters that are in the Bible, many scholars think 1 Thessalonians was the first letter Paul wrote.
 
@@ -27,7 +27,7 @@ Paul wrote this letter while staying in the city of Corinth. Of all Paul's lette
 
 Paul wrote this letter to the believers in the city of Thessalonica. He wrote it after the Jews in the city forced him to leave. In this letter he said he considered his visit to them a success, even though he was forced to leave.
 
-Paul also responded to the news that Timothy told him about the Thessalonian believers. The believers there were being persecuted. He wanted to encourage them to continue living in a way that pleases God. And he comforted them by explaining what happens to those who die before Christ returns.
+Paul responded to the news from Timothy about the Thessalonian believers. The believers there were being persecuted. He encouraged them to continue living in a way that pleased God. He also comforted them by explaining what happens to those who die before Christ returns.
 
 #### How should the title of this book be translated? ####
 
@@ -37,7 +37,7 @@ Translators may choose to call this book by its traditional title, "1 Thessaloni
 
 #### What is the "second coming" of Jesus? ####
 
-Paul wrote a lot in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation as king. And he will cause there to be peace everywhere.
+Paul wrote much in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation, and there will be peace everywhere.
 
 #### What happens to those who die before the return of Christ? ####
 
@@ -47,15 +47,15 @@ Paul made clear that those who die before Christ's return will come back to life
 
 #### What did Paul mean by expressions like "in Christ" and "in the Lord."? ####
 
-Paul meant to express the idea of very a close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+Paul meant to express the idea of a very a close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of 1 Thessalonians? ####
 
 The following are the most significant textual issues in 1 Thessalonians:
 
-* "May grace and peace be to you." (1:1) The ULB, UDB, and most other modern versions have this reading. Some older versions have the reading: "Grace and peace to you from God our Father and the Lord Jesus Christ."
-* "Instead, we were as gentle among you as a mother comforting her own children." (2:7) The ULB, UDB, and many other modern versions have this reading. Other modern versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
-* "Timothy, our brother and fellow worker for God." (3:2) The ULB, UDB, and many other modern versions have this reading. Some other versions have the reading: "Timothy, our brother and servant of God."
+* "May grace and peace be to you." (1:1) The ULB, UDB, and most other modern versions read this way. Some older versions read: "Grace and peace to you from God our Father and the Lord Jesus Christ."
+* "Instead, we were as gentle among you as a mother comforting her own children." (2:7) The ULB, UDB, and many other modern versions read this way. Other modern versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
+* "Timothy, our brother and fellow worker for God." (3:2) The ULB, UDB, and many other modern versions read this way. Some other versions read: "Timothy, our brother and servant of God."
 
  
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
