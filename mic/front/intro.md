@@ -24,12 +24,13 @@
 
 #### What is the Book of Micah about? ####
 
-This book contains many of Micah's prophecies. Micah repeated many similar prophecies as found in Isaiah.  Micah warned the kingdom of Israel and the kingdom of Judah that the Assyrians would soon attack them. Micah condemned those who were unjust and immoral. He spoke agaisnt those who did not work for a living. He also spoke against the false prophets in Israel and Judah. These false prophets were telling the people that Yahweh would never let a foreign kingdom harm or conquer them.
+This book contains many of Micah's prophecies. Micah repeated many similar prophecies as found in Isaiah.  Micah warned the kingdom of Israel and the kingdom of Judah that the Assyrians would soon attack them. Micah condemned those who were unjust and immoral. He spoke against those who did not work for a living. He also spoke against the false prophets in Israel and Judah. These false prophets were telling the people that Yahweh would never let a foreign kingdom harm or conquer them.
  
-Micah called the the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countryment proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/unjust]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
+Micah called the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countrymen proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/unjust]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
 
-#### How should the title of this book be translated? #### 
-Translators may decided to translate the traditional title "The Book of Micah" in a way that is clearer to the readers. They may decide to call it, "The Sayings of Micah." (See: [[rc://en/ta/man/translate/translate-names]])
+#### How should the title of this book be translated? ####
+
+Translators may decide to translate the traditional title "The Book of Micah" in a way that is clearer to the readers. They may decide to call it, "The Sayings of Micah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote Micah? ####
 
