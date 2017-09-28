@@ -4,7 +4,7 @@
 
 This chapter explains how the book is a recording of the vision John received on the island of Patmos. 
 
-Some translations set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 1:7, which is a quotation from the Old Testament.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 1:7.
 
 #### Special concepts in this chapter ####
 

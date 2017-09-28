@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart the sayings of the four living creatures ([Revelation 4:8](./07.md)) and the twenty-four elders ([Revelation 4:11](./09.md)). This is typically done through the use of indentation. 
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 4:8, 11.
 
 This chapter begins the remainder of the book of Revelation and it is markedly different than the first three chapters. It now describes an unfolding image John sees in his vision. 
 

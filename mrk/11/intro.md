@@ -2,7 +2,7 @@
 
 #### Structure and Format ####
 
-Some translations prefer to set apart quotations from the Old Testament by indenting them. The ULB and many other English translations indent some of the words of 11:9-10, 17, which are quoted from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 11:9-10, 17.
 
 #### Special concepts in this chapter ####
 

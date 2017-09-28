@@ -4,7 +4,7 @@
 
 The building of the wall is completed in this chapter. 
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 6:6-7, which is an extended quotation.
+The ULB indents the lines in 6:6-7 because they are part of a long quotation.
 
 #### Special concepts in this chapter ####
 

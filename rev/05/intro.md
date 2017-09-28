@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart the songs in [Revelation 5:9-10](./09.md), [Revelation 5:12](./11.md) and [Revelation 5:13](./13.md). This is typically done through the use of indentation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 4:8, 11.
 
 #### Special concepts in this chapter ####
 

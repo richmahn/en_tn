@@ -2,7 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 15:9-12, 20, which are quotations from the Old Testament. Many of these quotations are used to prove that God has always had a plan for the salvation of the Gentile peoples. (See: [[rc://en/tw/dict/bible/kt/save]])
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 15:9-11, 21. All of these lines are quoted from the OT.
+
+Some translations indent prose quotations from the Old Testament. The ULB does this with the quoted material in 15:12.
 
 Romans [Romans 15:14](./14.md) marks a shift in the material of the book overall. Paul begins to speak much more personally. This serves a specific function in the letter overall, marking the end of his instruction and beginning a personal greeting.
 

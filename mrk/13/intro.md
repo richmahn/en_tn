@@ -2,7 +2,7 @@
 
 #### Structure and format ####
 
-Some translations set apart quotations of the Old Testament by indenting them. The ULB and other English translations indent the words in 13:24-25 that are quoted from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 13:24-25, which is quoted from the OT.
 
 There is a large section in this chapter which explains the circumstances surrounding the return of Christ (see: [Mark 13:6-37](./05.md)). It would have been natural for people to worry about this event happening because of the judgment associated with it. Jesus assures them that the time of judgment has not yet come. 
 

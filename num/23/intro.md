@@ -3,7 +3,7 @@
 #### Structure and formatting ####
 The story of Balaam continues in this chapter. 
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 23:7-10 and 18-24, which are quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 23:7-10, 18-24.
 
 #### Special concepts in this chapter ####
 

@@ -1,7 +1,8 @@
 # Numbers 34 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 34:19-28, which are a list.
+
+The ULB indents the lines in 34:19-28 because they are long lists.
 
 #### Special concepts in this chapter ####
 ##### The boundaries #####

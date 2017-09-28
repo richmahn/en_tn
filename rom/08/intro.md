@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 8:36, which is a quotation from the Old Testament.
-
 The first verse of this chapter forms a transitional sentence. It concludes the teaching of chapter 7 and anticipates the material of chapter 8.
+
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 8:36. All of these lines are quoted from the OT.
 
 #### Special concepts in this chapter ####
 

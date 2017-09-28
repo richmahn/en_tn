@@ -4,7 +4,7 @@
 
 This chapter forms the conclusion of a major section of the book of Revelation, ending the period of wrath or great judgment by God. (See: [[rc://en/tw/dict/bible/kt/judge]])
 
-Some translations set apart quotations. The ULB and many other English translations indent the lines of 16:5-7, which are quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 16:5-7.
 
 #### Special concepts in this chapter ####
 

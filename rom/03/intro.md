@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 3:4, 10-18, which are quotations from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 3:4, 10-18, which is quoted from the OT.
 
 Chapter 2 explained that all Jews are condemned because they violated the law of Moses and that Gentiles could be saved. Chapter 3 answers the question: what advantage does being a Jew have over being a Gentile? (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/save]])
 

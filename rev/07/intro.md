@@ -4,7 +4,7 @@
 
 Many scholars believe the first half of this chapter is about a great revival among the Israelites, in which 144,000 people will come to believe in Jesus. The second half of this chapter tells about a great revival among the Gentiles, in which countless Gentiles will come to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-The ULB has set apart 7:5-8 and 7:15-17 through the use of indentation. These passages are extended prophecies. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 7:5-8, 15-17.
 
 #### Special concepts in this chapter ####
 

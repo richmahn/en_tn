@@ -4,7 +4,7 @@
 
 Chapter 19 will continue the material contained in this chapter and both should be seen as a single unit.
 
-Some translations set apart quotations. The first eight verses are a long quotation that is set apart through the use of indentation in the ULB. 
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 19:1-8.
 
 #### Special concepts in this chapter ####
 

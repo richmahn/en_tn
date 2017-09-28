@@ -4,7 +4,7 @@
 
 This chapter is written in prose mainly with imagery used throughout to portray Zechariah's vision given by the Lord. 
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 1:3-6, 14-17, which are extended quotations.
+Some translations prefer to set apart quotations. The ULB and many other English translations indent lines 1:3-6, 14-17, which are extended quotations.
 
 #### Special concepts in this chapter ####
 

@@ -4,7 +4,7 @@
 
 The events and pictures described in this chapter occur in heaven.
 
-Some translations set apart quotations. The ULB and many other English translations indent the lines of 15:3-4, which is a quotation of the song the angels were singing.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 15:3-4.
 
 #### Special concepts in this chapter ####
 

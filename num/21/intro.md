@@ -1,7 +1,8 @@
 # Numbers 21 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 21:14-15, 17-18, 27-30, which are important quotations.
+
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 21:14-15, 17-18, 27-30.
 
 #### Special concepts in this chapter ####
 

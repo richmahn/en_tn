@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or lists. The ULB and many other English translations indent the lines of 1:5-15, which is an extended list.
+The ULB indents the lines in 1:5-15 because they are long lists.
 
 ##### Census #####
 

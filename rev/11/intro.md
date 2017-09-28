@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations. The lines of 11:15, 17-18, which are extended quotations, are indented in the ULB and many other English translations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 11:15, 17-18.
 
 ##### Woe #####
 

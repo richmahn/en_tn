@@ -4,7 +4,7 @@
 
 Chapters 2 and 3 together form a single unit. This section is usually referred to as the "seven letters to the seven churches." The translator may wish to set these letters apart from each other to clearly distinguish them. 
 
-Some translations set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 2:27, which is a quotation from the Old Testament.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:27.
 
 #### Special concepts in this chapter ####
 
