@@ -26,19 +26,19 @@ Translators may decide to translate this traditional title "The Book of Habakkuk
 
 #### Who wrote Habakkuk? ####
 
-Nothing is known about Habakkuk, from whom this message came. The Chaldean empire, another name for the Babylonian empire, was mentioned in several places in Habakkuk, helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 BC. It is probable that Habakkuk worked about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
+Very little is known about Habakkuk. The Chaldean empire, another name for the Babylonian empire, was mentioned in several places in Habakkuk. This helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 BC. It is probable that Habakkuk worked about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why did God use an evil nation to punish Judah? ####
 
-Habakkuk wanted to know why God used an evil nation to punish Judah. In the book it is explained that everyone who does evil must be punished. However, it is God who determines when and how to punish the person.
+Habakkuk wanted to know why God used an evil nation to punish Judah. In this book it is explained that everyone who does evil must be punished. However, it is God who determines when and how to punish the person.
 
 ## Part 3: Important Translation Issues ##
 
 #### How do I identify the speaker? ####
 
-It should be noted that Habakkuk often spoke to Yahweh, and Yahweh replied to him. The translator should be careful to identify whether the speaker is Habakkuk or Yahweh in each section. The translator may wish to make the identity of the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
+It should be noted that Habakkuk often spoke to Yahweh and Yahweh replied to him. The translator should be careful to identify whether the speaker is Habakkuk or Yahweh in each section. The translator may wish to make the identity of the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### What style of writing is the Book of Habakkuk? ####
 
