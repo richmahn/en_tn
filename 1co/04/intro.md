@@ -1,9 +1,5 @@
 # 1 Corinthians 04 General Notes #
 
-#### Structure and formatting ####
-
-Some translations indent sayings to show that the author is quoting them. The ULB does this with the saying that Paul quotes in 4:6.
-
 #### Special concepts in this chapter ####
 
 ##### Pride #####

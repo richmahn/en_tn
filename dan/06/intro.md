@@ -2,7 +2,11 @@
 
 #### Structure and formatting ####
 
-Some translations set apart extended quotations, prayers, or songs. The ULB and many other English translations indent all of what King Darius wrote to the people in 6:25-27. Some of what Darius wrote was poetry, so some translations also use the indentation to show that.
+
+Some translations indent the content of letters. The ULB does this with the the letter in 6:25-27.
+
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the the poetry in the letter in 6:26-27.
+
 
 #### Special concepts in this chapter ####
 ##### Daniel and the lions #####

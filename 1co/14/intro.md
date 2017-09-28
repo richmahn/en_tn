@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 14:21.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 14:21. The ULB also indents each line of poetry in the quotation.
 
 Paul returns to his discussion on the  gifts of the Holy Spirit.
 

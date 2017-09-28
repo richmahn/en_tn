@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of chapter 4, which is an extended quotation. Some lines are indented twice to further set them apart. 
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the the poetry in 4:1-3, 4:5-6, and 4:8-12.
 
 #### Important figures of speech in this chapter ####
 
