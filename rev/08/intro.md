@@ -8,7 +8,7 @@ There is disagreement over how these seals are attached to the scroll. It would 
 #### Important figures of speech in this chapter ####
 
 ##### Passive voice #####
-The passive voice is frequently used in this chapter to hide the identity of the the subject performing the action. This will be difficult to convey if the translator's language does not have a passive voice. (See: [[rc://en/ta/man/translate/figs-activepassive]])
+The passive voice is frequently used in this chapter to hide the identity of the subject performing the action. This will be difficult to convey if the translator's language does not have a passive voice. (See: [[rc://en/ta/man/translate/figs-activepassive]])
 
 ##### Similes #####
 The author uses many different similes. This is because he is attempting to describe the image he sees in the vision. Therefore, he compares the images in this vision to everyday things. (See: [[rc://en/ta/man/translate/figs-simile]]) 

@@ -12,7 +12,7 @@ The prophecy in 9:1-7 is about the coming messiah. Parts of this prophecy were f
 #### Other possible translation difficulties in this chapter ####
 
 ##### Fulfillment of prophecies #####
-Some of the the prophecies in this chapter were fulfilled in Isaiah's lifetime while others are fulfilled in the distant future. Some scholars believe that there can be multiple fulfillments of each of these prophecies, while others see only one complete fulfillment. 
+Some of the prophecies in this chapter were fulfilled in Isaiah's lifetime while others are fulfilled in the distant future. Some scholars believe that there can be multiple fulfillments of each of these prophecies, while others see only one complete fulfillment. 
 
 ## Links: ##
 

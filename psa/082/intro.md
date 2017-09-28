@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 82 is a psalm of judgment against the the leaders of the other nations. (See: [[rc://en/tw/dict/bible/kt/judge]])
+Psalm 82 is a psalm of judgment against the leaders of the other nations. (See: [[rc://en/tw/dict/bible/kt/judge]])
 
 #### Special concepts in this chapter ####
 
