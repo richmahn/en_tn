@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations, poems or songs. The ULB and many other English translations indent the prayer that David sang in 22:2-51.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 22:2-51.
 
 #### Special concepts in this chapter ####
 

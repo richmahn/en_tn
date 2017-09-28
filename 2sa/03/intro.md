@@ -4,7 +4,7 @@
 
 This chapter records the first attempt to end the civil war.
 
-Some translations set apart quotations, songs and poems. The ULB and many other English translations indent the song in 3:33-34.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 3:33-34.
 
 #### Special concepts in this chapter ####
 

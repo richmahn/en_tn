@@ -6,7 +6,7 @@ This chapter records an event, commonly known as the "Ascension," when Jesus ret
 
 Following other translations, the UDB has chosen to set the salutation ("Dear Theophilus") apart. This follows the style of a letter, but it may be approached differently to follow a similar practice in the translator's culture. 
 
-Some translations apart quotations from the Old Testament. The ULB and many other English translations indent the words in 1:20 that Peter quoted from the Book of Psalms.
+Some translations indent quotations from the Old Testament. The ULB does this with the two quotes from Psalms in 1:20. 
 
 #### Special concepts in this chapter ####
 

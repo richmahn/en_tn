@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Many translations set apart extended quotations, prayers, or songs by indenting them. The ULB indents words in 2:11-13 because they are the "trustworthy saying."
+Some translations indent sayings to show that the author is quoting them. The ULB does this with the saying that Paul quotes in 2:11-13.
 
 #### Special concepts in this chapter ####
 

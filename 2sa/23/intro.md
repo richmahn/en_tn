@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations set apart quotations, poems or songs. The ULB and many other English translations indent David's psalm in 23:2-7.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the the poetry in 23:2-7.
 
-23:8-39 is a list of the famous people in David's army along with some of the special deeds some of them did. (See: [[rc://en/tw/dict/bible/kt/works]])
+2 Samuel 23:8-39 is a list of the famous people in David's army along with some of the special deeds some of them did. (See: [[rc://en/tw/dict/bible/kt/works]])
 
 #### Special concepts in this chapter ####
 
