@@ -27,9 +27,10 @@ It is probable that Nahum wrote this book. He was a prophet from Elkosh, an unkn
 
 #### What is the importance of the descriptions of locusts in 3:15–17? ####
 
-Locust attacks occurred often in the ancient Near East. Certain kinds of grasshoppers would come in countless numbers, darkening the sky like a black cloud that blotted out the sunlight. They often came after a prolonged period without rain. They came down on whatever crops were surviving in the fields and stripped them bare of their leaves. The locusts were unstoppable and caused terrible damage. For this reason locust attacks served as a very powerful image of military attacks in the Old Testament.
+Locust attacks occurred often in the ancient Near East. Certain kinds of grasshoppers would come in countless numbers. There would be so many that they would darken the sky like a black cloud that blocked the sunlight. They often came after a prolonged period without rain. They came down on whatever crops were surviving in the fields and stripped them bare of their leaves. The locusts were unstoppable and caused terrible damage. For this reason locust attacks served as a very powerful image of military attacks in the Old Testament.
 
 There are various names for locusts in the original language of the Old Testament. It is uncertain whether these refer to different kinds of locusts or to the same kind of locust in different stages of growth. For this reason, versions of the Bible differ in how they translate these terms.
+
 ## Part 3: Important Translation Issues ##
 
 #### What emotions were present in the various speakers in the Book of Nahum? ####
