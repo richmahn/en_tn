@@ -65,7 +65,7 @@ Please see the introduction to the Book of Romans for more details about this ki
  
 #### What are the major issues in the text of the Book of 1 Corinthians? ####
 
-The following are the most significant textual issues in the 1 Corinthians:
+The following are the most significant textual issues in 1 Corinthians:
 
 * "and in your spirit, which are God's." (6:20) Some older versions read in this way, although the best copies do not have this reading. 
 * "I did this even though I myself was not under the law." (9:20) The ULB and UDB read in this way. However, some older versions leave this passage out.
