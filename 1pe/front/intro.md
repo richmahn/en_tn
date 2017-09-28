@@ -18,7 +18,7 @@ The Book of 1 Peter was written by the Apostle Peter. He wrote the letter to Gen
 #### What is the Book of 1 Peter about? ####
 
 Peter stated that he wrote this letter for the purpose of "encouraging you and testifying that this is the true grace of God" (5:12). 
-He encouraged Christians to continue obeying God even when they are suffering. He told them to do this because Jesus will return soon. Peter also gave instructions about Christians submitting to those in authority.
+He encouraged Christians to continue obeying God even when they are suffering. He told them to do this because Jesus will return soon. Peter also gave instructions about Christians submitting to persons in authority.
 
 #### How should the title of this book be translated? ####
 
@@ -28,19 +28,19 @@ Translators may choose to call this book by its traditional title "1 Peter" or "
 
 #### How were Christians treated in Rome? ####
 
-This letter was probably written from Rome. He gave Rome the symbolic name of "Babylon" (5:13). It appears that when Peter wrote this letter, Romans were badly persecuting Christians.
+Peter probably was in Rome when he wrote this letter. He gave Rome the symbolic name of "Babylon" (5:13). It appears that when Peter wrote this letter, Romans were badly persecuting Christians.
 
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
-In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to the believers in the dispersion. (See: [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to Peter's audience. (See: [[rc://en/ta/man/translate/figs-you]])
 
 #### What are the major issues in the text of the Book of 1 Peter? ####
 
-The following are the most significant textual issues in the Book of 1 Peter:
+Theses are the most significant textual issues in the Book of 1 Peter:
 
-* "You made your souls pure by obedience to the truth. This was for the purpose of sincere brotherly love; so love one another earnestly from the heart" (1:22). The ULB, UDB, and most other modern versions have this reading. Some older versions have, "You made your souls pure by obedience to the truth through the Spirit for the purpose of sincere brotherly love, so love one another earnestly from the heart."
+* "You made your souls pure by obedience to the truth. This was for the purpose of sincere brotherly love; so love one another earnestly from the heart" (1:22). The ULB, UDB, and most other modern versions read this way. Some older versions read, "You made your souls pure by obedience to the truth through the Spirit for the purpose of sincere brotherly love, so love one another earnestly from the heart."
 
-Translators are advised not to translate the expression "through the Spirit." However, if older Bible versions that exist in their region have it, translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of 1 Peter.
+Translators are advised not to include the expression "through the Spirit," in 1:22. However, if older Bible versions in their region have it, translators can include it. If it is included, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of 1 Peter.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
