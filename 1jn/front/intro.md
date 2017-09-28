@@ -11,11 +11,11 @@
 
 #### Who wrote the Book of 1 John? ####
 
-This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that the Apostle John was the author. John was one of Jesus' disciples. He was also the author of the Gospel of John.
+This book does not name the author. However, since early Christian times, most Christians have thought that the Apostle John was the author. He was also wrote of the Gospel of John.
 
 #### What is the Book of 1 John about? ####
 
-John wrote this letter to Christians at a time when a certain group of people was troubling them. This group of people denied some of the things that the apostles taught were true about God and Jesus. John wrote this letter because he wanted to prevent believers from sinning. He wanted to protect believers from false teachings. And he wanted to assure believers that they were saved.
+John wrote this letter to Christians at a time when false teachers were troubling them. John wrote this letter because he wanted to prevent believers from sinning. He wanted to protect believers from false teachings. And he wanted to assure believers that they were saved.
 
 #### How should the title of this book be translated? ####
 
@@ -25,15 +25,15 @@ Translators may choose to call this book by its traditional title, "1 John" or "
 
 #### Who were the people that John spoke against? ####
 
-It is possible that the people John spoke against were those who would eventually become known as Gnostics. These people believed that the physical world was evil. Since they believed Jeses was divine, they denied that he was truly human. This is because they thought God would not become human since the physical body is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
+The people John spoke against were possibly those who would become known as Gnostics. These people believed that the physical world was evil. Since they believed Jesus was divine, they denied that he was truly human. This is because they thought God would not become human since the physical body is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
 #### What do the words "remain," "reside," and "abide" mean in 1 John? ####
 
-John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. And, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
+John often used the words "remain," "reside," and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. Also, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
 
-Many translators will find it impossible to represent these ideas in their languages in exactly the same way. For example, John intended to express the idea of the Christian being spiritually together with God when he said, "He who says he remains in God" (1 John 2:6). The UDB says, "If we say that we are in union with God," but translators will often have to find other expressions that communicate well. 
+Many translators will find it impossible to represent these ideas in their languages in exactly the same way. For example, John intended to express the idea of the Christian being spiritually together with God when he said, "He who says he remains in God" (1 John 2:6). The UDB says, "If we say that we are in union with God," but translators will often have to find other expressions that communicate these ideas well. 
 
 In the passage, "the word of God remains in you" (1 John 2:13), the UDB expresses this idea as, "you continue to obey what God commands." Many translators will find it possible to use this translation as a model.
 
@@ -41,10 +41,10 @@ In the passage, "the word of God remains in you" (1 John 2:13), the UDB expresse
 
 The following are the most significant textual issues in 1 John:
 
-* "And we are writing these things to you so that our joy may be complete." (1:4) The ULB, UDB, and most modern versions have this reading. Some older versions have, "And we are writing these things to you so that your joy may be complete."
-* "And you all know the truth." (2:20) The ULB, UDB, and most modern versions have either this reading or the following reading: "And you all have knowledge." Some older versions have, "and you know all things."
-* "and this is what we are!" (3:1). The ULB, UDB, and most modern versions have this reading. Some older manuscripts omit this phrase.
+* "And we are writing these things to you so that our joy may be complete." (1:4) The ULB, UDB, and most modern versions read this way. Some older versions have, "And we are writing these things to you so that your joy may be complete."
+* "And you all know the truth." (2:20) The ULB, UDB, and most modern versions read either this way or as follows: "And you all have knowledge." Some older versions have, "and you know all things."
+* "and this is what we are!" (3:1). The ULB, UDB, and most modern versions read this way. Some older manuscripts omit this phrase.
 * "and every spirit that does not acknowledge Jesus is not from God." (4:3) The ULB, UDB, and most modern versions have this reading. Some older manuscripts read, "and every spirit that does not acknowledge that Jesus has come in the flesh is not of God."
-* "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." (5:7-8). The ULB, UDB, and most other versions do not have this reading. Translators are advised to translate this as ULB does. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it was probably not original to 1 John. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." (5:7-8). The ULB, UDB, and most other versions do not read this way. Translators are advised to translate this as ULB does. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is included, it should be put inside square brackets ([]) to indicate that it was probably not in the original version of 1 John. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
