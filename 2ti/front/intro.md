@@ -21,17 +21,17 @@ Paul had left Timothy in the city of Ephesus to help the believers there. Paul w
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "2 Timothy" or "Second Timothy." They may instead prefer to choose a clearer title, such as "Paul's Second Letter to Timothy" or "The Second Letter to Timothy." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title, "2 Timothy" or "Second Timothy." Or they may choose a clearer title, such as "Paul's Second Letter to Timothy" or "The Second Letter to Timothy." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What is the soldier imagery in 2 Timothy? ####
 
-As Paul waited in prison, knowing he would die soon, he often spoke of himself as a soldier of Jesus Christ. Soldiers answer to their leaders. In the same way, Christians answer to Jesus. As "soldiers" of Christ, believers are to obey his commands, even if they should die as a result.
+As Paul waited in prison, knowing he would die soon, he often spoke of himself as a soldier of Jesus Christ. Soldiers answer to their leaders. In the same way, Christians answer to Jesus. As "soldiers" of Christ, believers are to obey his commands, even if they die as a result.
 
 #### What does it mean that God inspired Scripture? ####
 
-God is the true author of Scripture. He inspired the human authors who wrote the books. That means he in some way caused the people to write what they did. This is why it is also referred to as God's word. This implies several things about the Bible. First, the Bible is free from error and can be trusted. Second, we can rely on God to protect the scripture from those who want to distort it or destroy it. Third, God's word should be translated into all the world's languages.
+God is the true author of Scripture. He inspired the human authors who wrote the books. That means God in some way caused the people to write what they wrote. This is why it is also referred to as God's word. This implies several things about the Bible. First, the Bible is free from error and can be trusted. Second, we can rely on God to protect the scripture from those who want to distort it or destroy it. Third, God's word should be translated into all the world's languages.
 
 ## Part 3: Important Translation Issues ##
 
@@ -47,7 +47,7 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 The following are the most significant textual issues in the Book of 2 Timothy:
 
-* "Because of this, I was appointed a preacher, an apostle, and a teacher" (1:11). The ULB, UDB, and most modern versions have this reading. There are some older versions, however, that read, "Because of this, I was appointed a preacher, an apostle, and a teacher to the Gentiles."
-* "Warn them before God" (2:14). The ULB, UDB, and many modern versions have this reading. There are some versions that read, "Warn them before the Lord." Translators should consider using the same reading as in the other versions in their region.
+* "Because of this, I was appointed a preacher, an apostle, and a teacher" (1:11). The ULB, UDB, and most modern versions read this way. There are some older versions, however, that read, "Because of this, I was appointed a preacher, an apostle, and a teacher to the Gentiles."
+* "Warn them before God" (2:14). The ULB, UDB, and many modern versions read this way. There are some versions that read, "Warn them before the Lord." Translators should consider using the same reading as in the other versions in their region.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
