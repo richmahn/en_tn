@@ -5,7 +5,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_01-GEN_v8.pdf'
   -
@@ -14,7 +14,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_02-EXO_v8.pdf'
 
@@ -24,7 +24,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_03-LEV_v8.pdf'
 
@@ -34,7 +34,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_04-NUM_v8.pdf'
 
@@ -44,7 +44,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_05-DEU_v8.pdf'
 
@@ -54,7 +54,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_06-JOS_v8.pdf'
 
@@ -64,7 +64,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_07-JDG_v8.pdf'
 
@@ -74,7 +74,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_08-RUT_v8.pdf'
 
@@ -84,7 +84,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_09-1SA_v8.pdf'
 
@@ -94,7 +94,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_10-2SA_v8.pdf'
 
@@ -104,7 +104,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_11-1KI_v8.pdf'
 
@@ -114,7 +114,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_12-2KI_v8.pdf'
 
@@ -124,7 +124,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_13-1CH_v8.pdf'
 
@@ -134,7 +134,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_14-2CH_v8.pdf'
 
@@ -144,7 +144,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_15-EZR_v8.pdf'
 
@@ -154,7 +154,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_16-NEH_v8.pdf'
 
@@ -164,7 +164,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_17-EST_v8.pdf'
 
@@ -174,7 +174,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_18-JOB_v8.pdf'
 
@@ -184,7 +184,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_19-PSA_v8.pdf'
 
@@ -194,7 +194,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_20-PRO_v8.pdf'
 
@@ -204,7 +204,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_21-ECC_v8.pdf'
 
@@ -214,7 +214,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_22-SNG_v8.pdf'
 
@@ -224,7 +224,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_23-ISA_v8.pdf'
 
@@ -234,7 +234,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_24-JER_v8.pdf'
 
@@ -244,7 +244,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_25-LAM_v8.pdf'
 
@@ -254,7 +254,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_26-EZK_v8.pdf'
 
@@ -264,7 +264,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_27-DAN_v8.pdf'
 
@@ -274,7 +274,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_28-HOS_v8.pdf'
 
@@ -284,7 +284,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_29-JOL_v8.pdf'
 
@@ -294,7 +294,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_30-AMO_v8.pdf'
 
@@ -304,7 +304,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_31-OBA_v8.pdf'
 
@@ -314,7 +314,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_32-JON_v8.pdf'
 
@@ -324,7 +324,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_33-MIC_v8.pdf'
 
@@ -334,7 +334,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_34-NAM_v8.pdf'
 
@@ -344,7 +344,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_35-HAB_v8.pdf'
 
@@ -354,7 +354,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_36-ZEP_v8.pdf'
 
@@ -364,7 +364,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_37-HAG_v8.pdf'
 
@@ -374,7 +374,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_38-ZEC_v8.pdf'
 
@@ -384,7 +384,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_39-MAL_v8.pdf'
 
@@ -394,7 +394,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_41-MAT_v8.pdf'
 
@@ -404,13 +404,13 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_42-MRK_v8.pdf'
 
   -
     identifier: 'luk'
-    version: '8'
+    version: '1'
     media:
       -
        identifier: 'pdf'
@@ -424,7 +424,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_44-JHN_v8.pdf'
 
@@ -434,7 +434,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_45-ACT_v8.pdf'
 
@@ -444,7 +444,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_46-ROM_v8.pdf'
 
@@ -454,7 +454,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_47-1CO_v8.pdf'
 
@@ -464,7 +464,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_48-2CO_v8.pdf'
 
@@ -474,7 +474,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_49-GAL_v8.pdf'
 
@@ -484,7 +484,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_50-EPH_v8.pdf'
 
@@ -494,7 +494,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_51-PHP_v8.pdf'
 
@@ -504,7 +504,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_52-COL_v8.pdf'
 
@@ -514,7 +514,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_53-1TH_v8.pdf'
 
@@ -524,7 +524,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_54-2TH_v8.pdf'
 
@@ -534,7 +534,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_55-1TI_v8.pdf'
 
@@ -544,7 +544,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_56-2TI_v8.pdf'
 
@@ -554,7 +554,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_57-TIT_v8.pdf'
 
@@ -564,7 +564,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_58-PHM_v8.pdf'
 
@@ -574,7 +574,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_59-HEB_v8.pdf'
 
@@ -584,7 +584,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_60-JAS_v8.pdf'
 
@@ -594,7 +594,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_61-1PE_v8.pdf'
 
@@ -604,7 +604,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_62-2PE_v8.pdf'
 
@@ -614,7 +614,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_63-1JN_v8.pdf'
 
@@ -624,7 +624,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_64-2JN_v8.pdf'
 
@@ -634,7 +634,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_65-3JN_v8.pdf'
 
@@ -644,7 +644,7 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_66-JUD_v8.pdf'
 
@@ -654,6 +654,6 @@ projects:
     media:
       -
        identifier: 'pdf'
-       version: '8'
+       version: '1'
        contributor: []
        url: 'https://cdn.door43.org/en/tn/v8/pdf/en_tn_67-REV_v8.pdf'
