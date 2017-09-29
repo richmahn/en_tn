@@ -27,7 +27,7 @@ Translators may decide to translate this traditional title "The Book of Zephania
 
 #### Who wrote the Book of Zephaniah? ####
 
-Zephaniah is the author of this book, but there are four different individuals in the Old Testament named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah. Zephaniah lived in the city of Jerusalem and began to prophesy about seventy years after the prophets Isaiah and Micah. Zephaniah spoke Yahweh's messages during the reign of King Josiah (about 640–621 BC), and just before the prophet Jeremiah began his own work. 
+Zephaniah is the author of this book, but there are four different individuals in the Old Testament named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah. Zephaniah lived in the city of Jerusalem and began to prophesy about seventy years after the prophets Isaiah and Micah. Zephaniah spoke Yahweh's messages during the reign of King Josiah (about 640–621 B.C.), and just before the prophet Jeremiah began his own work. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
