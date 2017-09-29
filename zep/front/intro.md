@@ -17,24 +17,24 @@
 1. Judgment on Jerusalem, the city of oppressors (3:1–8)
 1. The promise that Yahweh will purify, restore, gather, and bless his people (3:9–20)
 
-=== What is the Book of Zephaniah about?===
+#### What is the Book of Zephaniah about? ####
 
-This book is about Yahweh's coming punishment on the southern kingdom, the kingdom of Judah. It is also about the future restoration of Judah in the day of the Lord (the day of Yahweh). (See: [[rc://en/tw/dict/bible/kt/dayofthelord]])
+This book contains prophecies that warn Judah and other nations that God is about to punish them on the day of Yahweh. There are also prophecies about how God will restore Judah. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]])
 
-#### How should the title of this book be translated? #### 
+#### How should the title of this book be translated? ####
 
-Translators may decide to translate this traditional title "The Book of Zephaniah" in a way that is more clear to the readers. They may decide to call it, "The sayings of Zephaniah." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may decide to translate this traditional title "The Book of Zephaniah" in a way that is clearer to the readers. They may decide to call it, "The sayings of Zephaniah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Zephaniah? ####
 
-Zephaniah is the author of this book, but there are four different individuals in the Old Testament named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah (who lived at the same time as Zephaniah). Zephaniah lived in the city of Jerusalem and began his ministry about seventy years after the prophets Isaiah and Micah. Zephaniah did his work of bringing Yahweh's messages during the reign of King Josiah (about 640–621 BC), and just before the prophet Jeremiah began his own work. 
+Zephaniah is the author of this book, but there are four different individuals in the Old Testament named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah. Zephaniah lived in the city of Jerusalem and began to prophesy about seventy years after the prophets Isaiah and Micah. Zephaniah spoke Yahweh's messages during the reign of King Josiah (about 640–621 BC), and just before the prophet Jeremiah began his own work. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What was the religious environment of Judah during Zephaniah's ministry? ####
+#### What was religion like in Judah around the time Zephaniah started his work? ####
 
-Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah; he encouraged the people to worship other gods. After his death, his son Amon ruled for only two years before he was assassinated. Amon's son Josiah became king when he was eight years old and learned to worship and honor Yahweh. It is likely that Zephaniah began his work after Josiah had destroyed most of the idols and shrines of Baal and the other false gods that the people had been worshiping. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah. He encouraged the people to worship other gods. After his death, his son Amon ruled for only two years before he was assassinated. Amon's son Josiah became king when he was eight years old and learned to worship and honor Yahweh. It is likely that Zephaniah began his work after Josiah had destroyed most of the idols and shrines of false gods in Judah. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### What country is coming to invade Judah? ####
 
-Zephaniah frequently mentions a foreign nation who will come to invade the kingdom of Judah. The name of this nation is never mentioned. Babylon is probably the nation referenced in Zephaniah.
+Zephaniah often mentioned a foreign nation that would invade the kingdom of Judah. Zephaniah probably meant the Babylon. However, the name of this nation is never mentioned.
