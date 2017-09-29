@@ -11,13 +11,13 @@
 
 #### Who wrote the Book of 2 Timothy? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote 2 Timothy. He was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-This book is the second letter Paul wrote to his disciple and close friend Timothy. Paul wrote this letter while in prison in Rome. Paul would die soon after writing this letter.
+This book is the second letter Paul wrote Timothy. Timothy was his disciple and close friend. Paul wrote this letter while in prison in Rome. Paul would die soon after writing this letter.
 
 #### What is the Book of 2 Timothy about? ####
 
-Paul wrote this letter to Timothy. Paul had left Timothy in the city of Ephesus to help the believers there. Paul wrote this letter to instruct Timothy about various matter. The topics he addressed include warnings about false teachers and enduring difficult situations. This letter also shows how Paul was training Timothy to be a leader among the churches. 
+Paul had left Timothy in the city of Ephesus to help the believers there. Paul wrote this letter to instruct Timothy about various matter. The topics he addressed include warnings about false teachers and enduring difficult situations. This letter also shows how Paul was training Timothy to be a leader among the churches. 
 
 #### How should the title of this book be translated? ####
 
