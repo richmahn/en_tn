@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended or special quotations. The ULB and many other English translations indent the lines of 25:23, which is a quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 25:23.
 
 #### Special concepts in this chapter ####
 
