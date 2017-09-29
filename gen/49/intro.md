@@ -2,8 +2,8 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 49:1-27. This is a recording of Jacob's sayings to his children. 
-
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 49:1-27.
+ 
 #### Special concepts in this chapter ####
 
 ##### Prophecies #####
