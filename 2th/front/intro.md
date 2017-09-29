@@ -6,7 +6,7 @@
 
 1. Greetings and thanksgiving (1:1-3)
 1. Christians suffering from persecution
-    - They are worthy of the kingdom of God and of his promise of relief from trials (1:5-7)
+    - They are worthy of the kingdom of God and of his promise of relief from trials (1:4-7)
     - God will judge those who persecute Christians (1:8-12)
 1. Some believers' misunderstanding about the second coming of Christ
     - Christ's return has not yet happened (2:1-2)
@@ -20,13 +20,13 @@
 
 #### Who wrote 2 Thessalonians? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote 2 Thessalonians. He was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 Paul wrote this letter while staying in the city of Corinth.
 
 #### What is the Book of 2 Thessalonians about? ####
 
-Paul wrote this letter to the believers in the city of Thessalonica. He wrote this letter for much the same reason he wrote the first letter to them. He wanted to encourage the believers because they were being persecuted. He told them to continue living in a way that pleases God. And he wanted to teach them again about Christ's return. 
+Paul wrote this letter to the believers in the city of Thessalonica. He encouraged the believers because they were being persecuted. He told them to continue living in a way that pleased God. And he wanted to teach them again about Christ's return. 
 
 #### How should the title of this book be translated? ####
 
@@ -36,7 +36,7 @@ Translators may choose to call this book by its traditional title, "2 Thessaloni
 
 #### What is the "second coming" of Jesus? ####
 
-Paul wrote a lot in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation as king. And he will cause there to be peace everywhere. Paul also explained that a "man of lawlessness" will come before Christ's return. This person will obey Satan and cause many people to oppose God. But Jesus will destroy this person when he returns.
+Paul wrote much in this letter about Jesus' eventual return to Earth. When Jesus returns, he will judge all mankind. He will also rule over creation. And he will cause there to be peace everywhere. Paul also explained that a "man of lawlessness" will come before Christ's return. This person will obey Satan and cause many people to oppose God. But Jesus will destroy this person when he returns.
 
 ## Part 3: Important Translation Issues ##
 
@@ -48,7 +48,7 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 The following are the most significant textual issues in 2 Thessalonians:
 
-* "and the man of lawlessness is revealed" (2:3). The ULB, UDB, and most modern versions have this reading. Older versions have, "and the man of sin is revealed."
-* "For God chose you as the firstfruits for salvation" (2:13) The ULB, UDB, and some other versions have this reading. Other versions have, "For God chose you from the first for salvation." If there are other versions in their region, translators should consider following their reading in this passage.
+* "and the man of lawlessness is revealed" (2:3). The ULB, UDB, and most modern versions read this way. Older versions have, "and the man of sin is revealed."
+* "For God chose you as the firstfruits for salvation" (2:13) The ULB, UDB, and some other versions read this way. Other versions have, "For God chose you from the first for salvation." If there are other versions in their region, translators should consider following their reading in this passage.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
