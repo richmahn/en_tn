@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of [Matthew 11:10](./09.md), which is a quotation from the Old Testament, and [Matthew 11:17](./16.md).
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 11:10.
 
 Some scholars believe that [Matthew 11:20](./20.md) begins a new stage in the ministry of Christ because of Israel's rejection of him. 
 

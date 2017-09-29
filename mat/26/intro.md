@@ -2,7 +2,7 @@
 
 #### Structure and Formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of verse 31, which present quotations from the Old Testament.
+Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 26:31.
 
 #### Special concepts in this chapter ####
 
