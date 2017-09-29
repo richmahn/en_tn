@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 8:22, which is the poetic part of the quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in  8:22, which is part of what Yahweh was telling Noah.
 
 #### Special concepts in this chapter ####
 

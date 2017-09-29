@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 4:27, which is a quotation from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 4:27.
 
 #### Special concepts in this chapter ####
 
