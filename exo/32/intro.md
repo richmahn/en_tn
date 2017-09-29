@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-The events of this chapter occur while Moses spoke with God and therefore happen at the same time as chapters 20-31.
+The events of this chapter occur while Moses spoke with God and therefore happen at the same time as the events in chapters 20-31.
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 32:18, which is an important quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 32:18.
 
 #### Special concepts in this chapter ####
 

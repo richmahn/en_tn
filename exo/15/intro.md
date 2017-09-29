@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 15:1-18, 21, which are songs. (See: [[rc://en/ta/man/translate/writing-poetry]])
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic songs in 15:1-18 and 15:21. (See: [[rc://en/ta/man/translate/writing-poetry]])
 
 #### Special concepts in this chapter ####
 
