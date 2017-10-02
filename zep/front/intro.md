@@ -19,7 +19,7 @@
 
 #### What is the Book of Zephaniah about? ####
 
-This book contains prophecies that warn Judah and other nations that God is about to punish them on the day of Yahweh. There are also prophecies about how God will restore Judah. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]])
+This book contains prophecies that warned Judah and other nations that God is about to punish them on the day of Yahweh. There are also prophecies about how God will restore Judah. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]])
 
 #### How should the title of this book be translated? ####
 
@@ -31,7 +31,7 @@ Zephaniah is the author of this book, but there are four different individuals i
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What was religion like in Judah around the time Zephaniah started his work? ####
+#### Were the people of Judah faithful to Yahweh at the time Zephaniah started his work? ####
 
 Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah. He encouraged the people to worship other gods. After his death, his son Amon ruled for only two years before he was assassinated. Amon's son Josiah became king when he was eight years old and learned to worship and honor Yahweh. It is likely that Zephaniah began his work after Josiah had destroyed most of the idols and shrines of false gods in Judah. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
