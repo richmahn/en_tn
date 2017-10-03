@@ -34,7 +34,7 @@ Translators may decide to translate the traditional title “The Book of Zechari
 
 #### Who wrote the Book of Zechariah? ####
 
-The prophet Zechariah wrote this book between 520 BC to 480 BC.
+The prophet Zechariah wrote this book between 520 B.C. to 480 B.C.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
