@@ -11,7 +11,7 @@
 
 #### What is the Book of Haggai about? ####
 
-Haggai told the people that they were having so many troubles because they were not obeying Yahweh. If they would listen to him and start rebuilding the temple, then Yahweh would cause the troubles to end. The people listened and began work on the temple. Yahweh encouraged the people, the priests, and the leaders that he is with them and he will bless them. 
+Haggai told the people that they were having so many troubles because they were not obeying Yahweh. If they would listen to him and start rebuilding the temple, then Yahweh would cause the troubles to end. The people listened and began to work on the temple. Yahweh encouraged the people, the priests, and the leaders and told them that he was with them and would bless them. 
 
 #### How should the title of this book be translated? ####
 
