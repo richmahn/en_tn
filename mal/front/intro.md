@@ -2,7 +2,7 @@
 
 ## Part 1: General Introduction ##
 
-===Outline of Malachi===
+#### Outline of Malachi ####
 
 1. The authority of the prophecy: The word of Yahweh (1:1)
 1. The love of Yahweh for Israel, and his rejection of Esau (Edom) (1:2–5)
@@ -13,11 +13,11 @@
 1. A message about those who were treated shamefully by others, but who were faithful to Yahweh (3:13–18)
 1. Encouragement to remember that Yahweh will punish the wicked and that he will send Elijah before the "great and terrible day of Yahweh" (4:5–6)
 
-===What is the Book of Malachi about?===
+#### What is the Book of Malachi about? ####
 
 The Book of Malachi is a collection of messages from God for the Jews who had returned from Babylon to Judah and Jerusalem. Although the Jews had by this time built a new temple, they were demoralized and in great need of encouragement. Many of them had also been unfaithful to God's law in various ways that Malachi criticized them for. However, Malachi also provided them with the promise that God would come and purify them so that they would worship him in sincerity and faithfulness.
 
-===How should the title of this book be translated?=== 
+#### How should the title of this book be translated? ####
 
 "The Book of Malachi" may also be called the "The Book about Malachi" or "The Sayings of Malachi." (See: [[rc://en/ta/man/translate/translate-names]])
 
