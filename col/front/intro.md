@@ -10,30 +10,28 @@
     - Christ: the Image of the invisible God, and the One who is over all creation (1:15-17)
     - Christ is the Head of the Church, and the Church trusts in him (1:18-2:7)
 1. Tests of faithfulness
-    - Philosophical challenges (2:8-10)
-    - Traditions and observances challenges (2:16,17)
-    - Worship of angels opposed (2:18-19)
-    - True godliness not rigid rules and unbending traditions (2:20-23)
-1. Teaching and Living
+    - Warnings against false teachers (2:8-19)
+    - True godliness is not rigid rules and unbending traditions (2:20-23)
+1. Teaching and living
     - Life in Christ (3:1-4)
-    - Old life and new (3:5-17)
+    - Old and new life (3:5-17)
     - Christian family (3:18-4:1)
 1. Christian behavior (4:2-6)
-1. Closing and greetings, in 4:7-18
+1. Closing and greetings
     - Paul thanks Tychicus and Onesimus (4:7-9)
     - Paul sends greetings from his associates (4:10-14)
     - Paul gives directions to Archippus and the Christians in Laodicea (4:15-17)
     - Paul's personal greeting (4:18)
 
-#### Who wrote Philippians? ####
+#### Who wrote the Book of Colossians? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote the Book of Colossians. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 Paul wrote this letter while in prison in Rome.
 
 #### What is the Book of Colossians about? ####
 
-Paul wrote this letter to the believers in the city of Colossae in Asia Minor. The main purpose of this letter was to defend the gospel against false teachers. He did this by praising Jesus as the image of God, the sustainer of all things, and the head of the church. Paul wanted them to understand that only Christ is needed for God to accept them.
+Paul wrote this letter to the believers in the Asia Minor city of Colossae. The main purpose of this letter was to defend the gospel against false teachers. He did this by praising Jesus as the image of God, sustainer of all things, and head of the church. Paul wanted them to understand that only Christ is needed for God to accept them.
 
 #### How should the title of this book be translated? ####
 
@@ -43,11 +41,11 @@ Translators may choose to call this book by its traditional title, "Colossians."
 
 #### What were the religious issues that the church in Colossae struggled with? ####
 
-In the church in Colossae, there were false teachers. Their exact teaching is unknown. But they probably taught their followers to worship angels and to obey strict rules about religious ceremonies. They probably also taught that a person must be circumcised and can only eat certain types of food. Paul said these teachings came from the minds of men not from God.
+In the church in Colossae, there were false teachers. Their exact teaching is unknown. But they probably taught their followers to worship angels and to obey strict rules about religious ceremonies. They probably also taught that a person must be circumcised and can only eat certain types of food. Paul said these false teachings came from the minds of men and not from God.
  
 #### How did Paul use the imagery of heaven and earth? ####
 
-In this letter, Paul frequently spoke of heaven as above. He distinguished it from the earth, which Scripture speaks of as being below. The purpose of this imagery was to teach Christians to live in a way that honors God who lives above in heaven. Paul is not teaching that the earth or the physical world is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
+In this letter, Paul frequently spoke of heaven as "above." He distinguished it from the earth, which Scripture speaks of as being "below." The purpose of this imagery was to teach Christians to live in a way that honors God who lives in heaven above. Paul is not teaching that the earth or the physical world is evil. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Part 3: Important Translation Issues ##
 
