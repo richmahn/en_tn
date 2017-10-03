@@ -15,7 +15,7 @@
 
 #### What is the Book of Malachi about? ####
 
-The Book of Malachi is a collection of messages from God for the Jews who had returned from Babylon to Judah and Jerusalem. Although the Jews had by this time built a new temple, they were demoralized and in great need of encouragement. Many of them had also been unfaithful to God's law in various ways that Malachi criticized them for. However, Malachi also provided them with the promise that God would come and purify them so that they would worship him in sincerity and faithfulness.
+The Book of Malachi is about the prophecies that Malachi spoke the Jews who had returned from Babylon to Judah. At this time, the Jews were discouraged even though they had completed building a new temple. The wonderful thing that previous prophets had promised for Judah had not yet happened. And the Persian Empire still ruled over them. As a result, they no longer were concerned about the law or worshiping God. Malachi rebuked them for not trusting in Yahweh. But he also promised them that Yahweh would do everything that he promised to do.
 
 #### How should the title of this book be translated? ####
 
@@ -23,10 +23,10 @@ The Book of Malachi is a collection of messages from God for the Jews who had re
 
 #### Who wrote the Book of Malachi? ####
 
-The prophet named Malachi brought these messages from Yahweh to the Jews. However, since "Malachi" means "my messenger," it is possible that this was a title for this prophet. If so, his real name is not known to us.
+The prophet named Malachi wrote these messages from Yahweh to the Jews. However, since "Malachi" means "my messenger," it is possible that this was a title for this prophet. If so, his real name is not known to us.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was meant by the day of Yahweh? ####
 
-The expression "the day of Yahweh" has various meanings in the Old Testament, but it always means a day or a time in which Yahweh acted in some manner. For Malachi, the day of the Yahweh meant the future time when Yahweh would judge his people and also rescue them from their own sins and from their enemies. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]] and [[rc://en/tw/dict/bible/kt/sin]])
+Malachi spoke about "the day" several times. This is the same as "the day of Yahweh." In the Book of Malachi this expression referred when Yahweh would Yahweh would judge his people. He would remove those who are wicked and be a blessing to those who trusted in him. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]] and [[rc://en/tw/dict/bible/kt/sin]])
