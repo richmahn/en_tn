@@ -22,36 +22,36 @@
     - Israel's mourning for having killed God's servant (12:10-14)
     - Israel's purification from sin and the end of false prophets (13:1-6)
     - Final removal of idols from returning Israel (14:1–2)
-    - Future vision of Messiaic Kingdom (14:3–21)
+    - Future vision of Messianic Kingdom (14:3–21)
 
 #### What is the Book of Zechariah about? ####
 
-Zechariah wrote to the people of Judah who returned from exile in Babylon. The people of Judah were committing the same sins that caused the exile. Zechariah calls on the people to return to the Lord and renew the covenant with Yahweh. Also, many people were disappointed that the new temple was much smaller than the original temple. He encourages the people and shares the vision about the temple in the future. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+Zechariah wrote to the people of Judah who returned from exile in Babylon. The people of Judah continued to sin as their ancestors had before they went into exile. Zechariah called the people to repent and to obey Yahweh. And he called them to renew the covenant with Yahweh. Zechariah also prophesied about the Messiah (6:12) and Israel's final victory over their enemies.  (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### How should the title of this book be translated? ####
 
-It is suggested that translators use a self-explanatory title or follow the regional or the national language versions of the Bible. "Zechariah" may also be called the "The Book About Zechariah" or "The Sayings of Zechariah." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may decide to translate the traditional title “The Book of Zechariah” in a way that is clearer to the readers. They may decide to call it the "The Book About Zechariah" or "The Sayings of Zechariah." (See: rc://en/ta/man/translate/translate-names)
 
 #### Who wrote the Book of Zechariah? ####
 
-The prophet Zechariah wrote this book between 520 BC to 480 BC following the ministry of Haggai.
+The prophet Zechariah wrote this book between 520 BC to 480 BC.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### Did Zechariah prophesy before Ezra and Nehemiah? ####
+#### Did Zechariah prophesy before Ezra, Nehemiah, and Haggai? ####
 
-The historical context of this book is likely prior to the lives of Ezra and Nehemiah. The prophecies of Zechariah occur prior to the events of the books of Ezra and Nehemiah and just two months after the prophecies of Haggai.
+Zechariah prophesied before the time of Ezra and Nehemiah. He prophesied at the same time as Haggai and continued after Haggai.
 
 ## Part 3: Important Translation Issues ##
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. The descendants of Jacob, who was also named Israel, were a people group who became known as Israel. This people group developed into the unified nation of Israel. After the civil war in the nation of Israel, the tribes in the north took the name Israel, while the southern kingdom became known as the kingdom of Judah. Zechariah uses the term "Israel" to refer to both the nation of Israel and the northern kingdom of Israel.
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. Zechariah uses the term "Israel" to refer to both the nation of Israel and the northern kingdom of Israel.
 
 #### What imagery does Zechariah use in reference to the Messiah? ####
 
-Zechariah presents the Messiah as both a king and a shepherd. The Messiah will come as a deliverer, yet be "pierced" and "lamented." The Messiah will have great power but will still suffer. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/lament]])
+Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, he would also be pierced (12:10) and struck with the sword (13:7). (See: rc://en/tw/dict/bible/kt/christ]])
 
 #### What does the phrase "that day" mean? ####
 
-Zechariah often speaks of the last days by using the phrase "that day" or "in that day." When referencing a future "day," the translator should be aware that it is possible that the author is speaking about the last days. (See: [[rc://en/tw/dict/bible/kt/lastday]])
+Zechariah often spoke of the last days by using the phrase "that day" or "in that day." When referencing a future "day," the translator should be aware that it is possible that the author is speaking about the last days. (See: [[rc://en/tw/dict/bible/kt/lastday]])
