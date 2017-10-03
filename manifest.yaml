@@ -368,12 +368,12 @@ dublin_core:
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
   format: 'text/markdown'
   identifier: 'tn'
-  issued: '2017-07-05'
+  issued: '2017-10-03'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2017-07-05'
+  modified: '2017-10-03'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ulb'
@@ -382,11 +382,11 @@ dublin_core:
   source:
   - identifier: 'tn'
     language: 'en'
-    version: '2'
+    version: '9'
   subject: 'Translator Notes'
   title: 'translationNotes'
   type: 'help'
-  version: '8'
+  version: '9'
 
 checking:
   checking_entity:
