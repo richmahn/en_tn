@@ -32,13 +32,13 @@ This is not the same man as the Apostle James. The Apostle James was killed befo
 
 #### What is the Book of James about? ####
 
-In this letter, James encouraged believers who were suffering. He told them to have faith in God and know that God uses their suffering to make them perfect and acceptable to himself. James also told them of the need for believers to do good deeds. He wrote much in this letter about how believers should live and treat one another. For example, he commanded them to treat one another fairly, to not fight with one another, and to use riches wisely.
+In this letter, James encouraged believers who were suffering. He told them know that God uses their suffering to help them become mature Christians. James also told them of the need for believers to do good deeds. He wrote much in this letter about how believers should live and treat one another. For example, he commanded them to treat one another fairly, to not fight with one another, and to use riches wisely.
 
-There are strong pleas and warnings with many figures of speech taken from nature. Also, many parts of this letter are similar to what Jesus wrote in the Sermon on the Mount (Mat 5-7). 
+James taught his readers by using many examples from nature such as in 1:6, 11 and 3:1-12. Also, many parts of this letter are similar to what Jesus wrote in the Sermon on the Mount (Mat 5-7). 
 
 #### Who were the "twelve tribes in the dispersion"? ####
 
-James said he was writing to the "twelve tribes in the dispersion" (1:1). Some scholars think that James was writing to Jewish Christians. Some scholars think that James was writing to all Christians in general. This letter is known as one of the "General Epistles" since it was not written to a specific church or individual.
+James said he was writing to the "twelve tribes in the dispersion" (1:1). Some scholars think that James was writing to Jewish Christians. Other scholars think that James was writing to all Christians in general. This letter is known as one of the "General Epistles" since it was not written to a specific church or individual.
 
 #### How should the title of this book be translated? ####
 
@@ -58,7 +58,7 @@ The letter quickly changes topics. Sometimes James does not tell the readers tha
 
 #### What are the major issues in the text of the Book of James? ####
 
-The following is the most significant textual issues in the Book of James:
+The following is the most significant textual issue in the Book of James:
 
 * "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULB, UDB, and modern versions read this way. Some older versions read, "Do you want to know, foolish man, that faith without works is dead?"
 
