@@ -52,7 +52,6 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 
 * Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." 
 
-
 The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What did Paul mean by expressions like "in Christ" and "in the Lord"? ####

@@ -4,7 +4,6 @@
 
 Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 3:1-8 and 3:15.
 
-
 #### Important figures of speech in this chapter ####
 
 ##### Parallelism #####
