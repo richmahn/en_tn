@@ -16,29 +16,29 @@
 1. Armor of God (6:10-20)
 1. Final greeting (6:21-24)
 
-#### Who wrote Ephesians? ####
+#### Who wrote the Book of Ephesians? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote Ephesians. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul wrote this letter probably while he was in prison in Rome.
+The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul probably wrote this letter while he was in prison in Rome.
 
 #### What is the Book of Ephesians about? ####
 
-Paul wrote this letter to the Christians in Ephesus to explain God's love for them in Christ Jesus. He described the blessings that God was giving them because they were now united with Christ. He also explained that all believers are united together, whether Jew or Gentile. Paul also wanted to encourage them to live in a way that pleases God.
+Paul wrote this letter to the Christians in Ephesus to explain God's love for them in Christ Jesus. He described the blessings that God was giving them because they were now united with Christ. He explained that all believers are united together, whether Jew or Gentile. Paul also wanted to encourage them to live in a way that pleases God.
  
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title, "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What was the "hidden truth" that Paul mentioned in the Book of Ephesians? ####
+#### What was the "hidden truth" in the Book of Ephesians? ####
 
-The expression translated in the ULB as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. That is, Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+The expression translated in the ULB as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
 #### What did Paul say about salvation and righteous living? ####
 
-Paul said a lot about salvation and righteous living in this letter and in many of his letter. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they trust God, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
+Paul said much about salvation and righteous living in this letter and in many of his letters. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they become Christians, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
 
 ## Part 3: Important Translation Issues ##
 
@@ -48,13 +48,13 @@ In this book, the word "I" refers to Paul. The word "you" is almost always plura
 
 #### What did Paul mean by the "new self" or the "new man"? ####
 
-When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer recieves from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used when Paul described God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
+When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer receives from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used for God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
 
 #### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULB? ####
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the use of "hagios" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "hagios" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the use of "holy" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "holy" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
 * Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers."
 * Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 3:5)
 
@@ -68,5 +68,5 @@ This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:
 
 The following are the most significant textual issues in Ephesians:
 
-* Some early manuscripts omit "in Ephesus" (1:1) but this expression is probably in the original letter. The ULB, UDB, and many modern versions have it. 
-* "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it. If translators do choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* Some early manuscripts do not include "in Ephesus" (1:1) but this expression is probably in the original letter. The ULB, UDB, and many modern versions include it. 
+* "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators do choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
