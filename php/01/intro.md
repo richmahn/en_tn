@@ -13,7 +13,7 @@ This is probably a reference to the day when Christ returns. It was common for P
 
 ##### The use of paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. This statement in 1:21is a paradox: "to die is gain". In 1:23 Paul explains why it is better to die. ([Philippians 1:21](./20.md))
+A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. This statement in 1:21is a paradox: "to die is gain." In 1:23 Paul explains why it is better to die. ([Philippians 1:21](./20.md))
 
 ## Links: ##
 

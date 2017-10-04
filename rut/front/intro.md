@@ -46,7 +46,7 @@ Gleaning occurred when very poor people were allowed to follow after the men who
 
 Covenant faith or covenant loyalty is when a person does what he said he would do according to a covenant he has with someone else. God promised that he would love and be faithful to the Israelites. The Israelites were to do the same toward him and toward each other.
  
-In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are shown to be part of the obligations in God's covenant with Israel. The story of Boaz, Ruth and Naomi gives good examples to all of Israel of the good effects of covenant faithfulness. (See: rc://en/tw/dict/bible/kt/covenantfaith)
+In the Book of Ruth, the obligations of kinsmen-redeemers to their relatives are shown to be part of the obligations in God's covenant with Israel. The story of Boaz, Ruth and Naomi gives good examples to all of Israel of the good effects of covenant faithfulness. (See: [[rc://en/tw/dict/bible/kt/covenantfaith]])
 
 #### What function did city gates have in the Ancient Near East? ####
 

@@ -46,7 +46,7 @@ The Book of Isaiah was one of the first books to present the concept of the last
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: rc://en/tw/dict/bible/kt/israel)
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### What are some characteristics of prophetic literature in the Book of Isaiah? ####
 

@@ -22,7 +22,7 @@ The Pharisee's prayer is not truly directed at God, so what he does is not reall
 
 ##### General and Specific Instructions #####
 
-There are times when the New Testament gives specific instructions or commands that always apply to all Christians. At other times, its instructions are more general or even as hyperbole. For example, when Jesus says, "Sell your possessions," he is not speaking to all Christians in all places at all times, but all Christians should remember that they are only stewards of everything they receive from God, and he may ask them to give them up at any time. (See: [hyperbole](rc://en/ta/man/translate/figs-hyperbole))
+There are times when the New Testament gives specific instructions or commands that always apply to all Christians. At other times, its instructions are more general or even as hyperbole. For example, when Jesus says, "Sell your possessions," he is not speaking to all Christians in all places at all times, but all Christians should remember that they are only stewards of everything they receive from God, and he may ask them to give them up at any time. (See: [[rc://en/ta/man/translate/figs-hyperbole]])
 
 ## Links: ##
 

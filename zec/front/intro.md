@@ -30,7 +30,7 @@ Zechariah wrote to the people of Judah who returned from exile in Babylon. The p
 
 #### How should the title of this book be translated? ####
 
-Translators may decide to translate the traditional title “The Book of Zechariah” in a way that is clearer to the readers. They may decide to call it the "The Book About Zechariah" or "The Sayings of Zechariah." (See: rc://en/ta/man/translate/translate-names)
+Translators may decide to translate the traditional title “The Book of Zechariah” in a way that is clearer to the readers. They may decide to call it the "The Book About Zechariah" or "The Sayings of Zechariah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Zechariah? ####
 
@@ -50,7 +50,7 @@ The name "Israel" is used in many different ways in the Bible. There was a man n
 
 #### What imagery does Zechariah use in reference to the Messiah? ####
 
-Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, he would also be pierced (12:10) and struck with the sword (13:7). (See: rc://en/tw/dict/bible/kt/christ]])
+Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, he would also be pierced (12:10) and struck with the sword (13:7). (See: [[rc://en/tw/dict/bible/kt/christ]]]])
 
 #### What does the phrase "that day" mean? ####
 

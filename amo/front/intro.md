@@ -47,7 +47,7 @@ Many cultures have a process for resolving disputes through the use of courts. T
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, "Israel" almost always refers to the northern kingdom of Israel. (See: rc://en/tw/dict/bible/kt/israel)
+The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, "Israel" almost always refers to the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Where do the various narratives begin and end? ####
 
