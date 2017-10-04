@@ -13,7 +13,7 @@ The main theme of this psalm is that God is protecting and empowering the king h
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
-"Today I have begotten you" is a metaphor meaning that God acknowledges the king as his special person. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+"Today I have begotten you" here is a metaphor meaning that God acknowledges the king as his special person. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 
