@@ -2,8 +2,8 @@
 
 #### Special concepts in this chapter ####
 
-##### Light #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+##### Light and darkness #####
+These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin, and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Other possible translation difficulties in this chapter ####
 
