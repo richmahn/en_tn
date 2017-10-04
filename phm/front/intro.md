@@ -10,9 +10,9 @@
 
 #### Who wrote the Book of Philemon? ####
 
-Paul from the city of Tarsus was the author. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he began to trust in Jesus Christ, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote Philemon. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
-Paul was in a prison in when he wrote this letter.
+Paul was in a prison when he wrote this letter.
 
 #### What is the Book of Philemon about? ####
 
@@ -28,14 +28,14 @@ Translators may choose to call this book by its traditional title, "Philemon." O
 
 #### Does this letter approve of the practice of slavery? ####
 
-Paul instructed Onesimus to return to his former master. But that did not mean Paul regarded slavery as an acceptable practice. Instead, Paul was more concerned with people serving God no matter the circumstances they were in.
+Paul sent Onesimus back to his former master. But that did not mean Paul thought slavery was an acceptable practice. Instead, Paul was more concerned with people serving God in whatever situation they were in.
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
+Paul meant to express the idea of a very close union with Christ and the believers. See the introduction to the Book of Romans for more details about this kind of expression.
 
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
 
-In this book, the word "I" refers to Paul. Also, the word "you" is almost always singular and refers to Philemon. The two exceptions to this are 1:22 and 1:25. There "you" refers to Philemon and the believers that met at his house. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Paul. The word "you" is almost always singular and refers to Philemon. The two exceptions to this are 1:22 and 1:25. There "you" refers to Philemon and the believers that met at his house. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
