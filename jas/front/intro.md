@@ -28,7 +28,7 @@
 
 The author identifies himself as James. This was probably James, the half-brother of Jesus. James was a leader in the early church and was part of the Jerusalem council. The Apostle Paul also called him a "pillar" of the church. 
 
-This is not the same man as James the apostle. James the apostle was killed before this letter was written.
+This is not the same man as the Apostle James. The Apostle James was killed before this letter was written.
 
 #### What is the Book of James about? ####
 
