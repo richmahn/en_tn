@@ -51,27 +51,27 @@ In this letter, Paul frequently spoke of heaven as "above." He distinguished it 
 
 #### How are the ideas of "holy" and "sanctify" represented in Colossians in the ULB? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, these words usually indicate a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULB uses "believer" or "believers." (See: 1:2, 12, 26)
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, these words usually indicate a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULB uses "believers" or "those who believe in him." (See: 1:2, 12, 26)
 
 #### Was Jesus created or is he eternal? ####
 
-Jesus was not a created being but has always existed as God. Jesus is God and he became a human being. There is potential for confusion in Colossians 1:15 where it says Jesus "is the firstborn of all creation." This statment means that Jesus is dominant over all of creation. It does not mean that he was the first thing God created. Translators should be careful not to imply that Jesus is a created being.
+Jesus was not a created being but has always existed as God. Jesus also became a human being. There is potential for confusion in Colossians 1:15 where it says Jesus "is the firstborn of all creation." This statement means that Jesus is dominant over all of creation. It does not mean that he was the first thing God created. Translators should be careful not to imply that Jesus is a created being.
 
 #### What does Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
-Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the book of Romans for more details about this kind of expression.
+Paul meant to express the idea of a very close union with Christ and the believers. See the introduction to the book of Romans for more details about this kind of expression.
 
 #### What are the major issues in the text of the Book of Colossians? ####
 
 The following are the most significant textual issues in the Book of Colossians:
 
-* "May grace be to you, and peace from God our Father" (1:2). The ULB, UDB, and many other modern versions have this reading. Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
-* "Epaphras, our beloved fellow servant, who is a faithful servant of Christ on our behalf" (1:7). Many versions, including the ULB and UDB, have this reading. However, other versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you." If other versions exist in the general region, translators should consider using the reading found in those versions.
-* "the Father, who has made you able to have a share in the inheritance of the believers in light" (1:12). The ULB and UDB have this reading. However, some other versions have "the Father, who has qualified us for a share in the inheritance in light." If other versions exist in the general region, translators should consider using the reading found in those versions. 
-* "In his Son we have redemption." (1:14) The ULB, UDB, and many other modern versions have this reading. Some older versions read: "In his Son we have redemption through his blood." 
+* "May grace be to you, and peace from God our Father" (1:2). The ULB, UDB, and many other modern versions read this way. Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
+* "Epaphras, our beloved fellow servant, who is a faithful servant of Christ on our behalf" (1:7). Many versions, including the ULB and UDB, read this way. However, other versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you." If other versions exist in the general region, translators should consider using the reading found in those versions.
+* "the Father, who has made you able to have a share in the inheritance of the believers in light" (1:12). The ULB and UDB read this way. However, some other versions read, "the Father, who has qualified us for a share in the inheritance in light." If other versions exist in the general region, translators should consider using the reading found in those versions. 
+* "In his Son we have redemption." (1:14) The ULB, UDB, and many other modern versions read this way. Some older versions read, "In his Son we have redemption through his blood." 
 * "and forgave us all of our trespasses" (2:13). The ULB, UDB, and many other modern versions have this reading. Some older versions read: "and forgave you all of your trespasses." 
-* "When Christ appears, who is your life" (3:4). The ULB, UDB, and many other modern versions have this reading. Some older versions read: "When Christ appears, who is our life." 
-* "It is for these things that the wrath of God is coming on the sons of disobedience." (3:6) The ULB, UDB, and many other modern versions have this reading. However, other modern versions read, "It is for these things that the wrath of God is coming." If other versions exist in the general region, translators should consider using the reading found in those versions. 
-* "I sent him to you for this, that you might know the matters about us." (4:8) The ULB, UDB, and most other modern versions have this reading. Some older versions read, "I sent him to you for this, that he might know the matters about you."
+* "When Christ appears, who is your life" (3:4). The ULB, UDB, and many other modern versions read this way. Some older versions read, "When Christ appears, who is our life." 
+* "It is for these things that the wrath of God is coming on the sons of disobedience." (3:6) The ULB, UDB, and many other modern versions read this way. However, other modern versions read, "It is for these things that the wrath of God is coming." If other versions exist in the general region, translators should consider using the reading found in those versions. 
+* "I sent him to you for this, that you might know the matters about us." (4:8) The ULB, UDB, and most other modern versions read this way. Some older versions read, "I sent him to you for this, that he might know the matters about you."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
