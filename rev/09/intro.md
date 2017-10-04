@@ -17,7 +17,7 @@ This is a common image in the book of Revelation that portrays hell. It emphasiz
 
 ##### Abaddon and Apollyon #####
 
-"Abaddon" is a Hebrew word, and "Apollyon" is a Greek word. Both words mean "Destroyer." John transliterated the sounds of the Hebrew word by writing them with Greek letters. The translators of the ULB and the UDB transliterated the sounds of both words by writing them with English letters. Translators are encouraged to transliterate these words using the letters of the target language. Since the original Greek readers would have understood the meaning of "Apollyon," translators may also supply the meaning in the text or in a footnote.
+"Abaddon" here is a Hebrew word, and "Apollyon" is a Greek word. Both words mean "Destroyer." John transliterated the sounds of the Hebrew word by writing them with Greek letters. The translators of the ULB and the UDB transliterated the sounds of both words by writing them with English letters. Translators are encouraged to transliterate these words using the letters of the target language. Since the original Greek readers would have understood the meaning of "Apollyon," translators may also supply the meaning in the text or in a footnote.
 
 ##### Repentance #####
 This chapter mentions the theme of repentance. Despite these great miracles, the people are said to avoid repentance and remain in their sin. One should not lose sight of this theme when reading the book of Revelation. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]]) 

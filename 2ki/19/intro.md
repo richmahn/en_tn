@@ -13,7 +13,7 @@ God is in control of everything. God caused the Assyrian king to fail in conquer
 
 ##### Idiom #####
 
-"The virgin daughter of Zion" is an idiom meaning the people of Jerusalem. "The virgin daughter of Zion despises you and laughs you to scorn" means that "the people of Jerusalem know that Assyria will fail because they have mocked God." (See: [[rc://en/ta/man/translate/figs-idiom]])
+"The virgin daughter of Zion" here is an idiom meaning the people of Jerusalem. "The virgin daughter of Zion despises you and laughs you to scorn" means that "the people of Jerusalem know that Assyria will fail because they have mocked God." (See: [[rc://en/ta/man/translate/figs-idiom]])
 
 ## Links: ##
 
