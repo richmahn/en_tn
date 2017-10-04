@@ -9,7 +9,7 @@
 1. Jesus preaches, teaches, and heals people (2-11)
 1. The seven days before Jesus' death (12-19)
      - Mary anoints the feet of Jesus (12:1-11)
-     - Jesus rides into Jerusalem (12:12-19)
+     - Jesus rides a donkey into Jerusalem (12:12-19)
      - Some Greek men want to see Jesus (12:20-36)
      - The Jewish leaders reject Jesus (12:37-50)
      - Jesus teaches his disciples (13-17)
@@ -21,31 +21,30 @@
 
 #### What is the Gospel of John about? ####
 
-The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. John said that he wrote his gospel so "that people might believe that Jesus is the Christ, the Son of the living God" (20:30–31). 
+The Gospel of John is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. John said that he wrote his gospel "so that people might believe that Jesus is the Christ, the Son of the living God" (20:31). 
 
-John's Gospel is very different from the other three Gospels. John does not include some of the teachings and events that the other writers included in their gospels. And, John wrote about some teachings and events that are not in the other gospels.
+John's Gospel is very different from the other three Gospels. John does not include some of the teachings and events that the other writers included in their gospels. Also, John wrote about some teachings and events that are not in the other gospels.
 
-John wrote a lot about the signs Jesus did to prove that what he said about himself was true. (See: [[rc://en/tw/dict/bible/kt/sign]])
+John wrote much about the signs Jesus did to prove that what Jesus said about himself was true. (See: [[rc://en/tw/dict/bible/kt/sign]])
 
 #### How should the title of this book be translated? ####
 
-Translators may choose to call this book by its traditional title, "The Gospel of John" or "The Gospel According to John." Or they may choose a title that may be clearer, for example, "The Good News About Jesus That John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators may choose to call this book by its traditional title, "The Gospel of John" or "The Gospel According to John." Or they may choose a title that may be clearer, such as, "The Good News About Jesus That John Wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Gospel of John? ####
 
-This book does not give the reader the name of the author. However, since early Christian times, most Christians have thought that John was the author. John was one of Jesus' disciples.
-
+This book does not give the name of the author. However, since early Christian times, most Christians have thought that the Apostle John was the author.
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why does John write so much about the final week of Jesus' life? ####
 
-John wrote a lot about Jesus' final week. He wanted his readers to think deeply about Jesus' final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God would forgive them for sinning against him. (See: [[rc://en/tw/dict/bible/kt/sin]])
+John wrote much about Jesus' final week. He wanted his readers to think deeply about Jesus' final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Part 3: Important Translation Issues ##
 
 #### What do the words "remain," "reside," and "abide" mean in the Gospel of John? ####
 
-John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. And, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
+John often used the words "remain," "reside", and "abide" as metaphors. John spoke of a believer becoming more faithful to Jesus and knowing Jesus better as if Jesus' word "remained" in the believer. Also, John spoke of someone being spiritually joined to someone else as if the person "remained" in the other person. Christians are said to "remain" in Christ and in God. The Father is said to "remain" in the Son, and the Son is said to "remain" in the Father. The Son is said to "remain" in believers. The Holy Spirit is also said to "remain" in the believers. 
  
 Many translators will find it impossible to represent these ideas in their languages in exactly the same way. For example, Jesus intended to express the idea of the Christian being spiritually together with him when he said, "He who eats my flesh and drinks my blood remains in me, and I in him" (John 6:56). The UDB uses the idea of "will be joined to me, and I will be joined to him." But translators may have to find other ways of expressing the idea.
 
