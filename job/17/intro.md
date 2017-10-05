@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is a continuation of Job's response to Eliphaz, but it is more directly addressed to Yahweh.
+The ULB indents the lines of this chapter because it is a poem. This chapter is a continuation of Job's response to Eliphaz, but it is more directly addressed to Yahweh.
 
 #### Special concepts in this chapter ####
 

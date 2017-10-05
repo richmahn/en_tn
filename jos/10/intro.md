@@ -1,7 +1,8 @@
 # Joshua 10 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended or important quotations. The ULB and many other English translations indent the lines of 10:12-13, which is a quotation.
+
+The ULB indents the lines in 10:12-13 because they are a poem.
 
 #### Special concepts in this chapter ####
 

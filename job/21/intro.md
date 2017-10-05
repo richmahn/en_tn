@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is Job's response to Zophar. It is also a response to all three of his friends in general.
+The ULB indents the lines of this chapter because it is a poem. This chapter is Job's response to Zophar. It is also a response to all three of his friends in general.
 
 #### Special concepts in this chapter ####
 

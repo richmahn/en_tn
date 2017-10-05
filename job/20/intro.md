@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is  the advice of Job's friend, Zophar. His words in this chapter are much stronger than when he previously spoke, and he is even angry at Job. He claims that Job took advantage of the poor and is being punished for it.
+The ULB indents the lines of this chapter because it is a poem. This chapter is  the advice of Job's friend, Zophar. His words in this chapter are much stronger than when he previously spoke, and he is even angry at Job. He claims that Job took advantage of the poor and is being punished for it.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations or lists. The ULB and many other English translations indent the lines of 12:2-5, which is an extended list.
+The ULB indents the lines in 12:2-5 because they are part of a long list.
 
 ## Links: ##
 

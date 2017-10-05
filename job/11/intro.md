@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is the advice of Job's friend, Zophar.
+The ULB indents the lines of this chapter because it is a poem. This chapter is the advice of Job's friend, Zophar.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is a continuation of the advice of Job's friend, Bildad. His words in this chapter are much stronger than when he previously spoke.
+The ULB indents the lines of this chapter because it is a poem. This chapter is a continuation of the advice of Job's friend, Bildad. His words in this chapter are much stronger than when he previously spoke.
 
 #### Special concepts in this chapter ####
 

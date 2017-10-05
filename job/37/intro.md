@@ -4,7 +4,7 @@
 
 According to Elihu, instead of being punished for his sins, Job is sinning in the midst of these difficulties. This is a continuation of the previous chapter and the last of Elihu's four statements, and it is addressed first to Job's friends and then to Job. (See: [[rc://en/tw/dict/bible/kt/sin]] and  [[rc://en/tw/dict/bible/kt/witness]])
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. His attitude is not too different from Job's friends.
+The ULB indents the lines of this chapter because it is a poem. His attitude is not too different from Job's friends.
 
 #### Special concepts in this chapter ####
 

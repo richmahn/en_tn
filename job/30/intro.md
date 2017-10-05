@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation. This chapter is a continuation of Job's statement, but now it is directly addressed to Yahweh. 
+The ULB indents the lines of this chapter because it is a poem. This chapter is a continuation of Job's statement, but now it is directly addressed to Yahweh. 
 
 In this chapter, Job laments his current condition as others insult him. (See: [[rc://en/tw/dict/bible/kt/lament]])
 
