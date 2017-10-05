@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 12:38 and 40, which are quotations from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 12:38 and 40, which is quoted from the OT.
 
 Verse 16 is a commentary on these events. It is possible to put this entire verse in parentheses in order to set it apart from the narrative of the story.
 
