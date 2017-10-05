@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 3:1-5, 12-17, 19-25, which are extended quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 3:1-5, 12-17, 19-25.
 
 The prophecy revealed to Jeremiah is recorded in 2:1-3:5. Despite covering more than one chapter, this should be seen as one unit. The same is true for 3:19-4:3. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/reveal]])
 

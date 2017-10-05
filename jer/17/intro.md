@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 17:1-18, which is an extended quotation. This quotation is a continuation of chapter 16:19-21 and these should be seen as one section.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 17:1-18. This poem is a continuation of 16:19-21, and these should be seen as one section.
 
 #### Special concepts in this chapter ####
 
