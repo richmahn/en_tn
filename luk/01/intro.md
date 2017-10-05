@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart long prayers or prophesies. For this reason, the ULB and many other English translations indent the lines of 1:46-55, 68-79.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 1:46-55, 68-79.
 
 #### Special concepts in this chapter ####
 

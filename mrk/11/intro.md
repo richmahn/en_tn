@@ -2,7 +2,7 @@
 
 #### Structure and Format ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 11:9-10, 17.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 11:9-10, 17, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and Formatting ####
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 26:31.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 26:31, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 
