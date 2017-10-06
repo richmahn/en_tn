@@ -8,7 +8,7 @@ Some translations indent each line of poetry to make it easier to read. The ULB 
 
 ##### Intermarriage #####
 
-Abraham forbid any marriage between his son and the people of Canaan. This is because it would cause him to worship other gods. Intermarriage and worshiping false gods are things that frequently caused Abraham's descendants to struggle. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Abraham would not allow his son to marry anyone from the people of Canaan. This is because it would cause his son to worship other gods. Intermarriage and worshiping false gods are things that frequently caused Abraham's descendants to struggle. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 ##### Abraham's wealth #####
 
