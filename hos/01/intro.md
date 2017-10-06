@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 1:2-11, which are a series of quotations. Hosea 1-2 is a single series forming one narrative.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 1:2-11.
 
 #### Special concepts in this chapter ####
 

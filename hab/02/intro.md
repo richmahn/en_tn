@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations indent the lines of 2:1-20, which are extended quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 2:1-20.
 
 This chapter is arranged in a series of questions and answers between Yahweh and Habakkuk.
 

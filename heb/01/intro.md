@@ -4,7 +4,7 @@
 
 This chapter is about how Jesus is superior to the angels.
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 1:5, 7-13, which are quotations from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 1:5, 7-13, which is quoted from the OT.
 
 ##### "Our ancestors" #####
 This letter begins with an assumption of a Jewish audience. This is why it is called "Hebrews." 

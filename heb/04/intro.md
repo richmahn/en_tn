@@ -4,7 +4,7 @@
 
 This chapter is about how Jesus is the greatest high priest.
 
-Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 4:3-4, 7, which are quotations from the Old Testament.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 4:3-4, 7, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 
