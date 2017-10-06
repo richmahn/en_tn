@@ -1,7 +1,8 @@
 # Jeremiah 14 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 14:1-10, 17-22, which are extended quotations.
+
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 14:1-10, 17-22.
 
 #### Special concepts in this chapter ####
 

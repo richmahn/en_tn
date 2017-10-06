@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 10:1-25, which is an extended quotation.
+The ULB indents the lines in 10:1-25 because they are a long quotation.
 
 #### Special concepts in this chapter ####
 

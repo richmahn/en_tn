@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set quotations apart. The ULB and many other English translations indent the lines of 46:3-12, 14-24, which comprise extended quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 46:3-12, 14-24.
 
 This begins a section where Jeremiah prophesies about other nations. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 31:1-5, 8-9, which are extended quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter continues the series of "woes" against specific nations. It presents judgments against the people of Ephraim and Judah when they desired to make an alliance with Egypt. It also prophesies the destruction of Assyria. (See: [[rc://en/tw/dict/bible/kt/woe]], [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/prophet]])
 

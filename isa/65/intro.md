@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of this chapter, which are extended quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter is Yahweh's response to the repentance of the people. (See: [[rc://en/tw/dict/bible/kt/repent]])
 

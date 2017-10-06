@@ -1,7 +1,8 @@
 # Isaiah 21 General Notes #
 
 #### Structure and formatting ####
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 21:1-10, 13-17, which are quotations.
+
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 21:1-10, 13-17.
 
 #### Special concepts in this chapter ####
 

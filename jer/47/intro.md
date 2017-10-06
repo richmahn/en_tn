@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 47:2-7, which is an extended quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 47:2-7.
 
 Jeremiah's prophesies about other nations continue in this chapter. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

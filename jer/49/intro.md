@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 49:1-11, 14-27, 29-33, 37-39, which are extended quotations.
+The ULB indents the lines in 49:1-11, 14-27, 29-33, 37-39 because they are part of a long quotation.
 
 Jeremiah's prophesies about other nations conclude in this chapter. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

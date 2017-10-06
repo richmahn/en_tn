@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 2:2-3:26, which is a vision Isaiah receives. These are the words of Yahweh.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 2:2-22.
 
 #### Special concepts in this chapter ####
 

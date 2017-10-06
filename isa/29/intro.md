@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of chapter 29, which is an extended quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter begins a series of "woes" against specific nations. It presents judgments against the kingdoms of Ephraim and eventually Judah. (See: [[rc://en/tw/dict/bible/kt/woe]] and [[rc://en/tw/dict/bible/kt/judge]])
 

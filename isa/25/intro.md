@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of this chapter, which is an extended quotation.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter shifts from being a prophecy against the nations to the personal praises of Isaiah. He praises Yahweh for the deliverance of his people. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
 

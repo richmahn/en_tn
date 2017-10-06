@@ -4,7 +4,7 @@
 
 The account of Samson continues in this chapter.
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 14:14, 18, which are important quotations.
+Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 14:14, 18.
 
 ##### Special concepts in this chapter #####
 
