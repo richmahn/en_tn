@@ -11,7 +11,7 @@ It appears that 8:1 is part of the narrative of this chapter.
 ##### "Stephen said" #####
 Stephen retells the history of Israel very briefly. This is something the Jewish council and the high priest would have already known. The climax of the story is Jesus coming as the Messiah of Israel and his rejection by the Jewish leaders. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
-##### "Full of the Holy Spirit" ##### 
+##### "Full of the Holy Spirit" #####
 This means "to be completely controlled by the Holy Spirit." In other words, a person is living in total alignment with the will of God. (See: [[rc://en/tw/dict/bible/kt/willofgod]])
 
 #### Important figures of speech in this chapter ####
