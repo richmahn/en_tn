@@ -7,7 +7,7 @@ Some translations indent each line of poetry to make it easier to read. The ULB 
 #### Special concepts in this chapter ####
 
 ##### Plural marriage #####
-Abram married Hagar while he was also married to Sarai. Even though Abram had his wife's permission, this was an immoral and sinful action. It also showed a lack of faith in God. Sarai quickly became jealous of Hagar. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/jealous]] and [[rc://en/ta/man/translate/figs-explicit]]).  
+Abram married Hagar while he was also married to Sarai. Even though Abram had his wife's permission, this was an immoral and sinful action. It also showed a lack of faith in God. Sarai quickly became jealous of Hagar. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/jealous]] and [[rc://en/ta/man/translate/figs-explicit]])  
 
 ## Links: ##
 

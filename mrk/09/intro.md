@@ -4,7 +4,7 @@
 
 ##### Transfiguration #####
 
-The glory of God is seen as a great, brilliant light in scripture. God's grandeur always produces fear in the person who sees it. Such an event is presented in this chapter. It is called the "transfiguration" because Jesus is changed or transfigured and he shows some of his divine glory. (See: [[rc://en/tw/dict/bible/kt/fear]] and [[rc://en/tw/dict/bible/kt/glory]]). 
+The glory of God is seen as a great, brilliant light in scripture. God's grandeur always produces fear in the person who sees it. Such an event is presented in this chapter. It is called the "transfiguration" because Jesus is changed or transfigured and he shows some of his divine glory. (See: [[rc://en/tw/dict/bible/kt/fear]] and [[rc://en/tw/dict/bible/kt/glory]]) 
 
 #### Important figures of speech in this chapter ####
 

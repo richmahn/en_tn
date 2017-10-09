@@ -12,7 +12,7 @@ There are times in the narrative of this chapter where there is an abrupt change
 This situation would have been very unusual in ancient Israel. It would not have been common for a Roman soldier to go to an Israelite for anything. They would have been insignificant to the Romans and they would not have sought healing from a Jew. It would also have been unusual for a wealthy man to be so concerned for his slave. It is a great display of faith. (See: [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### John's Baptism #####
-The baptism John performed was different than the baptism that the church practices. John's baptism was meant to signal that those receiving had repented of their sin. This is why the Pharisees did not participate in John's baptism. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]]).
+The baptism John performed was different than the baptism that the church practices. John's baptism was meant to signal that those receiving had repented of their sin. This is why the Pharisees did not participate in John's baptism. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### "Sinners" #####
 Luke refers to a group of people as "sinners." The Jewish leaders considered these people to be hopelessly ignorant of the Law of Moses, and so called them "sinners." In reality, the leaders were sinful. This situation can be taken as irony. (See: [[rc://en/ta/man/translate/figs-irony]])

@@ -14,7 +14,7 @@ Paul is giving instructions in preparation for his upcoming visit to Corinth. He
 These two figures are repeatedly used in this chapter. The are intended to contrast with each other. The translator should attempt to use terms that are understood to be opposites of each other.
 
 ##### "In the faith" #####
-Scholars are divided over the meaning of this phrase. Some believe Christians are to test themselves to see whether their actions align with their faith. Other believe Christians should look at their actions and question whether they are genuinely saved. From the context, it appears that the former is probable. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/save]]).
+Scholars are divided over the meaning of this phrase. Some believe Christians are to test themselves to see whether their actions align with their faith. Other believe Christians should look at their actions and question whether they are genuinely saved. From the context, it appears that the former is probable. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/save]])
 
 ## Links: ##
 

@@ -24,7 +24,7 @@ People in the ancient Near East also saw the sea as chaotic and did not trust it
 
 ##### Implicit information #####
 
-Even though scholars are not sure of the exact location of Tarshish, it was in the exact opposite direction of where God told Jonah to go. (See: [[rc://en/ta/man/translate/figs-explicit]]).
+Even though scholars are not sure of the exact location of Tarshish, it was in the exact opposite direction of where God told Jonah to go. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

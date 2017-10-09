@@ -7,7 +7,7 @@ Some translations indent each line of poetry to make it easier to read. The ULB 
 #### Special concepts in this chapter ####
 
 ##### High priest #####
-Jesus' role as high priest is explained in detail in this chapter. (See: [[rc://en/tw/dict/bible/kt/sin]]).
+Jesus' role as high priest is explained in detail in this chapter. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Melchizedek #####
 The high priest was normally from the tribe of Levi, but Jesus was from the ruling tribe, Judah. His right to be a priest came from the tradition of Melchizedek, who was a priest before the Levites came into existence. This passage will be difficult to understand if Genesis has not been translated first. (See: [[rc://en/ta/man/translate/figs-explicit]])

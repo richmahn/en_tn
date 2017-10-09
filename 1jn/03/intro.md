@@ -14,10 +14,10 @@ Cain was a son of the first man, Adam, and the first woman, Eve. He murdered his
 The verb "to know" is used in a way that means "to understand." It is a type of knowledge based on one's experiences. Care should be taken when translating this word because it is not the primary definition of the term.
 
 ##### Keeps sinning and doing righteousness #####
-There are many instructions in this chapter that will change their meaning if they are translated as happening continually or in another way. This passage is especially difficult in light of the fact that the first chapter teaches that Christians inevitably sin. (See: [[rc://en/tw/dict/bible/kt/sin]]).
+There are many instructions in this chapter that will change their meaning if they are translated as happening continually or in another way. This passage is especially difficult in light of the fact that the first chapter teaches that Christians inevitably sin. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### "He who keeps God's commandments remains in him, and God remains in him" #####
-Many scholars believe this is about remaining in the will of God and is not a reference to a person's eternal salvation. (See: [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/save]]). 
+Many scholars believe this is about remaining in the will of God and is not a reference to a person's eternal salvation. (See: [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/save]]) 
 
 ## Links: ##
 

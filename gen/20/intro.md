@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### "She is my sister" #####
-Abraham was afraid the people of Gerar would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Sarah to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Abraham's sister, they would have shown favor to him. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]]).
+Abraham was afraid the people of Gerar would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Sarah to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Abraham's sister, they would have shown favor to him. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]])
 
 #### Other possible translation difficulties in this chapter ####
 

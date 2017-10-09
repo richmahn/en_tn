@@ -11,7 +11,7 @@ God made a covenant with Abram. This covenant was not conditioned upon anything 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "They will kill me" #####
-Abram was afraid the Egyptians would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Sarai to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Abram's sister, they would have shown favor to him. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]]).
+Abram was afraid the Egyptians would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Sarai to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Abram's sister, they would have shown favor to him. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]])
 
 ## Links: ##
 

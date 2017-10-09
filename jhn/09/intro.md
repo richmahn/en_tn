@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### "Who sinned?" #####
-In ancient Israel, it was commonly believed that a child was born with disabilities because of the sin of one of his parents. This was not the teaching of the law of Moses. In this exchange, the Pharisees were sinners because they saw the power of Jesus and did not worship him. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]]).
+In ancient Israel, it was commonly believed that a child was born with disabilities because of the sin of one of his parents. This was not the teaching of the law of Moses. In this exchange, the Pharisees were sinners because they saw the power of Jesus and did not worship him. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 ##### "I am ... " #####
 

@@ -11,7 +11,7 @@ In the ancient Near East, wells were very important strategically. Therefore, th
 #### Other possible translation difficulties in this chapter ####
 
 ##### "She is my sister" #####
-Isaac was afraid the Egyptians would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Rebekah to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Isaac's sister, they would have shown favor to him. This is the same thing his father, Abraham, did. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]]).
+Isaac was afraid the Egyptians would see him as a foreigner and upon seeing his beautiful wife, they would try to kill him. This would free Rebekah to marry someone else. Apparently, it would have been easy for them to kill a foreigner without punishment. If she was Isaac's sister, they would have shown favor to him. This is the same thing his father, Abraham, did. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/favor]])
 ## Links: ##
 
 * __[Genesis 26:01 Notes](./01.md)__

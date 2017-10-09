@@ -12,7 +12,7 @@ God made a covenant with Abram. This covenant was not conditioned upon anything 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Built an altar #####
-Abram would have built an altar in order to offer sacrifices to Yahweh. There is an implicit understanding that building an altar was an act of worship. (See: [[rc://en/ta/man/translate/figs-explicit]]).
+Abram would have built an altar in order to offer sacrifices to Yahweh. There is an implicit understanding that building an altar was an act of worship. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

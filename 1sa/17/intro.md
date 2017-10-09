@@ -11,7 +11,7 @@ Trust in God is more powerful than physical might or military training and equip
 
 ##### Uncircumcised #####
 
-The people of Israel often used the term "uncircumcised" to refer to Gentiles. Here it is used to describe the Philistines. (See: [[rc://en/tw/dict/bible/kt/uncircumcised]]).
+The people of Israel often used the term "uncircumcised" to refer to Gentiles. Here it is used to describe the Philistines. (See: [[rc://en/tw/dict/bible/kt/uncircumcised]])
 
 #### Important figures of speech in this chapter ####
 

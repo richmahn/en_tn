@@ -21,7 +21,7 @@ Paul uses many rhetorical question defending himself against accusations from hi
 
 ##### Sarcasm #####
 
-Paul uses sarcasm, a special type of irony, when he reminds them how he had helped them at no cost. He says, "Forgive me for this wrong!" He also uses regular irony when he says: "But, since I am so crafty, I am the one who caught you by deceit" to introduce his defense against this accusation by showing how impossible it was to be true. (See: [[rc://en/ta/man/translate/figs-irony]]). 
+Paul uses sarcasm, a special type of irony, when he reminds them how he had helped them at no cost. He says, "Forgive me for this wrong!" He also uses regular irony when he says: "But, since I am so crafty, I am the one who caught you by deceit" to introduce his defense against this accusation by showing how impossible it was to be true. (See: [[rc://en/ta/man/translate/figs-irony]]) 
 
 #### Other possible translation difficulties in this chapter ####
 

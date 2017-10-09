@@ -17,7 +17,7 @@ When the author talks about the size of Nineveh, the measurements he gives are c
 ##### God repenting or relenting #####
 The last verse of this chapter says, "So then God changed his mind about the punishment that he had said he would do to them, and he did not do it." This concept of God changing His mind may be troubling for some translators and people may struggle to understand it. God's character is consistent. This whole book is written from a human viewpoint and so it is hard to understand the mind of God. 
 
-Yahweh is just and merciful so even though God did not follow through with a judgment in this instance, God's plan is always to punish evil. Later in history this nation did fall and was destroyed.  (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/judge]] and  [[rc://en/tw/dict/bible/kt/evil]]).
+Yahweh is just and merciful so even though God did not follow through with a judgment in this instance, God's plan is always to punish evil. Later in history this nation did fall and was destroyed.  (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/judge]] and  [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Links: ##
 

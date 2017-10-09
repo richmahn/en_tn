@@ -22,7 +22,7 @@ In the book of Deuteronomy, Moses repeats the laws of the covenant that God made
 
 #### How should the title of this book be translated? ####
 
-The name "Deuteronomy" means "Second Law" or "the retelling of the Law." Translators may decide on a title such as, "A Repeat of the Law" or "Moses Explains the Law Again." (See: [[rc://en/ta/man/translate/translate-names]]). 
+The name "Deuteronomy" means "Second Law" or "the retelling of the Law." Translators may decide on a title such as, "A Repeat of the Law" or "Moses Explains the Law Again." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Deuteronomy? ####
 

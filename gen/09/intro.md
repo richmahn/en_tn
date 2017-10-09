@@ -9,7 +9,7 @@ Some translations indent each line of poetry to make it easier to read. The ULB 
 #### Special concepts in this chapter ####
 
 ##### Man's relationship to animals #####
-There is a noticeable shift in man's relationship with the animals on the earth. Before the flood, there apparently was harmony between man and the animals. After the flood, the animals fear man and man is permitted to eat the animals, something he was not allowed to do previously. (See: [[rc://en/ta/man/translate/figs-explicit]]).
+There is a noticeable shift in man's relationship with the animals on the earth. Before the flood, there apparently was harmony between man and the animals. After the flood, the animals fear man and man is permitted to eat the animals, something he was not allowed to do previously. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Life in the blood #####
 This chapter introduces the concept that there is life in the blood of an animal and in man. In Hebrew thought, blood represents the life present in a living thing. This is an image used throughout Scripture. (See: [[rc://en/tw/dict/bible/kt/life]] and [[rc://en/tw/dict/bible/kt/blood]])

@@ -2,12 +2,12 @@
 
 #### Structure and formatting ####
 
-[1 Timothy 4:1-3](./01.md) is a prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]]).
+[1 Timothy 4:1-3](./01.md) is a prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Later times #####
-This is another way of referring to the last days. (See: [[rc://en/tw/dict/bible/kt/lastday]]).
+This is another way of referring to the last days. (See: [[rc://en/tw/dict/bible/kt/lastday]])
 
 ## Links: ##
 

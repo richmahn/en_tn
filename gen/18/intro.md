@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Three men #####
-The three men who visited Abraham were probably angels. This is evident from Abraham's reaction to them. Also, it appears Abraham knew that he was speaking directly to Yahweh through these men. (See: [[rc://en/tw/dict/bible/kt/angel]] and [[rc://en/ta/man/translate/figs-explicit]]).
+The three men who visited Abraham were probably angels. This is evident from Abraham's reaction to them. Also, it appears Abraham knew that he was speaking directly to Yahweh through these men. (See: [[rc://en/tw/dict/bible/kt/angel]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Disbelief #####
 When Sarah heard the news that she was going to have a baby, she laughed in disbelief because she was considered too old to have a baby. She also asked a rhetorical question in order to further show her disbelief. This would have been considered an insult to God. (See: [[rc://en/tw/dict/bible/kt/unbeliever]] and [[rc://en/ta/man/translate/figs-rquestion]])

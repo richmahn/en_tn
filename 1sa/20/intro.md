@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Jonathan warns David #####
-David tells Jonathan that Saul is still trying to kill him. Jonathan promises to find out if this is true. When David misses dinner two consecutive days, Saul asks about him. Jonathan says that David went home for an annual sacrifice. Saul gets angry at Jonathan, telling him he will never be king unless they kill David. Saul throws his spear at Jonathan. Jonathan warns David to run away, but first they both promise to always be friends. It was usually a king's son who became king after his death in the ancient Near East. (See: [[rc://en/ta/man/translate/figs-explicit]]).
+David tells Jonathan that Saul is still trying to kill him. Jonathan promises to find out if this is true. When David misses dinner two consecutive days, Saul asks about him. Jonathan says that David went home for an annual sacrifice. Saul gets angry at Jonathan, telling him he will never be king unless they kill David. Saul throws his spear at Jonathan. Jonathan warns David to run away, but first they both promise to always be friends. It was usually a king's son who became king after his death in the ancient Near East. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### Important figures of speech in this chapter ####
 
