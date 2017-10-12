@@ -6,7 +6,6 @@ Some translations indent each line of poetry to make it easier to read. The ULB 
 
 The ULB indents the lines in 17:1-6, 9-14 because they are part of a long quotation.
 
-
 #### Special concepts in this chapter ####
 
 ##### Damascus #####
