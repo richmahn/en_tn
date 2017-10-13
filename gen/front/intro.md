@@ -27,7 +27,7 @@ Genesis ends with Abraham's descendants living in Egypt with the hope of returni
 
 #### How should the title of this book be translated? ####
 
-"Genesis" means "beginning", so translators should express this idea in their title. Titles such as "The Beginning of Things" may be suitable. (See: [[rc://en/ta/man/translate/translate-names]])
+"Genesis" means "beginning," so translators should express this idea in their title. Titles such as "The Beginning of Things" may be suitable. (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote Genesis? ####
 
