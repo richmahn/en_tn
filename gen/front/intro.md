@@ -37,7 +37,9 @@ The writers of both the Old and New Testaments presented Moses as being very inv
 
 #### What are the covenants mentioned in Genesis? ####
 
-A covenant is a formal, binding agreement between two parties that one or both parties must fulfill. Three covenants are mentioned in Genesis. In the covenant with Adam, God promised to bless Adam and cause him to prosper. Adam was not allowed to eat fruit from the tree of knowledge of good and evil. God promised that Adam would die if he disobeyed what he commanded.
+A covenant is a formal, binding agreement between two parties that one or both parties must fulfill.
+
+God made three covenants in Genesis. In the covenant with Adam, God promised to bless Adam and cause him to prosper. Adam was not allowed to eat fruit from the tree of knowledge of good and evil. God promised that Adam would die if he disobeyed what he commanded.
 
 In the covenant with Noah, God promised to never again destroy the world with a flood.
 
