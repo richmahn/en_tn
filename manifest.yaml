@@ -656,7 +656,7 @@ projects:
   identifier: ezr
   path: ./ezr
   sort: 0
-  title: Esra translationNotes
+  title: Ezra translationNotes
   versification: ''
 - categories: []
   identifier: deu
