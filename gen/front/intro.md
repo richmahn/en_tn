@@ -13,13 +13,13 @@
 1. The accounts of the Patriarchs
       - The account of Abraham (12:1-25:11)
       - The account of Ishmael (25:12–25:18)
-      - The account of Isaac (25:19–35:29)
+      - The account of Isaac, focusing on Jacob (25:19–35:29)
       - The account of Esau (36:1–37:1)
-      - The account of Jacob (37:2–50:26)
+      - The account of Jacob, focusing on Joseph (37:2–50:26)
 
 #### What is Genesis about? ####
 
-Genesis is about the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over thousands of years. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
+Genesis begins with the early years of creation. It tells about God creating heaven, earth, and the first humans. It also tells about the first time humans sinned. This caused humans to be separated from God and to eventually die. Genesis 1-11 briefly tells about other important events that occurred over many hundreds of years. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/other/death]])
 
 Genesis is also about the beginning of God's people. Genesis 12-50 tells about how God remained faithful to Abraham and his descendants. Abraham's descendants became known as the Hebrews and later as the Israelites. These people would worship Yahweh and be his people.
 
@@ -27,45 +27,45 @@ Genesis ends with Abraham's descendants living in Egypt with the hope of returni
 
 #### How should the title of this book be translated? ####
 
-"Genesis" means "in the beginning," so translators should express in their title this idea. Titles such as "The Beginning of Things" may be suitable. (See: [[rc://en/ta/man/translate/translate-names]])
+"Genesis" means "beginning", so translators should express this idea in their title. Titles such as "The Beginning of Things" may be suitable. (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote Genesis? ####
 
-The writers of both the Old and New Testament presented Moses as being very involved with writing the book of Genesis. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
+The writers of both the Old and New Testaments presented Moses as being very involved with writing the book of Genesis. Since ancient times, both Jews and Christians have thought that Moses wrote Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What are the covenants mentioned in Genesis? ####
 
-There are three covenants mentioned in Genesis. In the covenant with Adam, God promised to bless Adam and cause him to prosper. But, Adam was not allowed to eat fruit from the tree of knowledge of good and evil. God promised that Adam would die if he disobeyed what he commanded.
+A covenant is a formal, binding agreement between two parties that one or both parties must fulfill. Three covenants are mentioned in Genesis. In the covenant with Adam, God promised to bless Adam and cause him to prosper. Adam was not allowed to eat fruit from the tree of knowledge of good and evil. God promised that Adam would die if he disobeyed what he commanded.
 
 In the covenant with Noah, God promised to never again destroy the world with a flood.
 
-In the covenant with Abraham, God promised to make Abrahams descendants into a great nation. He also promised to protect them and to give them land of their own. 
+In the covenant with Abraham, God promised to make Abraham's descendants into a great nation. He also promised to protect them and to give them a land of their own. 
 
 #### What was God's purpose for the book of Genesis? ####
 
-The book of Genesis says that a perfect God created a perfect world. However, the world became imperfect because human beings began to sin. But Genesis shows that God continues to have complete control over the world.
+The book of Genesis says that God created a very good world. However, the world became cursed because human beings began to sin. But Genesis shows that God continues to have complete control over the world.
 
-Genesis also describes the start of God's plan to bless the whole world again. This is shown when God makes a covenant with Abraham. With this covenant God chose Abraham and his descendants to be his people. God promised to bless the world through Abraham's descendants.
+Genesis also describes the start of God's plan to bless the whole world again. This is shown when God makes a covenant with Abraham. With this covenant, God chose Abraham and his descendants to be his people. God promised to bless the world through Abraham's descendants.
 
 #### What was the custom for inheritance as described by Genesis? ####
 
 There are several passages in Genesis that show the customs of a father who is about to die passing on a blessing to his son. Abraham blessed his son, Isaac, and made him the ancestor of the people of Israel. However, Ishmael, Abraham's other son, did not receive that same divine blessing. Likewise, Isaac's older son Esau  did not receive the blessing. Isaac's younger son, Jacob, received it instead. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/bless]])
 
-Also, it was the custom for a man to divide among his sons his material wealth and land. All his sons received equal portions except that the oldest son. The firstborn son received twice as much. His portion was called a double portion. Esau was foolish and gave up his right to receive the double portion.
+Also, it was the custom for a man to divide among his sons his material wealth and land. All his sons received equal portions except the oldest son. The firstborn son received twice as much. His portion was called a double portion. Esau gave up his right to receive the double portion.
 
 #### How does Genesis present sin and evil? ####
 
-Genesis speaks of sin and evil as if they were physical dirt or rottenness that spread among people, communities, and even their land. Many societies today also think of sin and evil in this way. As a result, many societies have very little trouble understanding the Genesis account of how sin was introduced into the world.
+Genesis presents sin as doing things that are against God’s word and God's ways. It presents evil as the opposite of good.
 
-These societies also assume that the way to stop the spread of evil is to perform sacrifices. For this reason, many societies still today easily understand the reason for the animal sacrifices of which Genesis speaks.
+Sin and evil have affected all people. This started when Adam disobeyed God in the Garden of Eden.
 
 ## Part 3: Important Translation Issues ##
 
 #### What is one way in which Genesis marks the beginning of important sections? ####
 
-Genesis uses one Hebrew phrase that the ULB translates as either, "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses himself. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
+Genesis uses one Hebrew phrase that the ULB translates as "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
 
 If the translator wants to translate in only two ways, we recommend for most passages a phrase such as, "this is the record about" or "this is information about." Some passages will be better translated, however, as "These were the descendants of."
 
@@ -77,7 +77,7 @@ However, in many languages, it is preferred to write summaries at the end of a n
 
 #### What is the difference between "people," "peoples," and "people groups"? ####
 
-The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to multiple groups of people. Each group speaks their own language, has their own customs, and worships their own gods. Some different peoples in the Ancient Near East were those of Israel, Egypt, Edom, Moab, and Ammon.
+The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to multiple groups of people. Each people group might speak their own language, have their own customs, and worships their own gods. Some different peoples in the ancient Near East were those of Israel, Egypt, Edom, Moab, and Ammon.
 
 The expression "people groups" (used in the UDB) means the same thing as "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
 
@@ -87,4 +87,4 @@ Many individuals in Genesis eventually had large numbers of descendants who were
 
 #### What do the phrases "to this day" or "of today" mean? ####
 
-These phrases were used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" and "of today" refer to a time which has already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Gen. 19:37, 19:38, 22:14, 26:33, 32:32, 35:20, 47:26, 48:18.
+These phrases were used by the narrator to refer to the time when he was writing. The translator should be aware that "to this day" and "of today" refer to a time already passed. The translator might decide to say, "to this day, at the time when this is being written," or, "to this day, at the time of writing." This Hebrew phrase occurs in Gen. 19:37, 19:38, 22:14, 26:33, 32:32, 35:20, 47:26, 48:18.
