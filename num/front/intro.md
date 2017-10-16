@@ -44,7 +44,7 @@ The Book of Numbers tells about the people of Israel as they traveled from Mount
 
 #### How should the title of this book be translated? ####
 
-The title of this book, "Numbers," refers to when the number of the Israelites was counted. The people of the project language may already familiar with the name "Numbers" from other Bible versions. If not, the translator could consider a clearer name for the book, such as "The Counting of the People of Israel." (See: [[rc://en/tw/dict/bible/other/census]])
+The title of this book, "Numbers," refers to when the number of the Israelites was counted. The people of the project language may already be familiar with the name "Numbers" from other Bible versions. If not, the translator could consider a clearer name for the book, such as "The Counting of the People of Israel." (See: [[rc://en/tw/dict/bible/other/census]])
 
 #### Who wrote the Book of Numbers? ####
 
