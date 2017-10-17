@@ -4,15 +4,13 @@
 
 #### Outline of Deuteronomy ####
 
-1. First teaching (1:1–4:43)
-    - Reminder of Yahweh's guidance of Israel (1:1–46) 
-    - Events at Kadesh and Sidon, and the defeat of Og, King of Bashan (2:1–3:29)
-    - Appeal to obey the law of Yahweh (4:1–43)
+1. Moses reminds Israel of how Yahweh guided them through the wilderness (1:1–3:29) 
+1. Moses appeals for Israel to obey the law of Yahweh (4:1–43)
 1. The Ten Commandments (5:1–10:22)
 1. Rules and warnings from the Law (11:1–26:19)
 1. Instructions for entering Canaan (27:1–26)
 1. Blessings for obeying and curses for disobeying (28:1-68)
-1. Renewing of the covenant (29:1-30:20) 
+1. The covenant renewed (29:1-30:20) 
 1. Last words of Moses, the Song of Moses, and his death (31:1–34:12)
 
  
