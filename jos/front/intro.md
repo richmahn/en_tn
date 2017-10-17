@@ -28,7 +28,7 @@ The book does not tell who wrote it. However, some verses in the book indicate t
 
 #### How does the Book of Joshua present the cause of historical events? ####
 
-In the ancient Near East, people assumed that gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. The events in the Book of Joshua occurred because Yahweh promised the Israelites that he would give them the Promised Land. However, what happened also depended on whether or not the Israelites obeyed Yahweh.
+In the ancient Near East, people assumed that gods caused world events to happen in a certain way. The Book of Joshua has some similarities with this view, but there are important differences. The events in the Book of Joshua occurred because Yahweh promised the Israelites that he would give them the Promised Land. What happened also depended on whether or not the Israelites obeyed Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
