@@ -32,11 +32,11 @@ This book traditionally has the title "Judges" because it gives accounts of some
 
 #### What kind of leaders were the judges? ####
 
-These were men and women whom God chose to help the Israelites defeat their enemies. After defeating their enemies, these leaders usually continued to help the people by deciding disputes among them. They also helped them make important decisions. Many of these leaders served all the people of Israel, but some of these leaders seem to have served only certain tribes.
+These were men and women whom God chose to help the Israelites defeat their enemies. After defeating their enemies, these leaders usually continued to help the people by deciding disputes among them. They also helped them make important decisions. Many of these leaders served all the people of Israel, but some of these leaders may have served only certain tribes.
 
 #### What kind of society was Israel during the time of the judges? ####
 
-During this time, the twelve tribes of Israel were independent of one another. They were not a unified nation with one king ruling them all. The tribes would sometimes help each other when enemies were threatening them.
+During this time, the twelve tribes of Israel were independent of one another. They were not a unified nation with one ruler. The tribes would sometimes help each other when enemies were threatening them.
 
 These tribes were descended from the same ancestors: Abraham, Isaac, and Jacob. They shared in the same covenant with Yahweh.
 
