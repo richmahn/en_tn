@@ -48,7 +48,7 @@ The writer of 1 Samuel often speaks of "Yahweh's anointed." This refers to the o
 
 #### What are curses, as found in 1 Samuel and elsewhere? ####
  
-A curse is a strong statement a person makes to cause a divine being or demonic being to punish someone or something. A curse usually has this pattern: "May God do so to you, and even more, if you hide anything from me of all the words that he spoke to you" (1 Sam. 3:17). Other instances of curses in 1 and 2 Samuel are found in 1 Sam 14:44; 20:13; 25:22; 2 Sam 3:9, 35; and 19:13. The translator should represent a curse in the project language in as strong a way as possible.
+A curse is a strong statement a person makes to cause bad things to happen to the person or thing being cursed. A curse usually has this pattern: "May God do so to you, and even more, if you hide anything from me of all the words that he spoke to you" (1 Sam. 3:17). Other instances of curses in 1 and 2 Samuel are found in 1 Sam 14:44; 20:13; 25:22; 2 Sam 3:9, 35; and 19:13. The translator should represent a curse in the project language in as strong a way as possible.
 
 #### How is the name "Israel" used in the Bible? ####
  
