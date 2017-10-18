@@ -18,7 +18,7 @@
 
 #### What is the Book of Judges about? ####
 
-The Book of Judges tells of some events that occurred after the Israelites settled in the Promised Land. The events in these book happened over a period of about 150 years.
+The Book of Judges tells of events that occurred after the Israelites settled in the Promised Land. The events in this book happened over a period of about 150 years.
 
 This book describes how the Israelites repeatedly sinned against Yahweh during this time. They worshiped false gods and did the same wicked things as the peoples who lived around them. Therefore, God would allow enemies to defeat and oppress the Israelites. Eventually, the Israelites would call to Yahweh for help. Yahweh would then cause someone to help the Israelites defeat their enemies. This person was called a "judge." The Israelites would live in peace until the judge died.
 
