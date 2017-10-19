@@ -59,4 +59,4 @@ The name "Israel" is used in many different ways in the Bible. Jacob was the son
 
 #### Can I translate the Book of 1 Kings before I translate the Books of 1 and 2 Samuel?
 
-The Books of 1 and 2 Samuel should be translated before 1 Kings, since 1 Kings continues from where 2 Samuel ends.
+The Books of 1 and 2 Samuel should be translated before 1 Kings, since 1 Kings continues from when 2 Samuel ends.
