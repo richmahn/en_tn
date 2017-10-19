@@ -51,7 +51,7 @@ In 2 Samuel 7, Yahweh made a covenant with David. God promised to make a descend
 
 David frequently refers to himself as "your servant" when he speaks to King Saul. He also calls Saul "my master." Indirectly addressing a person in this way can be difficult to translate. It is intended to show that the speaker submits to the one being addressed. English sometimes uses the address "sir" or "ma'am" in this way.
 
-#### Can I translate this book before 1 Samuel? #### 
+#### Can I translate this book before 1 Samuel?
 
 The Book of 1 Samuel should be translated before 2 Samuel, since 2 Samuel continues from where 1 Samuel ended.
 
