@@ -43,7 +43,7 @@ It is uncertain who wrote 2 Samuel. It may have been someone alive soon after Ki
 
 #### What covenant had its beginning in the Book of 2 Samuel? ####
 
-In 2 Samuel 7, Yahweh made a covenant with David. God promised to make a descendant of David rule forever over Israel. Christians believe that Jesus Christ fulfilled this covenant. Jesus was a descendant of David. Jesus is the true "anointed one," the person God chose to be king forever. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+In 2 Samuel 7, Yahweh made a covenant with David. God promised to make a descendant of David rule forever over Israel. Christians believe that Jesus Christ fulfills this covenant. Jesus was a descendant of David. Jesus is the true "anointed one," the person God chose to be king forever. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 ## Part 3: Important Translation Issues ##
 
@@ -53,7 +53,7 @@ David frequently refers to himself as "your servant" when he speaks to King Saul
 
 #### Can I translate this book before 1 Samuel?
 
-The Book of 1 Samuel should be translated before 2 Samuel, since 2 Samuel continues from where 1 Samuel ended.
+The Book of 1 Samuel should be translated before 2 Samuel, since 2 Samuel continues from where 1 Samuel ends.
 
 #### How is the name "Israel" used in the Bible? ####
 
