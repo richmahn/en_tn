@@ -34,7 +34,7 @@ Translators can use the traditional title "1 Samuel" or "First Samuel." Or, tran
  
 The purpose of 1 Samuel is to give an account of the events leading up to David becoming king of Israel.  In 1 Samuel, the twelve tribes of Israel unite under the first king of Israel, Saul. But Saul does not obey Yahweh's commands. So God uses Samuel to choose David as a king who will trust and obey Yahweh.
 
-#### Who wrote the Book of 1 Samuel? #### 
+#### Who wrote the Book of 1 Samuel? 
 
 It is uncertain who wrote 1 Samuel. It may have been someone alive soon after King Solomon died. When Solomon died, the kingdom of Israel split into two kingdoms. The author probably lived in the southern kingdom of Judah. A descendant of David continued to rule over the southern kingdom. The author may have written 1 Samuel to defend David's right to be king. This would prove that David's descendant was the rightful king of God's people.
 
