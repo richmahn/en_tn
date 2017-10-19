@@ -29,7 +29,7 @@
 
 These books are about what happened to the people of Israel, from the time of King Solomon to the time both the northern and southern kingdoms were destroyed. These books describe how Israel split into two kingdoms after Solomon died. It also tells about all the kings that ruled over each kingdom after Solomon died.
 
-In the southern kingdom, some kings did what Yahweh judged to be right. King Josiah repaired the temple and reformed the worship of Yahweh. He responded to the high priest finding a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
+In the southern kingdom, some kings did what Yahweh judged to be right. For example, King Josiah repaired the temple and reformed the worship of Yahweh. He responded to the high priest finding a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
 
 The Assyrians destroyed the northern kingdom in 722 B.C. The Babylonians destroyed the southern kingdom in 586 B.C.  
 
@@ -53,10 +53,10 @@ In the Bible, people often referred to themselves as "your servant" when speakin
 
 The writer repeats this kind of expression throughout the Books of 1 and 2 Kings. Here "in the eyes of Yahweh" represents what Yahweh thinks about someone. If a king was faithful and obeyed the covenant, he did what was right according to Yahweh. If he was not faithful and disobeyed the covenant, he did what was evil according to Yahweh.
 
-#### What is the meaning of the term Israel? ####
+#### What is the meaning of the term "Israel"? ####
 
 The name "Israel" is used in many different ways in the Bible. Jacob was the son of Isaac. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Can I translate the Book of 1 Kings before I translate the Books of 1 and 2 Samuel?
 
-The Books of 1 and 2 Samuel should be translated before 1 Kings, since 1 Kings continues from when 2 Samuel ends.
+The Books of 1 and 2 Samuel should be translated before 1 Kings, since 1 Kings continues from where 2 Samuel ends.
