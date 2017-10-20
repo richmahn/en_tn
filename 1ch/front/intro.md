@@ -16,7 +16,7 @@
 
 #### What are the Books of 1 and 2 Chronicles about? ####
 
-The Book of 1 Chronicles retells the line of descendants from Adam to Saul. It then gives the history of Israel during the time of David. The Book of 2 Chronicles gives the history of Israel beginning at the time of Solomon. It ends when the Babylonian army attacks Judah and takes some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to teach the people to avoid disobeying God as their ancestors did.
+The Book of 1 Chronicles retells the line of descendants from Adam to Saul. It then gives the history of Israel during the time of David. The Book of 2 Chronicles gives the history of Israel beginning with Solomon. It ends when the Babylonian army attacks Judah and takes some of the people to Babylon. The writers of Chronicles probably wrote these books for the Jews who returned from exile in Babylon. The purpose was to teach the people to avoid disobeying God as their ancestors did.
 
 #### How should the title of this book be translated? ####
 
@@ -24,13 +24,11 @@ Translators can use the traditional title "1 Chronicles" or "First Chronicles." 
 
 #### Who wrote 1 and 2 Chronicles? ####
 
-The writers of 1 and 2 Chronicles are unknown. They say that they used other books when writing Chronicles. The names of these other books are "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
+The writers of 1 and 2 Chronicles are unknown. They mention that they used other books when writing Chronicles. The names of these other books are "The Chronicles of Samuel the Seer," "The Chronicles of Nathan the Seer," "The Chronicles of Gad the Seer," "The History of Nathan the Prophet," "The Chronicles of Shemaiah the Prophet and Iddo," "The Story of the Prophet Iddo" and "The books of the kings of Judah and Israel."
 
 #### Why are there multiple books that give the history of the kings of Israel? ####
 
-The books of Chronicles and the books of Kings tell much of the same history, but they are not exactly the same. The writers of Chronicles were not simply retelling history. They wanted the people to know that Yahweh will still do what he promised in his covenant.
-
-The writers of 1 and 2 Chronicles wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshaphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God's covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+The books of Chronicles and the books of Kings tell much of the same history, but they are not exactly the same. The writers of Chronicles wrote mostly about the kings of Judah who were faithful to Yahweh and his covenant. The writers wanted the Jews to think carefully about David and Solomon. They also wanted the Jews to think about how Jehoshaphat, Hezekiah, and Josiah caused their ancestors to repent and to worship Yahweh. The writers wanted to encourage the Jews and their leaders to obey the law and to honor God's covenant with them. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
