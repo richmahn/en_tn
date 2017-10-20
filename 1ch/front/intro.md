@@ -34,7 +34,7 @@ The books of Chronicles and the books of Kings tell much of the same history, bu
 
 #### Why did God punish the people of Israel? ####
 
-God punished the people of Israel because they disobeyed him and worshiped false gods. God punished them by causing disasters and causing them to lose in battle. However, God forgave them and caused them to prosper again if they repented and obeyed him. The writers of 1 and 2 Chronicles continually reminded the readers that God punished his people because they disobeyed. They wanted the readers to understand that they must obey God. 
+God punished the people of Israel because they disobeyed him and worshiped false gods. God punished them with disease, disasters, and defeat in battle. However, God forgave them and caused them to prosper again if they repented and obeyed him. The writers of 1 and 2 Chronicles continually reminded the readers that God punished his people because they disobeyed. They wanted the readers to understand that they must obey God. 
 
 #### Why are alliances with foreign countries seen as evil in these books? ####
 
