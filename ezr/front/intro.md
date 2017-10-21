@@ -21,7 +21,7 @@ The Book of Ezra is named for the priest Ezra who led the first group of Jews ou
 
 #### Why were Israelites not allowed to marry people from other nations? ####
 
-Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners. He knew this would tempt the people of Israel to worship false gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners. He knew this would cause the people of Israel to worship false gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### Did all of the people of Israel return to their homeland? ####
 
