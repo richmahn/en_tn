@@ -15,7 +15,7 @@ The Book of Ezra is about how the people of Israel returned from Babylon and tri
 
 #### How should the title of this book be translated? ####
 
-The Book of Ezra is named for the priest Ezra who led the first group of Jews out of exile and back to Judah. Translators can use the traditional title "Ezra." Or they might choose to a clearer title, such as "The Book about Ezra." 
+The Book of Ezra is named for the priest Ezra who led the first group of Jews out of exile and back to Judah. Translators can use the traditional title "Ezra." Or they might choose a clearer title, such as "The Book about Ezra." 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -31,7 +31,7 @@ Many of the Jews remained in Babylon instead of returning to the Promised Land. 
 
 #### How does the Book of Ezra use the term "Israel"? ####
 
-The Book of Ezra uses the term "Israel" to refer to the kingdom of Judah. This kingdom was composed mostly of the two tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
+The Book of Ezra uses the term "Israel" to refer to the kingdom of Judah. This kingdom was mostly made up of the tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Are the events in the Book of Ezra told in the order that they actually happened? ####
 
