@@ -5,35 +5,34 @@
 #### Outline of Ezra ####
 
 1. The first Jewish exiles return to Jerusalem from Persia (1:1–2:70)
-1. The rebuilding of the temple in Jerusalem and reestablishment of temple worship (3:1–6:22)
-1. More exiles return, and Ezra leads religious reformation and implementation of the law of Yahweh (7:1–10:44)
-    - Ezra teaches the people the Law of Yahweh and sets apart the priests and Levites for their service (8:1–36)
-    - The problem of inter-marriage, and the solution (9:1–10:44)
+1. The people rebuild and dedicate the temple in Jerusalem (3:1–6:22)
+1. More exiles return; Ezra teaches the Law of Yahweh (7:1-8:36)
+1. The problem of the people marrying foreigners, and how it is solved (9:1–10:44)
 
 #### What is the Book of Ezra about? ####
 
-The Book of Ezra is about how the people of Israel returned from Babylon and tried to worship Yahweh again as the law required. To do this they needed to establish their nation again and affirm their covenant with Yahweh. They also needed to rebuild their temple so they could sacrifice to Yahweh.(See: [[rc://en/tw/dict/bible/kt/temple]]) 
+The Book of Ezra is about how the people of Israel returned from Babylon and tried to worship Yahweh again as the law required. To do this they needed to rebuild their temple so they could sacrifice to Yahweh. (See: [[rc://en/tw/dict/bible/kt/temple]]) 
 
 #### How should the title of this book be translated? ####
 
-The Book of Ezra is named for the priest Ezra who led the first group of Jews out of exile and back to Judah. Translators might choose to make the title clearer, for example, "The book about Ezra." 
+The Book of Ezra is named for the priest Ezra who led the first group of Jews out of exile and back to Judah. Translators can use the traditional title "Ezra." Or they might choose to a clearer title, such as "The Book about Ezra." 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### Why were Israelites not allowed to marry people from other nations? ####
 
-Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners because he knew this would cause the people of Israel to worship other gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Foreigners worshiped many false gods. Yahweh did not allow his people to marry foreigners. He knew this would tempt the people of Israel to worship false gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### Did all of the people of Israel return to their homeland? ####
 
-Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them had become successful in Babylon and desired to remain there. However, this meant that they were unable to participate in the temple worship as their ancestors had done. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
+Many of the Jews remained in Babylon instead of returning to the Promised Land. Many of them were successful in Babylon and desired to remain there. However, this meant that they were unable to worship Yahweh in Jerusalem as their ancestors had done. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
 
 ## Part 3: Important Translation Issues ##
 
 #### How does the Book of Ezra use the term "Israel"? ####
 
-The Book of Ezra uses the term "Israel" to refer to the kingdom of Judah, which was composed mostly of the two tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they became a part of other ethnic groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
+The Book of Ezra uses the term "Israel" to refer to the kingdom of Judah. This kingdom was composed mostly of the two tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Are the events in the Book of Ezra told in the order that they actually happened? ####
 
-Some of the events in the Book of Ezra are not told in the order they actually happened. Translators should pay attention to notes that signal when events are probably out of order with each other.
+Some of the events in the Book of Ezra are not told in the order they actually happened. Translators should pay attention to notes that signal when events are probably out of order.
