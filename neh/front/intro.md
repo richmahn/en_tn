@@ -7,7 +7,7 @@
 1. Nehemiah returns to Jerusalem and inspects the walls (1:1-2:20)
 1. The people rebuild the walls of Jerusalem (3:1-4:23)
 1. Nehemiah helps the poor and provides an unselfish example (5:1–19)
-1. Enemies try to slow down the work, but the people finish the walls in fifty-two days (6:1–19)
+1. Enemies try to slow down the work, but the people finish the walls (6:1–19)
 1. Nehemiah lists the people who returned from exile (7:6–73)
 1. Ezra reads the Law of Yahweh and the people respond (8:1-10:39)
 1. Nehemiah lists the people who lived in and around Jerusalem (11:1–36)
