@@ -4,26 +4,20 @@
 
 #### Outline of Nehemiah ####
 
-1. Nehemiah returns to Jerusalem (1:1-2:20)
-    - Nehemiah prays (1:1-11)
-    - King Artaxerxes allows Nehemiah to return to Jerusalem (2:1–2:8)
-    - Nehemiah inspects the walls of Jerusalem (2:9–2:20)
-1. The walls of Jerusalem are rebuilt (3:1-4:23)
-    - Beginning at the Sheep Gate and attracting notice of enemies (3:1–32)
-    - Sanballat and Tobiah threaten to stop the work on the walls (4:1–12)
-    - The work proceeds as Nehemiah leads the people (4:13–23)
+1. Nehemiah returns to Jerusalem and inspects the walls (1:1-2:20)
+1. The people rebuild the walls of Jerusalem (3:1-4:23)
 1. Nehemiah helps the poor and provides an unselfish example (5:1–19)
 1. Enemies try to slow down the work on the walls, but the people finish the walls in fifty-two days (6:1–19)
-1. Nehemiah again lists the people who returned from exile (7:6–73)
+1. Nehemiah lists the people who returned from exile (7:6–73)
 1. Ezra reads the Law of Yahweh and the people respond (8:1-10:39)
-1. The people who lived in and around Jerusalem (11:1–36)
+1. Nehemiah lists the people who lived in and around Jerusalem (11:1–36)
 1. Nehemiah lists the priests and Levites (12:1–26)
 1. The people dedicate the walls of Jerusalem (12:27–47)
 1. Nehemiah corrects problems (13:1–31)
 
 #### What is the Book of Nehemiah about? ####
 
-A Jew named Nehemiah lived in Persia and worked for King Artaxerxes. Nehemiah received a report that the wall around Jerusalem was broken down. Nehemiah returned to Jerusalem to help rebuild the city walls. The walls around the city helped protect the city against armies and invaders. 
+A Jew named Nehemiah lived in Persia and worked for King Artaxerxes. Nehemiah received a report that the walls around Jerusalem were broken down. Nehemiah returned to Jerusalem to help rebuild the city walls. The walls around the city helped protect the city against armies and invaders. 
 
 #### How should the title of this book be translated? ####
 
@@ -43,7 +37,7 @@ Many of the Jews remained in Babylon instead of returning to the Promised Land. 
 
 #### How does the Book of Nehemiah use the term "Israel"? ####
 
-The Book of Nehemiah uses the term "Israel" to refer to the kingdom of Judah. This kingdom was mostly made up of the tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
+The Book of Nehemiah uses the term "Israel" to refer to the kingdom of Judah. It was mostly made up of the tribes of Judah and Benjamin. The other ten tribes had ended their loyalty to any kings descended from David. God allowed the Assyrians to conquer the other ten tribes and take them into exile. As a result, they mixed with other people groups and did not return to the land of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Are the events in the Book of Nehemiah told in the order that they actually happened? ####
 
