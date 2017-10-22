@@ -4,10 +4,11 @@
 
 #### Outline of Nehemiah ####
 
-1. Nehemiah's return to Jerusalem 
-    - How Nehemiah receives permission to return to Jerusalem (1:1–2:8)
-    - Nehemiah begins to rebuild the walls of Jerusalem (2:9–2:20)
-1. Rebuilding the walls of Jerusalem
+1. Nehemiah returns to Jerusalem (1:1-2:20)
+    - Nehemiah prays (1:1-11)
+    - King Artaxerxes allows Nehemiah to return to Jerusalem (2:1–2:8)
+    - Nehemiah inspects the walls of Jerusalem (2:9–2:20)
+1. Rebuilding the walls of Jerusalem (3:1-4:23)
     - Beginning at the Sheep Gate and attracting notice of enemies (3:1–32)
     - Sanballat and Tobiah threaten to stop the work on the walls (4:1–12)
     - The work proceeds under Nehemiah's leadership (4:13–23)
