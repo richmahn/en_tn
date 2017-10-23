@@ -43,4 +43,4 @@ The term "Medes" refers to a people group that had formed its own nation, but th
 
 #### What different levels of language are in the Book of Esther? ####
 
-In the Book of Esther, people talk to each other in many different situations. There is the polite and stately talk in the Persian court and the words of royal decrees. Friends and close relatives also talk to each other. There are even the words that one uses in speaking to oneself. Translators should use all the ways used in their own languages in order to express these different kinds of situations in a way that their readers will identify and understand.
+In the Book of Esther, people talk to each other in many different situations. There is the polite and stately talk in the Persian court and the words of royal decrees. Friends and close relatives also talk to each other. There are even the words that one uses in speaking to oneself. Translators should use all the ways their own language has to express these different situations in a way that their readers will identify and understand.
