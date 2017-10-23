@@ -28,7 +28,7 @@ The Book of Job is about a man named Job who experienced disaster even though he
 
 #### How should the title of this book be translated? ####
 
-The Book of Job is named for Job, the main character in the book. His name is not related to the English word "job." Translators might use the traditional title of "The Book of Job" or just "Job." Or they may choose to make the title clearer, such as "The Book About Job" or "The Book About a Man Named Job."
+The Book of Job is named for Job, the main character in the book. His name is not related to the English word "job." Translators might use the traditional title of "The Book of Job" or just "Job." Or they may choose a clearer title, such as "The Book About Job" or "The Book About a Man Named Job."
 
 #### Who wrote the Book of Job? ####
 
@@ -38,11 +38,11 @@ We do not know who wrote the Book of Job. Many people suggest that Moses compose
 
 #### Does sin cause suffering? ####
 
-When a person sins against God, it can cause the person to experience suffering. People in the ancient Near East generally believed that a person suffered because they or their ancestors sinned against God. This is what many religions teach. However, the Book of Job shows that a person may suffer even if he has not sinned. (See: [[rc://en/tw/dict/bible/kt/sin]])
+When a person sins against Yahweh, it can cause the person to experience suffering. People in the ancient Near East generally believed that a person suffered because they or their ancestors sinned against God. This is what many religions teach. However, the Book of Job shows that a person may suffer even if he or she has not sinned. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Were Eliphaz, Bildad, and Zophar really Job's friends? ####
 
-Job 2:11 refers to Eliphaz, Bildad, and Zophar as the friends of Job. But they did not comfort Job. Instead, they tried to persuade Job to say something about God that Job believed was not true. So we might wonder if it is right to translate the word as "friends." They cared about Job and they wanted to help him. However, what they said did not help Job because they did not understand the truth about God.
+Job 2:11 refers to Eliphaz, Bildad, and Zophar as the friends of Job. But they did not comfort Job. Instead, they tried to persuade Job to say something about God that Job believed was not true. So we might wonder if it is right to translate the word as "friends." They did care about Job and they wanted to help him. However, what they said did not help Job because they did not understand the truth about God.
 
 #### When did the events in the Book of Job take place? ####
 
@@ -56,4 +56,4 @@ The writer starts and ends the Book of Job by telling what happened to Job in na
 
 #### Is the Book of Job difficult to translate? ####
 
-Because the writer did not connect Job with a specific time or place in history, the translator may wish to translate this book before other Old Testament books. However, the Book of Job has many uncommon words and phrases, making parts of it hard to understand and translate. For this reason, translators may decide to translate this book after they have translated other books of the Bible.
+Because the writer did not connect Job with a specific time or place in history, the translator may decide to translate this book before other Old Testament books. However, the Book of Job has many uncommon words and phrases, making parts of it hard to understand and translate. For this reason, translators may decide to translate this book after they have translated other books of the Bible.
