@@ -51,9 +51,9 @@ The psalmists often pictured Yahweh as:
 
 When people honor someone, they think well of him and may even admire him. On the other hand, if people shame someone, that person loses honor and is disgraced.
 
-Psalmists often express a great desire that Yahweh would be honored by the Israelites and also by the rest of the world.
+Psalmists often expressed a great desire that Yahweh would be honored by the Israelites and also by the rest of the world.
 
-Also, psalmists often express fear that they will be shamed by their enemies. When they feel this way, the psalmists speak of their trust that Yahweh will not allow this to happen.
+Also, psalmists often expressed fear that they would be shamed by their enemies. When they felt this way, the psalmists wrote of their trust that Yahweh would not allow this to happen.
 
 ## Part 3: Important Translation Issues ##
 
