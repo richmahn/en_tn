@@ -34,7 +34,7 @@ Proverbs begins with the words, "The Proverbs of Solomon, son of David and King 
 
 "Wisdom" means the understanding and doing of what is true and morally right. So a wise person understands and does the right thing in the eyes of Yahweh. Anyone living in this way will also learn to live well with other people and to make good practical decisions in life. The book of Proverbs also acknowledges that it is important to maintain one's honor or reputation in the opinion of other people. Those who fail to live in this way are called "foolish." For this reason, it is possible for a person to be very intelligent and still be foolish. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/foolish]])
 
-## Part 3: Important Translation Issues ##is true and morally right.
+## Part 3: Important Translation Issues ##
 
 #### What form do the individual proverbs have? ####
 
