@@ -26,7 +26,7 @@ The title of this book is often translated as "Proverbs." A more general transla
 
 #### Who wrote the book of Proverbs? ####
 
-Proverbs begins with the words, "The Proverbs of Solomon, son of David and King of Israel." But Solomon did not write all of the proverbs. Unnamed wise people may have written some of them. Agur the son of Jakeh (30:1) and King Lemuel (31:1) identify themselves as writing some of the proverbs.
+Proverbs begins with the words, "The Proverbs of Solomon, son of David and King of Israel." But Solomon did not write all of the proverbs. Unnamed wise men may have written some of them. Agur the son of Jakeh (30:1) and King Lemuel (31:1) identify themselves as writing some of the proverbs.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
