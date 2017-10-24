@@ -24,7 +24,7 @@ The Psalms were written over a long period of time. Moses probably wrote the ear
 
 #### What are the Messianic psalms? ####
 
-Some psalms are called "Messianic psalms." These are psalms that New Testament writers considered to prophesy about the Messiah, Jesus Christ. They cited Psalms 2, 8, 16, 22, 34, 40, 41, 45, 68, 69, 89, 102, 109, 110, and 118 at least one time each in the New Testament.
+Some psalms are called "Messianic psalms." New Testament writers considered these psalms to prophesy about the Messiah, Jesus Christ. They cited Psalms 2, 8, 16, 22, 34, 40, 41, 45, 68, 69, 89, 102, 109, 110, and 118 at least one time each in the New Testament.
 
 #### What are superscriptions in the Psalms? ####
 
@@ -71,4 +71,4 @@ From ancient times, people have numbered the Psalms in different ways. The Jews 
 
 #### How should the translator view the terms Selah and Higgaion that occur in various psalms? ####
 
-These seem to be musical terms that were inserted as directions for singers and musicians. Scholars do not agree as to their meaning. For this reason, translators may decide to transliterate them or leave them out but not try to translate them.
+"Selah" and "Higgaion" seem to be musical terms inserted as directions for singers and musicians. Scholars do not agree as to their meaning. For this reason, translators may decide to transliterate them or leave them out but not try to translate them.
