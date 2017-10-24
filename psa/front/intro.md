@@ -12,7 +12,7 @@
 
 #### What is the Book of Psalms? ####
 
-The Book of Psalms is a collection of songs. People called psalmists wrote them for different reasons. In some psalms, the psalmists expressed their praise for God. In other psalms, they asked God for help and expressed confidence in his love and power. In still other psalms, they confessed their sins and begged for mercy. The Israelites wrote some psalms to ask Yahweh to defeat their enemies. Still other psalms celebrated the event of a new king beginning his reign. Psalmists also wrote to praise the city of Jerusalem. They wrote some psalms to instruct people on how to be wise by honoring Yahweh and obeying his law. Also, pilgrims sang some of the psalms while traveling to Jerusalem to worship there. Some psalms became songs of praise in the temple worship of Yahweh. 
+The Book of Psalms is a collection of songs. People called psalmists wrote them for different reasons. In some psalms, the psalmists expressed their praise for God. In other psalms, they asked God for help and expressed confidence in his love and power. In others, they confessed their sins and begged for mercy. The Israelites wrote some psalms to ask Yahweh to defeat their enemies. Other psalms celebrated the event of a new king beginning his reign. Psalmists also wrote to praise the city of Jerusalem. They wrote some psalms to instruct people on how to be wise by honoring Yahweh and obeying his law. Also, pilgrims sang some of the psalms while traveling to Jerusalem to worship there. Some psalms became songs of praise in the temple worship of Yahweh. 
 
 #### How should the title of this book be translated? ####
 
