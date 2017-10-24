@@ -63,12 +63,12 @@ The psalmists wrote the Psalms as Hebrew poetry. The ULB and UDB use indentation
 
 This style typically uses pairs of poetic lines that relate to each other in different ways. Usually, poetic lines are said to be "parallel" to each other. A line that is indented further to the right is paired with the line above it. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 
-Translators will have to decide whether to present the Psalms as poetry or as prose in their own language. Translators will need to consider whether their language has poetic forms that are suitable for expressing the thought of the Psalms.
+Translators will have to decide whether to present the Psalms as poetry or as prose in their own language. Translators will need to consider whether their language has poetic forms that are suitable for expressing the Psalms.
 
 #### Why do some versions number the Psalms differently than others? ####
 
-From ancient times, people have numbered the Psalms in different ways. The Jews numbered the Psalms in Hebrew in one way. When they translated the Psalms into Greek, they numbered them in a different way. As a result, the Hebrew numbering and the Greek numbering of Psalms were both passed down through the centuries. They are both still in use today. Translators will probably want to use the numbering that most versions in their own country use.
+From ancient times, people have numbered the Psalms in different ways. The Jews numbered the Psalms in Hebrew in one way. When they translated the Psalms into Greek, they numbered them in a different way. As a result, the Hebrew numbering and the Greek numbering of Psalms were both passed down through the centuries. They are both still in use today. Translators will probably want to number the Psalms in the same way that most versions in their own country do.
 
 #### How should the translator view the terms Selah and Higgaion that occur in various psalms? ####
 
-These seem to be musical terms that were inserted as directions for singers and musicians. Scholars do not agree as to their meaning. For this reason, translators may decide to transliterate them or leave them out, but not try to translate them.
+These seem to be musical terms that were inserted as directions for singers and musicians. Scholars do not agree as to their meaning. For this reason, translators may decide to transliterate them or leave them out but not try to translate them.
