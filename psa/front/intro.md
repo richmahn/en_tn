@@ -30,7 +30,7 @@ Some psalms are called "Messianic psalms." These are psalms that New Testament w
 
 Many psalms give some information called superscriptions before the beginning of the psalm. Some of the expressions in the superscriptions are difficult to understand, so modern versions often have different interpretations of them.
 
-Seventy-three psalms are called "A psalm of David," which may mean they were written by King David. Or, it could mean someone wrote them for David or in the style that David used when he composed poetry. The superscriptions of some psalms give the historical situations in which they were written.
+Seventy-three psalms are called "A psalm of David." This may mean they were written by King David. Or, it could mean someone wrote them for David or in the style that David used when he composed poetry. The superscriptions of some psalms give the historical situations in which they were written.
 
 Some superscriptions give instructions about how they should be played and sung. They tell which instruments, singers, or melodies that should be used for that psalm. Fifty-five psalms are addressed "to the choirmaster" or "chief musician." The psalmists seem to have meant them to be used in temple worship. 
 
