@@ -1,8 +1,8 @@
-# Introduction to The Song of Songs #
+# Introduction to the Song of Songs #
 
 ## Part 1: General Introduction ##
 
-#### Outline of The Song of Songs ####
+#### Outline of the Song of Songs ####
 
 1. The bride longs for the bridegroom to arrive (1:1–2:7)
 1. The bridegroom praises the woman he loves (2:8–3:5)
@@ -13,40 +13,40 @@
 
 #### What is the Song of Songs about? ####
 
-The Song of Songs is a poem or a series of poems about the love between a man and a woman. It became traditional for Jews to interpret the book as a picture of God's love for the people of Israel. In the same way, it became traditional for Christians to interpret it as a picture of Christ's love for all Christian believers.
+The Song of Songs is a poem or a series of poems that celebrate love and intimacy between a man and a woman. Jews traditionally have interpreted the book as a picture of God's love for his people Israel. In the same way, many Christians interpret it as a picture of love between Christ and his bride, the church of all believers.
+
+#### Who wrote the Song of Songs? ####
+
+The first verse of the book ("The Song of Songs, which is Solomon's") gives the idea that King Solomon of Israel wrote it. However, people have interpreted this verse in different ways, so not everyone is persuaded that Solomon wrote it.
 
 #### How should the title of this book be translated? ####
 
-This book may also be called the "Songs of Love," "Great Poems of Love" or "The Love Songs of Solomon." (See: [[rc://en/ta/man/translate/translate-names]]) 
-
-#### Who wrote The Song of Songs? ####
-
-The idea that Solomon, king of Israel, was its author comes from the opening verse of the book ("The Song of Songs, which is Solomon's"). However, there are different ways to interpret this verse, so not everyone is persuaded that Solomon was the book's author.
+This book is traditionally titled "Song of Songs," which means the very best song, or "Song of Solomon." It may also be called "Songs of Love," "Great Poems of Love," or "The Love Songs of Solomon." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What place do the descriptions of sexual behavior have in The Song of Songs? ####
+#### What place do the descriptions of sexual behavior have in the Song of Songs? ####
 
-The Song of Songs shows approval of sexual behavior as an expression of love between a husband and wife. 
+The Song of Songs approves of sexual behavior expressing love between a husband and his wife. 
 
 ## Part 3: Important Translation Issues ##
 
-#### How many characters are in The Song of Songs? ####
+#### How many characters are in the Song of Songs? ####
 
 The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
 
-Some interpreters believe there may be more characters than these, but this is not certain. The interpretation adopted by the ULB and UDB recognizes only the man, the woman, and the group of women.
+Some interpreters believe there may be more characters than these, but this is not certain. The ULB and UDB versions recognize only the man, the woman, and the group of women.
 
 #### What are the lines about people speaking? ####
 
-The Song of Songs is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. The author did not identify the speakers and their audience throughout the poem. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
+The Song of Songs is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. Throughout the poem, the author does not identify the speakers and their audience. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
 Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
-#### How should one translate The Song of Songs if the readers will view certain terms as coarse, vulgar, or improper? ####
+#### How should one translate the Song of Songs if the readers will view certain terms as coarse, vulgar, or improper? ####
 
-There are many images or forms appearing in the Song of Songs that, when translated, may be considered improper. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
+Readers may consider many images or forms appearing in the Song of Songs as improper when translated. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
-#### How do I translate metaphors in this book? ####
+#### How do I translate metaphors and similes in this book? ####
 
-There are many metaphors in this book. These metaphors are often ambiguous. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by veiling their meaning. However, since their meanings are often very unclear, ambiguity in translation is encouraged. You might choose to translate the words as they are written in order to avoid committing to a specific meaning. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+There are many metaphors and similes in this book. These figures of speech are often unclear. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by hiding their meaning. However, since their meanings are often unclear, ambiguity in translation is encouraged. You can translate the words as they are written in order to avoid committing to a specific meaning. (See: [[rc://en/ta/man/translate/figs-metaphor]])
