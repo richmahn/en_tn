@@ -10,7 +10,7 @@
 
 #### What is the Book of Ecclesiastes about? ####
 
-Ecclesiastes is a group of short teachings that try to answer questions such as "What do people gain from all their labor?" Ecclesiastes is a series of thoughts about a variety of subjects, all of them about the purpose and worth of various actions and events. The author concludes that all the work we perform and alll the knowledge and skill we gain is like a vapor that disappears, and that we must fear Yahweh and keep his commandments.
+Ecclesiastes is a group of short teachings that try to answer questions such as "What do people gain from all their labor?" Ecclesiastes is a series of thoughts about a variety of subjects, all of them about the purpose and worth of various actions and events. The author concludes that all the work we perform and all the knowledge and skill we gain is like a vapor that disappears, and that we must fear Yahweh and keep his commandments.
 
 #### How should the title of this book be translated? ####
 
@@ -55,4 +55,4 @@ Parts of the Book of Ecclesiastes can be shocking or surprising to read in Scrip
 
 The author of Ecclesiastes concludes that everything in this life quickly passes away, like a vapor that disappears. A person's circumstances or character and even all of the things of this world have little or no significance apart from God. That is because God gives meaning to everything. 
 
-At the end of their life, people often say that the years of their life seemed short. The author of Ecclesiastes used the metaphor of vapor or breath to describe how life ends while it seems to still be beginning.
+At the end of their life, people often say that the years of their life seemed short. The author of Ecclesiastes used the metaphor of vapor or breath to describe how life ends while it seems to be just beginning.
