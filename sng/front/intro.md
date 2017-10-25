@@ -33,7 +33,7 @@ The Song of Songs approves of sexual behavior expressing love between a husband 
 
 #### How many characters are in the Song of Songs? ####
 
-The two main characters in this book are the man and the woman, who love each other. There is also the group of women to whom the young woman speaks. The women also make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
+The two main characters in this book are the man and the woman, who love each other. The woman also speaks to a group of women called the "daughters of Jerusalem," and these women make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
 
 Some interpreters believe there may be more characters than these, but this is not certain. The ULB and UDB versions recognize only the man, the woman, and the group of women.
 
