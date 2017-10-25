@@ -4,7 +4,7 @@
 
 #### Outline of the Book of Ecclesiastes ####
 
-1. Questions about the nature of life and the limits of human wisdom (1:1–6:12)
+1. The author questions the nature of life and the limits of human wisdom (1:1–6:12)
 1. Teaching about making wise choices in how one lives (7:1–12:7)
 1. The conclusion and ending (12:8–14)
 
@@ -20,22 +20,22 @@ The traditional title for this book is "Ecclesiastes." Its meaning is similar to
 
 The author appears to be Solomon, "the Teacher, the descendant of David and king in Jerusalem." This is consistent with what Solomon was known for: 
 * his wisdom (See: [Ecclesiastes 1:16](../01/16.md) and twenty-six other references to wisdom);
-* his vast wealth (See: [Ecclesiastes 2:8](../02/07.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md))
-* the large number of servants (See: [Ecclesiastes 2:7](../02/07.md) and [Ecclesiastes 10:7](../10/05.md));
-* the limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/12.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and
+* his vast wealth (See: [Ecclesiastes 2:8](../02/07.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md));
+* his large number of servants (See: [Ecclesiastes 2:7](../02/07.md) and [Ecclesiastes 10:7](../10/05.md));
+* his limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/12.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and
 * the wide range of his many building projects (See: [Ecclesiastes 2:4-6](../02/04.md)).
 
 Solomon appears to have written the Book of Ecclesiastes near the end of his life, as he reflected on what he gained from all that he did.
 
 #### Why are there so many apparent contradictions in the Book of Ecclesiastes? ####
 
-Some scholars think the author was a faithful man. Other scholars think that the author made bad decisions and was sorrowful when he wrote this book. The apparent contradictions in the book may indicate Solomon's wavering faith. Or, it is also possible that the teachings in the book differ from each other in order to be relevant to various circumstances in the reader's life.
+Some scholars think the author was a faithful man. Other scholars think that the author made bad decisions and was sorrowful when he wrote this book. Apparent contradictions in the book may indicate that Solomon's faith was sometimes weak. Or, it is also possible that the teachings in the book differ from each other in order to relate to different things happening in the lives of readers.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What does this book teach about how God repays people? ####
 
-In the ancient Near East, people were concerned with why they were being punished or blessed. They often attributed these things to their gods. The writer of Ecclesiastes explains that Yahweh will bless and reward people for the right things they do and punish people for the evil things they do, but this might not happen in this life. (See: [[rc://en/tw/dict/bible/kt/bless]], [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/falsegod]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/evil]])
+In the ancient Near East, people were concerned with why they were being punished or blessed. They often connected these things to their gods. The writer of Ecclesiastes explains that Yahweh will bless and reward people for the right things they do and punish people for the evil things they do. But this might not happen in this life. (See: [[rc://en/tw/dict/bible/kt/bless]], [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/falsegod]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/evil]])
 
 #### What value did the Israelites place on the Book of Ecclesiastes? ####
 
