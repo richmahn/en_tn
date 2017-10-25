@@ -5,7 +5,7 @@
 #### Outline of the Book of Ecclesiastes ####
 
 1. The author questions the nature of life and the limits of human wisdom (1:1–6:12)
-1. Teaching about making wise choices in how one lives (7:1–12:7)
+1. The author teaches about making wise choices in how one lives (7:1–12:7)
 1. The conclusion and ending (12:8–14)
 
 #### What is the Book of Ecclesiastes about? ####
