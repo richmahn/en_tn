@@ -41,12 +41,12 @@ Some interpreters believe there may be more characters than these, but this is n
 
 The Song of Songs is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. Throughout the poem, the author does not identify the speakers and their audience. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
-Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," and "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
+Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," or "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
 #### How should one translate the Song of Songs if the readers will view certain terms as coarse, vulgar, or improper? ####
 
-Readers may consider many images or forms appearing in the Song of Songs as improper when translated. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
+Readers might consider many images or forms appearing in the Song of Songs as improper when translated. The translator should try to avoid offensive language if possible, by using expressions that will not cause offense. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
 #### How do I translate metaphors and similes in this book? ####
 
-There are many metaphors and similes in this book. These figures of speech are often unclear. If they have sexual meanings, metaphors describing feelings or emotions are often used to avoid offense by hiding their meaning. However, since their meanings are often unclear, ambiguity in translation is encouraged. You can translate the words as they are written in order to avoid committing to a specific meaning. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+There are many metaphors and similes in this book. These figures of speech are often unclear. If they have sexual meanings, figures of speech describing feelings or emotions are often used to avoid offense by hiding their meaning. However, since their meanings are often unclear, ambiguity in translation is encouraged. You can translate the words as they are written in order to avoid committing to a specific meaning. (See: [[rc://en/ta/man/translate/figs-metaphor]])
