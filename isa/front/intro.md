@@ -20,9 +20,9 @@
 
 #### What is the Book of Isaiah about? ####
 
-The first part of the Book of Isaiah (chapters 1-39) contains many different prophecies. Some of Isaiah's prophecies are about how God will send an army to destroy the southern kingdom of Judah. Some of the prophecies are about how God will punish other nations of the world. The end of the first part (chapters 36-39) tells how Isaiah helped King Hezekiah when the Assyrians were about to attack Jerusalem.
+The first part of the Book of Isaiah (chapters 1-39) contains many different prophecies. Some of Isaiah's prophecies are about how God would send an army to destroy the southern kingdom of Judah. Some of the prophecies are about how God would punish other nations of the world. The end of the first part (chapters 36-39) tells how Isaiah helped King Hezekiah when the Assyrians were about to attack Jerusalem.
 
-The second part of the Book of Isaiah (chapters 40-66) has prophecies about how God will comfort and restore his people. He will do this through his anointed servant. By the suffering of this servant, God will forgive his people (chapter 53). This servant will also cause Gentiles to worship Yahweh. The Book of Isaiah ends with a prophecy about God creating a new heavens and earth.
+The second part of the Book of Isaiah (chapters 40-66) has prophecies about how God will comfort and restore his people. He will do this through his chosen servant. By the suffering of this servant, God will forgive his people (chapter 53). This servant will also cause Gentiles to worship Yahweh. The Book of Isaiah ends with a prophecy about God creating a new heavens and earth.
 
 #### How should the title of this book be translated? ####
 
@@ -30,7 +30,7 @@ Translators can use the traditional title, "The Book of Isaiah" or just "Isaiah.
 
 #### When was the Book of Isaiah written? ####
 
-The prophet Isaiah wrote down the prophecies in this book around 740–700 B.C., when the Assyrian Empire was becoming more powerful. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Kings Uzziah, Jotham, Ahaz, and Hezekiah. The story of Isaiah helping King Hezekiah (chapters 36-39) is also found in 2 Kings 19–20.
+Isaiah prophesied around 740–700 B.C., when the Assyrian Empire was becoming more powerful. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Kings Uzziah, Jotham, Ahaz, and Hezekiah. The story of Isaiah helping King Hezekiah (chapters 36-39) is also found in 2 Kings 19–20.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
