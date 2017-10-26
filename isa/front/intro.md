@@ -4,8 +4,8 @@
 
 #### Outline of the Book of Isaiah ####
 
-1. Rebuke of Judah and promised restoration (1–5)
-1. Destruction promised for many empires (6–23)
+1. Yahweh judges his people but gives them hope (chapters 1–12)
+1. Isaiah prophesies against many nations (13–23)
 1. Universal judgment and promise of redemption (24–27)
 1. Accusation of the chosen people of Yahweh (28–31)
 1. Promised restoration of the line of kings descended from David (32–33)
@@ -20,17 +20,17 @@
 
 #### What is the Book of Isaiah about? ####
 
-The first part of the book (Isa 1-39) contains many of Isaiah's prophecies. Some of these prophecies are about how God will send an army to destroy the southern kingdom of Judah. Some of the prophecies are about how God will punish other nations of the world. There is also a narrative section that tells how Isaiah helped King Hezekiah when the Assyrians were about to attack Jerusalem.
+The first part of the Book of Isaiah (chapters 1-39) contains many different prophecies. Some of Isaiah's prophecies are about how God will send an army to destroy the southern kingdom of Judah. Some of the prophecies are about how God will punish other nations of the world. The end of the first part (chapters 36-39) tells how Isaiah helped King Hezekiah when the Assyrians were about to attack Jerusalem.
 
-The second part of the book (40-66) contains prophecies about how God will later comfort and restore his people. God will accomplish this through his anointed servant. By the suffering of this servant, God will forgive his people (Isa 53). This servant will also cause Gentiles to worship Yahweh. The book ends with a prophecy about God creating a new heavens and earth.
+The second part of the Book of Isaiah (chapters 40-66) has prophecies about how God will comfort and restore his people. He will do this through his anointed servant. By the suffering of this servant, God will forgive his people (chapter 53). This servant will also cause Gentiles to worship Yahweh. The Book of Isaiah ends with a prophecy about God creating a new heavens and earth.
 
 #### How should the title of this book be translated? ####
 
-"The Book of Isaiah" may also be called the "The book about Isaiah" or "The Sayings of Isaiah." (See: [[rc://en/ta/man/translate/translate-names]])
+Translators can use the traditional title, "The Book of Isaiah" or just "Isaiah." Or they may call it "The Book about Isaiah" or "The Sayings of Isaiah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### When did the prophet Isaiah live? ####
 
-The prophet Isaiah wrote down the prophecies in this book about 740–700 B.C., when the Assyrian Empire was becoming more powerful. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Jotham, Ahaz, Hezekiah, and Manasseh. The story of Isaiah helping King Hezekiah against the Assyrians is also found in 2 Kings 19–20.
+The prophet Isaiah wrote down the prophecies in this book about 740–700 B.C., when the Assyrian Empire was becoming more powerful. Isaiah spoke the prophecies from God to the people of Judah during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. The story of Isaiah helping King Hezekiah (chapters 36-39) is also found in 2 Kings 19–20.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
