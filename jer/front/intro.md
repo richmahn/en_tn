@@ -59,7 +59,7 @@ Jeremiah introduced a "new covenant" between Yahweh and Israel (chapter 31). Yah
 
 #### What relationship do Jeremiah's prophecies have to the other nations besides Israel? ####
 
-Much of the Old Testament before this time is only about the nation of Israel. But Jeremiah also spoke about God's judgment on the other nations of the world. God would also punish other nations for the wicked things they did. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/sin]])
+Much of the Old Testament before this time is only about the nation of Israel. But Jeremiah also spoke of how Yahweh would judge other nations of the world. Yahweh would also punish the other nations for their wicked deeds. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Part 3: Important Translation Issues ##
 
