@@ -48,7 +48,7 @@ People groups commonly sing songs after someone dies or during a funeral. Depend
 
 #### What style of writing is Lamentations? ####
 
-Lamentations is a collection of five poems. The Jewish exiles living in captivity in Babylon may have sung or chanted these laments. The Jews who remained in Jerusalem after the Babylonians conquered it may also have sung them. In Chapters 1, 2, and 4, each line of the poem begins with a different Hebrew letter, in the order of the Hebrew alphabet. The third chapter repeats three lines starting with the same letter of the HEbrew alphabet. The next three lines begin with next letter in the Hebrew alphabet. 
+Lamentations is a collection of five poems. The Jewish exiles living in captivity in Babylon may have sung or chanted these laments. The Jews who remained in Jerusalem after the Babylonians conquered it may also have sung them. In Chapters 1, 2, and 4, each line of the poem begins with a different Hebrew letter, in the order of the Hebrew alphabet. The third chapter repeats three lines starting with the same letter of the Hebrew alphabet. The next three lines begin with next letter in the Hebrew alphabet. 
 
 #### Who are the woman and the man in Lamentations? ####
 
