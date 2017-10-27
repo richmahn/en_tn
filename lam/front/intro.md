@@ -11,7 +11,7 @@
     - Yahweh comforts those who turn back to him (3:21–39)
     - Judah is learning to return to Yahweh (3:40–54)
     - Judah cries out to be avenged of its enemies (3:55–66)
-1. Fourth lament: The terrors of the siege of Jerusalem
+1. Fourth lament: The terrors of the siege of Jerusalem (4:1-4:22)
     - The people's sin caused Jerusalem to be punished (4:1–20)
     - Their being punished satisfied Yahweh's wrath for their sin (4:21–22a)
     - Edom will be punished also (4:22b)
@@ -38,11 +38,11 @@ Translators may use the traditional title of "Lamentations." Or they may call th
 The author of Lamentations often speaks of God abandoning Israel. But this did not mean that God had completely given up on Israel.
 He rejected Israel for a period of time as the special place where he would be present. However, God remained faithful to what he promised Israel in his covenant. 
 
-While it was common in the ancient Near East to think that a god might leave his city, he usually did so because he was too weak to defend it. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+While it was common in the ancient Near East to think that a god might leave its city, it usually did so because it was too weak to defend the city. In Lamentations, Yahweh abandons Jerusalem because the people sinned against him, not because he was too weak to defend the city. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### What is a funeral song? ####
 
-People groups commonly sing songs after someone dies or during a funeral. Depending on the culture, these songs can sound either happy or sad. The Book of Lamentations is like a sad song, called a "lament," sung at a funeral. Some scholars think the rhythm of the poems in Hebrew makes them sound slow like a funeral procession. 
+People groups commonly sing songs after someone dies or during a funeral. Depending on the culture, these songs can sound either happy or sad. The Book of Lamentations is like a sad song, called a "lament," sung at a funeral. Some scholars think the rhythm of the laments in Hebrew makes them sound slow like a funeral procession. 
 
 ## Part 3: Important Translation Issues ##
 
@@ -52,4 +52,4 @@ Lamentations is a collection of five poems. The Jewish exiles living in captivit
 
 #### Who are the woman and the man in Lamentations? ####
 
-The author uses the image of an abandoned woman and a persecuted man to represent Judah and Jerusalem. He uses this type of personification to help readers understand the pain. (See: [[rc://en/ta/man/translate/figs-personification]])
+The author uses the image of an abandoned woman and a persecuted man to represent Judah and Jerusalem. He uses this type of personification to help readers understand the pain and sorrow. (See: [[rc://en/ta/man/translate/figs-personification]])
