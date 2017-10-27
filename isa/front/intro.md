@@ -52,6 +52,6 @@ The name "Israel" is used in many different ways in the Bible. Jacob was the son
 
 Most of Isaiah's prophecies are put into poetic form. Many prophets in Israel used poetry when they spoke important messages that were meant to be remembered. 
 
-Sometimes his messages are hard to understand because he assumed his original hearers would know what he was talking about. But, readers today do not always understand what he meant. However, the basic topics about which Isaiah spoke to his audience are still clear to us today. These topics are about how the people sinned against God, how God would punish them, and how he would eventually comfort and restore them.  
+Sometimes his messages are hard to understand because he assumed his original hearers would know what he was talking about. ButN readers today do not always understand what he meant. However, the basic topics about which Isaiah spoke to his audience are still clear to us today. These topics are about how the people sinned against God, how God would punish them, and how he would eventually comfort and restore them.  
 
 Isaiah also speaks about the Servant of Yahweh, in four different poems that are today called the "Four Servant Songs." Christians understand these very clearly as prophecies about Jesus Christ, the Messiah. These "songs" are in Isaiah 42:1-9; 49:1-7; 50:4-9; and 52:13-53:12. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/mercy]] and [[rc://en/tw/dict/bible/kt/christ]])
