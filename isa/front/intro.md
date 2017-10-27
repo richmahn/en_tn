@@ -7,13 +7,13 @@
 1. Yahweh judges his people but gives them hope (chapters 1–12)
 1. Isaiah prophesies against many nations (13–23)
 1. Universal judgment and promise of redemption (24–27)
-1. Accusation of the chosen people of Yahweh (28–31)
-1. Promised restoration of the line of kings descended from David (32–33)
-1. Judgment on Edom and the nations, and the promise of restoration of the ransomed (34–35)
+1. The people of Yahweh judged (28–31)
+1. The righteous kingdom (32–33)
+1. The nations judged and the ransomed to be restored (34–35)
 1. Hezekiah and Sennacherib (36–39)
-1. Comfort promised, comfort, deliverance, and judgment (40–45)
+1. Yahweh comforts his people and will restore them (40–45)
 1. Prophecies against Babylon (46–48)
-1. Redemption of Yahweh's servant (49–55)
+1. The servant of Yahweh (49–55)
 1. Ethics of Yahweh's kingdom (56–59)
 1. Restored Jerusalem (60–66)
  
@@ -38,9 +38,9 @@ Isaiah prophesied around 740–700 B.C., when the Assyrian Empire was becoming m
 
 Jews and Christians have interpreted many passages in Isaiah to be about the Messiah. In 9:1-7, Isaiah described a child being born who would rule over David's kingdom. In chapter 11, Isaiah described a descendant of David who would have God's spirit upon him. Several prophecies in chapters 40-66 are about "the servant." This servant will comfort the people, rule righteously, and suffer so that God will forgive the people for sinning against him. The New Testament writers interpret these prophecies to be about Jesus Christ. 
 
-#### What did Isaiah mean by "the last days"? ####
+#### What did Isaiah mean by the "last days"? ####
 
-The Book of Isaiah was one of the first books to include prophesies about the last days, that is, the end times. Isaiah explained that in the last days there would be a future kingdom of Israel. Jerusalem would be its main city. And people from all over the world will go there to learn about Yahweh and worship him.
+Isaiah prophesied of the "last days" (2:2) as some later or final period of time. The New Testament writers understood the "last days" to be the church age (Acts 2:17, Hebrews 1:2). The Book of Isaiah was one of the first books to include prophesies about the last days. Isaiah explained that in the last days there would be a future kingdom of Israel. Jerusalem would be its main city. And people from all over the world will go there to learn about Yahweh and worship him.
 
 ## Part 3: Important Translation Issues ##
 
