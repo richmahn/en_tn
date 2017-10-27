@@ -4,7 +4,7 @@
 
 #### Outline of the Book of Lamentations ####
 
-1. First lament: Yahweh and its people have abandoned Jerusalem (1:1–22) 
+1. First lament: Yahweh and his people have abandoned Jerusalem (1:1–22) 
 1. Second lament: Yahweh was angry with Jerusalem and caused it to be destroyed (2:1–22)
 1. Third lament (3:1-66)
     - The people grieve (3:1–20)
