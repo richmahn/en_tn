@@ -28,14 +28,14 @@
     - Damascus (49:23–27)
     - Kedar (49:28–33)
     - Elam (49:34–39)
-    - Babylon (50:1–51:64)
+    - Babylonia (50:1–51:64)
 1. Jerusalem captured and destroyed (52:1–34)
 
 #### What is the Book of Jeremiah about? ####
 
 The Book of Jeremiah gives the prophesies of a priest named Jeremiah. It also tells how Jeremiah suffered in different ways while he prophesied.
 
-began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Jeremiah began prophesying about 626 B.C. After the death of King Josiah, many groups of people in Israel opposed Jeremiah. Some of these people wanted to depend on Egypt to protect the nation. Others were idol worshipers. They hated Jeremiah for denouncing their gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 During the reign of King Jehoiakim, Jeremiah prophesied about the temple of Yahweh. King Jehoiakim received some of these prophecies in writing and burned the document. The next king, Zedekiah, put Jeremiah in prison when he told the king to surrender to Babylon. 
 
@@ -45,7 +45,7 @@ Shortly after that, Gedaliah, whom Nebuchadnezzar had chosen to be governor over
 
 #### How should the title of this book be translated? ####
 
-The traditional title of this book is "The Book of Jeremiah" or just "Jeremiah." Translators may also call it the "The Book about Jeremiah" or "What the Prophet Jeremiah said." (See: [[rc://en/ta/man/translate/translate-names]])
+The traditional title of this book is "The Book of Jeremiah" or just "Jeremiah." Translators may also call it the "The Book about Jeremiah" or "What the Prophet Jeremiah Said." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Jeremiah? ####
 
