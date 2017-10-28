@@ -18,7 +18,7 @@
 
 #### What is Ezekiel about? ####
 
-The Book of Ezekiel contains words that Ezekiel prophesied between 592 B.C. and 573 B.C. The Jewish people were exiled in Babylonia. Ezekiel told them that God had punished them because they sinned against him. However, Ezekiel assured them that God would restore Judah. God was using Babylon to punish them. But eventually another nation would defeat the Babylonians. Ezekiel also prophesied about how God will restore Judah and the temple so that the people can worship and sacrifice to him again. Ezekiel then describes how the land will be divided again among the tribes of Israel. 
+The Book of Ezekiel contains words that Ezekiel prophesied between 592 B.C. and 573 B.C. The Jewish people were exiled in Babylonia. Ezekiel told them that God had punished them because they sinned against him. However, Ezekiel assured them that God would restore them. God was using Babylon to punish them. But eventually another nation would defeat the Babylonians. Ezekiel also prophesied about how God will restore Jerusalem and the temple so that the people can worship and sacrifice to him again. Ezekiel then describes how the land will be divided again among the tribes of Israel. 
 
 #### How should the title of this book be translated? ####
 
