@@ -18,7 +18,7 @@
 
 #### What is Ezekiel about? ####
 
-The Book of Ezekiel contains words that Ezekiel prophesied between 592 B.C. and 573 B.C. The Jewish people were exiled in Babylonia. Ezekiel told them that God had punished them because they sinned against him. However, Ezekiel assured them that God would restore them. God was using Babylon to punish them. But eventually another nation would defeat the Babylonians. Ezekiel also prophesied about how God will restore Jerusalem and the temple so that the people can worship and sacrifice to him again. Ezekiel then describes how the land will be divided again among the tribes of Israel. 
+The Book of Ezekiel contains words that Ezekiel prophesied between 592 B.C. and 573 B.C. The Jewish people were exiled in Babylonia. Ezekiel told them that God had punished them because they sinned against him. However, Ezekiel assured them that God would restore them. God was using Babylon to punish them. But eventually another nation would defeat the Babylonians. Ezekiel also prophesied about how God will restore Jerusalem and the temple so that the people can worship and sacrifice to him again. Ezekiel then described how the land will be divided again among the tribes of Israel. 
 
 #### How should the title of this book be translated? ####
 
@@ -42,12 +42,12 @@ The sacrifices in Ezekiel 46 are somewhat different than the required sacrifices
 
 #### How should one represent Ezekiel's visions in translation? ####
 
-The Book of Ezekiel has many complicated visions. Some of his visions became the basis for other books of Scripture that also contain descriptions of events of the end of the world. Some of these visions are about God rescuing Israel in the distant future. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+The Book of Ezekiel has many complicated visions. Some are similar to passages in other Scripture books that describe future events. Some of these visions are about God rescuing Israel in the distant future. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-It is unclear whether Ezekiel actually traveled to the particular places named in the visions, or whether he had only a mental idea of what he was describing. For this reason, Ezekiel's viewpoint is sometimes difficult to understand, even though the meanings of the visions may be clear. 
+It is unclear whether Ezekiel actually traveled to the particular places named in the visions, or whether what he described were mental ideas. For this reason, Ezekiel's viewpoint is sometimes difficult to understand, even though the meanings of the visions may be clear. 
 
 Translators should avoid trying to explain these visions in their translations. Instead, they should present the visions just as they are in the source text.
 
 #### What does "and you will know that I am Yahweh" mean? ####
 
-This is a common phrase in the Book of Ezekiel. It is meant to assure the reader that these messages truly came from God, and that he will do what he has promised. The translator may also use the phrase "and you will understand that I am Yahweh and what I say will happen." In the UDB, it is translated "then you will know that I, Yahweh, have the power to do what I say that I will do."
+This is a common phrase in the Book of Ezekiel. It is meant to assure the reader that these messages truly came from God, and that he will do what he has promised. The translator may also use the phrase "and you will understand that I am Yahweh and what I say will happen." The UDB translates it as "then you will know that I, Yahweh, have the power to do what I say that I will do."
