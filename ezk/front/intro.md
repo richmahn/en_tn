@@ -4,18 +4,16 @@
 
 #### Outline of Ezekiel ####
 
-1. The approaching destruction of Jerusalem (Chapters 1–27)
-    - Call of Ezekiel (1:1–3:21)
-    - Judgment against what people have done (3:22–11:25)
-    - Prediction of Jerusalem's fall and captivity of its people (12:1–27:7)
-1. The prophecies, oracles, and laments toward neighboring nations (25:1–32:32)
-1. Oracles of hope (33:1–48:35)
-    - New covenant (33:1–22)
-    - New life (34:1–31)
+1. Yahweh calls Ezekiel to speak his words (1:1–3:27)
+1. Yahweh judges Judah and Jerusalem (4:1-24:27)
+1. Ezekiel prophesies against nearby nations (25:1–32:32)
+1. Yahweh explains the fall of Jerusalem (33:1–33)
+1. Ezekiel brings messages of hope (34:1–48:35)
+    - A new shepherd (34:1–31)
     - Edom destroyed (35:1–15)
     - Israel restored (36:1–37:28)
     - Gog and Magog (38:1–39:29)
-    - The Temple idealized and the city restored (40:1–48:35)
+    - Jerusalem and the temple restored (40:1–48:35)
  
 
 #### What is Ezekiel about? ####
