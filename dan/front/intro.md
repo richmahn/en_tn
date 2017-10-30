@@ -11,7 +11,7 @@
 1. Belshazzar's feast and the writing on the wall (5:1-31)
 1. Daniel in the den of lions (6:1–28)
 1. Daniel's vision of four beasts (7:1–28)
-1. Daniel's vision of a ram and goat (8:1–27)
+1. Daniel's vision of a ram and a goat (8:1–27)
 1. Daniel prays and Gabriel answers (9:1–23)
 1. Daniel's vision of seventy weeks (9:24–27)
 1. Daniel's vision of a man (10:1–11:1)
@@ -21,7 +21,7 @@
 
 #### What is the Book of Daniel about? ####
 
-The first part of the Book of Daniel (Chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land and serving a pagan king. And it tells how God rewarded them because they were faithful. 
+The first part of the Book of Daniel (chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land and serving a pagan king. And it tells how God rewarded them because they were faithful. 
 
 The rest of the Book of Daniel is a series of prophetic visions. Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and a type of the great enemy of God appearing. Chapter 12 is a vision that describes end times.
 
@@ -35,17 +35,17 @@ Daniel was a Jew who became a Babylonian government official during the exile. H
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### Why is there a missing week in Daniel's prophecy? ####
+#### Is there a missing week in Daniel's prophecy? ####
 
-Scholars disagree about what appears to be a "missing week" in 9:24-27. It is best for translators to allow this mystery to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+Scholars disagree about what may appear to be a missing week in 9:24-27. It is best for translators to allow apparent mysteries such as this to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-#### When do the seventy weeks begin? ####
+#### When did the seventy weeks begin? ####
 
-The seventy weeks in 9:24-27 begins when a decree is issued to rebuild the city of Jerusalem. But there were several decrees that allowed this to happen.
+The seventy weeks in 9:24-27 began when a decree was issued to rebuild the city of Jerusalem. But there were several decrees that allowed this to happen. Translators do not need to understand how prophecies were fulfilled to translate the text.
 
 #### Who was Darius the Mede? ####
 
-Darius the Mede was a Babylonian king who sent Daniel into a den of lions. People have not found his name in history outside of The Book of Daniel. Scholars have tried to explain who Darius was, but they are not certain.
+Darius the Mede was a Babylonian king who sent Daniel into a den of lions. People have not found his name in history outside of the Book of Daniel. Scholars have tried to explain who Darius was, but they are not certain.
 
 ## Part 3: Important Translation Issues ##
 
