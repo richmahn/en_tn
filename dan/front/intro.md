@@ -41,7 +41,7 @@ Scholars disagree about what may appear to be a missing week in 9:24-27. It is b
 
 #### When did the seventy weeks begin? ####
 
-The seventy weeks in 9:24-27 began when a decree was issued to rebuild the city of Jerusalem. But there were several decrees that allowed this to happen. Translators do not need to understand how prophecies were fulfilled to translate the text.
+The seventy weeks in 9:24-27 began when a decree was issued to rebuild the city of Jerusalem. But there were several decrees that allowed this to happen. Translators do not need to understand how prophecies were or will be fulfilled to translate the text.
 
 #### Who was Darius the Mede? ####
 
