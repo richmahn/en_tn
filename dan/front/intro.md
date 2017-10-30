@@ -15,7 +15,7 @@
 1. Daniel prays and Gabriel answers (9:1–23)
 1. Daniel's vision of seventy weeks (9:24–27)
 1. Daniel's vision of a man (10:1–11:1)
-1. The kings of the South and the North (11:2–20)
+1. The kings of the south and north (11:2–20)
 1. An evil king exalts himself (11:21-39)
 1. The time of the end (11:40–12:13)
 
