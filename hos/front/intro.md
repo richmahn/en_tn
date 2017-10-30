@@ -19,7 +19,7 @@
 
 #### What is the Book of Hosea about? ####
 
-This book contains the prophecies of Hosea, son of Beeri. Hosea lived in the northern kingdom of Israel. He often called this kingdom Ephraim or Samaria. Hosea prophesied for about 38 years and predicted that the northern kingdom of Israel would be destroyed.
+This book contains the prophecies of Hosea, son of Beeri. Hosea lived in the northern kingdom of Israel. He often called this kingdom Ephraim or Samaria. Hosea prophesied for about 38 years and predicted that Assyria would destroy the northern kingdom of Israel.
 
 Hosea began to prophesy around 753 B.C., just before King Jeroboam II died. At this time, the kingdom of Israel was prosperous but spiritually weak. Hosea warned how Yahweh would punish Israel unless the people turned back to Yahweh and were faithful to him. 
 
@@ -29,7 +29,7 @@ This book is traditionally named "The Book of Hosea" or just "Hosea." Translator
 
 #### Who wrote the Book of Hosea? ####
 
-Although this book tells what Hosea propesied, it is uncertain whether Hosea wrote the book himself. It was probably written after Samaria, the capital of the norther kingdom, was destroyed in 721 B.C. 
+Although this book tells what Hosea prophesied, it is uncertain whether Hosea wrote the book himself. It was probably written after Samaria, the capital of the norther kingdom, was destroyed in 721 B.C. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -39,11 +39,11 @@ God told Hosea to marry the prostitute Gomer. This represented how the kingdom o
 
 #### What is a lawsuit? ####
 
-Many cultures have a process for resolving disputes through law courts. These legal disputes are called lawsuits. The Book of Hosea contains some legal terms. This is because Yahweh is spoken of as if he were a husband accusing his wife in court of being unfaithful to him. Part of the Book of Hosea follows the form of a lawsuit. Yahweh identifies the problem (4:1), someone is accused (4:4), someone is found guilty (4:15), and the guilty ones will be punished (5:1).
+Many cultures have a process for resolving disputes through law courts. These legal disputes are called lawsuits. The Book of Hosea contains some legal terms. This is because Yahweh is spoken of as if he were a husband accusing his wife in court of being unfaithful to him. Part of the Book of Hosea follows the form of a lawsuit. A problem is identified (4:1), someone is accused (4:4), someone is found guilty (4:15), and the guilty ones will be punished (5:1).
 
 #### Who did the people of the kingdom of Israel worship? ####
 
-Israel was supposed to worship Yahweh alone. But they worshiped both Yahweh and the Canaanite gods such as Baal. This was a major cause for Yahweh to judge the kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/judge]])
+Israel was supposed to worship Yahweh alone. But they worshiped both Yahweh and the Canaanite gods such as Baal. This was a major reason why Yahweh judged the kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/judge]])
 
 ## Part 3: Important Translation Issues ##
 
