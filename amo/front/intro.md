@@ -37,13 +37,13 @@ Justice is an important theme in the words of Amos. Justice means people treatin
 
 #### What is a lawsuit? ####
 
-Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. There are various legal terms in Amos, and part of the book presents events in a courtroom. The people are introduced, the problem is explained, the people are examined, witnesses speak, and a verdict is given.
+Many cultures have a process for resolving disputes through the use of courts. These legal disputes are called lawsuits. Amos uses various legal terms. Part of the book presents events in a courtroom. The people are introduced, the problem is explained, the people are examined, witnesses speak, and a verdict is given.
 
 ## Part 3: Important Translation Issues ##
 
 #### What is the meaning of the term "Israel"? ####
 
-The name "Israel" is used in many different ways in the Bible. There was a man named Jacob. God changed his name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, "Israel" almost always refers to the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
+The name "Israel" is used in many different ways in the Bible. Jacob was a son of Isaac. God changed Jacob's name to Israel. The descendants of Jacob became a nation also called Israel. Eventually, the nation of Israel split into two kingdoms. The northern kingdom was named Israel. The southern kingdom was named Judah. In Amos, "Israel" almost always refers to the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/israel]])
 
 #### Where do the various narratives begin and end? ####
 
