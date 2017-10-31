@@ -4,13 +4,13 @@
 
 #### Outline of the Book of Joel ####
 
-1. Judgment and the day of Yahweh (1:1–2:11)
-    - An army like locusts, like the coming Judgment (1:1–20)
+1. The land ruined; the day of Yahweh is coming (1:1–2:11)
+    - Locusts and drought (1:1–20)
     - The day of Yahweh (2:1–11)
-1. Restoration and the mercy of Yahweh 
+1. Yahweh restores his people (2:12-32)
     - The people should turn to Yahweh, for he will pity them (2:12–27)
     - The Spirit of Yahweh, wonders, and salvation (2:28–32)
-1. Yahweh will judge the nations
+1. Yahweh will judge the nations (3:1-21)
     - Yahweh judges the nations (3:1–16)
     - Yahweh dwells in Zion (3:17–21)
 
@@ -34,9 +34,9 @@ This book contains the prophecies of an Israelite named Joel, son of Pethuel. Th
 
 #### What is the meaning of the locust attacks in Joel 1 and 2, and of the drought in Joel 2? ####
 
-It was common for farmers in the Ancient Near East to experience massive locust attacks. Millions of these insects would come and eat all crops in their fields. Joel may have been describing such attacks in the first two chapters. But because Joel used military terms to describe these locust attacks, he may have been describing enemy invaders who would come and destroy the land and its people. 
+Farmers in the ancient Near East sometimes experienced locust attacks. Millions of these insects would come and eat all the crops in their fields. In chapters 1 and 2, Joel described such attacks using military terms. He may have been prophesying about enemy invaders who would come and destroy the land and its people. 
 
-In the same manner, the drought that Joel described might have been a real lack of rain. Or it might have been a description of either enemy invaders or of Yahweh himself coming to punish his people and the other nations.
+In the same manner, the drought that Joel described might have been a real lack of rain. Or Joel may have been prophesying about either enemy invaders or Yahweh himself coming to punish his people and the other nations.
 
 Translators should translate simply as Joel described them and not worry about the various possible meanings.
 
@@ -48,4 +48,4 @@ Joel prophesied that God will defeat Israel's enemies, rebuild the city of Jerus
 
 #### How should one translate the poetry of the Book of Joel? ####
 
-All of the text in the Book of Joel is poetry, as is represented in the ULB. The UDB, however, presents the text as prose, because many translators will choose to use prose in their versions. Translators who wish to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])
+All of the text in the Book of Joel is poetry. The ULB presents it in this way. The UDB, however, presents the text as prose. Many translators may choose to use prose in their versions. Translators who wish to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])
