@@ -16,7 +16,7 @@
 
 #### What is the Book of Joel about? ####
 
-The main idea in the Book of Joel is "the day of Yahweh." This expression is found five times in Joel (1:15, 2:1, 2:11, 2:21, 3:14).
+The main idea in the Book of Joel is "the day of Yahweh." This expression is found five times (1:15, 2:1, 2:11, 2:21, 3:14).
 
 The people of Israel looked forward to "the day of Yahweh" as a day that Yahweh would judge the nations around them. But Joel warns that Yahweh would also judge Israel for being unfaithful to him. After judging them, Yahweh will restore his people.
 
@@ -34,9 +34,9 @@ This book contains the prophecies of an Israelite named Joel, son of Pethuel. Th
 
 #### What is the meaning of the locust attacks in Joel 1 and 2, and of the drought in Joel 2? ####
 
-Farmers in the ancient Near East sometimes experienced locust attacks. Millions of these insects would come and eat all the crops in their fields. In chapters 1 and 2, Joel described such attacks using military terms. He may have been prophesying about enemy invaders who would come and destroy the land and its people. 
+Farmers in the ancient Near East sometimes experienced locust attacks. Millions of these insects would come and eat all the crops in their fields. In Chapters 1 and 2, Joel described such attacks using military terms. He may have been prophesying about enemy invaders who would come and destroy the land and its people. 
 
-In the same manner, the drought that Joel described might have been a real lack of rain. Or Joel may have been prophesying about either enemy invaders or Yahweh himself coming to punish his people and the other nations.
+Joel also described a drought in Chapter 2. It might have been a real lack of rain. Or Joel may have been prophesying about either enemy invaders or Yahweh himself coming to punish his people and the other nations.
 
 Translators should translate simply as Joel described them and not worry about the various possible meanings.
 
@@ -48,4 +48,4 @@ Joel prophesied that God will defeat Israel's enemies, rebuild the city of Jerus
 
 #### How should one translate the poetry of the Book of Joel? ####
 
-All of the text in the Book of Joel is poetry. The ULB presents it in this way. The UDB, however, presents the text as prose. Many translators may choose to use prose in their versions. Translators who wish to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])
+All of the text in the Book of Joel is poetry. The ULB presents it in this way. The UDB, however, presents the text as prose. Translators may choose to use prose in their versions. Translators who want to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])
