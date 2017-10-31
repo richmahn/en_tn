@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 116 is a psalm of praise for saving the psalmist's life. (See: [[rc://en/tw/dict/bible/kt/save]]
+Psalm 116 is a psalm of praise for saving the psalmist's life. (See: [[rc://en/tw/dict/bible/kt/save]])
 
 #### Special concepts in this chapter ####
 
