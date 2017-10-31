@@ -27,13 +27,13 @@ The traditional title of this book is "The Book of Amos" or just "Amos." Transla
 
 #### Who wrote the Book of Amos? ####
 
-The prophet Amos probably wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he knew and understood the law of Moses. Also, Amos was skilled at communicating with expressive and meaningful words.
+The prophet Amos probably wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he knew and understood the law of Moses. Also, Amos skillfully used expressive and meaningful words.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### How is justice described in Amos? ####
 
-Justice is an important theme in the words of Amos. Justice means people treating others fairly according to the law of Yahweh. People in Israel were oppressing and taking advantage of poor people, orphans, and widows. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. Truly obeying the law of Moses meant being just to other people. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Justice is an important theme in the Book of Amos. Justice means people treating others fairly according to the law of Yahweh. People in Israel were oppressing and taking advantage of poor people, orphans, and widows. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. Truly obeying the law of Moses meant being just to other people. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### What is a lawsuit? ####
 
