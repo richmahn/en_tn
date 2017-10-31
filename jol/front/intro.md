@@ -16,7 +16,7 @@
 
 #### What is the Book of Joel about? ####
 
-The main idea in the Book of Joel is "the day of Yahweh." This expression is found five times in Joel (1:15; 2:1; 11, 21; and 3:14).
+The main idea in the Book of Joel is "the day of Yahweh." This expression is found five times in Joel (1:15, 2:1, 2:11, 2:21, 3:14).
 
 The people of Israel looked forward to "the day of Yahweh" as a day that Yahweh would judge the nations around them. But Joel warns that Yahweh would also judge Israel for being unfaithful to him. After judging them, Yahweh will restore his people.
 
@@ -28,7 +28,7 @@ The traditional title of this book is "The Book of Joel" or just "Joel." Transla
 
 #### Who wrote the Book of Joel? ####
 
-This book contains the prophecies of an Israelite named Joel, son of Pethuel. The book does not indicate when it was written. 
+This book contains the prophecies of an Israelite named Joel, son of Pethuel. The book does not tell when Joel prophesied. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
