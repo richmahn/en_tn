@@ -16,15 +16,19 @@
 
 #### What is the Book of Joel about? ####
 
-In this book, Joel speaks a lot about the "day of Yahweh." This expression is found five times in Joel (1:15; 2:1; 11, 21; and 3:14). This phrase is also found in thirteen places in Isaiah, Jeremiah, Ezekiel, Amos, Obadiah, Zephaniah, and Malachi. This "day" is the time when Yahweh will judge and punish his people and also the other nations. At this time, Yahweh will stop those who rebel and sin against him.
+The main idea in the Book of Joel is "the day of Yahweh." This expression is found five times in Joel (1:15; 2:1; 11, 21; and 3:14).
+
+The people of Israel looked forward to "the day of Yahweh" as a day that Yahweh would judge the nations around them. But Joel warns that Yahweh would also judge Israel for being unfaithful to him. After judging them, Yahweh will restore his people.
+
+Joel's message applies to the people of God in the church age. For Yahweh says, "I will pour out my Spirit on all flesh" and "everyone who calls on Yahweh will be saved" (2:28 and 2:32, quoted by Peter in Acts 2:17 and 2:21).
 
 #### How should the title of this book be translated? ####
 
-"The Book of Joel" may also be called the "The Book about Joel" or "The Sayings of Joel." (See: [[rc://en/ta/man/translate/translate-names]]) 
+The traditional title of this book is "The Book of Joel" or just "Joel." Translators may also call it the "The Book about Joel" or "The Sayings of Joel." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Joel? ####
 
-Very little is known about the prophet Joel, son of Pethuel. According to tradition, Joel lived in the time of the northern and southern kingdoms. He may have lived during the reign of King Joash of Judah sometime between 650-600 B.C. However, most scholars today think that Joel probably lived after the Jews had returned to Judah from Babylonia.
+This book contains the prophecies of an Israelite named Joel, son of Pethuel. The book does not indicate when it was written. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
