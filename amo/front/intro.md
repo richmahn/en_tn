@@ -4,40 +4,36 @@
 
 #### Outline of the Book of Amos ####
 
-1. The author, Amos, and his background and calling (1:1)
-1. The oracles of judgment
-    - Judgment on the nations surrounding Yahweh's people (1:2–2:3)
-    - Judgment on the southern kingdom (2:4–5)
-    - Judgment on the northern kingdom (2:6–16)
-    - Various judgments on Israel (3:1–6:14)
-1. The visions of judgment
-    - Final judgment (7:1–17)
-    - The basket of ripe fruit as a picture of judgment (8:1–14)
-1. Yahweh stands beside his altar and proclaims the final message
-    - Summary of all the visions (9:1–10)
-    - Vision of the restoration of Israel and descendants of David as kings (9:11–15)
+1. Amos introduced (1:1)
+1. Yahweh judges the nations (1:2-2:16)
+    - The surrounding nations (1:2–2:3)
+    - The southern kingdom (2:4–5)
+    - The northern kingdom (2:6–16)
+1. Amos prophesies against the people of Israel (3:1–6:14)
+1. Yahweh shows Amos several visions (7:1-9:10)
+1. Israel to be restored (9:11–15)
 
 #### What is the Book of Amos about? ####
 
-Amos began to prophesy about 760 BC. He spoke Yahweh's messages against the wicked behavior of God's people. He spoke messages to the southern kingdom of Judah and to the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
+The Book of Amos contains the words of Amos, a shepherd of Tekoa. Amos began to prophesy about 760 BC. He spoke Yahweh's messages against God's people behaving wickedly. He spoke messages to both the southern kingdom of Judah and the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
-Yahweh gave Amos the "judgment prophecies" found in the first six chapters of the book to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULB). 
+Yahweh gave Amos prophecies of judgment (Chapters 1-6) to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULB). 
 
-The last part of the book of Amos contains three visions of the coming judgment from God. The final vision promises both destruction and rescue (9:11-15). The "tent of David" would be raised up again, that is, David's descendants would once again be king over Israel. 
+Three visions of Yahweh coming to judge the people are in the last part of the book (7:1-9:10). A final vision promises that Yahweh will restore Israel (9:11-15). He will restore the "tent of David." This means a descendant of David would once again be king over Israel. 
 
 #### How should the title of this book be translated? ####
  
-The Book of Amos may also be called the "The Book of the Sayings of Amos." (See: [[rc://en/ta/man/translate/translate-names]])
+The traditional title of this book is "The Book of Amos" or just "Amos." Translators may also call it the "The Book of the Sayings of Amos." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Amos? ####
 
-It is likely that Amos wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he demonstrated a very thorough knowledge and understanding of the law of Moses. Also, Amos was very skilled at communicating with expressive and meaningful words.
+The prophet Amos probably wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he knew and understood the law of Moses. Also, Amos was skilled at communicating with expressive and meaningful words.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
-#### What is social justice? ####
+#### How is justice described in Amos? ####
 
-Amos was very concerned with justice. A godly society or community was to be just. Amos said that if the people wanted to be just they must obey Yahweh and treat poor people, orphans, and widows in a fair way. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. True obedience to the law of Moses meant being just to other people. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Justice is an important theme in the words of Amos. Justice means people treating others fairly according to the law of Yahweh. People in Israel were oppressing and taking advantage of poor people, orphans, and widows. Amos explained that Yahweh would prefer that the people act justly rather than sacrifice to him. Truly obeying the law of Moses meant being just to other people. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### What is a lawsuit? ####
 
