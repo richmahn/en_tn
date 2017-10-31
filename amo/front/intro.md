@@ -11,7 +11,7 @@
     - The northern kingdom (2:6–16)
 1. Amos prophesies against the people of Israel (3:1–6:14)
 1. Yahweh shows Amos several visions (7:1-9:10)
-1. Israel to be restored (9:11–15)
+1. Israel is to be restored (9:11–15)
 
 #### What is the Book of Amos about? ####
 
