@@ -20,7 +20,7 @@ This book is traditionally titled "The Book of Obadiah" or just "Obadiah." Trans
 
 #### Who wrote the Book of Obadiah? ####
 
-The prophet Obadiah probably wrote this book. We know nothing more about the Obadiah. His name in Hebrew means "Servant of Yahweh."
+The prophet Obadiah probably wrote this book. We know nothing more about Obadiah. His name in Hebrew means "Servant of Yahweh."
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
