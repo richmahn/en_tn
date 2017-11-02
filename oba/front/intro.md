@@ -4,34 +4,32 @@
 
 #### Outline of the Book of Obadiah ####
 
-1. God's judgments on the nation of Edom
-    - The destruction of Edom is predicted (1:1–4)
-    - The complete desolation and destruction of the city is predicted (1:5–9)
-    - The hatred of Edom for Israel (1:10–14)
-    - Edom and the other nations will be punished (1:15–16)
-1. God promises to rescue his people; they will live in their land again (1:17–19)
-1. Yahweh promises to restore his kingdom (1:20–21)
+1. Yahweh will judge Edom (1:1-16)
+    - Yahweh will destroy Edom (1:1–9)
+    - Why Yahweh will destroy Edom (1:10–14)
+1. Yahweh will judge the nations (1:15–16)
+1. Yahweh will deliver his people (1:17–21)
 
 #### What is the Book of Obadiah about? ####
 
-After Jerusalem was destroyed, the Edomites captured fleeing Jews and gave them to Babylon. The book of Obadiah is about God's judgment against the Edomites for harming his people. The book was intended to give comfort to the people of Judah in exile.
+After Bablylon destroyed Jerusalem, the Edomites captured fleeing Jews and gave them over to Babylon. The Book of Obadiah is about Yahweh judging the Edomites for harming his people. This book would be comforting to the exiled people of Judah.
 
 #### How should the title of this book be translated? ####
 
-Translators may decide to translate this traditional title, "The Book of Obadiah," in a way that is clearer to the readers. Translators may decide to call it, "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
+This book has traditionally been titled "The Book of Obadiah" or just "Obadiah." Translators may decide to use a clearer title such as "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Obadiah? ####
 
-Obadiah probably wrote this book. We know nothing more about the writer than that his name in Hebrew means, "Servant of Yahweh."
+The prophet Obadiah probably wrote this book. We know nothing more about the writer. His name in Hebrew means "Servant of Yahweh."
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
 #### What was Edom's relationship to Israel? ####
 
-Obadiah referred to Edom as Israel's brother. This is because the Edomites were descendants of Esau, and the Israelites were descendants of Jacob. Jacob and Esau were brothers. This made Edom's betrayal of Israel much worse.
+Obadiah referred to Edom as Israel's brother. This is because the Edomites descended from Esau, and the Israelites descended from Jacob. Jacob and Esau were brothers. This made Edom betraying Israel much worse.
 
 ## Part 3: Important Translation Issues ##
 
 #### How do I translate the concept of "pride"? ####
 
-Obadiah spoke a lot about "pride" in his book. When Obadiah spoke about the "pride" of Edom, he meant that the Edomites thought they were more powerful than Yahweh and that he would not or was not able to punish them. (See: [[rc://en/tw/dict/bible/other/proud]])
+The Book of Obadiah speaks of the pride of Edom. This meant that the Edomites thought their enemies or Yahweh could not defeat them. (See: [[rc://en/tw/dict/bible/other/proud]])
