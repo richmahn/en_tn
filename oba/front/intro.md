@@ -12,11 +12,11 @@
 
 #### What is the Book of Obadiah about? ####
 
-After Bablylon destroyed Jerusalem, the Edomites captured fleeing Jews and gave them over to Babylon. The Book of Obadiah is about Yahweh judging the Edomites for harming his people. This book would be comforting to the exiled people of Judah.
+After Babylon destroyed Jerusalem, the Edomites captured fleeing Jews. Then they gave these Jews over to Babylon. The Book of Obadiah is about Yahweh judging the Edomites for harming his people. This book would be comforting to the exiled people of Judah.
 
 #### How should the title of this book be translated? ####
 
-This book has traditionally been titled "The Book of Obadiah" or just "Obadiah." Translators may decide to use a clearer title such as "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
+This book is traditionally titled "The Book of Obadiah" or just "Obadiah." Translators may decide to use a clearer title such as "The Sayings of Obadiah." (See: [[rc://en/ta/man/translate/translate-names]]) 
 
 #### Who wrote the Book of Obadiah? ####
 
