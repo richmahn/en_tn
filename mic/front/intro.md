@@ -4,20 +4,20 @@
 
 #### Outline of the Book of Micah ####
 
-1. God promises to punish the northern and the southern kingdoms (1:1–16)
-1. The guilt of those who take advantage of others (2:1-3:12)
-    - The guilt of rich people who oppress poor people (2:1–11)
+1. God promises to punish the northern and southern kingdoms (1:1–16)
+1. Those who take advantage of others are guilty (2:1-3:12)
+    - Rich people who oppress poor people (2:1–11)
     - Promise to be delivered and restored (2:12–13)
-    - Rulers, priests and prophets condemned (3:1–12)
+    - Rulers, priests, and prophets condemned (3:1–12)
 1. Yahweh's victory for all Israel (4:1-5:15)
-    - Yahweh's kingdom will rule over all the nations (4:1–10)
-    - Israel will first be destroyed, and then will be victorious over its enemies (4:11–13)
-    - Messiah will come and shepherd his flock and devastate the nations who fought against him (5:1–6)
+    - Yahweh will rule over all the nations (4:1–10)
+    - Israel will be destroyed, then will be victorious over its enemies (4:11–13)
+    - Messiah will shepherd his flock and devastate the nations who fought against him (5:1–6)
     - Messiah will destroy everything that harmed his people (5:7–15)
 1. Yahweh's case against Israel (6:1-16)
     - Yahweh reminds Israel when he led them out of slavery in Egypt (6:1–5)
     - Israel punished; true repentance (6:6–16)
-1. Israel miserable; Israel restored (7:1-20)
+1. Israel miserable and Israel restored (7:1-20)
     - Israel broken and miserable (7:1–7)
     - The coming together of nations in Israel (7:8–13)
     - The incomparable view of Yahweh who restores and gives grace (7:14–20)
@@ -58,8 +58,8 @@ Micah did not often explain how his prophecies were historically situated. This 
 
 #### How do I translate passages where the speaker or addressee is not mentioned explicitly? ####
  
-Micah often did not mention who was speaking or who was being addressed. Reading the verses before and after the quote will often help the reader to understand who is speaking or being addressed. It is acceptable to make this information explicit so the reader can more easily understand it. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Micah did not usually say who was speaking or who was being addressed. Reading the verses before and after the quote will often help the reader to understand who is speaking or being addressed. It is acceptable to make this information explicit so the reader can more easily understand it. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### How should the text of Micah be formatted? ####
 
-The ULB tries to use the same poetic language style as the Hebrew text. Many languages can do this but some languages will not be able to do this. The ULB also sets apart the poetic portions of the text by indenting the poetic lines. With the exception of the first verse, the entire book is indented because the prophecies were written as a series of poems.
+The ULB uses a poetic language style like the Hebrew text. Many languages can do this but some languages will not be able to do this. The ULB also sets apart the poetic portions of the text by indenting the poetic lines. With the exception of the first verse, the entire book is indented because the prophecies were written as a series of poems.
