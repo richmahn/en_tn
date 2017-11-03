@@ -54,7 +54,7 @@ This passage sounds unusual because of how it is constructed in Hebrew. It inclu
 
 #### What does a translator need to know before translating Micah? ####
 
-Micah did not often explain how his prophecies were historically situated. This may result in the translator failing to understand implicit information unless they understand Michah's time. It is therefore suggested that translators understand well the history of the kingdoms of Israel and Judah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Micah did not often explain how his prophecies were historically situated. This may result in the translator failing to understand implicit information unless they understand Micah's time. It is therefore suggested that translators understand well the history of the kingdoms of Israel and Judah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### How do I translate passages where the speaker or addressee is not mentioned explicitly? ####
  
