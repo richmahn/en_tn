@@ -19,8 +19,8 @@
     - Israel punished; true repentance (6:6–16)
 1. Israel miserable and Israel restored (7:1-20)
     - Israel broken and miserable (7:1–7)
-    - The coming together of nations in Israel (7:8–13)
-    - The incomparable view of Yahweh who restores and gives grace (7:14–20)
+    - Israel will rise again (7:8–13)
+    - Yahweh restores and gives grace (7:14–20)
 
 #### What is the Book of Micah about? ####
 
