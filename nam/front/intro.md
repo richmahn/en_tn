@@ -10,7 +10,9 @@
 
 #### What is the Book of Nahum about? ####
 
-The Book of Nahum contains prophecies about how God would judge and punish Nineveh. Nineveh was the capital city of the Assyrian Empire. The Assyrians had already conquered the northern kingdom of Israel. They were threatening the southern kingdom of Judah. The book gave Judah hope that the Assyrians would be defeated.
+The Book of Nahum contains prophecies about how Yahweh would judge and punish Nineveh.
+
+Nineveh was the capital city of the Assyrian Empire. The Assyrians had already conquered the northern kingdom of Israel. They were threatening the southern kingdom of Judah. The book gave Judah hope that the Assyrians would be defeated.
 
 #### How should the title of this book be translated? ####
 
