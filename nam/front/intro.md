@@ -20,7 +20,9 @@ Nineveh was the capital city of the Assyrian Empire. The Assyrians had already c
 
 #### Who wrote the Book of Nahum? ####
 
-The prophet Nahum probably wrote this book. He was a prophet from Elkosh, an unknown city probably in Judah. Nahum wrote before Nineveh fell in about 612 B.C. Nahum also mentions the destruction of Thebes, a city in Egypt, which happened about 663 B.C. Therefore, the Book of Nahum was written sometime between 663 and 612 B.C. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+The prophet Nahum probably wrote this book. He was a prophet from Elkosh, an unknown city probably in Judah.
+
+Nahum wrote before Nineveh fell in about 612 B.C. Nahum also mentions the destruction of Thebes, a city in Egypt, which happened about 663 B.C. Therefore, the Book of Nahum was written sometime between 663 and 612 B.C. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
@@ -28,10 +30,14 @@ The prophet Nahum probably wrote this book. He was a prophet from Elkosh, an unk
 
 Locust attacks occurred often in the ancient Near East. Certain kinds of grasshoppers would come in countless numbers. There would be so many that they would darken the sky like a black cloud that blocked the sunlight. They often came after a long period of no rain. They came down on whatever crops were surviving in the fields and stripped them bare of their leaves. The locusts could not be stopped and caused terrible damage. For this reason, locust attacks served as a powerful image of military attacks in the Old Testament.
 
-There are various names for locusts in the original language of the Old Testament. It is uncertain whether these refer to different kinds of locusts or to the same kind of locust in different stages of growth. For this reason, versions of the Bible differ in how they translate these terms.
+The original language of the Old Testament used various names for locusts. It is uncertain whether these names refer to different kinds of locusts or to the same kind of locust in different stages of growth. For this reason, versions of the Bible differ in how they translate these terms.
 
 ## Part 3: Important Translation Issues ##
 
 #### What emotions were present in the various speakers in the Book of Nahum? ####
 
-When Nahum spoke to the Israelites, he wanted to comfort them. When Nahum and Yahweh spoke against the Ninevites, they often mocked them. This manner of speech was similar to speech in the ancient Near East when conquerors laughed at their victims. It is important for translators to present both emotions of comfort and of mockery when translating this book.
+When Nahum spoke to the Israelites, he wanted to comfort them.
+
+When Nahum and Yahweh spoke against the Ninevites, they often mocked them. This manner of speech was similar to speech in the ancient Near East when conquerors laughed at their victims.
+
+It is important for translators to present both emotions of comfort and of mockery when translating this book.
