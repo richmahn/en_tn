@@ -34,11 +34,13 @@ This book contains the prophecies of an Israelite named Joel, son of Pethuel. Th
 
 #### What is the meaning of the locust attacks in Joel 1 and 2, and of the drought in Joel 2? ####
 
-Farmers in the ancient Near East sometimes experienced locust attacks. Millions of these insects would come and eat all the crops in their fields. In Chapters 1 and 2, Joel described such attacks using military terms. He may have been speaking of enemy invaders coming and destroying the land and its people. 
+Locust attacks occurred often in the ancient Near East. Certain kinds of grasshoppers would come in countless numbers. There would be so many that they would darken the sky like a black cloud that blocked the sunlight. They often came after a long period of no rain. They came down on whatever crops were surviving in the fields and stripped them bare of their leaves. The locusts could not be stopped and caused terrible damage. For this reason, locust attacks served as a powerful image of military attacks in the Old Testament. In Chapters 1 and 2, Joel described locust attacks using military terms. He may have been speaking of enemy invaders coming and destroying the land and its people.
+
+There are various names for locusts in the original language of the Old Testament. It is uncertain whether these refer to different kinds of locusts or to the same kind of locust in different stages of growth. For this reason, versions of the Bible differ in how they translate these terms.
 
 Joel also described a drought in Chapter 2. It might have been a real lack of rain. Or Joel may have been speaking of either enemy invaders or Yahweh himself coming to punish his people and the other nations.
 
-Translators should translate simply as Joel described them and not worry about the various possible meanings.
+Translators should simply translate the locust attacks and drought as Joel described them and not worry about the various possible meanings.
 
 #### What did Joel prophesy about the future for God's people? ####
 
