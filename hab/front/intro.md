@@ -29,17 +29,17 @@ The Chaldean empire is another name for the Babylonian empire. The Book of Habak
 
 #### Why did Yahweh use an evil nation to punish Judah? ####
 
-Habakkuk wanted to know why God used an evil nation to punish Judah. Yahweh responds that he will judge the evil nations also. But righteous people will live by being faithful to Yahweh.
+Habakkuk wanted to know why Yahweh used an evil nation to punish Judah. Yahweh responded that he will judge the evil nations also. But righteous people will live by being faithful to Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
 #### How do I identify the speaker? ####
 
-Habakkuk often spoke to Yahweh and Yahweh answered him. The translator should be careful to identify whether the speaker is Habakkuk or Yahweh in each section. The translator may wish to make the identity of the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Habakkuk spoke to Yahweh and Yahweh answered him. The translator should be careful to identify whether the speaker is Habakkuk or Yahweh in each section. The translator may wish to make the identity of the speaker explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### What style of writing is the Book of Habakkuk? ####
 
-In the first two chapters, Habakkuk asks Yahweh questions and Yahweh answers him. The third chapter is a psalm. Habakkuk tells the choirmaster to use stringed instruments. 
+In the first two chapters, Habakkuk asks Yahweh questions and Yahweh answers him. The third chapter is a psalm. Habakkuk ends by telling the choirmaster to use stringed instruments. 
 
 #### Does Habakkuk question or challenge Yahweh? ####
 
