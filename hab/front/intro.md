@@ -29,7 +29,7 @@ The Chaldean empire is another name for the Babylonian empire. The Book of Habak
 
 #### Why did Yahweh use an evil nation to punish Judah? ####
 
-Habakkuk wanted to know why God used an evil nation to punish Judah. Yahweh responds that he will judge the evil nations also. But righteous people will live by faith.
+Habakkuk wanted to know why God used an evil nation to punish Judah. Yahweh responds that he will judge the evil nations also. But righteous people will live by being faithful to Yahweh.
 
 ## Part 3: Important Translation Issues ##
 
