@@ -13,7 +13,7 @@
 
 #### What is the Book of Habakkuk about? ####
 
-Many other prophets spoke against Israel sinning and failing to obey Yahweh. But Habakkuk questioned Yahweh about the things he did. Yahweh said he would punish the people of Judah by sending the Babylonian army. Habakkuk complained because the Babylonians were more wicked than the people of Judah. God assured Habakkuk that he would also punish the Babylonians. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
+Other prophets spoke against Israel sinning and failing to obey Yahweh. But Habakkuk questioned Yahweh about the things he did. Yahweh said he would punish the people of Judah by sending the Babylonian army. Habakkuk complained because the Babylonians were more wicked than the people of Judah. Yahweh assured Habakkuk that he would also punish the Babylonians. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### How should the title of this book be translated? ####
 
@@ -23,7 +23,7 @@ The traditional title of this book is "The Book of Habakkuk" or just "Habakkuk."
 
 The prophet Habakkuk wrote this book. Scripture does not mention Habakkuk except in this book.
 
-The Chaldean empire is another name for the Babylonian empire. the Book of Habakkuk mentions it several times. This helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 B.C. Habakkuk probably prophesied about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
+The Chaldean empire is another name for the Babylonian empire. The Book of Habakkuk mentions it several times. This helps us to date Habakkuk's life. The Chaldean empire had power from about 720 to 538 B.C. Habakkuk probably prophesied about the time of Jeremiah, Zephaniah, and Nahum during the reigns of Kings Josiah, Jehoahaz, and Jehoiakim in Judah.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
