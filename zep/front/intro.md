@@ -35,4 +35,4 @@ Manasseh, the grandfather of Josiah, had been one of the worst kings of Judah. H
 
 #### What country is coming to invade Judah? ####
 
-Zephaniah often said a foreign nation would invade the kingdom of Judah. Zephaniah probably meant Babylonia. However, Zephaniah never mentions the name of this nation.
+Zephaniah often said a foreign nation would invade the kingdom of Judah. Zephaniah probably meant Babylonia. However, the Book of Zephaniah never names this nation.
