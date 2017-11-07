@@ -4,7 +4,7 @@
 
 #### Outline of the Book of Zephaniah ####
 
-1. The Book of Zephaniah introduced (1:1)
+1. Zephaniah introduces this book (1:1)
 1. Yahweh will punish Judah and the nations (1:2–18)
 1. Yahweh calls Judah to repent (2:1–3)
 1. Yahweh will judge the nations (2:4-15)
@@ -21,11 +21,11 @@ Zechariah warned Judah and other nations that Yahweh was about to punish them. H
 
 #### How should the title of this book be translated? ####
 
-This book has traditionally been called "The Book of Zephaniah" or just "Zephaniah." Translators may decide to call it "The Sayings of Zephaniah." (See: [[rc://en/ta/man/translate/translate-names]])
+The traditional name of this book is "The Book of Zephaniah" or just "Zephaniah." Translators may decide to call it "The Sayings of Zephaniah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Zephaniah? ####
 
-Zephaniah is the author of this book. But four different Old Testament people are named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah. Zephaniah lived in the city of Jerusalem. He began to prophesy about seventy years after the prophets Isaiah and Micah. Zephaniah spoke Yahweh's messages during the reign of King Josiah (about 640–621 B.C.), and just before Jeremiah began to prophesy. 
+Zephaniah wrote this book. But four different Old Testament people are named Zephaniah. This Zephaniah was probably the great-grandson of King Hezekiah and a cousin to King Josiah. Zephaniah lived in the city of Jerusalem. He began to prophesy about seventy years after the prophets Isaiah and Micah. Zephaniah spoke Yahweh's messages during the reign of King Josiah (about 640–621 B.C.), and just before Jeremiah began to prophesy. 
 
 ## Part 2: Important Religious and Cultural Concepts ##
 
