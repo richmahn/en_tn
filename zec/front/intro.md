@@ -29,7 +29,7 @@ Zechariah wrote to the people of Judah who returned from being exiled in Babylon
 
 #### How should the title of this book be translated? ####
 
-This book has been traditionally titled "Zechariah" or “The Book of Zechariah.” Translators may decide to call it the "The Book About Zechariah" or "The Sayings of Zechariah." (See: [[rc://en/ta/man/translate/translate-names]])
+This book traditionally has been titled "Zechariah" or “The Book of Zechariah.” Translators may decide to call it the "The Book About Zechariah" or "The Sayings of Zechariah." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Zechariah? ####
 
