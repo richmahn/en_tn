@@ -15,7 +15,7 @@ The people of Israel lacked food and warm clothes. The prophet Haggai told them 
 
 #### How should the title of this book be translated? ####
 
-This book is traditionally titled "The Book of Haggai" or just "Haggai." Translators may decide to call it "The Sayings of Haggai." (See: [[rc://en/ta/man/translate/translate-names]])
+This book traditionally has been titled "Haggai" or "The Book of Haggai." Translators may decide to call it "The Sayings of Haggai." (See: [[rc://en/ta/man/translate/translate-names]])
 
 #### Who wrote the Book of Haggai? ####
 
