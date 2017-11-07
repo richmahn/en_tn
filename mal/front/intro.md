@@ -15,7 +15,7 @@
 
 #### What is the Book of Malachi about? ####
 
-The Book of Malachi is about the prophecies that Malachi spoke the Jews who had returned from Babylon to Judah. At this time, the Jews were discouraged even though they had completed building a new temple. The wonderful thing that previous prophets had promised for Judah had not yet happened. And the Persian Empire still ruled over them. As a result, they no longer were concerned about the law or worshiping God. Malachi rebuked them for not trusting in Yahweh. But he also promised them that Yahweh would do everything that he promised to do.
+The Book of Malachi is about the prophecies that Malachi spoke to the Jews who had returned from Babylon to Judah. At that time, the Jews were discouraged even though they had finished building a new temple. The wonderful things that previous prophets had promised for Judah had not yet happened. And the Persian Empire still ruled over them. As a result, they no longer were concerned about the law or worshiping Yahweh. Malachi rebuked them for not trusting in Yahweh. But he also promised them that Yahweh would do everything that he promised to do.
 
 #### How should the title of this book be translated? ####
 
