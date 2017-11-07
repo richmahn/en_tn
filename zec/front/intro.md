@@ -4,7 +4,7 @@
 
 #### Outline of the Book of Zechariah ####
 
-1. The returning nation of Israel is called to repent and return to Yahweh (1:1–6)
+1. Zechariah calls the returning nation of Israel to repent and return to Yahweh (1:1–6)
 1. The eight night visions (1:7-6:8)
     - Yahweh sends his messengers throughout the whole earth (1:7–17)
     - Four horns and four craftsmen (1:18–21)
@@ -16,13 +16,12 @@
     - Four chariots (6:1–8)
 1. A crown for the high priest (6:9–15)
 1. Questions about fasting (7:1–8:23)
-1. The nations are judged and the king is coming (9:1–11:17)
+1. Yahweh judges the nations and saves his people (9:1–11:17)
 1. Final message (12:1-14:21) 
-    - Israel's enemies will be finally defeated (12:1-9)
-    - Israel mourns for having killed God's servant (12:10-14)
-    - Israel purified from sin and false prophets removed (13:1-6)
-    - Idols finally removed from Israel (14:1–2)
-    - Yahweh comes as king (14:3–21)
+    - Yahweh will finally defeat Israel's enemies (12:1-9)
+    - Israel mourns for the one they pierced (12:10-14)
+    - Yahweh purifies Israel and removes false prophets (13:1-6)
+    - Yahweh comes as king (14:1–21)
 
 #### What is the Book of Zechariah about? ####
 
