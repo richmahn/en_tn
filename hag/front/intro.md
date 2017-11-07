@@ -4,7 +4,7 @@
 
 #### Outline of Haggai ####
 
-1. The people must finish the temple for Yahweh to again bless them (1:1–15)
+1. The people must finish the temple for Yahweh to bless them again (1:1–15)
 1. This temple will be more glorious than the first temple (2:1–9)
 1. Yahweh will bless a defiled people (2:10–19)
 1. Yahweh will defeat the nations and establish his ruler (2:20–23) 
