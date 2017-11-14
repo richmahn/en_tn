@@ -19,7 +19,7 @@
 
 #### Who wrote 1 Thessalonians? ####
 
-Paul wrote 1 Thessalonians. Paul from the city of Tarsus.. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
+Paul wrote 1 Thessalonians. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 Paul wrote this letter while staying in the city of Corinth. Of all Paul's letters that are in the Bible, many scholars think 1 Thessalonians was the first letter Paul wrote.
 
