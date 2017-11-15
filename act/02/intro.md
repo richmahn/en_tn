@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:17-21, 25-28, and 34-35.
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:31.
+Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:31.
 
 The events described in this chapter are commonly called "Pentecost." Many people believe the coming of the Holy Spirit to indwell believers in this chapter marks the beginning of the church. (See: [[rc://en/tw/dict/bible/kt/believe]])
 

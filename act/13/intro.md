@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent quotations from the Old Testament. The ULB does this with the three quotes from Psalms in 13:33-35.
+Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the three quotes from Psalms in 13:33-35.
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 13:41.
 

@@ -2,7 +2,7 @@
 
 #### Structure and Format ####
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 10:7-8.
+Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 10:7-8.
 
 #### Special concepts in this chapter ####
 

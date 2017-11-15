@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 11:10.
+Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 11:10.
 
 Some scholars believe that [Matthew 11:20](./20.md) begins a new stage in the ministry of Christ because of Israel's rejection of him. 
 

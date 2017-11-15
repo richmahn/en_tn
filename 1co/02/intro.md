@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:9 and 2:16
 
-Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:16.
+Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:16.
 
 #### Special concepts in this chapter ####
 
