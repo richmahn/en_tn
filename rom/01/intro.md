@@ -2,12 +2,12 @@
 
 #### Structure and formatting ####
 
-The first verse is a type of introduction and was typical of a letter in the ancient Mediterranean region. Sometimes this is called a "salutation." 
+The first verse is a type of introduction. People in the ancient Mediterranean region often started their letters this way. Sometimes this is called a "salutation." 
 
 #### Special concepts in this chapter ####
 
 ##### The gospel #####
-This chapter refers to the contents of the book of Romans as "the gospel" ([Romans 1:2](./01.md)). Romans is not a gospel like Matthew, Mark, Luke and John. Instead, chapters 1-8 are a presentation of the biblical gospel: Jesus died for the sins of mankind and was raised again as proof of eternal life for those who believe in him. 
+This chapter refers to the contents of the Book of Romans as "the gospel" ([Romans 1:2](./01.md)). Romans is not a gospel like Matthew, Mark, Luke and John. Instead, chapters 1-8 present the biblical gospel: Jesus died for the sins of mankind. He was raised again to prove that those who believe in him will live forever. 
 
 ##### Fruit #####
 The imagery of fruit is used in this chapter. The image of fruit usually refers to a person's faith producing acts of righteousness in their life. (See: [[rc://en/tw/dict/bible/other/fruit]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/righteous]])
