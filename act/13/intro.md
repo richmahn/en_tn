@@ -4,7 +4,7 @@
 
 Some translations indent quotations from the Old Testament. The ULB does this with the three quotes from Psalms in 13:33-35.
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 13:41.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 13:41.
 
 The chapter marks the beginning of the second half of Acts which focuses on Paul instead of Peter. The church's ministry shifts its focus from the Jewish people to the Gentiles. Peter was the apostle ministering to the Jews, while Paul was the apostle who was responsible for the ministry to the Gentiles.
 

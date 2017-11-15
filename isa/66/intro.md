@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 66:1-17, 21-24.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 66:1-17, 21-24.
 
 #### Special concepts in this chapter ####
 

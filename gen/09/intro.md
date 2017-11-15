@@ -4,7 +4,7 @@
 
 Some translations prefer to set apart extended quotations, prayers or songs. The ULB and many other English translations indent the lines of 9:6-7, which is the poetic part of the quotation. They also set apart 9:25-27 which contain two quotations.
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 9:6 and 9:25-27.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 9:6 and 9:25-27.
 
 #### Special concepts in this chapter ####
 

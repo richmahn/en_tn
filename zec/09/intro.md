@@ -4,7 +4,7 @@
 
 This chapter is written mainly in prose about the cities and peoples around where Israel stood as a country until the exile. 
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetic song in 9:9-10.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 9:9-10.
 
 #### Special concepts in this chapter ####
 

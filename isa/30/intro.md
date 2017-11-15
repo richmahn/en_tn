@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter continues the series of "woes" against specific nations. It presents judgments against the people of Ephraim and Judah when they desired to make an alliance with Egypt. (See: [[rc://en/tw/dict/bible/kt/woe]] and [[rc://en/tw/dict/bible/kt/judge]])
 

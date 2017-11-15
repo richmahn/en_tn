@@ -4,7 +4,7 @@
 
 Some translations indent the content of letters. The ULB does this with the letter in 6:25-27.
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in the letter in 6:26-27.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in the letter in 6:26-27.
 
 #### Special concepts in this chapter ####
 ##### Daniel and the lions #####

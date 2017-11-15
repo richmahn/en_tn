@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry in 12:20, which is quoted from the OT.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:20, which is quoted from the OT.
 
 Many scholars believe Paul uses the word "therefore" in [Romans 12:1](./01.md) to refer to all of chapters 1-11. Having given such a great explanation of the Christian doctrine, Paul is now going on to say "therefore, in light of these doctrinal truths, go and live this way." The remainder of Romans focuses on living out one's Christian faith. Paul uses many different commands in this section to give these practical instructions. (See: [[rc://en/tw/dict/bible/kt/faith]])
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each line of poetry to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:17-21, 25-28, and 34-35.
+Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:17-21, 25-28, and 34-35.
 
 Some translations indent quotations from the Old Testament. The ULB does this with the quoted material in 2:31.
 
