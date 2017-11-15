@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
- Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of 40:1-2, 4-5, 7-24, which are extended quotations of Job and Yahweh, farher to the right on the page than the rest of the text. 
+ Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of 40:1-2, 4-5, 7-24, which are extended quotations of Job and Yahweh, farther to the right on the page than the rest of the text. 
 
 #### Special concepts in this chapter ####
 

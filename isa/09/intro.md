@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins with a prophecy that is a continuation of the prophecy concluding the previous chapter. Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 9:1-21. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+This chapter begins with a prophecy that is a continuation of the prophecy concluding the previous chapter. Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 9:1-21. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### Special concepts in this chapter ####
 

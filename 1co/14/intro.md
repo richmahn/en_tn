@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farher to the right on the page than the rest of the text. The ULB does this with the quoted material in 14:21. The ULB also sets each line of poetry in the quotation farher to the right.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 14:21. The ULB also sets each line of poetry in the quotation farther to the right.
 
 Paul returns to his discussion on the  gifts of the Holy Spirit.
 

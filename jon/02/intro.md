@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins with a prayer by Jonah, and many translators have chosen to set it apart by setting its lines farher to the right on the page than the rest of the text. Translators can follow this practice, but they are not obligated to. 
+This chapter begins with a prayer by Jonah, and many translators have chosen to set it apart by setting its lines farther to the right on the page than the rest of the text. Translators can follow this practice, but they are not obligated to. 
 
 #### Special concepts in this chapter ####
 

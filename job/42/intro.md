@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of 42:1-6, which is an extended quotation of Job, farher to the right on the page than the rest of the text.
+Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of 42:1-6, which is an extended quotation of Job, farther to the right on the page than the rest of the text.
 
 Having faced the temptation to curse Yahweh, and after being rebuked by him, in the end Job shows his complete trust in Yahweh. (See: [[rc://en/tw/dict/bible/kt/tempt]], [[rc://en/tw/dict/bible/kt/curse]] and [[rc://en/tw/dict/bible/kt/trust]])
 

@@ -4,7 +4,7 @@
  
 This is the first chapter of a section explaining why Saul wants to kill David. 
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 18:7.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 18:7.
 
 #### Special concepts in this chapter ####
 

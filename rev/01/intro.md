@@ -4,7 +4,7 @@
 
 This chapter explains how the book is a recording of the vision John received on the island of Patmos. 
 
-Some translations set quotations from the Old Testament farher to the right on the page than the rest of the text. The ULB does this with the quoted material in 1:7.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 1:7.
 
 #### Special concepts in this chapter ####
 

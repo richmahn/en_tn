@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 14:4-27, 29-32.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 14:4-27, 29-32.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic songs in 15:1-18 and 15:21. (See: [[rc://en/ta/man/translate/writing-poetry]])
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetic songs in 15:1-18 and 15:21. (See: [[rc://en/ta/man/translate/writing-poetry]])
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 This chapter continues the series of "woes" against specific nations. It presents judgments against the people of Ephraim and Judah when they desired to make an alliance with Egypt. It also prophesies the destruction of Assyria. (See: [[rc://en/tw/dict/bible/kt/woe]], [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/prophet]])
 

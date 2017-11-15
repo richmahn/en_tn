@@ -4,7 +4,7 @@
 
 Mark 4:3-10 forms one parable. The parable is explained in 4:14-23. 
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 4:12, which is quoted from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 4:12, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 

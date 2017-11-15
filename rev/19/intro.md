@@ -4,7 +4,7 @@
 
 Chapter 19 continues the material contained in chapter 18 and both should be seen as a single unit.
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 19:1-8.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 19:1-8.
 
 #### Special concepts in this chapter ####
 

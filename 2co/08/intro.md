@@ -4,7 +4,7 @@
 
 Chapters 8 and 9 begin a new section dealing with the gift from the churches in Greece to the poor believers in Jerusalem.
 
-Some translations set quotations from the Old Testament farher to the right on the page than the rest of the text. The ULB does this with the quoted material in 8:15.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 8:15.
 
 #### Special concepts in this chapter ####
 

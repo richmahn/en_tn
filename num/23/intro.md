@@ -3,7 +3,7 @@
 #### Structure and formatting ####
 The story of Balaam continues in this chapter. 
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 23:7-10, 18-24.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 23:7-10, 18-24.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines of this chapter farher to the right on the page than the rest of the text because it is a poem. This chapter is a continuation of Job's response to Eliphaz, but it is more directly addressed to Yahweh.
+The ULB sets the lines of this chapter farther to the right on the page than the rest of the text because it is a poem. This chapter is a continuation of Job's response to Eliphaz, but it is more directly addressed to Yahweh.
 
 #### Special concepts in this chapter ####
 

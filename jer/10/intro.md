@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 10:1-25 farher to the right on the page than the rest of the text because they are a long quotation.
+The ULB sets the lines in 10:1-25 farther to the right on the page than the rest of the text because they are a long quotation.
 
 #### Special concepts in this chapter ####
 

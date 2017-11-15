@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farher to the right on the page than the rest of the text. The ULB does this with the quoted material in 10:17.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 10:17.
 
 In this chapter, Paul returns to the topic of defending his authority. He also addresses the difference between the way he speaks and the way he writes.
 

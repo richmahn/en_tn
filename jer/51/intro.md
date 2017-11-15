@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 51:1-64.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 51:1-64.
 
 The prophesied destruction of Babylon continues in this chapter. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

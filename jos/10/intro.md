@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 10:12-13 farher to the right on the page than the rest of the text because they are a poem.
+The ULB sets the lines in 10:12-13 farther to the right on the page than the rest of the text because they are a poem.
 
 #### Special concepts in this chapter ####
 

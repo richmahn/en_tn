@@ -4,7 +4,7 @@
 
 This chapter unlike the previous one is a warning against the leaders amongst the exiles.
 
-Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 11:1-3, 17.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 11:1-3, 17.
 
 #### Important figures of speech in this chapter ####
 
