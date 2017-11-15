@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 4:8, 11.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 4:8, 11.
 
 This chapter begins the remainder of the book of Revelation and it is markedly different than the first three chapters. It now describes an unfolding image John sees in his vision. 
 

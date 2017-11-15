@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 12:2-5 further to the right on the page than the rest of the text because they are part of a long list.
+The ULB sets the lines in 12:2-5 farher to the right on the page than the rest of the text because they are part of a long list.
 
 ## Links: ##
 

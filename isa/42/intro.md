@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 Many scholars believe that there are four songs or poems which Isaiah records about the messiah. Isaiah 42:1-4 is the first of these songs. They are often called the "servant songs" because they focus on the messiah being a servant. (See: [[rc://en/tw/dict/bible/kt/christ]])
 

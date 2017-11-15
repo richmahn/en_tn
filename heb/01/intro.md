@@ -4,7 +4,7 @@
 
 This chapter is about how Jesus is superior to the angels.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 1:5, 7-13, which is quoted from the OT.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 1:5, 7-13, which is quoted from the OT.
 
 ##### "Our ancestors" #####
 This letter begins with an assumption of a Jewish audience. This is why it is called "Hebrews." 

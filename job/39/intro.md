@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem. Yahweh continues to speak in this chapter. 
+The ULB sets the lines of this chapter farher to the right on the page than the rest of the text because it is a poem. Yahweh continues to speak in this chapter. 
 
 #### Special concepts in this chapter ####
 

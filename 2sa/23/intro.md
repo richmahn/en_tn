@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 23:2-7.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 23:2-7.
 
 2 Samuel 23:8-39 is a list of the famous people in David's army along with some of the special deeds some of them did. (See: [[rc://en/tw/dict/bible/kt/works]])
 

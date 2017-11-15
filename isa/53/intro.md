@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 In this chapter there is an important teaching or prophecy about the messiah and his life and ministry. It begins in 52:13 and scholars usually note that it portrays the messiah as a "suffering servant." (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
 

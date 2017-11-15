@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 While it appears that this chapter is a continuation of the prophecy from the previous chapter, it actually looks at the whole of the Assyrian conquest as Yahweh's punishment on the world. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

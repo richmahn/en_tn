@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of this chapter, which is an extended quotation of Yahweh, further to the right on the page than the rest of the text. It is a continuation of the previous chapter.
+Some translations prefer to set apart extended quotations, prayers, or songs. The ULB and many other English translations set the lines of this chapter, which is an extended quotation of Yahweh, farher to the right on the page than the rest of the text. It is a continuation of the previous chapter.
 
 #### Important figures of speech in this chapter ####
 

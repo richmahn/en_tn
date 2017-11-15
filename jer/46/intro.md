@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 46:3-12, 14-24.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 46:3-12, 14-24.
 
 This begins a section where Jeremiah prophesies about other nations. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

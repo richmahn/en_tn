@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 11:2-4 further to the right on the page than the rest of the text because they are a special prayer.
+The ULB sets the lines in 11:2-4 farher to the right on the page than the rest of the text because they are a special prayer.
 
 #### Special concepts in this chapter ####
 

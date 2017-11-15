@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 1:19-27.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 1:19-27.
 
 This chapter continues the material from 1 Samuel. 
 

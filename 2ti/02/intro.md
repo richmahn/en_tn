@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set sayings further to the right on the page than the rest of the text to show that the author is quoting them. The ULB does this with the saying that Paul quotes in 2:11-13.
+Some translations set sayings farher to the right on the page than the rest of the text to show that the author is quoting them. The ULB does this with the saying that Paul quotes in 2:11-13.
 
 #### Special concepts in this chapter ####
 

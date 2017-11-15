@@ -62,4 +62,4 @@ Micah did not usually say who was speaking or who was being addressed. Reading t
 
 #### How should the text of Micah be formatted? ####
 
-The ULB uses a poetic language style like the Hebrew text. Many languages can do this but some languages will not be able to do this. The ULB also sets apart the poetic portions of the text by setting the poetic lines further to the right on the page than the rest of the text. With the exception of the first verse, the entire book is indented because the prophecies were written as a series of poems.
+The ULB uses a poetic language style like the Hebrew text. Many languages can do this but some languages will not be able to do this. The ULB also sets apart the poetic portions of the text by setting the poetic lines farher to the right on the page than the rest of the text. With the exception of the first verse, the entire book is indented because the prophecies were written as a series of poems.

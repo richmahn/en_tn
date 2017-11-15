@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 1:5-15 further to the right on the page than the rest of the text because they are long lists.
+The ULB sets the lines in 1:5-15 farher to the right on the page than the rest of the text because they are long lists.
 
 ##### Census #####
 

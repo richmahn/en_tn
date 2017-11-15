@@ -4,7 +4,7 @@
 
 This chapter marks a noticeable shift in Paul's argument. His focus in chapters 9-11 is on the nation of Israel.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 9:25-29, 33. All of these lines are quoted from the OT.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 9:25-29, 33. All of these lines are quoted from the OT.
 
 #### Special concepts in this chapter ####
 

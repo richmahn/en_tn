@@ -4,7 +4,7 @@
 
 This chapter is introduced in prose with imagery used in the rest of the chapter to portray Zechariah's third vision about measuring lines given by the Lord. 
 
-Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of 2:4-13, which are extended quotations, further to the right on the page than the rest of the text.
+Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of 2:4-13, which are extended quotations, farher to the right on the page than the rest of the text.
 
 #### Special concepts in this chapter ####
 

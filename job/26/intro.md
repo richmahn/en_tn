@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem. This chapter is Job's response to Bildad.
+The ULB sets the lines of this chapter farher to the right on the page than the rest of the text because it is a poem. This chapter is Job's response to Bildad.
 
 This chapter begins a section continuing through chapter 31. 
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem. This chapter is Job's response to Zophar. It is also a response to all three of his friends in general.
+The ULB sets the lines of this chapter farher to the right on the page than the rest of the text because it is a poem. This chapter is Job's response to Zophar. It is also a response to all three of his friends in general.
 
 #### Special concepts in this chapter ####
 

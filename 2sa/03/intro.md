@@ -4,7 +4,7 @@
 
 This chapter records the first attempt to end the civil war.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 3:33-34.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 3:33-34.
 
 #### Special concepts in this chapter ####
 

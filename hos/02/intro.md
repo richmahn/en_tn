@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of this chapter, which is poetry, further to the right on the page than the rest of the text. Hosea 1-2 is a single series forming one narrative.
+Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of this chapter, which is poetry, farher to the right on the page than the rest of the text. Hosea 1-2 is a single series forming one narrative.
 
 #### Important figures of speech in this chapter ####
 

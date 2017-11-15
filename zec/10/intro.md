@@ -4,7 +4,7 @@
 
 This chapter is written mainly in prose but still uses figurative language as the writer shares a message of redemption and hope for the exiles. (See: [[rc://en/tw/dict/bible/kt/redeem]])
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 10:1-2.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 10:1-2.
 
 #### Special concepts in this chapter ####
 

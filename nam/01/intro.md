@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart extended quotations, prayers and songs. The ULB and many other English translations set the lines of the entire book (except for verse 1 of this chapter) further to the right on the page than regular text because they are poetic prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Some translations prefer to set apart extended quotations, prayers and songs. The ULB and many other English translations set the lines of the entire book (except for verse 1 of this chapter) farher to the right on the page than regular text because they are poetic prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 Despite being divided into three chapters, this book consists of one long prophecy. 
 

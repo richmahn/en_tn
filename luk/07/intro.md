@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 7:27.
+Some translations set quotations from the Old Testament farher to the right on the page than the rest of the text. The ULB does this with the quoted material in 7:27.
 
 There are times in the narrative of this chapter where there is an abrupt change in topic. The translator should not feel the need to smooth these rough transitions. 
 

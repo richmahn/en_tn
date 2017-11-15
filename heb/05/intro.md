@@ -4,7 +4,7 @@
 
 This chapter is a continuation of the teaching of the previous chapter. 
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 5:5-6.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 5:5-6.
 
 #### Special concepts in this chapter ####
 

@@ -4,7 +4,7 @@
 
 This chapter is written mainly in prose and tells the last vision of the four chariots in the first part of the chapter. 
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 6:12-13.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetic song in 6:12-13.
 
 #### Special concepts in this chapter ####
 

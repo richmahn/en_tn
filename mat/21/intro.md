@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 21:5,16 and 42, which is quoted from the OT.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 21:5,16 and 42, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 

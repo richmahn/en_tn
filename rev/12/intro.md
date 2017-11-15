@@ -4,7 +4,7 @@
 
 Many scholars believe the events of this chapter are both future and past. The author may shift between the events without shifting the tense in which he speaks. Despite this, John speaks as if these events are about to happen.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:10-12.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:10-12.
 
 #### Special concepts in this chapter ####
 

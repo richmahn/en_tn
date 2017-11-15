@@ -4,7 +4,7 @@
 
 This chapter is a continuation of the previous chapter and is a prophecy against the nation of Moab. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 16:1-12.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 16:1-12.
 
 ## Links: ##
 

@@ -4,7 +4,7 @@
 
 This chapter continues a series of exhortations to Christians that began in chapter 12. These commands are not always connected to each other, so the translator should not feel obliged to make smooth transitions between subjects.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:6, which is quoted from the OT.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:6, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 

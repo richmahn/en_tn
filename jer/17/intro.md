@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 17:1-18. This poem is a continuation of 16:19-21, and these should be seen as one section.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 17:1-18. This poem is a continuation of 16:19-21, and these should be seen as one section.
 
 #### Special concepts in this chapter ####
 

@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations set the content of letters further to the right on the page than the rest of the text. The ULB does this with the letter in 6:25-27.
+Some translations set the content of letters farher to the right on the page than the rest of the text. The ULB does this with the letter in 6:25-27.
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in the letter in 6:26-27.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in the letter in 6:26-27.
 
 #### Special concepts in this chapter ####
 ##### Daniel and the lions #####

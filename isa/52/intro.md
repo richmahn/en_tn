@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
 The prophecies of this chapter occur after the exile in Babylon and are not in reference to the people contemporary to Isaiah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

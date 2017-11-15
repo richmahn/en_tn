@@ -1,7 +1,7 @@
 # Daniel 07 General Notes #
 
 #### Structure and formatting ####
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:9-10, 13-14, and 23-27.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:9-10, 13-14, and 23-27.
 
 #### Special concepts in this chapter ####
 ##### The four beasts #####

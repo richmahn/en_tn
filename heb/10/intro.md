@@ -4,7 +4,7 @@
 
 This chapter discusses how life as a Christian is superior to life as a Jew under the law of Moses and how the sacrifice of Jesus was superior to the sacrifices offered in the Temple. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 10:5-7, 15-17, 37-38, which is quoted from the OT.
+Some translations set each line of poetry farher to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 10:5-7, 15-17, 37-38, which is quoted from the OT.
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 49:1-11, 14-27, 29-33, 37-39 further to the right on the page than the rest of the text because they are part of a long quotation.
+The ULB sets the lines in 49:1-11, 14-27, 29-33, 37-39 farher to the right on the page than the rest of the text because they are part of a long quotation.
 
 Jeremiah's prophesies about other nations conclude in this chapter. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
