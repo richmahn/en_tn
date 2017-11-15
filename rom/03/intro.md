@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:4, 10-18, which is quoted from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:4, 10-18, which are words from the OT.
 
 Chapter 2 explained that all Jews are condemned because they violated the law of Moses and that Gentiles could be saved. Chapter 3 answers the question: what advantage does being a Jew have over being a Gentile? (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/save]])
 

@@ -4,7 +4,7 @@
 
 The author is still speaking about Jesus' role as the ultimate high priest. The author also begins to speak about how the new covenant is superior to the covenant God made with Moses. (See: [[rc://en/tw/dict/bible/kt/newcovenant]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 8:8-12, which is quoted from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 8:8-12, which are words from the OT.
 
 #### Special concepts in this chapter ####
 

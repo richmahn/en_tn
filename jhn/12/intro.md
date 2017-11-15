@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:38 and 40, which is quoted from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:38 and 40, which are words from the OT.
 
 Verse 16 is a commentary on these events. It is possible to put this entire verse in parentheses in order to set it apart from the narrative of the story.
 
