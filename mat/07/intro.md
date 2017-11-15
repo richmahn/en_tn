@@ -2,17 +2,17 @@
 
 #### Structure and formatting ####
 
-Since this chapter shifts quickly from one topic to another, it is possible to use a line of space between topics to distinguish between them more easily.
+Jesus spoke about many different subjects in this sermon, so you may wish to help the reader by putting an empty line into the text whenever Jesus changed the subject.
 
 #### Special concepts in this chapter ####
 
 ##### Matthew 5-7 #####
 
-Matthew 5-7 together form one sermon or teaching by Jesus. The chapter divisions cause confusion here.
+Many people call the words in Matthew 5-7 the Sermon on the Mount. This is one long lesson that Jesus taught. Bibles divide this lesson into three chapters, but this can sometimes confuse the reader. If your translation divides the text into sections, be sure that the reader understands that the whole sermon is one large section.
 
 ##### "By their fruits you will know them" #####
 
-Fruit is a common image in the scriptures. It is used to describe the results of either good or bad behavior. In this chapter, good fruit is the result of living as God commands. (See: [[rc://en/tw/dict/bible/other/fruit]])
+Fruit is a common image in the scriptures. It is used to describe the results of either good or bad actions. In this chapter, good fruit is the result of living as God commands. (See: [[rc://en/tw/dict/bible/other/fruit]])
 
 ## Links: ##
 * __[Matthew 07:01 Notes](./01.md)__

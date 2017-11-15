@@ -1,13 +1,18 @@
 # Matthew 09 General Notes #
 
-#### Important figures of speech in this chapter ####
+#### Passive voice ####
 
-There are many different figures of speech in this chapter. It was also common for Jesus to use analogies and metaphors in his teaching. His way of teaching was intended to encourage faith in him. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/faith]])
+Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "And," "but" #####
-Some English translations begin many sentences in this chapter with the word "and" or "but" to indicate a sequence of events in the narrative. The ULB usually eliminates these words because the context of the narrative itself indicates that the events occur in sequence. It is acceptable to use these words if it is helpful in your translation.
+##### Rhetorical questions #####
+
+Speakers in this chapter asked questions to which they already knew the answer. They asked the questions to show that they were not happy with the hearers or to teach them or to get them to think. Your language may have another way of doing this. (See: [[rc://en/ta/man/translate/figs-rquestion]])
+
+##### Proverbs #####
+
+Proverbs are very short sentences that use words that are easy to remember to tell about something that is generally true. People who understand proverbs usually have to know much about the language and culture of the speaker. When you translate the proverbs in this chapter, you may have to use many more words than the speakers used so that you can add information that the hearers knew but your reader do not know. (See: [[rc://en/ta/man/translate/writing-proverbs]])
 
 ## Links: ##
 * __[Matthew 09:01 Notes](./01.md)__

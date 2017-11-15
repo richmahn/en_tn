@@ -8,8 +8,7 @@ This chapter begins a new section.
 
 ##### Miracles #####
 
-Jesus' miracles in this chapter show that he has authority over things beyond human control. They also show that worship of Jesus is the proper response to his deeds.
-(See: [[rc://en/tw/dict/bible/kt/authority]])
+Jesus performed miracles to show that he could control things that no other people could control. He also showed that it is proper to worship him because he performed miracles. (See: [[rc://en/tw/dict/bible/kt/authority]])
 
 ## Links: ##
 * __[Matthew 08:01 Notes](./01.md)__

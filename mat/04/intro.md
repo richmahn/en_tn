@@ -4,17 +4,17 @@
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in verses 6, 15 and 16, which are words from the OT.
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in verse 10.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quotation in verse 10.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "The kingdom of heaven is near" ##### 
+##### "the kingdom of heaven has come near" ##### 
 
-Scholars debate whether the "kingdom of heaven" was present at this time or still coming. English translations frequently use the phrase "at hand," but this can create difficulty in translating. Other versions use the phase "is coming near" and "has come near."
+No one knows for use whether the "kingdom of heaven" was present or still coming when Jesus spoke these words. English translations often use the phrase "at hand," but these words can be difficult to translate. Other versions use the phase "is coming near" and "has come near."
 
 ##### "If you are the Son of God" #####
 
-In English, the reader can understand this statement in 4:6 as indicating that Satan does not know whether Jesus is the Son of God. Because Satan probably knows that Jesus is the Son of God, it should not be translated in this way. It can be translated as "because you are the Son of God." (See: [[rc://en/tw/dict/bible/kt/satan]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
+The reader should not understand these words in verses 3 and 6 to mean that Satan did not know whether Jesus was the Son of God. God had already said that Jesus was his Son ([Matthew 3:17](../03/16.md)), so Satan knew who Jesus was. He also knew that Jesus could make stones become bread and could throw himself off of high places and not be hurt. He was trying to make Jesus do these things and so disobey God and obey Satan. These words can be translated as "Because you are the Son of God" or "You are the Son of God. Show me what you can do." (See: [[rc://en/tw/dict/bible/kt/satan]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
 
 ## Links: ##
 * __[Matthew 04:01 Notes](./01.md)__
