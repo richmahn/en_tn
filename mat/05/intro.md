@@ -4,7 +4,7 @@
 
 Matthew 5-7, traditionally called The Sermon on the Mount, forms one lengthy teaching by Jesus. The chapter divisions cause needless confusion here. A title could help the reader understand that these chapters form one section or unit. The translator should be aware that there is some question about whether the teaching applies to Israel, the church, or the future kingdom of God.
 
-Matthew 5:3-10, known as the Beatitudes or Blessings, has been set apart by using indentation, with each line beginning with the word "blessed." This indentation highlights the poetic form of this teaching.
+Matthew 5:3-10, known as the Beatitudes or Blessings, has been set apart by being set further to the right on the page than the rest of the text, with each line beginning with the word "blessed." This way of placing the words on the page highlights the poetic form of this teaching.
 
 #### Special concepts in this chapter ####
 

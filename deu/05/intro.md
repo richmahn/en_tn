@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations indent each of the commandements in the list of Ten Commandments in 5:7-21. The ULB uses a separate paragraph for each commandment.
+Some translations set each of the commandements in the list of Ten Commandments in 5:7-21 further to the right on the page than the rest of the text. The ULB uses a separate paragraph for each commandment.
 
 #### Special concepts in this chapter ####
 

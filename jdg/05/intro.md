@@ -4,7 +4,7 @@
 
 The account of Deborah and Barak continues in this chapter.
 
-Some translations prefer to set apart quotations, prayers or songs. The ULB and many other English translations indent the lines of Chapter 5, which is a song.
+Some translations prefer to set apart quotations, prayers, and songs. The ULB and many other English translations set the lines of Chapter 5, which is a song, further to the right on the page than the rest of the text.
 
 #### Other possible translation difficulties in this chapter ####
 

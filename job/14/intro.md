@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB indents the lines of this chapter because it is a poem. This chapter is a continuation of Job's claim of righteousness being presented to Yahweh. It also has an abrupt shift in tone. Rather than being hopeful, Job laments. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/lament]])
+The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem. This chapter is a continuation of Job's claim of righteousness being presented to Yahweh. It also has an abrupt shift in tone. Rather than being hopeful, Job laments. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/lament]])
 
 #### Special concepts in this chapter ####
 

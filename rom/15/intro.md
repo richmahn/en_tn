@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 15:9-11, 21. All of these lines are quoted from the OT.
 
-Some translations indent prose quotations from the Old Testament. The ULB does this with the quoted material in 15:12.
+Some translations set prose quotations from the Old Testament further to the right on the page than the rest of the text. The ULB does this with the quoted material in 15:12.
 
 Romans [Romans 15:14](./14.md) marks a shift in the material of the book overall. Paul begins to speak much more personally. This serves a specific function in the letter overall, marking the end of his instruction and beginning a personal greeting.
 

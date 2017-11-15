@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB indents the lines of this chapter because it is a poem. This chapter is a continuation of the advice of Job's friend, Bildad. His words in this chapter are much stronger than when he previously spoke.
+The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem. This chapter is a continuation of the advice of Job's friend, Bildad. His words in this chapter are much stronger than when he previously spoke.
 
 #### Special concepts in this chapter ####
 

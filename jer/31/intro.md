@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 31:1-6, 8-22, 35-37.
 
-The ULB indents 31:29 because it is an important quotation.
+The ULB sets 31:29 further to the right on the page than the rest of the text because it is an important quotation.
 
 This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../30/23.md). (See: [[rc://en/tw/dict/bible/kt/restore]])
 #### Special concepts in this chapter ####

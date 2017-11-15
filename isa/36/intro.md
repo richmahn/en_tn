@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The previous chapters have been constructed as prophecy and contain many poetic elements. This chapter switches to a narrative and is a discussion between the officials from Assyria and Judah. To make the meaning clear here, it may be helpful to set apart the extended quotations through the use of indentation. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+The previous chapters have been constructed as prophecy and contain many poetic elements. This chapter switches to a narrative and is a discussion between the officials from Assyria and Judah. To make the meaning clear here, it may be helpful to set apart the extended quotations by setting them further to the right on the page than the rest of the text. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### Special concepts in this chapter ####
 

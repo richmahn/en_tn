@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB indents the lines of this chapter because it is a poem.
+The ULB sets the lines of this chapter further to the right on the page than the rest of the text because it is a poem.
 
 #### Important figures of speech in this chapter ####
 

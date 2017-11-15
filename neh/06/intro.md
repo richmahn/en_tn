@@ -4,7 +4,7 @@
 
 The building of the wall is completed in this chapter. 
 
-The ULB indents the lines in 6:6-7 because they are part of a long quotation.
+The ULB sets the lines in 6:6-7 further to the right on the page than the rest of the text because they are part of a long quotation.
 
 #### Special concepts in this chapter ####
 

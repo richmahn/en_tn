@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry further to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
-The ULB indents the lines in 17:1-6, 9-14 because they are part of a long quotation.
+The ULB sets the lines in 17:1-6, 9-14 further to the right on the page than the rest of the text because they are part of a long quotation.
 
 #### Special concepts in this chapter ####
 

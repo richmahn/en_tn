@@ -4,7 +4,7 @@
 
 This chapter is introduced in prose and shares the fourth vision, which is the priest in dirty clothes. (See: [[rc://en/tw/dict/bible/kt/priest]]) 
 
-Some translations prefer to set apart quotations. The ULB and many other English translations indent the lines of 3:7-9, which is an extended quotation.
+Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of 3:7-9, which is an extended quotation, further to the right on the page than the rest of the text.
 
 #### Difficult concepts in this chapter ####
 

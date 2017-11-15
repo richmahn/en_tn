@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB indents the lines in 1:5-15 because they are long lists.
+The ULB sets the lines in 1:5-15 further to the right on the page than the rest of the text because they are long lists.
 
 ##### Census #####
 
