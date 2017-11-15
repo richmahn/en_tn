@@ -2,14 +2,14 @@
 
 #### Structure and formatting ####
 
-Some translations indent quotations from the Old Testament. The ULB indents the quoted material in 1:23.
+Some translations set a quotation from the Old Testament further to the right on the page than the rest of the text. The ULB does this for the quoted material in 1:23.
 
 #### Special concepts in this chapter ####
 
 ##### Genealogy #####
 
-A genealogy is a list that records a person's ancestors or descendants. These lists were very important because the king would inherit his authority from his father. So the Jews used genealogies to choose the right man to become king. Most important people had records of their genealogies.
-
+A genealogy is a list that records a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could become king. Most important people had records of their genealogies.
+ 
 #### Important figures of speech in this chapter ####
 
 ##### Use of the passive voice #####
