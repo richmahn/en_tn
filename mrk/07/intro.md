@@ -7,13 +7,14 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Hand washing #####
-This was a practice done by the Pharisees, but it was not an obligation according to the law of Moses. The Pharisees had many rituals involving washing in an attempt to make themselves clean. This is ironic because no amount of water could make them spiritually clean. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/ta/man/translate/figs-irony]])
+
+The Pharisees washed many things that were not dirty because they were trying to make God think that they were good. They washed their hands before they ate, even when their hands were not dirty. and even though the law of Moses did not say that they had to do it. Jesus told them that they were wrong and that people make God happy by thinking and doing the right things. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/clean]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Ephphatha" #####
 
-This is an Aramaic word. Mark "transliterates" its sounds by writing them with Greek letters. After transliterating the word, Mark explains what it means. 
+This is an Aramaic word. Mark wrote it the way it sounds using Greek letters and then explained what it means.
 
 ## Links: ##
 
