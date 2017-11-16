@@ -1,6 +1,6 @@
 # Matthew 12 General Notes #
 
-#### Structure and Formatting ####
+#### Structure and formatting ####
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:18-21, which are words from the OT.
 
@@ -8,16 +8,16 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### The Sabbath #####
 
-Obedience to the Sabbath is an important part of this chapter. However, Jesus distinguishes between following the Sabbath the way God commanded and following the rules the Pharisees created about the Sabbath. (See: [[rc://en/tw/dict/bible/kt/sabbath]])
+This chapter has much to say about how God's people are to obey the Sabbath. Jesus said that the rules that the Pharisees made up did not help people obey the Sabbath the way God wanted them to. (See: [[rc://en/tw/dict/bible/kt/sabbath]])
 
 ##### "Blasphemy against the Spirit" #####
 
-There is a great deal of controversy regarding properly identifying this specific sin. However, it seems to involve insulting the Holy Spirit and his work. Since part of his work is to convince people that they are sinners and that they need God's forgiveness, anyone who mocked this truth would be unwilling to come in repentance to God. For this reason, he would not be forgiven. (See: [[rc://en/tw/dict/bible/kt/sin]])
+No one knows for sure what actions people perform or what words they say when they commit this sin. However, they probably insult the Holy Spirit and his work. Part of the Holy Spirit's work is to make people understand that they are sinners and that they need to have God forgive them. Therefore, anyone who does not try to stop sinning is probably committing blasphemy against the Spirit. (See: [[rc://en/tw/dict/bible/kt/blasphemy]] and [[rc://en/tw/dict/bible/kt/holyspirit]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Brother and Sisters #####
-This chapter introduces the concept of "spiritual" brothers and sisters. Scripture uses these terms to refer to the relationship between fellow Israelites. Here, those who follow Jesus are now referred to as brothers and sisters. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/brother]])
+##### Brothers and sisters #####
+Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://en/tw/dict/bible/kt/brother]])
 
 ## Links: ##
 * __[Matthew 12:01 Notes](./01.md)__

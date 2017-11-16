@@ -1,6 +1,6 @@
 # Mark 04 General Notes #
 
-#### Structure and Format ####
+#### Structure and formatting ####
 
 Mark 4:3-10 forms one parable. The parable is explained in 4:14-23. 
 

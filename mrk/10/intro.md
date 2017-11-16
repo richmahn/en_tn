@@ -1,6 +1,6 @@
 # Mark 10 General Notes #
 
-#### Structure and Format ####
+#### Structure and formatting ####
 
 Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 10:7-8.
 

@@ -1,6 +1,6 @@
 # Matthew 24 General Notes #
 
-#### Structure and Formatting ####
+#### Structure and formatting ####
 
 In this chapter, Jesus begins to prophesy about the future from that time until he returns as king of the universe. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 

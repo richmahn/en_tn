@@ -1,6 +1,6 @@
 # Matthew 25 General Notes #
 
-#### Structure and Formatting ####
+#### Structure and formatting ####
 
 This chapter continues the teaching of the previous chapter.
 

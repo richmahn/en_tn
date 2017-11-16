@@ -1,6 +1,6 @@
 # Matthew 05 General Notes #
 
-#### Structure and Formatting ####
+#### Structure and formatting ####
 
 Many people call the words in Matthew 5-7 the Sermon on the Mount. This is one long lesson that Jesus taught. Bibles divide this lesson into three chapters, but this can sometimes confuse the reader. If your translation divides the text into sections, be sure that the reader understands that the whole sermon is one large section.
 

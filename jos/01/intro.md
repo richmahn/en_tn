@@ -1,6 +1,6 @@
 # Joshua 01 General Notes #
 
-####  Structure and formatting ####
+#### Structure and formatting ####
 
 This chapter appears to be a natural continuation of the book of Deuteronomy.
 

@@ -1,6 +1,6 @@
 # Matthew 06 General Notes #
 
-#### Structure and Formatting ####
+#### Structure and formatting ####
 
 Matthew 6 continues Jesus' extended teaching known as "The Sermon on the Mount." 
 

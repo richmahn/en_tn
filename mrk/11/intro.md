@@ -1,6 +1,6 @@
 # Mark 11 General Notes #
 
-#### Structure and Format ####
+#### Structure and formatting ####
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 11:9-10, 17, which are words from the OT.
 
