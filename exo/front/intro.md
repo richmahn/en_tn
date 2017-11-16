@@ -9,7 +9,7 @@
       - Israel as slaves in Egypt (1:7–22)
       - Moses' history to the time of the Exodus (2:1–4:26)
       - Israel suffers in Egypt (4:27–6:13)
-      - Sedond genealogy (6:14–27)
+      - Second genealogy (6:14–27)
       - Moses and Aaron go to Pharaoh (6:28–7:25)
       - The plagues (8:1–11:10)
 1. Instructions for celebrating the Passover (12:1–30)
