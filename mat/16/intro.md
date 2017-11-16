@@ -20,7 +20,7 @@ The writer continues his account from chapter 15 in verses 1-20. The account sto
 
 ##### Paradox #####
 
-A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it" ([Matthew 16:25](../24.md)).pizza
+A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it" ([Matthew 16:25](./24.md)).
 
 ## Links: ##
 * __[Matthew 16:01 Notes](./01.md)__
