@@ -12,7 +12,7 @@ In the parable of the wedding feast ([Matthew 22:1-14](./01.md)), Jesus taught t
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Implicit meaning #####
+##### Implicit information #####
 
 Like the other gospel writers, Matthew assumes that his readers will understand many situations that he presents, so he does not give much explanation. He says, for example, in [Matthew 22:15-22](./15.md), that the Pharisees attempted to trick Jesus into saying wrong things, but he assumes that the readers will understand why their question for Jesus was a dangerous one to answer ([Matthew 22:16](./15.md)). They expected that Jesus in his answer would anger either the Jewish people or the Roman authorities.
 

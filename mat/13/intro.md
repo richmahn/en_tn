@@ -8,12 +8,27 @@ This chapter begins a new section. It contains some of Jesus' parables about the
 
 #### Important figures of speech in this chapter ####
 
+##### Metonymy #####
+
+Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven.
+
+##### Implied information #####
+
+Speakers usually do not say things that they think their hearers already understand. When Matthew said that Jesus "sat beside the sea," he probably expected his hearers to know that Jesus was about to teach the people.
+
+##### Metaphor #####
+
+Speakers often use words for things that can be touched to speak of things that cannot be touched. Jesus spoke of a bird eating a seed to describe how Satan kept people from understanding Jesus' message.
+
+#### Other possible translation difficulties in this chapter ####
+
+##### Passive voice #####
+
+Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
+
 ##### Parables #####
 
-A parable is a short story used to illustrate a moral or religious lesson. In this chapter, the parables, reveal truth about the kingdom of heaven to those who have faith in Jesus. They also conceal these same truths from those who reject Jesus ([Matthew 13:11-13](./10.md)). These parables usually take the form of stories.
-
-##### Synecdoche #####
-In this chapter, Jesus refers to the eyes seeing and the ears hearing. He uses these figures of speech to encourage his listeners to understand the lessons of these parables.
+The parables were short stories that Jesus told so that people would easily understand the lesson he was trying to teach them. He also told the stories so that those who did not want to believe in him would not understand the truth ([Matthew 13:11-13](./10.md)).
 
 ## Links: ##
 * __[Matthew 13:01 Notes](./01.md)__

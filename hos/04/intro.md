@@ -13,6 +13,7 @@ Lawsuits are special cases where people go to court when they have a legal issue
 #### Important figures of speech in this chapter ####
 
 ##### Metonymy #####
+
 Metonymy is used in the first few verses of this chapter. Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. Bloodshed is associated with murder. Stumbling represents sinning. (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/tw/dict/bible/kt/sin]]) 
  
 

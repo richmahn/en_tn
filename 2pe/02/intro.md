@@ -11,7 +11,7 @@ From the context,  "them" probably refers to false teachers. These people were n
 
 This is a complex issue and it is possible that "flesh" is a metaphor for a person's sinful nature. It is not the physical part of man that is sinful and it appears that while man remains alive ("in the flesh"), he will remain sinful regardless of his effort, but his new nature will be fighting against his old nature. (See: [[rc://en/tw/dict/bible/kt/flesh]])
 
-##### Implicit Information #####
+##### Implicit information #####
 There are several analogies that are difficult to understand if the Old Testament has not yet been translated. Further explanation may be necessary. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
