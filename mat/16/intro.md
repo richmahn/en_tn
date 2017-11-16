@@ -2,19 +2,25 @@
 
 #### Special concepts in this chapter ####
 
-##### Bread #####
+##### Yeast #####
 
-Bread is a special image in 16:5-12. Jesus used his disciples' discussion about bread to warn them against the teachings of the Pharisees and Sadducees. He spoke of these teachings as if they were yeast, the ingredient that causes bread to rise before it is baked.
+Jesus spoke of the way people thought about God as if it were bread, and he spoke of what people taught about God as if it were the yeast that makes bread dough become larger and the baked bread taste good. He did not want his followers to listen to what the Pharisees and Sadducees taught. This was because if they did listen, they would not understand who God is and how he wants his people to live. (See: [[:en:ta:vol1:translate:figs-metaphor]])
 
-At the same time, the mention of bread in this chapter is meant to remind the readers that Jesus fed the five thousand with bread (see: [Matthew 14:13-21](../14/13.md)) and also the four thousand (see: [Matthew 15:29-39](../15/29.md)). The implication is that Jesus gives good "bread" (teaching), but that the Pharisees and Sadducees do not.
+#### Important figures of speech in this chapter ####
+
+##### Metaphor #####
+
+Jesus told his people to obey his commands. He did this by telling them to "follow" him. It is as if he were walking on a path and they were walking after him. (See: [[:en:ta:vol1:translate:figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
-[Matthew 16:21](./21.md) forms a break in the narrative. At this point, Matthew makes a comment about Jesus' actions that will extend into the future. It is important that the translator clearly signal that this comment is about the future, embedded in the narrative.
+##### Background information #####
 
-##### The use of paradox #####
+The writer continues his account from chapter 15 in verses 1-20. The account stops in verse 21 so the writer can tell the reader that Jesus told his disciples again and again that people would kill him after he arrived in Jerusalem. Then the account continues in verses 22-27 with what happened the first time Jesus told the disciples that he would die.
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it." ([Matthew 16:24-28](./24.md)).
+##### Paradox #####
+
+A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it" ([Matthew 16:25](./24.md)).
 
 ## Links: ##
 * __[Matthew 16:01 Notes](./01.md)__
