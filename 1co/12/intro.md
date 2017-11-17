@@ -8,7 +8,7 @@ This chapter begins a new section. Chapters 12-14 discuss the use of the spiritu
 
 #### Special concepts in this chapter ####
 
-##### The Church, the body of Christ ##### 
+#### The Church, the body of Christ #####
 
 This is an important metaphor in Scripture. The Church has many different parts, each with different functions. They combine to make one church. All of the different parts are necessary. Each part is to have concern for all the other parts, even those that seem less important. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 

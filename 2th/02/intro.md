@@ -2,7 +2,7 @@
 
 #### Special concepts in this chapter ####
 
-##### "Being gathered together to be with him" ##### 
+#### "Being gathered together to be with him" #####
 
 Many scholars believe this passage refers to an event known as the "rapture." This is a time when Jesus calls those who believe in him to himself. (See: [[rc://en/tw/dict/bible/kt/believe]])
 
