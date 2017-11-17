@@ -11,7 +11,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Seven spirits of God #####
 The exact meaning of this phrase is unclear. It is possibly a reference to the Holy Spirit with the number seven symbolizing "completeness." It may also be a reference to the seven spirits surrounding the throne of God. It should be unnecessary to specifically define it in translation.
 
-#### Seven stars #####
+##### Seven stars #####
 These are probably a reference to the leaders of the churches. (See: [Revelation 1:20](../01/19.md))
 
 #### Important figures of speech in this chapter ####

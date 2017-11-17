@@ -8,7 +8,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 #### Other possible translation difficulties in this chapter ####
 
-#### "the kingdom of heaven has come near" #####
+##### "the kingdom of heaven has come near" #####
 
 No one knows for use whether the "kingdom of heaven" was present or still coming when Jesus spoke these words. English translations often use the phrase "at hand," but these words can be difficult to translate. Other versions use the phase "is coming near" and "has come near."
 
