@@ -14,7 +14,7 @@ In most cultures, it is wrong to insult people. Many of the words in this chapte
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. For example, "he who is greatest among you will be your servant" ([Matthew 23:11-12](./11.md)).
+A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "He who is greatest among you will be your servant" ([Matthew 23:11-12](./11.md)).
 
 ## Links: ##
 

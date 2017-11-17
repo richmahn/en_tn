@@ -8,17 +8,17 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Wedding Feast #####
 
-In the parable of the wedding feast ([Matthew 22:1-14](./01.md)), Jesus taught that it was important to accept God's invitation of salvation. In Jewish culture, paradise—life with God after death—was often pictured as a feast. Here Jesus pictures it as a wedding feast that a king prepares for his son, who has just gotten married. In addition, Jesus emphasizes that not all people whom God invites will properly prepare themselves to participate. These people will be thrown out from the feast.
+In the parable of the wedding feast ([Matthew 22:1-14](./01.md)), Jesus taught that when God offers to save a person, that person needs to to accept the offer. Jesus spoke of life with God as a feast that a king prepares for his son, who has just gotten married. In addition, Jesus emphasized that not everyone whom God invites will properly prepare themselves to come to the feast. God will throw these people out from the feast.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Implicit information #####
 
-Like the other gospel writers, Matthew assumes that his readers will understand many situations that he presents, so he does not give much explanation. He says, for example, in [Matthew 22:15-22](./15.md), that the Pharisees attempted to trick Jesus into saying wrong things, but he assumes that the readers will understand why their question for Jesus was a dangerous one to answer ([Matthew 22:16](./15.md)). They expected that Jesus in his answer would anger either the Jewish people or the Roman authorities.
+Speakers usually do not say things that they think their hearers already understand. When the king in the parable said, "My oxen and fattened calves have been killed" ([Matthew 22:4](./04.md)),  he assumed that the hearers would understand that those who had killed the animals had also cooked them.
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. In this chapter, Jesus quotes a psalm referencing that David calls his son "lord," that is, master. The Jews always expected that ancestors would be greater than their descendants. In this passage, Jesus is trying to gradually lead his hearers to the true understanding that the Messiah will himself be divine, and that he, Jesus, is in fact the Messiah. ([Matthew 22:43-44](./43.md))
+A paradox is a statement that appears to describe something impossible. To the Jews, the ancestors were the masters of the descendants, but in one psalm David calls one of his descendants "Lord." Jesus tells the Jewish leaders that this is a paradox, saying, "If David then calls the Christ 'Lord,' how is he David's son?" ([Matthew 22:45](./45)).
 
 ## Links: ##
 

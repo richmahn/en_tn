@@ -12,7 +12,7 @@ This chapter begins a new section. It contains some of Jesus' parables about the
 
 Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 13:11](./10.md)).
 
-##### Implied information #####
+##### Implicit information #####
 
 Speakers usually do not say things that they think their hearers already understand. When Matthew said that Jesus "sat beside the sea" ([Matthew 13:1](./01.md)), he probably expected his hearers to know that Jesus was about to teach the people.
 
