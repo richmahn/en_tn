@@ -12,7 +12,7 @@ This chapter refers to the contents of the Book of Romans as "the gospel" ([Roma
 ##### Fruit #####
 This chapter uses the imagery of fruit. The image of fruit usually refers to a person's faith producing good works in their life. (See: [[rc://en/tw/dict/bible/other/fruit]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
-== Universal Condemnation and the Wrath of God==
+##### Universal Condemnation and the Wrath of God #####
 This chapter explains that everyone is without excuse. We all know about the true God, Yahweh, from his creation all around us. Because of our sin and our sinful nature, every person justly deserves the wrath of God. This wrath was satisfied by Jesus dying on a cross for those who believe in him. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Important figures of speech in this chapter ####
