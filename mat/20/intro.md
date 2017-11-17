@@ -4,7 +4,7 @@
 
 ##### The parable of the landowner and his vineyard #####
 
-Jesus tells this parable ([Matthew 20:1-16](./01.md)) to teach his disciples that God's standards about what is right are different from human standards.
+Jesus tells this parable ([Matthew 20:1-16](./01.md)) to teach his disciples that what God says is right is different from what people say is right.
 
 ## Links: ##
 * __[Matthew 20:01 Notes](./01.md)__

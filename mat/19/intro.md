@@ -2,11 +2,15 @@
 
 #### Special concepts in this chapter ####
 
-##### Jesus' teaching about divorce #####
+##### Divorce #####
 
-In this chapter, Jesus teaches about divorce as a response to a challenge from Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus shows the mistakes that the religious leaders made in their traditions about marriage.
+Jesus taught about divorce because the Pharisees wanted people to think Jesus' teachings about divorce were wrong ([Matthew 19:3-12](./03.md)). Jesus talked about what God had first said about marriage when he created it. 
 
- 
+#### Important figures of speech in this chapter ####
+
+##### Metonymy #####
+
+Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 1:12](./10.md)).
 
 ## Links: ##
 * __[Matthew 19:01 Notes](./01.md)__
