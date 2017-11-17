@@ -2,26 +2,26 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:4, 10-18, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 4 and 10-18 of this chapter, which are words from the Old Testament.
 
-Chapter 2 explained that all Jews are condemned because they violated the law of Moses and that Gentiles could be saved. Chapter 3 answers the question: what advantage does being a Jew have over being a Gentile? (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/save]])
+Chapter 3 answers the question, "What advantage does being a Jew have over being a Gentile?" (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/save]])
 
 #### Special concepts in this chapter ####
 
 ##### Universal Condemnation #####
 
-This chapter explains that the whole world is without excuse and has enough knowledge to seek after and believe in the true God, Yahweh. Sin is a problem for all of mankind and enslaves the unbeliever in their sin. This refutes the common understanding that "all people are basically good." (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]])
+This chapter explains that the whole world is without excuse and has enough knowledge to seek after and believe in the true God, Yahweh. Sin is a problem for all of mankind and enslaves the unbeliever in their sin. This goea against the popular idea that "all people are basically good." (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### "For all have sinned and come short of the glory of God" #####
-The standard required for entrance into heaven and being in the presence of God is perfection. Anything less than perfect leads to condemnation. (See: [[rc://en/tw/dict/bible/kt/heaven]] and [[rc://en/tw/dict/bible/kt/condemn]])
+Because God is holy, anyone with him in heaven must be perfect. Any sin at all will condemn a person. (See: [[rc://en/tw/dict/bible/kt/heaven]] and [[rc://en/tw/dict/bible/kt/condemn]])
 
 ##### The purpose of the law of Moses #####
-Obedience to the law cannot justify a person. The Law does not justify a person but is a way a person displays their faith in God. It has always been faith that justified a person. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/faith]])
+Obeying the law cannot make a person right with God. Obeying God's law is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-These are frequently used in this chapter. It appears the intent of these rhetorical question is to make the reader feel guilty, or to convict them in their sin and ultimately bring them to faith in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/guilt]])
+Paul frequently uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/guilt]])
 
 ## Links: ##
 
