@@ -16,7 +16,7 @@ Jesus told his people to obey his commands. He did this by telling them to "foll
 
 ##### Background information #####
 
-The writer continues his account from chapter 15 in verses 1-20. The account stops in verse 21 so the writer can tell the reader that Jesus told his disciples again and again that people would kill him after he arrived in Jerusalem. Then the account continues in verses 22-27 with what happened the first time Jesus told the disciples that he would die.
+Matthew continues his account from chapter 15 in verses 1-20. The account stops in verse 21 so Matthew can tell the reader that Jesus told his disciples again and again that people would kill him after he arrived in Jerusalem. Then the account continues in verses 22-27 with what happened the first time Jesus told the disciples that he would die.
 
 ##### Paradox #####
 

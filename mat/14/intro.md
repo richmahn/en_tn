@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Verses 1 and 2 continue the account from chapter 13. Verses 3-12 stop the account and speak of things that happened earlier, possibly soon after Satan tempted Jesus (see [Matthew 4:12](../04/12.md)). Verse 13 continues the account from verse 2. Be sure to have words in verses 3-12 that tell the reader that the writer has stopped his account to give new information before he continues. (See: [[rc://en/ta/man/translate/writing-background]])
+Verses 1 and 2 continue the account from chapter 13. Verses 3-12 stop the account and speak of things that happened earlier, possibly soon after Satan tempted Jesus (see [Matthew 4:12](../04/12.md)). Verse 13 continues the account from verse 2. Be sure to have words in verses 3-12 that tell the reader that Matthew has stopped his account to give new information before he continues. (See: [[rc://en/ta/man/translate/writing-background]])
 
 #### Possible translation difficulties in this chapter ####
 
