@@ -18,9 +18,9 @@ Those who try to obey the law will not be justified by trying to obey it. Those 
 Paul uses several rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Hypothetical Situation #####
-In context, "he will give eternal life" in Verse 7 is a hypothetical statement. If a person could live a perfect life, they would earn eternal life as a reward. But only Jesus was able to live a perfect life.
+In context, "he will give eternal life" in verse 7 is a hypothetical statement. If a person could live a perfect life, they would earn eternal life as a reward. But only Jesus was able to live a perfect life.
 
-Paul gives another hypothetical situation in Verses 17-29. Here he explains that even those who earnestly try to obey the law of Moses are guilty of violating the law. In English, this is about those who follow the "letter" of the law but cannot follow the "spirit" or general principles of the law. (See: [[rc://en/ta/man/translate/figs-hypo]])
+Paul gives another hypothetical situation in verses 17-29. Here he explains that even those who earnestly try to obey the law of Moses are guilty of violating the law. In English, this is about those who follow the "letter" of the law but cannot follow the "spirit" or general principles of the law. (See: [[rc://en/ta/man/translate/figs-hypo]])
 
 #### Other possible translation difficulties in this chapter ####
 
