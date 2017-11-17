@@ -2,28 +2,30 @@
 
 #### Structure and formatting ####
 
-This chapter shifts its audience from Roman Christians to those who "judge" and do not believe in Jesus. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/believe]])
+This chapter shifts its audience from Roman Christians to those who "judge" other people and do not believe in Jesus. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/believe]])
 
 ##### "Therefore you are without excuse" #####
-This phrase looks back at chapter 1 and, in some ways, it is actually a conclusion to the argument of chapter 1. This phrase explains the reasons why everyone in the world is required to worship the true God. 
+This phrase looks back at Chapter 1.  In some ways, it actually concludes what Chapter 1 teaches. This phrase explains why everyone in the world must worship the true God. 
 
 #### Special concepts in this chapter ####
 
 ##### "Doers of the Law" #####
-It is not those who obey the law who will be justified by their obedience to it. It is those who earnestly try to follow the law of Moses who are justified by their faith which this demonstrates. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Those who try to obey the law will not be justified by trying to obey it. Those who are justified by believing in Jesus show that their faith is real by obeying God's commands. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-These are frequently used in this chapter. It appears the intent of these rhetorical questions is to make the reader feel guilty or to convict them in their sin and ultimately bring them to faith in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
+Paul uses several rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Hypothetical Situation #####
-In light of the context, "He will give eternal life" is a hypothetical statement. If a person could live a perfect life, they would earn eternal life as a reward. Only Jesus was able to live a perfect life. There is another hypothetical situation in 2:17-29. This situation explains that even those who earnestly try to obey the law of Moses are guilty of violating the law. In English, this is about those who follow the "letter" of the law but cannot follow the "spirit" or general principles of the law. (See: [[rc://en/ta/man/translate/figs-hypo]])
+In context, "he will give eternal life" in Verse 7 is a hypothetical statement. If a person could live a perfect life, they would earn eternal life as a reward. But only Jesus was able to live a perfect life.
+
+Paul gives another hypothetical situation in Verses 17-29. Here he explains that even those who earnestly try to obey the law of Moses are guilty of violating the law. In English, this is about those who follow the "letter" of the law but cannot follow the "spirit" or general principles of the law. (See: [[rc://en/ta/man/translate/figs-hypo]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "You who judge" #####
-At times, this could be translated in a simpler way, but it is translated in this relatively awkward way because Paul is referencing "people who judge" in such a way as to also say that everyone judges. It is possible to translate this as "those who judge (and everyone judges)."
+At times, this could be translated in a simpler way. But it is translated in this relatively awkward way because when Paul refers to "people who judge" he is also saying that everyone judges. It is possible to translate this as "those who judge (and everyone judges)."
 
 ## Links: ##
 
