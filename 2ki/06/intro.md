@@ -11,7 +11,7 @@ Elisha caused an iron ax head to float. He fooled the whole army of Aram that wa
 
 #### Important figures of speech in this chapter ####
 
-##### Rhetorical question ######
+##### Rhetorical question #####
 The king's counselor expressed his unbelief in Elisha's prophecy of plenty of food: "See, even if Yahweh should make windows in heaven, can this thing happen?" (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/unbeliever]] and [[rc://en/tw/dict/bible/kt/heaven]]) 
 
 ## Links: ##

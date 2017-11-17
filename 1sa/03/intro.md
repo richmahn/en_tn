@@ -8,7 +8,7 @@ God spoke at night to Samuel when he was a small boy, telling him that he would 
 
 #### Important figures of speech in this chapter ####
 
-##### Metonymy ######
+##### Metonymy #####
 
 In order to show respect when talking to God, Samuel calls himself "your servant" when referring to himself. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 

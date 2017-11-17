@@ -6,7 +6,7 @@ This chapter has a very abrupt change. In 7:2-4, Paul finishes his defense. He t
 
 #### Special concepts in this chapter ####
 
-##### Clean and unclean ######
+##### Clean and unclean #####
 
 Christians are "clean" in the sense that they are in a right relationship with God, and they do not need to be concerned with being clean according to the law of Moses. Ungodly living can still make a Christian unclean. (See: [[rc://en/tw/dict/bible/kt/clean]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/ungodly]] and [[rc://en/tw/dict/bible/kt/unclean]])
 
