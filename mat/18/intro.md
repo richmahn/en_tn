@@ -2,11 +2,11 @@
 
 #### Special concepts in this chapter ####
 
-##### What should you do if "your brother sins against you"? #####
+##### What should Jesus' followers do when other followers sin against them? #####
 
-In this chapter, Jesus teaches that it is important for his followers to end conflicts among themselves. He teaches that the local group of believers should be ready to help this to happen in a way that honors God. 
+Jesus taught that his followers must treat each other well and not be angry with each other. They should forgive anyone who is sorry for his sin, even if he has committed the same sin before.
 
-The church is also responsible for encouraging believers to repent if they sin. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
+If he is not sorry for his sin, Jesus' followers should speak with him alone or in a small group. If he is still not sorry after that, then Jesus' followers can treat him as guilty. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ## Links: ##
 * __[Matthew 18:01 Notes](./01.md)__
