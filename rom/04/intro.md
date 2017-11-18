@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### The purpose of the law of Moses #####
-Paul builds upon material from chapter 3. He explains how Abraham, the father of Israel, was justified. Even Abraham could not be justified by what he did. Obeying the law of Moses does not make a person right with God. It is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/faith]])
+Paul builds upon material from chapter 3. He explains how Abraham, the father of Israel, was justified. Even Abraham could not be justified by what he did. Obeying the law of Moses does not make a person right with God. Obeying God's commands is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Circumcision #####
 Circumcision was important to the Israelites. It identified a person as a descendant of Abraham. It was also a sign of the covenant between Abraham and Yahweh. However, no person was justified only by being circumcised. (See: [[rc://en/tw/dict/bible/kt/circumcise]] and [[rc://en/tw/dict/bible/kt/covenant]])
