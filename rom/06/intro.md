@@ -2,15 +2,15 @@
 
 #### Structure and formatting ####
 
-Paul begins this chapter by answering a hypothetical objection to what he taught in Chapter 5. (See: [[rc://en/ta/man/translate/figs-hypo]]) 
+Paul begins this chapter by answering how someone might hypothetically object to what he taught in Chapter 5. (See: [[rc://en/ta/man/translate/figs-hypo]]) 
 
 #### Special concepts in this chapter ####
 
 ##### Against the Law #####
-In this chapter, Paul refutes the teaching that Christians can live however they want after they are saved. Scholars call this teaching "antinomianism" or being "against the law." This is because people are trying to live without any type of rules in their life. Paul recalls the great price Jesus paid for a Christian to be saved to motivate godly living. (See: [[rc://en/tw/dict/bible/kt/save]] and [[rc://en/tw/dict/bible/kt/godly]])
+In this chapter, Paul refutes the teaching that Christians can live however they want after they are saved. Scholars call this "antinomianism" or being "against the law." To motivate godly living, Paul recalls the great price Jesus paid for a Christian to be saved. (See: [[rc://en/tw/dict/bible/kt/save]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### Servants of sin #####
-Before believing in Jesus, people are servants or slaves of sin. After being saved, Christians are freed from serving sin and are able to choose to serve Christ in their lives. Paul explains that when a Christian chooses to sin, it is because the person has willingly chosen sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
+Before believing in Jesus, sin enslaves people. God frees Christians from serving sin. They are are able to choose to serve Christ in their lives. Paul explains that when Christians choose to sin, they willingly choose to sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fruit #####
 This chapter uses the imagery of fruit. The image of fruit usually refers to a person's faith producing good works in their life. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
