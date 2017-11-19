@@ -10,7 +10,7 @@ Paul begins this chapter by answering how someone might hypothetically object to
 In this chapter, Paul refutes the teaching that Christians can live however they want after they are saved. Scholars call this "antinomianism" or being "against the law." To motivate godly living, Paul recalls the great price Jesus paid for a Christian to be saved. (See: [[rc://en/tw/dict/bible/kt/save]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### Servants of sin #####
-Before believing in Jesus, sin enslaves people. God frees Christians from serving sin. They are are able to choose to serve Christ in their lives. Paul explains that when Christians choose to sin, they willingly choose to sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
+Before believing in Jesus, sin enslaves people. God frees Christians from serving sin. They are able to choose to serve Christ in their lives. Paul explains that when Christians choose to sin, they willingly choose to sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fruit #####
 This chapter uses the imagery of fruit. The image of fruit usually refers to a person's faith producing good works in their life. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
