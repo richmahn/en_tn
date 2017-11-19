@@ -7,23 +7,23 @@ This chapter begins by answering a possible or hypothetical objection to Paul's 
 #### Special concepts in this chapter ####
 
 ##### Against the Law #####
-This chapter refutes the teaching that Christians can live however they want after they have received salvation. Scholars call this teaching antinomianism or being "against the law" because people are attempting to live without any type of rules in their life. Paul recalls the great price Jesus paid for a Christian's salvation as motivation for godly living. (See: [[rc://en/tw/dict/bible/kt/save]] and [[rc://en/tw/dict/bible/kt/godly]])
+In this chapter, Paul refutes the teaching that Christians can live however they want after they are saved. Scholars call this teaching "antinomianism" or being "against the law." This is because people are trying to live without any type of rules in their life. Paul recalls the great price Jesus paid for a Christian to be saved to motivate godly living. (See: [[rc://en/tw/dict/bible/kt/save]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### Servants of sin #####
-Before coming to faith in Jesus, people are servants or slaves of sin. After salvation, a Christian is freed from this bondage and is able to choose to serve Christ in their life. Paul explains that when a Christian chooses to sin, it is because the person has willingly chosen sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
+Before believing in Jesus, people are servants or slaves of sin. After being saved, Christians are freed from serving sin and are able to choose to serve Christ in their lives. Paul explains that when a Christian chooses to sin, it is because the person has willingly chosen sin. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fruit #####
-The imagery of fruit is used in this chapter. The image of fruit usually refers to faith producing acts of righteousness in a person's life. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
+This chapter uses the imagery of fruit. The image of fruit usually refers to a person's faith producing good works in their life. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-These are frequently used in this chapter. It appears the intent of these rhetorical questions is to make the reader feel guilty, or to convict them of their sin and ultimately bring them to faith in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]])
+Paul uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Death #####
-Death is used many different ways in this chapter. Physical death, spiritual death, the reign of sin in the heart of man and to put an end to something. Sin and death are supposed to contrast the new life provided by Christ and the new way a Christian is supposed to live after they receive salvation. (See: [[rc://en/tw/dict/bible/other/death]])
+"Death" is used many different ways in this chapter: physical death, spiritual death, sin reigning in the heart of man, and to end something. Sin and death contrast with the new life provided by Christ and the new way Christians are supposed to live after they are saved. (See: [[rc://en/tw/dict/bible/other/death]])
 
 ## Links: ##
 
