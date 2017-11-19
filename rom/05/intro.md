@@ -13,7 +13,7 @@ How Paul explains the results of our being justified is an important part of thi
 Scholars are divided over what Paul meant in verse 12: "And death spread to all people, because all sinned." Some believe that all of mankind was present in the "seed of Adam." So, as Adam is the father of all mankind, all of mankind was present when Adam sinned. Others believe that Adam served as a representative head for mankind. So when he sinned, all of mankind "fell" as a result. Whether people today played an active or passive role in Adam's original sin is one way these views differ. Other passages will help one decide. (See: [[rc://en/tw/dict/bible/other/seed]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-activepassive]])
 
 ##### The second Adam #####
-Adam was the first man and the first "son" of God. He was created by God. He brought sin and death into the world by eating the forbidden fruit. Paul describes Jesus as the "second Adam" in this chapter and the true son of God. He brings life and overcame sin and death by his death on the cross. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/other/death]])
+Adam was the first man and the first "son" of God. He was created by God. He brought sin and death into the world by eating the forbidden fruit. Paul describes Jesus as the "second Adam" in this chapter and the true son of God. He brings life and overcame sin and death by dying on the cross. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/other/death]])
 
 ## Links: ##
 
