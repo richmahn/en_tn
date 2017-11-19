@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins by answering a possible or hypothetical objection to Paul's teaching in chapter 5. (See: [[rc://en/ta/man/translate/figs-hypo]]) 
+Paul begins this chapter by answering a hypothetical objection to what he taught in Chapter 5. (See: [[rc://en/ta/man/translate/figs-hypo]]) 
 
 #### Special concepts in this chapter ####
 
