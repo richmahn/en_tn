@@ -23,7 +23,7 @@ Paul uses rhetorical questions in this chapter. It appears the intent of these r
 #### Other possible translation difficulties in this chapter ####
 
 ##### Death #####
-"Death" is used many different ways in this chapter: physical death, spiritual death, sin reigning in the heart of man, and to end something. Sin and death contrast with the new life provided by Christ and the new way Christians are supposed to live after they are saved. (See: [[rc://en/tw/dict/bible/other/death]])
+Paul uses "death" many different ways in this chapter: physical death, spiritual death, sin reigning in the heart of man, and to end something. He contrasts sin and death with the new life provided by Christ and the new way Christians are supposed to live after they are saved. (See: [[rc://en/tw/dict/bible/other/death]])
 
 ## Links: ##
 
