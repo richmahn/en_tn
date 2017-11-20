@@ -4,13 +4,13 @@
 
 ##### Hypocrites #####
 
-The hypocrisy of the Pharisees is the major theme in this chapter. Jesus speaks at length about this hypocrisy. The Pharisees made rules that no one could actually obey, and then they persuaded the ordinary people that they were guilty because they could not obey the rules. In addition, the Pharisees' own rules give them excuses for not obeying God's original commands in the Law of Moses. 
+Jesus calls the Pharisees hypocrites many times ([Matthew 23:13](./13.md)) and carefully tells what he means by doing that. The Pharisees made rules that no one could actually obey, and then they persuaded the ordinary people that they were guilty because they could not obey the rules. Also, the Pharisees obeyed their own rules instead of obeying God's original commands in the Law of Moses. 
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Name calling #####
 
-In most cultures, it is wrong to insult people. Many of the words in this chapter directed at the Pharisees can be taken as insults. They are called "hypocrites," "blind guides," "fools," and "serpents." Jesus uses these words to describe and condemn their behavior.
+In most cultures, it is wrong to insult people. The Pharisees took many of the words in this chapter as insults. Jesus called them "hypocrites," "blind guides," "fools," and "serpents" ([Matthew 23:16-17](./16.md)). Jesus uses these words say that God would surely punish them because they were doing wrong.
 
 ##### Paradox #####
 

@@ -8,9 +8,10 @@ This chapter continues the teaching of the previous chapter.
 
 ##### The parable of the ten virgins #####
 
-Among the Jews, when a marriage was arranged, there was a period of time before the wedding. At the end of this time, the young man would go to his bride's house, where she was waiting for him. The wedding ceremony would then take place. With great celebration they would then travel to the groom's home, where there would be a feast. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+Jesus told the parable of the ten virgins ([Matthew 25:1-13](./01.md)) to tell his followers to be ready for him to return. His hearers could understand the parable because they knew Jewish wedding customs.
 
-Jesus makes use of these customs to tell his parable of the ten virgins ([Matthew 25:1-13](./01.md)).
+When the Jews arranged marriages, they would plan for the wedding to take place weeks or months later, At the proper time, the young man would go to his bride's house, where she would be waiting for him. The wedding ceremony would take place, and then the man and his bride would travel to his home, where there would be a feast. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+
 
 ## Links: ##
 

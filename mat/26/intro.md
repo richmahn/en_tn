@@ -2,31 +2,26 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 26:31, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 26:31, which is words from the OT.
 
 #### Special concepts in this chapter ####
 
 ##### Sheep #####
-This is a common image used in Scripture to refer to the people of Israel. In [Matthew 26:31](./30.md), however, "the sheep" refers to Jesus' disciples, who ran away when he was arrested.
+Sheep are a common image used in Scripture to refer to the people of Israel. In [Matthew 26:31](./30.md), however, Jesus used the words "the sheep" to refer to his disciples and to say that they would run away when he was arrested.
 
 ##### Passover #####
-Jesus' death occurs in connection with the Passover Festival because he is the fulfillment of the Passover lamb. It is his sacrificial death that frees us from God's condemnation.
+The Passover festival was when the Jews would celebrate the day God killed the firstborn sons of the Egyptians but  "passed over" the Israelites and let them live.
 
 ##### The eating of the body and blood #####
-This ceremony, often called "the Lord's Supper," the "Eucharist", or "Holy Communion," is practiced in nearly all churches to this day in remembrance of Christ's sacrifice for the sins of humanity. It is done in obedience to Jesus' instructions to his disciples in [Matthew 26:26-28](./26.md).
+[Matthew 26:26-28](./26.md) describes Jesus' last meal with his followers. At this time, Jesus told them that what they were eating and drinking were his body and his blood. Nearly all Christian churches celebrate "the Lord's Supper," the "Eucharist", or "Holy Communion" to remember this meal.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Shame and cowardice #####
-Throughout this chapter, the actions of the Jewish leaders are shameful and cowardly. The were afraid of the people whom they were to lead. The subtleness of their shameful and cowardly actions may be difficult to express in translation. 
-
 ##### Judas' kiss for Jesus #####
-Judas is recorded in [Matthew 26:49](./49.md) as kissing Jesus in order to signal to the soldiers which man to arrest. Among the Jews, kissing was a common way to greet someone. They had different kinds of kisses for people of different levels of status. Since Jesus was Judas' teacher, Judas probably kissed his hand as a sign of respect and submission.
+[Matthew 26:49](./49.md) describes how Judas kissed Jesus so the soldiers would know whom to arrest. The Jews would kiss each other when they greeted each other.
 
-##### "Destroy the temple of God" #####
-In [Matthew 26:61](./59.md), two men accuse Jesus of wishing for the temple in Jerusalem to be destroyed so he can rebuild it "in three days." They were probably accusing Jesus of insulting the temple and therefore, indirectly, of insulting God. Matthew does not actually record Jesus as saying this, but the words appear in [John 2:19](../../jhn/02/17.md). 
-
-The expression "in three days" should be understood in the Jewish way as "within three days," not "after three days."
+##### "I am able to destroy the temple of God" #####
+Two men accused Jesus of saying that he could destroy the temple in Jerusalem and then rebuild it "in three days" ([Matthew 26:61](./59.md)). They were accusing him of insulting God by claiming that God had given him the authority to destroy the temple and the power to rebuild it. What Jesus actually said was that if the Jewish authorities were to destroy this temple, he would certainly raise it up in three days ([John 2:19](../../jhn/02/17.md)).
 
 ## Links: ##
 

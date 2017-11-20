@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-In this chapter, Jesus begins to prophesy about the future from that time until he returns as king of the universe. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+In this chapter, Jesus begins to prophesy about the future from that time until he returns as king of everything. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### Special concepts in this chapter ####
 
