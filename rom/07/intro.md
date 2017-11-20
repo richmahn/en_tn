@@ -13,7 +13,7 @@ Paul explains that the law of Moses is no longer in effect. While this is true, 
 #### Important figures of speech in this chapter ####
 
 ##### Marriage #####
-Scripture commonly uses marriage as a metaphor. Here Paul uses it to describe how church relates to the law of Moses and now to Christ. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+Scripture commonly uses marriage as a metaphor. Here Paul uses it to describe how the church relates to the law of Moses and now to Christ. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
