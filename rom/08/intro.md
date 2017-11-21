@@ -2,34 +2,31 @@
 
 #### Structure and formatting ####
 
-The first verse of this chapter forms a transitional sentence. It concludes the teaching of chapter 7 and anticipates the material of chapter 8.
+The first verse of this chapter is a transitional sentence. Paul concludes his teaching of Chapter 7 and leads into the words of Chapter 8.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 8:36. All of these lines are quoted from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 36. Paul quotes these words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Indwelling of the Spirit #####
-The Holy Spirit is said to live inside a person or inside their heart. The presence of the Spirit is a sign of a person's salvation. (See: [[rc://en/tw/dict/bible/kt/save]]) 
+The Holy Spirit is said to live inside a person or inside their heart. If the Spirit is present, this signifies that a person is saved. (See: [[rc://en/tw/dict/bible/kt/save]]) 
 
 ##### "These are sons of God" #####
-While Jesus is the Son of God in a unique way, Christians are also said to be children of God by adoption. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/kt/adoption]])
+Jesus is the Son of God in a unique way. God also adopts Christians to be his children. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/kt/adoption]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
-Verses 38 and 39 form an extended metaphor producing a poetic presentation of Paul's teaching. Its explains that nothing can separate a person from the love of God in Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-##### On the one hand ... on the other hand #####
-These phrases are used to speak of two things simultaneously. These two things are usually contrasted with each other, but it is not necessary that they contrast.
+Paul poetically presents his teaching in verses 38 and 39 in the form of an extended metaphor. He explains that nothing can separate a person from the love of God in Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### No condemnation #####
-This phrase must be translated careful to avoid doctrinal confusion. People are still guilty of their sin and God disapproves of their actions, even after they come to faith in Jesus. Their sins are still punished but the punishment for sin has been paid and this is what Paul expresses here. There are several possible meanings to the word "condemn." Here "condemn" emphasizes that people who believe in Jesus are are no longer punished eternally for their sin by being "condemned to hell." (See: [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/condemn]])
+This phrase must be translated carefully to avoid doctrinal confusion. People are still guilty of their sin. God disapproves of acting sinfully, even after believing in Jesus. God still punishes the sins of believers, but Jesus has paid the punishment for their sin. This is what Paul expresses here. The word "condemn" has several possible meanings. Here Paul emphasizes that people who believe in Jesus are no longer punished eternally for their sin by being "condemned to hell." (See: [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/condemn]])
 
 ##### Flesh #####
 
-This is a complex issue and it is possible that "flesh" is a metaphor for a person's sinful nature. It is not the physical part of man that is sinful and it appears that Paul is teaching that while man remains alive ("in the flesh"), he will remain sinful regardless of his effort. His new nature will fight against his old nature. (See: [[rc://en/tw/dict/bible/kt/flesh]])
+This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. Paul is not teaching that our physical bodies are sinful. Paul appears to be teaching that as long as Christians are alive ("in the flesh"), we will continue to sin. But our new nature will be fighting against our old nature. (See: [[rc://en/tw/dict/bible/kt/flesh]])
 
 ## Links: ##
 
