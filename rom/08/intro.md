@@ -14,6 +14,9 @@ The Holy Spirit is said to live inside a person or inside their heart. If the Sp
 ##### "These are sons of God" #####
 Jesus is the Son of God in a unique way. God also adopts Christians to be his children. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/kt/adoption]])
 
+##### Predestination #####
+Many scholars believe Paul in this chapter teaches on a subject known as "predestination." This is related to the biblical concept of "predestine." Some take this to indicate that God has, from before the foundation of the world, chosen some to be eternally saved. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter, especially with regards to elements of causation. (See: [[rc://en/tw/dict/bible/kt/predestine]] and [[rc://en/tw/dict/bible/kt/save]])
+
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
