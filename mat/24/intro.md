@@ -6,7 +6,7 @@ In this chapter, Jesus begins to prophesy about the future from that time until 
 
 #### Special concepts in this chapter ####
 
-##### "The end of the world" #####
+##### "The end of the age" #####
 
 In this chapter, Jesus gives an answer to his disciples when they ask how they will know when he will come again. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
