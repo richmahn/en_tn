@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Grafting #####
-Paul uses the image of "grafting" to refer to the place of the Gentiles and Jews in the plans of God. Making one plant to be permanently part of another plant is called "grafting." Paul uses the picture of God grafting the Gentiles as a wild branch into his saving plans. But God has not forgotten about the Jews, who are spoken of as the natural plant. Jews who believe in Jesus will also be saved.
+Paul uses the image of "grafting" to refer to the place of the Gentiles and Jews in the plans of God. Making one plant to be permanently part of another plant is called "grafting." Paul uses the picture of God grafting the Gentiles as a wild branch into his saving plans. But God has not forgotten about the Jews, who are spoken of as the natural plant. God will also save Jews who believe in Jesus.
 
 #### Other possible translation difficulties in this chapter ####
 
