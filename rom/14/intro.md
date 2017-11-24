@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 11 of this chapter, which is taken from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 11 of this chapter, which Paul quotes from the Old Testament.
 
 #### Special concepts in this chapter ####
 
@@ -12,7 +12,7 @@ Paul teaches that Christians can have real faith and at the same time be "weak i
 
 ##### Dietary restrictions #####
 
-Restricting what was eaten was important in many religions in the ancient Near East. Christians have freedom to eat what they want. But they need to use this freedom wisely, in a way that honors the Lord and does not cause others to sin. (See: [[rc://en/tw/dict/bible/kt/sin]]) 
+Many religions in the ancient Near East restricted what was eaten. Christians have freedom to eat what they want. But they need to use this freedom wisely, in a way that honors the Lord and does not cause others to sin. (See: [[rc://en/tw/dict/bible/kt/sin]]) 
 
 ##### The judgment seat of God #####
 
