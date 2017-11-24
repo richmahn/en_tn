@@ -7,7 +7,7 @@ In the first part of this chapter, Paul teaches Christians to obey rulers who go
 #### Special concepts in this chapter ####
 
 ##### Ungodly rulers #####
-When Paul teaches about obeying rulers, some readers will find this difficult to understand, especially in places where rulers persecute the church. Christians must obey their rulers as well as obey God, unless the rulers do not allow Christans to do something God explicitly commands them to do. There are times when a believer must submit to these rulers and suffer at their hands. Christians understand that this world is temporary and they will ultimately be with God forever. (See: [[rc://en/tw/dict/bible/kt/eternity]])
+When Paul teaches about obeying rulers, some readers will find this difficult to understand, especially in places where rulers persecute the church. Christians must obey their rulers as well as obey God, unless the rulers do not allow Christians to do something God explicitly commands them to do. There are times when a believer must submit to these rulers and suffer at their hands. Christians understand that this world is temporary and they will ultimately be with God forever. (See: [[rc://en/tw/dict/bible/kt/eternity]])
 
 #### Other possible translation difficulties in this chapter ####
 
