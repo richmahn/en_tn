@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words in verse 8.
+Some translations set prose quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words in verse 8.
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 18-20 of this chapter, which are words from the Old Testament.
 
