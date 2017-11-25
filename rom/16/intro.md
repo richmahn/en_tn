@@ -2,11 +2,11 @@
 
 #### Structure and formatting ####
 
-This chapter forms a final salutation or greeting for the Christians in Rome. It was common to end a letter in the ancient Near East with this type of personal greeting.
+In this chapter, Paul gives personal greetings to some of the Christians in Rome. It was common to end a letter in the ancient Near East with this type of personal greeting.
 
 #### Other possible translation difficulties in this chapter ####
 
-Because of the personal nature of this chapter, much of the context has been lost to history. This will make translation difficult. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Because of the personal nature of this chapter, much of the context is unknown. This will make translation more difficult. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 
