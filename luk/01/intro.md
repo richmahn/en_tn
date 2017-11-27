@@ -7,11 +7,11 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### "He will be called John" #####
-It was unusual in the ancient Near East to use a name for a child that was not the name of a relative. Since Elizabeth and Zechariah did not have a person named "John" in their family, this name was very surprising to other people.
+Most people in the ancient Near East would give a child the same name as someone in their families. People were suprised that Elizabeth and Zechariah named their son John because there was no one else in their family with that name.
 
 #### Important figures of speech in this chapter ####
 
-Luke does not use a lot of complex wording. His language is simple and straightforward.
+Luke's language is simple and straightforward. He does not use many figures of speech.
 
 ## Links: ##
 
