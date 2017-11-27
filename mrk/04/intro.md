@@ -9,12 +9,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Parables #####
-There are many parables in this chapter. They are a way Jesus teaches about the kingdom of God. Jesus explains their meanings to the disciples, but not to the crowds. 
-
-#### Other possible translation difficulties in this chapter ####
-
-##### Implicit information #####
-In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UDB often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
+There are many parables in this chapter. Parables are stories Jesus told so his hearers would understand the kingdom of God. Jesus explained what the parables meant to the disciples, but not to the crowds. 
 
 ## Links: ##
 
