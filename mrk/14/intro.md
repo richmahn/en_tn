@@ -12,15 +12,9 @@ To this day, this symbolic action is practiced in nearly all churches in remembr
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "Son of Man" #####
-
-Jesus refers to himself as the "Son of Man" in this passage.
-
 ##### Abba, Father #####
-"Abba" is an Aramaic word. It was an informal, loving way to refer to  a person's father in ancient Israel. Mark "transliterates" its sounds by writing them with Greek letters, and then gives its meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
-##### "I am" #####
-This is a reference to the name of God, Yahweh. Jesus is explicitly claiming to be Yahweh. (See: [Mark 14:62](./60.md) and [[rc://en/ta/man/translate/figs-explicit]])
+"Abba" is an Aramaic word. It was an informal, loving way to refer to  a person's father in ancient Israel. Mark "transliterates" its sounds by writing them with Greek letters, and then gives its meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ## Links: ##
 
