@@ -17,11 +17,11 @@ The Passover festival was when the Jews would celebrate the day God killed the f
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Judas' kiss for Jesus #####
+##### When Judas kissed Jesus #####
 [Matthew 26:49](./49.md) describes how Judas kissed Jesus so the soldiers would know whom to arrest. The Jews would kiss each other when they greeted each other.
 
 ##### "I am able to destroy the temple of God" #####
-Two men accused Jesus of saying that he could destroy the temple in Jerusalem and then rebuild it "in three days" ([Matthew 26:61](./59.md)). They were accusing him of insulting God by claiming that God had given him the authority to destroy the temple and the power to rebuild it. What Jesus actually said was that if the Jewish authorities were to destroy this temple, he would certainly raise it up in three days ([John 2:19](../../jhn/02/17.md)).
+Two men accused Jesus of saying that he could destroy the temple in Jerusalem and then rebuild it "in three days" ([Matthew 26:61](./59.md)). They were accusing him of insulting God by claiming that God had given him the authority to destroy the temple and the power to rebuild it. What Jesus actually said was that if the Jewish authorities were to destroy "this temple," meaning his body, he would certainly raise it up in three days ([John 2:19](../../jhn/02/17.md)).
 
 ## Links: ##
 
