@@ -1,9 +1,9 @@
 # Mark 05 General Notes #
 
-#### Other possible translation difficulties in this chapter ####
+#### Possible translation difficulties in this chapter ####
 
-##### "Talitha koum" #####
-This is a phrase in Aramaic. Mark transliterates its sounds by writing them with Greek letters. Then he explains its meaning.
+##### "Talitha, koum" #####
+The words "Talitha, koum" ([Mark 5:41](./41.md)) are from the Aramaic language. Mark writes them the way they sound and then translates them.
  
 
 ## Links: ##
