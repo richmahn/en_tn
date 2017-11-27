@@ -3,15 +3,15 @@
 #### Special concepts in this chapter ####
 
 ##### "Sinful people" #####
-Mark refers to a group of people as "sinful." The Jewish leaders thought these people were sinful, but in reality it was the leaders were truly being sinful. This can be taken as irony. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-irony]])
+When Mark speaks of "sinful people," he is talking about people who commit sins that everyone thinks are especially bad, like stealing or sexual sins. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fasting and Feasting #####
-Fasting was often done during times of grief and repentance. It was not done during joyous times. During times of great joy and celebration, such as at weddings, people had a large feast. Having Jesus on the earth was a cause of celebration for mankind.
+People would fast, or not eat food for a long time, when they were sad or were showing God that they were sorry for their sins. When they were happy, like during weddings, they would have feasts, or meals where they would eat much food. (See: [[rc://en/tw/dict/bible/other/fast]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-Rhetorical questions are used several times in this chapter. The Jewish leaders used them to express disbelief and anger. Jesus used them to show the Jewish leaders their ignorance. (See: [[rc://en/ta/man/translate/figs-rquestion]])
+The Jewish leaders used rhetorical questions to show that they were angry because of what Jesus said and did and that they did not believe that he was God's Son ([Mark 2:7](./05.md)). Jesus used them to show the Jewish leaders that they were arrogant ([Mark 2:25-26](./25.md)). (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
 ## Links: ##
 
