@@ -7,6 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Jesus was tempted by the devil #####
+
 While it is true that the devil sincerely believed that he could persuade Jesus to obey him, it is important not to imply that Jesus actually ever really wanted to obey him.
 
 ## Links: ##

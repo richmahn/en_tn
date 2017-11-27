@@ -7,7 +7,7 @@ Paul calls Timothy his "son." Paul was very involved in discipling Timothy in hi
 
 ##### Genealogies #####
 
-This is probably a reference to some people's speculation about who the Messiah was. (See: [[rc://en/tw/dict/bible/kt/christ]]) 
+Genealogies are lists that record a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could become king. Most important people had records of their genealogies.
 
 #### Important figures of speech in this chapter ####
 

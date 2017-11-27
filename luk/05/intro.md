@@ -3,17 +3,21 @@
 #### Special concepts in this chapter ####
 
 ##### "You will catch men" #####
-The New Testament often talks about making disciples or followers of Christ. This is a major ministry of the church. There are many different figures used to describe this in the New Testament. In this chapter, Jesus uses the metaphor of fishing to explain that the disciples of Christ are to gather together other people to become Christ's disciples. Jesus helps Simon the fisherman to catch a very large number of fish to show that Jesus will enable Simon and other disciples to gather many people to follow Christ. (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/ta/man/translate/figs-metaphor]])
+
+Peter, James, and John were fishermen. When Jesus told them that they would catch men, they knew that that was a metaphor for helping people believe the good news about Jesus. (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### "Sinful people" #####
+
 The Pharisees refer to a group of people as "sinners." What they meant was people who seemed to have no concern for keeping the Law of Moses. However, Luke treats the term "sinners" in an ironic way, because Jesus says that he came to call sinners to repent. By "sinners," Jesus was referring to anyone guilty of sin. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-irony]])
 
 ##### Fasting and Feasting #####
-Fasting was often done during times of repentance. It was not done during joyous times. Because the time in which Jesus was with his disciples was a joyous time, he did not tell them to fast until after he was no longer with them. (See: [[rc://en/tw/dict/bible/kt/repent]])
+
+ was often done during times of repentance. It was not done during joyous times. Because the time in which Jesus was with his disciples was a joyous time, he did not tell them to fast until after he was no longer with them. (See: [[rc://en/tw/dict/bible/kt/repent]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Hypothetical Situation #####
+
 Jesus uses a hypothetical situation to condemn the Pharisees. This passage includes "people in good health" and "righteous people." This does not mean that there are people who do not need Jesus. There are no "righteous people," everybody needs Jesus. (See: [[rc://en/ta/man/translate/figs-hypo]] and [Luke 5:31-32](./29.md))
 
 #### Other possible translation difficulties in this chapter ####

@@ -6,21 +6,26 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 #### Special concepts in this chapter ####
 
-##### Justice #####
-John's instructions to the soldiers and tax collectors in this chapter are not complicated. They are things that should have been obvious to them. He instructed them to live justly. (See: [[rc://en/tw/dict/bible/kt/justice]] and [Luke 3:12-15](./12.md))
+##### How people who want to please God should live #####
+
+John told all the people that they were to share what they had with poor people, and he told those who had the power to take money by force not to do it,  
 
 ##### Genealogy #####
-A genealogy is a list which records a person's ancestors or descendants. Such lists were very important in determining who had the right be king, because the king's authority was usually passed down or inherited from his father. It was also common for other important people to have a recorded genealogy.
+
+A genealogy is a list that records a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could become king. Most important people had records of their genealogies.
+
 
 #### Important figures of speech in this chapter ####
 
-##### Metaphor #####
-Prophecy often involves the use of metaphors to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy of Isaiah is an extended metaphor describing the ministry of John the Baptist ([Luke 3:4-6](./04.md)). Translation is difficult. It is suggested that the translator treat each line of the ULB as a separate metaphor. (See: [[rc://en/tw/dict/bible/kt/prophet]]) and [[rc://en/ta/man/translate/figs-metaphor]])
+##### Metaphors #####
+
+Luke took words that Isaiah the prophet had written long ago and applied them to John. Isaiah had told the people of Israel to prepare for God to save them. He did this by speaking to them as if they were people making a good, straight road for a king to travel by cutting down the high places and filling in the low places. Luke used Isaiah's words so the reader would understand that John was telling the Jews to repent so God could save them.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "(Herod) had John locked up in prison" #####
-This event can cause confusion because the author says John was imprisoned and then says he was baptizing Jesus. The author probably uses this phrase in anticipation of Herod's imprisonment of John. This would mean that this statement is still in the future at the time of the narrative.
+##### Telling events out of order #####
+
+While John was exhorting and preaching to the people ([Luke 3:1-18](./01.md)), he also baptized Jesus ([Luke 3:21-22](./21.md)), and he also reproved Herod for marrying his brother's wife ([Luke 3:19](./18.md)), After John had baptized Jesus, Herod locked John in prison ([Luke 3:20](./18.md)). Luke did not say whether Jesus began his ministry ([Luke 3:23](./23.md)) before or after Herod had put John in prison.
 
 ## Links: ##
 
