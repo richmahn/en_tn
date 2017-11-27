@@ -8,18 +8,19 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ##### Jesus' teaching about divorce #####
 
-In this chapter, Jesus teaches about divorce in response to a challenge from the Pharisees. Jesus bases his teaching on God's original intentions in creating marriage. Jesus  shows the mistakes the religious leaders made in their traditions about marriage. 
+The Pharisees wanted to find a way to make Jesus say that it is good to break the law of Moses, so they asked him about divorce. Jesus tells how God originally designed marriage to show that the Pharisees taught wrongly about divorce. 
 
 #### Important figures of speech in this chapter ####
 
-##### Metaphors #####
-There are many metaphors in this chapter. Jesus uses them in his teaching to explain difficult issues. He also uses metaphors to conceal the truth about his death because it has not yet occurred. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+##### Metaphor #####
+
+Metaphors are pictures of visible objects that speakers use to explain invisible truths. When Jesus spoke of "the cup which I will drink," he was speaking of the pain he would suffer on the cross as if it were a bitter, poisonous liquid in a cup.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. For example, "Whoever wishes to become great among you must be your servant." (See: [Mark 10:43](./43.md))
+A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wishes to become great among you must be your servant" ([Mark 10:43](./43.md)).
 
 ## Links: ##
 

@@ -7,7 +7,8 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Important figures of speech in this chapter ####
 
 ##### Hypothetical Situations #####
-Jesus uses hypothetical situations when he tries to teach people. The Pharisees also use hypothetical situations to try to trap Jesus. (See: [[rc://en/ta/man/translate/figs-hypo]])
+
+Hypothetical situations are situations that have not actually happened. People describe these situations so they learn what their hearers think is good and bad or right and wrong. (See: [[rc://en/ta/man/translate/figs-hypo]])
 
 ## Links: ##
 

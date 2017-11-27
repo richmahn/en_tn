@@ -6,9 +6,9 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 #### Special concepts in this chapter ####
 
-##### Colt #####
+Jesus rode into Jerusalem on an animal. In this way he was like a king who came into a city after he had won an important battle. Also, the kings of Israel in the Old Testament rode on a donkeys. Other kings rode on horses. So Jesus was showing that he was the king of Israel and that he was not like other kings.
 
-The way in which Jesus entered Jerusalem, riding on an animal, was similar to the way a king would have entered a city after a great victory. And for the kings of Israel, it was traditional to ride on a donkey instead of on a horse. Matthew, Mark, Luke, and John all wrote about this event, but they did not all give the same details. Matthew wrote about there being both a donkey and a colt, but it is not clear which one Jesus rode on. It is best to translate each of these passages as it appears in the ULB without trying to make them all say exactly the same thing. (See:[Matthew 21:1-7](../../mat/21/01.md) and [John 12:14-15](../../jhn/12/14.md))
+Matthew, Mark, Luke, and John all wrote about this event. Matthew, Mark, and John all wrote that the disciples brought Jesus a donkey. Luke wrote that they brought him a colt. Only Matthew wrote that there were both a donkey had a colt. No one knows for sure whether Jesus rode the donkey or the colt. It is best to translate each of these accounts as it appears in the ULB without trying to make them all say exactly the same thing. (See:[Matthew 21:1-7](../../mat/21/01.md) and [Luke 19:29-36](../../luk/19/29.md) and [John 12:14-15](../../jhn/12/14.md))
 
 ## Links: ##
 

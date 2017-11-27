@@ -4,12 +4,11 @@
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:24-25, which are words from the OT.
 
-There is a large section in this chapter which explains the circumstances surrounding the return of Christ (see: [Mark 13:6-37](./05.md)). It would have been natural for people to worry about this event happening because of the judgment associated with it. Jesus assures them that the time of judgment has not yet come. 
-
 #### Special concepts in this chapter ####
 
-##### "I am he" #####
-Before Jesus actually returns, many people will claim to be the returning Christ. But Jesus' return will be obvious to all.
+##### The return of Christ #####
+
+Jesus said much about what would happen before he returned ([Mark 13:6-37](./05.md)). He told his followers that bad things would happen to the world and bad things would happen to them before he returned, but they needed to be ready for him to return at any time.
 
 ## Links: ##
 
