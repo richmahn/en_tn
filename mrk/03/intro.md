@@ -3,11 +3,11 @@
 #### Special concepts in this chapter ####
 
 ##### Sabbath #####
-It was against the law of Moses to do work on the Sabbath. The Pharisees believed healing a sick person on the Sabbath was "work" and they prohibited it. Because of his compassion, Jesus healed on the Sabbath and did not consider it to be "work." It is ironic that the Jewish leaders wanted to kill Jesus for saving people. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/ta/man/translate/figs-irony]])
+It was against the law of Moses to do work on the Sabbath. The Pharisees believed healing a sick person on the Sabbath was "work," so they said that Jesus did wrong when he healed a person on the Sabbath. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 ##### "Blasphemy against the Spirit" #####
 
-There is a great deal of controversy regarding properly identifying this specific sin. However, it seems to involve insulting the Holy Spirit and his work. Since part of his work is to convince people that they are sinners and that they need God's forgiveness, anyone who rejected this truth would be unwilling to come in repentance to God. For this reason, they would not be forgiven. (See: [[rc://en/tw/dict/bible/kt/sin]])
+No one knows for sure what actions people perform or what words they say when they commit this sin. However, they probably insult the Holy Spirit and his work. Part of the Holy Spirit's work is to make people understand that they are sinners and that they need to have God forgive them. Therefore, anyone who does not try to stop sinning is probably committing blasphemy against the Spirit. (See: [[rc://en/tw/dict/bible/kt/blasphemy]] and [[rc://en/tw/dict/bible/kt/holyspirit]])
 
 #### Other possible translation difficulties in this chapter ####
 
@@ -15,16 +15,19 @@ There is a great deal of controversy regarding properly identifying this specifi
 
 The following are the lists of the twelve apostles found in the Bible:
 
-In Matthew: Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddeus, Simon the Zealot and Judas Iscariot.
+In Matthew: 
+Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddaeus, Simon the Zealot and Judas Iscariot.
 
-In Mark: Simon (Peter), Andrew, James the son of Zebedee, and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot,
+In Mark:
+Simon (Peter), Andrew, James the son of Zebedee and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot. 
 
-In Luke: Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James, the son of Alphaeus, Simon, who was called the Zealot, Judas, the son of James, and Judas Iscariot,
+In Luke:
+Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon (who was called the Zealot), Judas the son of James, and Judas Iscariot.
 
-It is probable that Thaddaeus and Jude, the son of James, are two names for the same person.
+Thaddaeus is probably the same person as Jude, the son of James. 
 
 ##### Brothers and Sisters #####
-This chapter introduces the concept of "spiritual" brothers and sisters. Scripture often uses these terms to refer to the relationship between fellow Israelites. Here, those who follow Jesus are now referred to as brothers and sisters. (See: [[rc://en/tw/dict/bible/kt/spirit]])
+Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey God. (See: [[rc://en/tw/dict/bible/kt/brother]])
 
 ## Links: ##
 
