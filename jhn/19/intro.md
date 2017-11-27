@@ -12,6 +12,10 @@ The color purple was a sign of royalty in the ancient Near East. Jesus was mocki
 ##### "You are not Caesar's friend" #####
 Pilate did not want to sentence Jesus to death, but the Jews forced him. They did this to make it seem as if allowing Jesus to live would betray the Roman government.
 
+##### The tomb #####
+
+The tomb in which Jesus was buried ([John 19:41](./40.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+
 #### Important figures of speech in this chapter ####
 
 ##### Sarcasm #####

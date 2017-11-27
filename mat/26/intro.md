@@ -15,6 +15,10 @@ The Passover festival was when the Jews would celebrate the day God killed the f
 ##### The eating of the body and blood #####
 [Matthew 26:26-28](./26.md) describes Jesus' last meal with his followers. At this time, Jesus told them that what they were eating and drinking were his body and his blood. Nearly all Christian churches celebrate "the Lord's Supper," the "Eucharist", or "Holy Communion" to remember this meal.
 
+##### The tomb #####
+
+The tomb in which Jesus was buried ([Mark 15:46](./45.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+
 #### Other possible translation difficulties in this chapter ####
 
 ##### When Judas kissed Jesus #####
