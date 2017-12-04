@@ -1,0 +1,18 @@
+# translationWords
+
+* [[rc://en/tw/dict/bible/kt/yahweh]]
+* [[rc://en/tw/dict/bible/other/barren]]
+* [[rc://en/tw/dict/bible/other/descendant]]
+* [[rc://en/tw/dict/bible/other/father]]
+* [[rc://en/tw/dict/bible/other/flood]]
+* [[rc://en/tw/dict/bible/names/abraham]]
+* [[rc://en/tw/dict/bible/names/adam]]
+* [[rc://en/tw/dict/bible/names/babel]]
+* [[rc://en/tw/dict/bible/names/canaan]]
+* [[rc://en/tw/dict/bible/names/chaldeans]]
+* [[rc://en/tw/dict/bible/names/haran]]
+* [[rc://en/tw/dict/bible/names/lot]]
+* [[rc://en/tw/dict/bible/names/sarah]]
+* [[rc://en/tw/dict/bible/names/shem]]
+* [[rc://en/tw/dict/bible/names/shinar]]
+* [[rc://en/tw/dict/bible/names/ur]]
