@@ -1,0 +1,18 @@
+# translationWords
+
+* [[rc://en/tw/dict/bible/kt/bless]]
+* [[rc://en/tw/dict/bible/kt/evil]]
+* [[rc://en/tw/dict/bible/kt/flesh]]
+* [[rc://en/tw/dict/bible/kt/god]]
+* [[rc://en/tw/dict/bible/kt/good]]
+* [[rc://en/tw/dict/bible/kt/heaven]]
+* [[rc://en/tw/dict/bible/kt/life]]
+* [[rc://en/tw/dict/bible/kt/lordyahweh]]
+* [[rc://en/tw/dict/bible/kt/sanctify]]
+* [[rc://en/tw/dict/bible/kt/yahweh]]
+* [[rc://en/tw/dict/bible/other/creation]]
+* [[rc://en/tw/dict/bible/other/death]]
+* [[rc://en/tw/dict/bible/other/rest]]
+* [[rc://en/tw/dict/bible/names/cush]]
+* [[rc://en/tw/dict/bible/names/eden]]
+* [[rc://en/tw/dict/bible/names/euphrates]]

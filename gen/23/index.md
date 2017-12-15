@@ -1,0 +1,15 @@
+# translationWords
+
+* [[rc://en/tw/dict/bible/kt/god]]
+* [[rc://en/tw/dict/bible/kt/lord]]
+* [[rc://en/tw/dict/bible/other/biblicaltimeyear]]
+* [[rc://en/tw/dict/bible/other/bow]]
+* [[rc://en/tw/dict/bible/other/foreigner]]
+* [[rc://en/tw/dict/bible/other/gate]]
+* [[rc://en/tw/dict/bible/other/mourn]]
+* [[rc://en/tw/dict/bible/other/tomb]]
+* [[rc://en/tw/dict/bible/names/abraham]]
+* [[rc://en/tw/dict/bible/names/canaan]]
+* [[rc://en/tw/dict/bible/names/hebron]]
+* [[rc://en/tw/dict/bible/names/hittite]]
+* [[rc://en/tw/dict/bible/names/sarah]]
