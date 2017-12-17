@@ -49,7 +49,7 @@ The name "Israel" is used in many different ways in the Bible. Jacob was a son o
 
 #### What imagery does Zechariah use in reference to the Messiah? ####
 
-Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, the Messiah would also be pierced (12:10) and struck with the sword (13:7). (See: [[rc://en/tw/dict/bible/kt/christ]]]])
+Zechariah presented the Messiah as both a king and a shepherd. Zechariah said that the Messiah would come and deliver his people. However, the Messiah would also be pierced (12:10) and struck with the sword (13:7). (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 #### What does the phrase "that day" mean? ####
 
