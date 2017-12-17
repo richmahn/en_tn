@@ -8,7 +8,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Ungodly Gentiles #####
 
-This passage uses the term "Gentiles" to refer to all ungodly people who are not Jews. It does not include Gentiles who have become Christians. "Sensuality, passion, drunkenness, carousings, wild parties, and disgusting acts of idolatry" were actions that characterized or typified the ungodly Gentiles. (See: [[rc://en/tw/dict/bible/kt/ungodly]])
+This passage uses the term "Gentiles" to refer to all ungodly people who are not Jews. It does not include Gentiles who have become Christians. "Sensuality, passion, drunkenness, carousings, wild parties, and disgusting acts of idolatry" were actions that characterized or typified the ungodly Gentiles. (See: [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### Martyrdom #####
 It is apparent that Peter is speaking to many Christians who are experiencing great persecution and are facing death for their beliefs.

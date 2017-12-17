@@ -12,7 +12,7 @@ This chapter teaches that all Christians remain sinners after they come to faith
 #### Important figures of speech in this chapter ####
 
 ##### Metaphors #####
-There are many metaphors in this chapter, all of which are commonly used in Scripture. Light is always used in a positive way to describe righteousness. Darkness is always used in a negative way to describe unrighteousness. The Christian life is also described as a walk. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/unrighteous]])
+There are many metaphors in this chapter, all of which are commonly used in Scripture. Light is always used in a positive way to describe righteousness. Darkness is always used in a negative way to describe unrighteousness. The Christian life is also described as a walk. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ## Links: ##
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter continues using poetic forms to speak of Yahweh's anger over the sin of the people. The people are not seeking Yahweh; they are seeking other gods and looking for salvation from other nations like Egypt and Assyria. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/falsegod]], [[rc://en/tw/dict/bible/kt/salvation]])  
+This chapter continues using poetic forms to speak of Yahweh's anger over the sin of the people. The people are not seeking Yahweh; they are seeking other gods and looking for salvation from other nations like Egypt and Assyria. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/falsegod]], [[rc://en/tw/dict/bible/kt/save]])  
 
 #### Important figures of speech in this chapter ####
 

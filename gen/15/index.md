@@ -22,7 +22,7 @@
 * [[rc://en/tw/dict/bible/other/nation]]
 * [[rc://en/tw/dict/bible/other/oppress]]
 * [[rc://en/tw/dict/bible/other/peace]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/other/sheep]]
 * [[rc://en/tw/dict/bible/other/vision]]
 * [[rc://en/tw/dict/bible/names/abraham]]

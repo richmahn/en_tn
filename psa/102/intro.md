@@ -7,7 +7,7 @@ Psalm 102 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible
 #### Special concepts in this chapter ####
 
 ##### Salvation #####
-The author does not want to die young. He also wants to see Jerusalem saved. (See: [[rc://en/tw/dict/bible/kt/salvation]] and [[rc://en/tw/dict/bible/kt/save]])
+The author does not want to die young. He also wants to see Jerusalem saved. (See: [[rc://en/tw/dict/bible/kt/save]])
 
 ## Links: ##
 

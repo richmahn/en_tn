@@ -14,7 +14,7 @@ This is not a prayer to be recited repeatedly, although this prayer can be used 
 Jonah was an Old Testament prophet of some significance but not a great deal of significance. He called a Gentile nation to repent of their sins and they obeyed. These events cause the Jewish prophet to be upset with God's grace being shown to Gentiles. This chapter finds a parallel with the future attitude of the Jews, their lack of repentance and eventually becoming upset with God for the grace he shows to the Gentiles. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/grace]])
 
 ##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as an image to represent sin or unrighteousness. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/unrighteous]])
+Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as an image to represent sin or unrighteousness. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### Washing #####
 This was a practice done by the Pharisees, but it was not an obligation according to the law of Moses. The Pharisees had many rituals involving washing in an attempt to make themselves clean. This is ironic because no amount of water could make them spiritually clean. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/ta/man/translate/figs-irony]])

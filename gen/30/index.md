@@ -24,7 +24,7 @@
 * [[rc://en/tw/dict/bible/other/mind]]
 * [[rc://en/tw/dict/bible/other/prosper]]
 * [[rc://en/tw/dict/bible/other/servant]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/other/sex]]
 * [[rc://en/tw/dict/bible/other/shame]]
 * [[rc://en/tw/dict/bible/other/sheep]]

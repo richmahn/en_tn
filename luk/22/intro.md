@@ -11,7 +11,7 @@ The events of this chapter are commonly referred to as the "last supper." This P
 To this day, this symbolic action is practiced in nearly all churches in remembrance of Christ's sacrifice for the sins of man. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### The New Covenant #####
-Jesus mentions the New Covenant during the last supper. The New Covenant is a source of controversy among scholars. There are many different opinions about when this covenant begins and the church's relationship to the new covenant. (See: [[rc://en/tw/dict/bible/kt/newcovenant]])
+Jesus mentions the New Covenant during the last supper. The New Covenant is a source of controversy among scholars. There are many different opinions about when this covenant begins and the church's relationship to the new covenant. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### Other possible translation difficulties in this chapter ####
 

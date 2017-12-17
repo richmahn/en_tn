@@ -8,7 +8,7 @@ This chapter is written as a court case or lawsuit by Yahweh against His people.
 
 ##### Names in Lawsuit #####
 Moses, Aaron and Miriam are mentioned as witnesses for Yahweh and against Israel. 
-Ahab and Omri are mentioned as kings who were evil and did not follow Yahweh. Obedience to the law of Moses is contrasted with disobedience to the law. (See: [[rc://en/tw/dict/bible/kt/witness]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Ahab and Omri are mentioned as kings who were evil and did not follow Yahweh. Obedience to the law of Moses is contrasted with disobedience to the law. (See: [[rc://en/tw/dict/bible/kt/testimony]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 ## Links: ##
 

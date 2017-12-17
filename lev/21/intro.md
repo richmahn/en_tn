@@ -4,7 +4,7 @@
 
 ##### Priests must be holy #####
 
-Priests must be separate from the rest of the world. Priests should not do anything that would be unclean. They also cannot be unclean because of a birth defect, and they must not marry an unclean woman. (See: [[rc://en/tw/dict/bible/kt/priest]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/unclean]])
+Priests must be separate from the rest of the world. Priests should not do anything that would be unclean. They also cannot be unclean because of a birth defect, and they must not marry an unclean woman. (See: [[rc://en/tw/dict/bible/kt/priest]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/clean]])
 
 ## Links: ##
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter continues using poetic forms in communicating that people who take advantage of others are guilty of sin and injustice. (See: [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/unjust]])
+This chapter continues using poetic forms in communicating that people who take advantage of others are guilty of sin and injustice. (See: [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### Special concepts in this chapter ####
 

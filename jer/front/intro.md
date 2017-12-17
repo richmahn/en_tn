@@ -55,7 +55,7 @@ Jeremiah was a priest and a prophet living in Judah. He spoke the prophesies in 
 
 #### What is the New Covenant that is presented in the Book of Jeremiah? ####
 
-Jeremiah introduced a "new covenant" between Yahweh and Israel (chapter 31). Yahweh would "write this covenant on the hearts" of the people. This means that the covenant would be a part of the people instead of just written on stone or paper. The people would obey the new covenant with all their heart. (See: [[rc://en/tw/dict/bible/kt/newcovenant]])
+Jeremiah introduced a "new covenant" between Yahweh and Israel (chapter 31). Yahweh would "write this covenant on the hearts" of the people. This means that the covenant would be a part of the people instead of just written on stone or paper. The people would obey the new covenant with all their heart. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### What relationship do Jeremiah's prophecies have to the other nations besides Israel? ####
 

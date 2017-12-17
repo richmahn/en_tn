@@ -10,7 +10,7 @@
 * [[rc://en/tw/dict/bible/kt/hades]]
 * [[rc://en/tw/dict/bible/kt/iniquity]]
 * [[rc://en/tw/dict/bible/kt/innocent]]
-* [[rc://en/tw/dict/bible/kt/justify]]
+* [[rc://en/tw/dict/bible/kt/justice]]
 * [[rc://en/tw/dict/bible/kt/lord]]
 * [[rc://en/tw/dict/bible/kt/love]]
 * [[rc://en/tw/dict/bible/other/angry]]

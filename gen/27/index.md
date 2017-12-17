@@ -26,7 +26,7 @@
 * [[rc://en/tw/dict/bible/other/peoplegroup]]
 * [[rc://en/tw/dict/bible/other/rebel]]
 * [[rc://en/tw/dict/bible/other/servant]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/other/sword]]
 * [[rc://en/tw/dict/bible/other/wine]]
 * [[rc://en/tw/dict/bible/other/yoke]]

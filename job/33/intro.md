@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-According to Elihu, instead of being punished for his sins, Job is sinning in the midst of these difficulties. This is a continuation of the first of Elihu's four statements and it is addressed to Job. (See: [[rc://en/tw/dict/bible/kt/sin]] and  [[rc://en/tw/dict/bible/kt/witness]])
+According to Elihu, instead of being punished for his sins, Job is sinning in the midst of these difficulties. This is a continuation of the first of Elihu's four statements and it is addressed to Job. (See: [[rc://en/tw/dict/bible/kt/sin]] and  [[rc://en/tw/dict/bible/kt/testimony]])
 
 The ULB sets the lines of this chapter farther to the right on the page than the rest of the text because it is a poem. This quotation is a continuation of the previous chapter.
 

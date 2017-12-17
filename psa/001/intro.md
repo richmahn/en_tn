@@ -7,7 +7,7 @@ Psalm 1 is usually considered to be a "wisdom psalm," which gives advice to thos
 #### Special concepts in this chapter ####
 
 ##### Blessed #####
-A main theme in this psalm is what it means to be blessed. Here "blessed" refers to anyone who is well off because of a good relationship to God. The contrasting theme is that there are ungodly people, those who refuse to honor God. (See: [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/ungodly]])
+A main theme in this psalm is what it means to be blessed. Here "blessed" refers to anyone who is well off because of a good relationship to God. The contrasting theme is that there are ungodly people, those who refuse to honor God. (See: [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### People who opposed Yahweh #####
 

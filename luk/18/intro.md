@@ -7,10 +7,10 @@ Luke 18:6-8 should be seen as an explanation of the parable in 18:1-5.
 #### Special concepts in this chapter ####
 
 ##### Unjust judge #####
-Judges were supposed to administer justice without conditions, but this judge does not treat the woman justly. Instead, she has to beg many times for the judge to do the right thing. Therefore, the judge is referred to as "unjust." (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/unjust]])
+Judges were supposed to administer justice without conditions, but this judge does not treat the woman justly. Instead, she has to beg many times for the judge to do the right thing. Therefore, the judge is referred to as "unjust." (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 ##### Pharisees and tax collectors #####
-Luke occasionally contrasts these two groups of people in his gospel. The Pharisees considered themselves to be the clearest examples of righteousness and tax collectors to be very sinful, the clearest examples of unrighteousness. (See: [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/unrighteous]] and [[rc://en/tw/dict/bible/kt/sin]])
+Luke occasionally contrasts these two groups of people in his gospel. The Pharisees considered themselves to be the clearest examples of righteousness and tax collectors to be very sinful, the clearest examples of unrighteousness. (See: [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 
