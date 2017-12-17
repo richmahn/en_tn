@@ -18,7 +18,7 @@ The Jews of Jesus' time thought that only Jews could please God by the way they 
 
 ##### Sheep #####
 
-The Bible often speaks of people as if they were sheep because sheep need someone to take care of them. This is because they do not see well and they often go to where other animals can kill them easily. (See: [[:en:ta:vol1:translate:figs-metaphor]])
+The Bible often speaks of people as if they were sheep because sheep need someone to take care of them. This is because they do not see well and they often go to where other animals can kill them easily. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 * __[Matthew 15:01 Notes](./01.md)__
