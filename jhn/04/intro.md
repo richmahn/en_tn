@@ -7,7 +7,7 @@ John 4:4-38 forms one story centered on the teaching of Jesus as the "living wat
 #### Special concepts in this chapter ####
 
 ##### "It was necessary for him to pass through Samaria" #####
-Normally, the Jews would have avoided traveling through the region of Samaria. The Samaritans were viewed as ungodly people because they were descendants of the northern kingdom of Israel who intermarried with pagan peoples. (See: [[rc://en/tw/dict/bible/kt/ungodly]], [[rc://en/tw/dict/bible/other/kingdomofisrael]] and [[rc://en/ta/man/translate/figs-explicit]])
+Normally, the Jews would have avoided traveling through the region of Samaria. The Samaritans were viewed as ungodly people because they were descendants of the northern kingdom of Israel who intermarried with pagan peoples. (See: [[rc://en/tw/dict/bible/kt/godly]], [[rc://en/tw/dict/bible/names/kingdomofisrael]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### The proper place of worship #####
 One of the greatest sins committed by the Samaritan people in history was that they set up a false temple in their territory to rival the temple in Jerusalem. This is the mountain the woman refers to in [John 4:20](./19.md). The Jews rightly demanded that all Israelites worship in Jerusalem because that was where Yahweh lived. Jesus explains that the location of the temple does not matter anymore. (See: [[rc://en/tw/dict/bible/kt/sin]])

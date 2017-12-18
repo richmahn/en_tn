@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-According to Elihu, instead of being punished for his sins, Job is sinning in the midst of these difficulties. This is the third of Elihu's four statements and it is addressed first to Job's friends and then to Job. (See: [[rc://en/tw/dict/bible/kt/sin]] and  [[rc://en/tw/dict/bible/kt/witness]])
+According to Elihu, instead of being punished for his sins, Job is sinning in the midst of these difficulties. This is the third of Elihu's four statements and it is addressed first to Job's friends and then to Job. (See: [[rc://en/tw/dict/bible/kt/sin]] and  [[rc://en/tw/dict/bible/kt/testimony]])
 
 The ULB sets the lines of this chapter farther to the right on the page than the rest of the text because it is a poem. Elihu uses many of Job's statements against him.
 
@@ -14,7 +14,7 @@ Elihu uses many different rhetorical questions in this chapter in order to try t
 #### Other possible translation difficulties in this chapter ####
 
 ##### Ironic situation #####
-Elihu explains the irony of Job's claim. He claimed to be righteous and desired Yahweh to intervene. In this chapter, Elihu explains to Job that his claims of righteousness are prideful. This makes him unrighteous. (See: [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/unrighteous]])
+Elihu explains the irony of Job's claim. He claimed to be righteous and desired Yahweh to intervene. In this chapter, Elihu explains to Job that his claims of righteousness are prideful. This makes him unrighteous. (See: [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ## Links: ##
 

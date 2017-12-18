@@ -24,7 +24,7 @@ Matthew, Mark, Luke, and John all wrote about this event. Matthew, Mark, and Joh
 This was a way to honor a king.
 
 ##### "[Jesus] began to cast out those who were selling" #####
-Jesus is recorded as cleaning the ungodly merchants from the temple. This event shows the authority Jesus had over the temple and the nation of Israel. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/ungodly]])
+Jesus is recorded as cleaning the ungodly merchants from the temple. This event shows the authority Jesus had over the temple and the nation of Israel. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ## Links: ##
 

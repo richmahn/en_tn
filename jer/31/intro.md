@@ -11,7 +11,7 @@ This chapter begins with a transition from the previous chapter. "At that time" 
 
 ##### The New Covenant #####
 
-This chapter is an important teaching regarding the New Covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[rc://en/tw/dict/bible/kt/newcovenant]], [[rc://en/tw/dict/bible/kt/forgive]] and [[rc://en/tw/dict/bible/kt/sin]])
+This chapter is an important teaching regarding the New Covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[rc://en/tw/dict/bible/kt/covenant]], [[rc://en/tw/dict/bible/kt/forgive]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-In the cleansing of the 10 men ([Luke 17:11-17](./11.md)), there should be an implicit understanding of the structure of this story. It is one unified story. The reaction of the supposedly ungodly Samaritan is correct, while the reaction of the other men was incorrect and it is assumed that they were Jews. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/ungodly]])
+In the cleansing of the 10 men ([Luke 17:11-17](./11.md)), there should be an implicit understanding of the structure of this story. It is one unified story. The reaction of the supposedly ungodly Samaritan is correct, while the reaction of the other men was incorrect and it is assumed that they were Jews. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 #### Special concepts in this chapter ####
 

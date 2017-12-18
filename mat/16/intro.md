@@ -4,13 +4,13 @@
 
 ##### Yeast #####
 
-Jesus spoke of the way people thought about God as if it were bread, and he spoke of what people taught about God as if it were the yeast that makes bread dough become larger and the baked bread taste good. He did not want his followers to listen to what the Pharisees and Sadducees taught. This was because if they did listen, they would not understand who God is and how he wants his people to live. (See: [[:en:ta:vol1:translate:figs-metaphor]])
+Jesus spoke of the way people thought about God as if it were bread, and he spoke of what people taught about God as if it were the yeast that makes bread dough become larger and the baked bread taste good. He did not want his followers to listen to what the Pharisees and Sadducees taught. This was because if they did listen, they would not understand who God is and how he wants his people to live. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
 
-Jesus told his people to obey his commands. He did this by telling them to "follow" him. It is as if he were walking on a path and they were walking after him. (See: [[:en:ta:vol1:translate:figs-metaphor]])
+Jesus told his people to obey his commands. He did this by telling them to "follow" him. It is as if he were walking on a path and they were walking after him. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 

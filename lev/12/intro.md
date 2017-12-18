@@ -2,7 +2,7 @@
 
 #### Special concepts in this chapter ####
 ##### Menstruation #####
-A woman was considered to be unclean after she began her monthly period and after having a baby. This was because all blood was considered to be unclean. (See: [[rc://en/tw/dict/bible/kt/unclean]] and [[rc://en/tw/dict/bible/kt/blood]])
+A woman was considered to be unclean after she began her monthly period and after having a baby. This was because all blood was considered to be unclean. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/blood]])
 
 ## Links: ##
 

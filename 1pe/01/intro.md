@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Work of God in salvation #####
-This chapter emphasizes the work of God in salvation. It reminds Christians of the great things only God could have done in order to bring them to a right relationship with himself. (See: [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/tw/dict/bible/kt/salvation]])
+This chapter emphasizes the work of God in salvation. It reminds Christians of the great things only God could have done in order to bring them to a right relationship with himself. (See: [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/tw/dict/bible/kt/save]])
 
 ##### Eternity #####
 This chapter contrasts living for things of this world, which will not last, with living for things that will matter eternally. It is also important to live with the expectation that Jesus will return soon. (See: [[rc://en/tw/dict/bible/kt/eternity]])

@@ -7,7 +7,7 @@ Psalm 94 is a prayer requesting that evil people be punished. (See: [[rc://en/tw
 #### Special concepts in this chapter ####
 
 ##### Justice #####
-Evil people expect God to ignore their injustices. But God knows what they are doing and will punish them for their evil deeds. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/unjust]] and [[rc://en/tw/dict/bible/kt/works]])
+Evil people expect God to ignore their injustices. But God knows what they are doing and will punish them for their evil deeds. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/works]])
 
 ## Links: ##
 

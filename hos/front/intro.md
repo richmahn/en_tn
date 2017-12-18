@@ -35,7 +35,7 @@ Although this book tells what Hosea prophesied, it is uncertain whether Hosea wr
 
 #### Why did God command Hosea to marry a prostitute? ####
 
-God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband and breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
+God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband and breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### What is a lawsuit? ####
 
@@ -57,4 +57,4 @@ Hosea 4–14 has many problems of interpretation. Some phrases in Hosea are beyo
 
 #### What does the term "Israel" mean in Hosea? ####
 
-In Hosea, "Israel" is used only to refer to the northern kingdom of Israel. It is not used to refer to the southern kingdom or to the two kingdoms together. (See: [[rc://en/tw/dict/bible/other/kingdomofisrael]])
+In Hosea, "Israel" is used only to refer to the northern kingdom of Israel. It is not used to refer to the southern kingdom or to the two kingdoms together. (See: [[rc://en/tw/dict/bible/names/kingdomofisrael]])

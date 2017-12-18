@@ -8,7 +8,7 @@ When Jesus worked a miracle and provided bread for a large crowd of people, they
 Yeast is the ingredient that causes bread to become larger before it is baked. In this chapter, Jesus uses yeast as a metaphor for things that change the way people think, speak, and act. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### "Adulterous generation" #####
-Jesus spoke told the people that they were not faithful to God. (See: [[rc://en/tw/dict/bible/kt/unfaithful]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
+Jesus spoke told the people that they were not faithful to God. (See: [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
 
 #### Important figures of speech in this chapter ####
 

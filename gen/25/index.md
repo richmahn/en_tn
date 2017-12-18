@@ -17,7 +17,7 @@
 * [[rc://en/tw/dict/bible/other/peoplegroup]]
 * [[rc://en/tw/dict/bible/other/prince]]
 * [[rc://en/tw/dict/bible/other/servant]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/other/tent]]
 * [[rc://en/tw/dict/bible/other/tribe]]
 * [[rc://en/tw/dict/bible/other/womb]]

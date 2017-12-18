@@ -27,7 +27,7 @@
 * [[rc://en/tw/dict/bible/other/peace]]
 * [[rc://en/tw/dict/bible/other/prostrate]]
 * [[rc://en/tw/dict/bible/other/servant]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/names/benjamin]]
 * [[rc://en/tw/dict/bible/names/egypt]]
 * [[rc://en/tw/dict/bible/names/jacob]]

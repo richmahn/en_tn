@@ -10,7 +10,7 @@ This phrase looks back at Chapter 1.  In some ways, it actually concludes what C
 #### Special concepts in this chapter ####
 
 ##### "Doers of the Law" #####
-Those who try to obey the law will not be justified by trying to obey it. Those who are justified by believing in Jesus show that their faith is real by obeying God's commands. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+Those who try to obey the law will not be justified by trying to obey it. Those who are justified by believing in Jesus show that their faith is real by obeying God's commands. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### Important figures of speech in this chapter ####
 

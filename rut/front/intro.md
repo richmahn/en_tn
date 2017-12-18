@@ -26,7 +26,7 @@ The story of Ruth is set during the time when there were "judges" in Israel. The
 
 #### Why does Scripture include a book about a woman from the foreign land of Moab? ####
 
-In a period when Israel was often unfaithful to Yahweh, a woman from Moab shows great faith in him. The Israelites' frequent lack of faith in Yahweh is contrasted with the faith of this woman from a foreign land. (See: [[rc://en/tw/dict/bible/kt/unfaithful]])
+In a period when Israel was often unfaithful to Yahweh, a woman from Moab shows great faith in him. The Israelites' frequent lack of faith in Yahweh is contrasted with the faith of this woman from a foreign land. (See: [[rc://en/tw/dict/bible/kt/faithful]])
 
 #### What important marriage custom is found in the Book of Ruth? ####
 

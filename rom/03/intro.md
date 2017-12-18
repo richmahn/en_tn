@@ -12,7 +12,7 @@ Chapter 3 answers the question, "What advantage does being a Jew have over being
 Because God is holy, anyone with him in heaven must be perfect. Any sin at all will condemn a person. (See: [[rc://en/tw/dict/bible/kt/heaven]] and [[rc://en/tw/dict/bible/kt/condemn]])
 
 ##### The purpose of the law of Moses #####
-Obeying the law cannot make a person right with God. Obeying God's law is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://en/tw/dict/bible/kt/justify]] and [[rc://en/tw/dict/bible/kt/faith]])
+Obeying the law cannot make a person right with God. Obeying God's law is a way a person shows they believe in God. People have always been justified only by faith. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Important figures of speech in this chapter ####
 

@@ -15,7 +15,7 @@ The Pharisees believed that, after death, people would be risen from the dead fo
 #### Important figures of speech in this chapter ####
 
 ##### "Called a curse" #####
-Some Jews made a promise to God that they would not eat or drink until they killed Paul, and asked God to curse them if they did not follow their promise. This is not something that would have pleased God, and they were clearly wrong for doing this. It is ironic that they used a holy vow in such an unholy way. (See: [[rc://en/tw/dict/bible/kt/curse]], [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/kt/unholy]])
+Some Jews made a promise to God that they would not eat or drink until they killed Paul, and asked God to curse them if they did not follow their promise. This is not something that would have pleased God, and they were clearly wrong for doing this. It is ironic that they used a holy vow in such an unholy way. (See: [[rc://en/tw/dict/bible/kt/curse]], [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/kt/holy]])
 
 #### Other possible translation difficulties in this chapter ####
 

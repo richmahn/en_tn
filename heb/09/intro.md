@@ -10,7 +10,7 @@ This chapter discusses how Jesus is superior to the temple and its religious sys
 A will is a legal document that declares what will happen to a person's property after they die.
 
 ##### Blood #####
-Blood played an important role in the Mosaic and New Covenants. In the Mosaic Covenant, it was the blood of the sacrifices which was significant. In the New Covenant, it is the blood of Jesus that is much more important by comparison. (See: [[rc://en/tw/dict/bible/kt/newcovenant]] and [[rc://en/tw/dict/bible/kt/covenant]]) 
+Blood played an important role in the Mosaic and New Covenants. In the Mosaic Covenant, it was the blood of the sacrifices which was significant. In the New Covenant, it is the blood of Jesus that is much more important by comparison. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 ##### Return of Christ #####
 The purpose of the return of Christ is to ultimately redeem the world. (See: [[rc://en/tw/dict/bible/kt/redeem]])

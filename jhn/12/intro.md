@@ -18,7 +18,7 @@ Jesus rode into Jerusalem on an animal. In this way he was like a king who came 
 Matthew, Mark, Luke, and John all wrote about this event. Matthew, Mark, and John all wrote that the disciples brought Jesus a donkey. Luke wrote that they brought him a colt. Only Matthew wrote that there were both a donkey had a colt. No one knows for sure whether Jesus rode the donkey or the colt. It is best to translate each of these accounts as it appears in the ULB without trying to make them all say exactly the same thing. (See: [Matthew 21:1-7](../../mat/21/01.md) and [Mark 11:1-7](../../mrk/11/01.md) and [Luke 19:29-36](../../luk/19/29.md))
 
 ##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/unrighteous]])
+Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 #### Important figures of speech in this chapter ####
 

@@ -6,7 +6,7 @@
 It is wrong to show favoritism in the church. There were people who showed special favor (favoritism) towards rich and powerful people. (See: [[rc://en/tw/dict/bible/kt/favor]])
 
 ##### Justification #####
-Justification means "the process of declaring someone righteous." There are two types of justification. One is to be declared righteous in the opinion of God and one is to be declared righteous in the opinion of other people. A person is not justified according to God by their actions. Abraham was declared righteous according to God by his faith. He was declared righteous according to other people when his actions showed his faith, by being willing to offer up his son Isaac as a sacrifice to God. (See: [[rc://en/tw/dict/bible/kt/justify]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/faith]])
+Justification means "the process of declaring someone righteous." There are two types of justification. One is to be declared righteous in the opinion of God and one is to be declared righteous in the opinion of other people. A person is not justified according to God by their actions. Abraham was declared righteous according to God by his faith. He was declared righteous according to other people when his actions showed his faith, by being willing to offer up his son Isaac as a sacrifice to God. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 

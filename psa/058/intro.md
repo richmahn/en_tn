@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 58 is a deliverance psalm. It asks God for deliverance from the unjust rulers. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/unjust]])
+Psalm 58 is a deliverance psalm. It asks God for deliverance from the unjust rulers. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### Special concepts in this chapter ####
 

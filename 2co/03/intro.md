@@ -7,7 +7,7 @@ Paul continues his defense. Paul views the Corinthian Christians as the proof of
 #### Special concepts in this chapter ####
 
 ##### Law of Moses #####
-There are many allusions to God giving the law of Moses. This chapter will be difficult to fully understand if the Old Testament has not yet been translated. This chapter contrasts the covenant God made with Moses with the New Covenant. Although the law was good, because it was revealed by God, it brought punishment to Israel because they were unable to obey it. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/covenant]], [[rc://en/tw/dict/bible/kt/newcovenant]] and [[rc://en/tw/dict/bible/kt/reveal]])
+There are many allusions to God giving the law of Moses. This chapter will be difficult to fully understand if the Old Testament has not yet been translated. This chapter contrasts the covenant God made with Moses with the New Covenant. Although the law was good, because it was revealed by God, it brought punishment to Israel because they were unable to obey it. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/reveal]])
 
 #### Important figures of speech in this chapter ####
 

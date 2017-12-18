@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-In the first part of this chapter, Paul teaches Christians to obey rulers who govern them. At that time, ungodly Roman rulers governed the land. (See: [[rc://en/tw/dict/bible/kt/ungodly]])
+In the first part of this chapter, Paul teaches Christians to obey rulers who govern them. At that time, ungodly Roman rulers governed the land. (See: [[rc://en/tw/dict/bible/kt/godly]])
 
 #### Special concepts in this chapter ####
 

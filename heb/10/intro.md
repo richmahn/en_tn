@@ -9,7 +9,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 == God's judgment and reward==
-Holy living is important for Christians. God will hold people accountable for how they lived their Christian life. Even though there will not be eternal condemnation for Christians, ungodly actions do and will have consequences. In addition, faithful living will be rewarded. (See: [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/ungodly]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/other/reward]])
+Holy living is important for Christians. God will hold people accountable for how they lived their Christian life. Even though there will not be eternal condemnation for Christians, ungodly actions do and will have consequences. In addition, faithful living will be rewarded. (See: [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/godly]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/other/reward]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -11,7 +11,7 @@ There are several specific "woes" mentioned in the book of Revelation. This chap
 #### Special concepts in this chapter ####
 
 ##### Gentiles #####
-The word "Gentiles" is used in this chapter to refer to ungodly Gentiles and not Gentile Christians. (See: [[rc://en/tw/dict/bible/kt/ungodly]]) 
+The word "Gentiles" is used in this chapter to refer to ungodly Gentiles and not Gentile Christians. (See: [[rc://en/tw/dict/bible/kt/godly]]) 
 
 ##### Two witnesses #####
 These two witnesses serve an important function as prophets during the time of Revelation. Scholars have put forth many suggestions about the identity of these two men. It is unknown and unimportant who they are. Instead, it is their indestructible nature and their message that is more significant and undeniable. (See: [[rc://en/tw/dict/bible/kt/prophet]]) 

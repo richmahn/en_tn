@@ -41,7 +41,7 @@
 * [[rc://en/tw/dict/bible/other/rebuke]]
 * [[rc://en/tw/dict/bible/other/sacrifice]]
 * [[rc://en/tw/dict/bible/other/servant]]
-* [[rc://en/tw/dict/bible/other/serve]]
+* [[rc://en/tw/dict/bible/other/servant]]
 * [[rc://en/tw/dict/bible/other/sheep]]
 * [[rc://en/tw/dict/bible/other/tent]]
 * [[rc://en/tw/dict/bible/names/abraham]]

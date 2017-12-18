@@ -10,7 +10,7 @@ The events of this chapter are known as the Passover. They are remembered in the
 The concept of unleavened bread is introduced in this chapter. Its significance stems from its connection to the events in this chapter. (See: [[rc://en/tw/dict/bible/kt/unleavenedbread]])
 
 ##### Ethnic segregation #####
-The Hebrew people were to be separate from the rest of the world. Because of this, they separated themselves from other people groups. At this time, these foreigners were looked upon as unholy. (See: [[rc://en/tw/dict/bible/kt/unholy]])
+The Hebrew people were to be separate from the rest of the world. Because of this, they separated themselves from other people groups. At this time, these foreigners were looked upon as unholy. (See: [[rc://en/tw/dict/bible/kt/holy]])
 
 ## Links: ##
 
