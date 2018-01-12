@@ -8,7 +8,7 @@ This begins a section where Jeremiah prophesies about other nations. (See: [[rc:
 
 #### Special concepts in this chapter ####
 ##### Justice #####
-Much of Jeremiah is concerned with Yahweh's punishment of Judah. Yahweh used Egypt to punish Judah. Because Yahweh is just, he is going to punish Egypt for their evil deeds as well. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/works]])
+Much of Jeremiah is concerned with Yahweh's punishment of Judah. Yahweh used Egypt to punish Judah. Because Yahweh is just, he is going to punish Egypt for their evil deeds as well. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/works]])
 
 #### Other possible translation difficulties in this chapter ####
 

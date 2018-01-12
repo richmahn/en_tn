@@ -3,30 +3,34 @@
 #### Special concepts in this chapter ####
 
 ##### "To preach the kingdom of God" #####
-There is some controversy among scholars about whether the kingdom of God here refers to the reign of God on earth or the gospel message (Jesus died for the sins of man). It is best to translate this as "to preach about the kingdom of God" or "to teach them about how God was going to show himself as king." It is best not to treat it as a metaphor for the gospel because it is unnecessary here. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+
+No one knows for sure what the words "kingdom of God" here refer to. Some say it refers to the reign of God on earth, and others say it refers to the gospel message that Jesus died to pay for the his people's sins. It is best to translate this as "to preach about the kingdom of God" or "to teach them about how God was going to show himself as king." (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### Elijah #####
 
-The prophet Malachi prophesied that one day Elijah would return before the Messiah came. Jesus explains that John the Baptist fulfilled this prophecy by serving God in the same manner as Elijah. Elijah is mentioned in two different ways in this chapter, the actual person of Elijah and the metaphorical return of Elijah. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
+God had promised the Jews that the prophet Elijah would return before the Messiah came, so some people who saw Jesus do miracles thought Jesus was Elijah ([Luke 9:9](./07.md), [Luke 9:19](./18.md)). However, Elijah did come to earth to speak with Jesus ([Luke 9:30](./30.md)). (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/names/elijah]])
 
 ##### "Kingdom of God" #####
+
 The term "kingdom of God" is used in this chapter to refer to a kingdom that was still in the future when the words were spoken. (See: [[rc://en/tw/dict/bible/kt/kingdomofgod]])
 
-##### "They saw his [Jesus'] glory" #####
+##### Glory #####
 
-The glory of God is seen as a great, brilliant light in Scripture. God's grandeur always produces fear in the person who sees it. Such an event, presented in this chapter, is called the "transfiguration," in which Jesus is changed or transfigured so that he shows some of his divine glory. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/tw/dict/bible/kt/fear]])
+Scripture often speaks of God's glory as a great, brilliant light. When people see this light, they are afraid. Luke says in this chapter that Jesus' clothing shone with this glorious light so that his followers could see that Jesus truly was God's Son. At the same time, God told them that Jesus was his Son. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/tw/dict/bible/kt/fear]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. An example in this chapter is: "Whoever would save his life will lose it, but whoever loses his life for my sake will save it." ([Luke 9:24](./23.md)).
+A paradox is a true statement that appears to describe something impossible. An example in this chapter is: "Whoever would save his life will lose it, but whoever loses his life for my sake will save it." ([Luke 9:24](./23.md)).
 
-##### Son of Man #####
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+##### "Son of Man" #####
+
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 9:22](./20.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ##### "Receiving" #####
-The ULB uses this word several times in this chapter with a variety of meanings. Jesus says, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me" ([Luke 9:48](./46.md)). In this verse, "receiving" could be translated as "serving." In another verse it is said, "the people there did not receive him" ([Luke 9:53](./51.md)). In this verse, "receive" can be translated as "believe" or "accept." (See: [[rc://en/tw/dict/bible/kt/believe]])
+
+This word appears several times in this chapter and means different things. When Jesus says, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me" ([Luke 9:48](./46.md)), he is speaking of people serving the child. When Luke says, "the people there did not receive him" ([Luke 9:53](./51.md)), he means that the people did not believe in or accept Jesus. (See: [[rc://en/tw/dict/bible/kt/believe]])
 
 ## Links: ##
 

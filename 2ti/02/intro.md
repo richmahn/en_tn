@@ -2,17 +2,17 @@
 
 #### Structure and formatting ####
 
-Some translations set sayings farther to the right on the page than the rest of the text to show that the author is quoting them. The ULB does this with the saying that Paul quotes in 2:11-13.
+Some translations set words farther to the right on the page than the rest of the text. The ULB does this with verses 11-13. Paul may be quoting a poem or hymn in these verses.
 
 #### Special concepts in this chapter ####
 
 ##### We will reign with him #####
-The faithful Christians are said to reign with Christ in the future. (See: [[rc://en/tw/dict/bible/kt/faithful]])
+Faithful Christians will reign with Christ in the future. (See: rc://en/tw/dict/bible/kt/faithful)
 
 #### Important figures of speech in this chapter ####
 
 ##### Analogies #####
-Paul draws on several analogies in this chapter to present his teaching about living as a Christian. First he uses the analogy of a soldier, then an athlete, and then that of a farmer. A little further on in the chapter,  he also uses the analogy of different kinds of containers in a house, some for ordinary, everyday use, and others reserved for use on special occasions.
+In this chapter, Paul makes several analogies to teach about living as a Christian. He uses analogies of soldiers, athletes, and farmers. Later in the chapter, he uses the analogy of different kinds of containers in a house.
 
 ## Links: ##
 

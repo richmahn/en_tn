@@ -9,17 +9,14 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Stones #####
-Stones are used in Scripture to describe the church. Jesus is the cornerstone. The apostles and prophets are the foundation. In this chapter, Christians are the stones used to continue to build the church.
+
+The Bible uses a building made of large stones as a metaphor for the church. Jesus is the cornerstone, the most important stone. The apostles and prophets are the foundation, the part of the building on which all the other stones rest. In this chapter, Christians are the stones that make up the walls of the building. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/cornerstone]] and [[rc://en/tw/dict/bible/other/foundation]])
 
 #### Important figures of speech in this chapter ####
 
-##### Milk and solid food #####
-This is an image used to describe maturity in Christ. It compares the immature Christian to a baby who is only able to drink milk. Immature Christians are not mature enough to handle solid foods, which are the more complex teachings about Jesus. Instead, they have chosen not to grow so they remain like babies who only drink milk, the simpler and more basic teachings about Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+##### Milk and babies #####
 
-#### Other possible translation difficulties in this chapter ####
-
-##### "You are now the people of God" #####
-Some scholars believe this indicates the church has replaced Israel in the plans of God. Other scholars believe there are more than one "people of God." (See: [[rc://en/tw/dict/bible/kt/peopleofgod]])
+When Peter tells his readers to "long for pure spiritual milk," he is using the metaphor of a baby who cannot yet eat solid food. He wants to tell the readers that they are only able to understand simple things about living to please God. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

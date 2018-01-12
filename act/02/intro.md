@@ -6,26 +6,29 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:31.
 
-The events described in this chapter are commonly called "Pentecost." Many people believe the coming of the Holy Spirit to indwell believers in this chapter marks the beginning of the church. (See: [[rc://en/tw/dict/bible/kt/believe]])
+The events described in this chapter are commonly called "Pentecost." Many people believe that the church began to exist when the Holy Spirit came to live inside believers in this chapter.
 
 #### Special concepts in this chapter ####
 
 ##### Tongues #####
-There is a display of tongues in this passage. They are described as foreign languages, previously unknown to the speaker.
+
+The word "tongues" has two meanings in theis chapter. Luke describes what came down from heaven ([Acts 2:3](./01.md)) as tongues that looked like fire. This is different from "a tongue of flame," which is a fire that looks like a tongue. Luke also uses the word "tongues" to describe the languages that the people spoke after the Holy Spirit filled them ([Acts 2:4-6](./01.md)). 
 
 ##### Last days #####
-Did the last days begin at this time in history? Scholars are divided over the response to this difficult question. The translator should exercise caution to avoid explicitly stating the starting point of the last days. (See: [[rc://en/tw/dict/bible/kt/lastday]])
 
-##### Baptism #####
-There are two baptisms referenced in this chapter. The first is christian baptism. The second is the baptism of the Spirit. The difference between the two baptisms depends on one's theological perspective. (See: [[rc://en/tw/dict/bible/kt/baptize]])
+No one knows for sure when the "last days" ([Acts 2:17](./06.md)) began. Your translation should not say more than the ULB does about this. (See: [[rc://en/tw/dict/bible/kt/lastday]])
 
-##### Signs and wonders #####
-This is a unique phrase describing the great power displayed and bearing witness to the truth of who Christ was and is. This is a major theme of the chapter.
+##### Baptize #####
 
-#### Other possible translation difficulties in this chapter ####
+The word "baptize" in this chapter refers to Christian baptism ([Acts 2:38-41](./37.md)). Though the event described in [Acts 2:1-11](./01.md) is the baptism of the Holy Spirit that Jesus promised in [Acts 1:5](./04.md), the word "baptize" here does not refer to that event. (See: [[rc://en/tw/dict/bible/kt/baptize]])
 
-##### Has the prophecy of Joel been fulfilled? #####
-It appears the prophecy of Joel may have been fulfilled in part, but not completely. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+##### The prophecy of Joel #####
+
+Many of the things that Joel said would happen did happen on the day of Pentecost ([Acts 2:17-18](./16.md)), but some things Joel spoke of did not happen ([Acts 2:19-20](./18.md)). (See: [[rc://en/tw/dict/bible/kt/prophet]])
+
+##### Wonders and signs #####
+
+These words refer to things that only God could do that showed that Jesus is who the disciples said he is.
 
 ## Links: ##
 

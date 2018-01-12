@@ -2,17 +2,17 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 4:27.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 27, which is quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Sonship #####
-This is a complex issue discussed in this chapter. Scholars have many views on the issue of Israel's sonship. Not all of Abraham's physical descendants inherit the promises of Abraham. Only the children of Abraham, through his sons Isaac and Jacob, can inherit those promises and only those who follow him spiritually. It is through their faith that they become adopted into the family as sons with an inheritance ("children of promise"). (See: [[rc://en/tw/dict/bible/kt/inherit]], [[rc://en/tw/dict/bible/kt/promise]], [[rc://en/tw/dict/bible/kt/spirit]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/adoption]])
+Sonship is a complex issue. Scholars have many views on Israel's sonship. Paul uses sonship to teach how being under the law differs from being free in Christ. Not all of Abraham's physical descendants inherited God's promises to him. Only his descendants through Isaac and Jacob inherited the promises. And God only adopts into his family those who follow Abraham spiritually through faith. They are children of God with an inheritance. Paul calls them "children of promise." (See: [[rc://en/tw/dict/bible/kt/inherit]], [[rc://en/tw/dict/bible/kt/promise]], [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/adoption]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Abba, Father #####
-Abba is an Aramaic word. It was an informal way to refer to a person's father in ancient Israel. Paul "transliterates" its sounds by writing it with Greek letters. 
+"Abba" is an Aramaic word. In ancient Israel, people used it to informally refer to their fathers. Paul "transliterates" its sounds by writing them with Greek letters. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 ## Links: ##
 
 * __[Galatians 4:1](./01.md)__

@@ -2,36 +2,43 @@
 
 #### Structure and formatting ####
 
-This chapter explains how the book is a recording of the vision John received on the island of Patmos. 
+This chapter explains how the Book of Revelation records the vision John received on the island of Patmos. 
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 1:7.
+Some translations set quotations from the Old Testament farther to the right on the page to make them easier to read. The ULB does this with the quoted words in verse 7.
 
 #### Special concepts in this chapter ####
 
 ##### Seven churches #####
-This letter was specifically addressed to seven actual churches located in the modern country of Turkey.
+
+John wrote this book to seven actual churches in Asia Minor, which is now the country of Turkey.
 
 ##### White #####
-White is a color that often symbolizes holiness or righteousness in scripture. (See: [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/righteous]])
+
+The Bible often speaks of something that belongs to a person being "white" as a metaphor and metonym for that person living rightly and pleasing God. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/tw/dict/bible/kt/righteous]])
+
+##### "Him who is, and who was, and who is to come" #####
+
+God exists now. He has always existed. He will always exist. Your language may have a different way of saying this. 
 
 #### Important figures of speech in this chapter ####
 
-##### "Him who is, and who was, and who is to come" #####
-The phrase explains that God has always existed, exists now and will always exist. Not all languages have a way to easily translate the past, present and future aspects of a verb. It is possible this is a play on the name of God, Yahweh, which means "I am." 
+##### Blood #####
 
-##### His blood #####
-This is a reference to Jesus' death. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+Blood is a metonym for death. Jesus "has released us from our sins by his blood." John means that Jesus saved us from our sins by dying for us. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "He is coming with the clouds" #####
-Many scholars believe Jesus will come back in two stages. Jesus' first return will be subtle, like a "thief in the night." Then, Jesus will come in an undeniable way where everyone will see him. It is this latter coming that the book of Revelation is about. 
 
-##### Jesus #####
-The image of the man in heaven is probably Jesus. Overall, the image is a description of Jesus in all of his glory. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/ta/man/translate/figs-explicit]])
+Jesus went into the clouds when he went up to heaven after God raised him from the dead. When Jesus returns, he will also be "with the clouds." It is not clear whether he will be sitting or riding on clouds or coming in the clouds or "with the clouds" in some other way. Your translation should express this in a way that is natural in your language.
+
+##### "One like a son of man" #####
+
+This refers to Jesus. You should translate the words "son of man" using the same words that you used to translate the words of Jesus when he said he is the Son of Man.
 
 ##### "The angels of the seven churches" #####
-The Greek word translated as "angels" can also be translated as "messengers." It is possible this is a reference to the messengers or leaders of these seven churches.
+
+The word "angels" here can also mean "messengers." This might refer to heavenly beings, or to the messengers or leaders of these seven churches. John uses the same word "angel" (singular) in verse 1 and in many other places throughout the book. Your translation should also use the same word.
 
 ## Links: ##
 

@@ -2,38 +2,46 @@
 
 #### Structure and formatting ####
 
-This chapter continues Paul's defense which started in chapter 10 and lasts through the end of the book.
+In this chapter, Paul continues defending his authority.
 
 #### Special concepts in this chapter ####
 
 ##### False teaching #####
-The Corinthians were quick to accept false teaching about Jesus and Christianity. These other teachers were teaching things about Jesus and the gospel that were different and not true. Unlike these false teachers, Paul lives sacrificially in service of the Corinthians. (See: [[rc://en/tw/dict/bible/kt/goodnews]])
+The Corinthians were quick to accept false teachers. They taught things about Jesus and the gospel that were different and not true. Unlike these false teachers, Paul sacrificially served the Corinthians. (See: [[rc://en/tw/dict/bible/kt/goodnews]])
 
 ##### Light #####
-This is a common image in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+Light is commonly used in the New Testament as a metaphor. Paul here uses light to indicate the revealing of God and his righteousness. Darkness describes sin. Sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
 
-Paul begins the chapter with an extended metaphor comparing Paul to the father of the bride giving a pure, virgin bride to her groom. Although wedding practices change depending on cultural background, the idea of helping to present someone as a grown and holy child is made rather explicit in this passage. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/ta/man/translate/figs-explicit]])
+Paul begins this chapter with an extended metaphor. He compares himself to the father of a bride who is giving a pure, virgin bride to her bridegroom. Wedding practices change depending on the cultural background. But the idea of helping to present someone as a grown and holy child is explicitly pictured in this passage. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Irony #####
 
-This chapter is full of irony.  Paul is hoping to shame the Corinthian believers with his irony. "You tolerate these things well enough!" Paul thinks that they should not tolerate the way the false apostles treated them. Paul does not think they are really apostles at all. The statement, "For you gladly put up with fools. You are wise yourselves!" means that the Corinthian believers think they were very wise but Paul does not agree. "I will say to our shame that we were too weak to do that." Paul is speaking about behavior he thinks is very wrong in order to avoid it. He is speaking as if he thinks he is wrong for not doing it. He used a rhetorical question also as irony. "Did I sin by humbling myself so you might be exalted?" (See: [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/apostle]] and [[rc://en/ta/man/translate/figs-rquestion]])
+This chapter is full of irony.  Paul is hoping to shame the Corinthian believers with his irony.
+
+"You tolerate these things well enough!" Paul thinks that they should not tolerate the way the false apostles treated them. Paul does not think they are really apostles at all.
+
+The statement, "For you gladly put up with fools. You are wise yourselves!" means that the Corinthian believers think they were very wise but Paul does not agree.
+
+"I will say to our shame that we were too weak to do that." Paul is speaking about behavior he thinks is very wrong in order to avoid it. He is speaking as if he thinks he is wrong for not doing it. He uses a rhetorical question also as irony. "Did I sin by humbling myself so you might be exalted?" (See: [[rc://en/ta/man/translate/figs-irony]] and [[rc://en/tw/dict/bible/kt/apostle]] and [[rc://en/ta/man/translate/figs-rquestion]])
 
 ##### Rhetorical questions #####
 
-In refuting the false apostles' claims of superiority, Paul used a series of rhetorical questions coupled with an answer: "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I. Are they servants of Christ? (I speak as though I were out of my mind.) I am more." He also used a series of rhetorical questions to express empathy with his converts: "Who is weak, and I am not weak? Who has caused another to fall into sin, and I do not burn within?"
+In refuting the false apostles claiming to be superior, Paul uses a series of rhetorical questions. Each question is coupled with an answer: "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I. Are they servants of Christ? (I speak as though I were out of my mind.) I am more."
+
+He also uses a series of rhetorical questions to empathize with his converts: "Who is weak, and I am not weak? Who has caused another to fall into sin, and I do not burn within?"
 
 ##### "Are they servants of Christ?" #####
-This is sarcasm, a special type of irony used to mock or insult. Paul does not believe these false teachers actually serve Christ, only that they pretend to.
+This is sarcasm, a special type of irony used to mock or insult. Paul does not believe these false teachers actually serve Christ, only that they pretend to do so.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 11:30 is a paradox: "If I must boast, I will boast about what shows my weaknesses." Paul does not explain why he would boast in his weakness until 2 Cor 12:9.  ([2 Corinthians 11:30](./30.md))
+A "paradox" is a true statement that appears to describe something impossible. This sentence in verse 30 is a paradox: "If I must boast, I will boast about what shows my weaknesses." Paul does not explain why he would boast in his weakness until 2 Corinthians 12:9.  ([2 Corinthians 11:30](./30.md))
 
 ## Links: ##
 

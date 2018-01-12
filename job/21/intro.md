@@ -7,7 +7,7 @@ The ULB sets the lines of this chapter farther to the right on the page than the
 #### Special concepts in this chapter ####
 
 ##### Ancestor's sin #####
-In the ancient Near East, it was common to believe that a person could be punished because of the sins of their fathers and ancestors. It was seen as the punishment of a god. While a father's sin may have consequences for their children, Yahweh does not punish people because of their father's sin. (See: [[rc://en/tw/dict/bible/kt/believe]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
+In the ancient Near East, it was common to believe that a person could be punished because of the sins of their fathers and ancestors. It was seen as the punishment of a god. While a father's sin may have consequences for their children, Yahweh does not punish people because of their father's sin. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 #### Important figures of speech in this chapter ####
 

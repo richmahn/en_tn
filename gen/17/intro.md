@@ -7,7 +7,7 @@ Abram came to have many descendants. He had so many descendants that many of his
 
 ##### God's covenant with Abraham #####
 
-God made a covenant with Abram. This covenant was not conditioned upon anything that Abraham needed to do, but the fulfillment of its promises is conditioned upon the actions of each generation of his descendants. It has not yet been fulfilled in its entirety. It is important to note in this chapter that Isaac is the son who receives the promises associated with the covenant and not Ishmael. (See: [[rc://en/tw/dict/bible/kt/covenant]], [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
+God made a covenant with Abram. This covenant was not conditioned upon anything that Abraham needed to do, but the fulfillment of its promises is conditioned upon the actions of each generation of his descendants. It has not yet been fulfilled in its entirety. It is important to note in this chapter that Isaac is the son who receives the promises associated with the covenant and not Ishmael. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
 
 ##### Circumcision #####
 Circumcision was an unusual practice in the ancient Near East. It served to separate the Hebrew people from the rest of the world. This chapter records the beginning of this practice among Abraham and his descendants. (See: [[rc://en/tw/dict/bible/kt/circumcise]])

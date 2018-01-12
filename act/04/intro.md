@@ -7,17 +7,24 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Unity #####
-The early church prioritized unity. There was a spirit of unity among the followers of Christ as well as some financial unity. The latter shows a sense of total commitment. 
+
+The first Christians wanted very much to be united. They wanted to believe the same things and share everything they owned and help those who needed help.
+
+##### "Signs and wonders" #####
+
+This phrase refers to things that only God can do. The Christians wanted God to do what only he can do so that people would believe that what they said about Jesus was true.
 
 #### Important figures of speech in this chapter ####
 
 ##### Cornerstone #####
-This is an important metaphor in Scripture. The cornerstone was the first piece of stone put into place when making the foundation of a building. If the cornerstone was out of place or at a wrong angle, then the whole building would be off. This metaphor teaches that Jesus is the proper foundation of faith. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/faith]])
+
+The cornerstone was the first piece of stone that people put down when they were building a building. This is a metaphor for the most important part of something, the part on which everything depends. To say that Jesus is the cornerstone of the church is to say that nothing in the church is more important than Jesus and that everything about the church depends on Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "For there is no other name under heaven" #####
-The Greek word for "name" indicates that it is not just the word "Jesus" that saves, but his true person. It is the true Jesus, the Son of God, the one who died for the sins of mankind, who is the only way a person can go to heaven.
+##### Name #####
+
+"There is no other name under heaven given among men by which we must be saved" ([Acts 4:12](./11.md)). With these words Peter was saying that no other person who has ever been on the earth or will ever be on earth can save people.
 
 ## Links: ##
 

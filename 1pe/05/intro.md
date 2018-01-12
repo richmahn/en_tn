@@ -2,25 +2,23 @@
 
 #### Structure and formatting ####
 
-Verses [1 Peter 12-14](./12.md) form the closing salutation of the letter. This was typical for a letter in the ancient Near East.
+Most people in the ancient Near East would end a letter the way Peter ends this one.
 
 #### Special concepts in this chapter ####
 
-##### Elders #####
-There is some disagreement over the titles used for church leaders. Some of these titles are overseer, elder, pastor, deacons and bishop.
-
 ##### Crowns #####
-Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/other/reward]])
+
+The crown that the Chief Shepherd will give is a reward, something that people who do something especially good receive. (See: [[rc://en/tw/dict/bible/other/reward]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Lion #####
-God is pictured as a lion in Scripture. Jesus is the lion of the tribe of Judah. In this chapter, Satan is described as "like a roaring lion." Its meaning is that Satan seeks to destroy the testimony or witness of Christians, but it is possible that this phrase is used because he is an imitator of God.
 
-#### Other possible translation difficulties in this chapter ####
+All animals are afraid of lions because they are fast and strong, and they eat almost every other kind of animal. They also eat people. Satan wants to make God's people afraid, so Peter uses the simile of a lion to teach his readers that Satan can harm their bodies, but if they trust in God and obey him, they will always be God's people, and God will care for them, (See: [[rc://en/ta/man/translate/figs-simile]])
 
 ##### Babylon #####
-Babylon was the epitome of evil. Babylon is often a metaphor for an evil place or an evil people. In this chapter, it is probably a reference to Rome. (See: [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/ta/man/translate/figs-metaphor]])
+
+Babylon was the evil nation that in Old Testament times had destroyed Jerusalem, taken the Jews away from their homes, and ruled over them. Peter uses Babylon as a metaphor for the nation that was persecuting the  Christians he was writing to. He could have been referring to Jerusalem because the Jews were persecuting the Christians. Or he could have been referring to Rome because the Romans were persecuting the Christians. (See: [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

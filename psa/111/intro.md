@@ -7,7 +7,7 @@ Psalm 111 is a psalm of praise to God for his miracles and care. (See: [[rc://en
 #### Special concepts in this chapter ####
 
 ##### Yahweh's character #####
-God is great. He has given his people food and a land and always keeps his promises to his people. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
+God is great. He has given his people food and a land always keeps his promises to his people. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
 
 ## Links: ##
 

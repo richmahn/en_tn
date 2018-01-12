@@ -4,15 +4,15 @@
 
 ##### "You will catch men" #####
 
-Peter, James, and John were fishermen. When Jesus told them that they would catch men, they knew that that was a metaphor for helping people believe the good news about Jesus. (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/ta/man/translate/figs-metaphor]])
+Peter, James, and John were fishermen. When Jesus told them that they would catch men, he was using a metaphor to tell them he wanted them to help people believe the good news about him. (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
-##### "Sinful people" #####
+##### Sinners #####
 
-The Pharisees refer to a group of people as "sinners." What they meant was people who seemed to have no concern for keeping the Law of Moses. However, Luke treats the term "sinners" in an ironic way, because Jesus says that he came to call sinners to repent. By "sinners," Jesus was referring to anyone guilty of sin. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-irony]])
+When the people of Jesus' time spoke of "sinners," they were talking about people who did not obey the law of Moses and instead committed sins like stealing or sexual sins. When Jesus said that he came to call "sinners," he meant that only people who believe that they are sinners can be his followers. This is true even if they are not what most people think of as "sinners." (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Fasting and Feasting #####
 
- was often done during times of repentance. It was not done during joyous times. Because the time in which Jesus was with his disciples was a joyous time, he did not tell them to fast until after he was no longer with them. (See: [[rc://en/tw/dict/bible/kt/repent]])
+People would fast, or not eat food for a long time, when they were sad or were showing God that they were sorry for their sins. When they were happy, like during weddings, they would have feasts, or meals where they would eat much food. (See: [[rc://en/tw/dict/bible/other/fast]])
 
 #### Important figures of speech in this chapter ####
 
@@ -27,11 +27,12 @@ Jesus uses a hypothetical situation to condemn the Pharisees. This passage inclu
 In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UDB often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Past Events #####
+
 Parts of this chapter are sequences of events that have already happened. In a given passage, Luke sometimes writes as if the events have already happened while other events are still in progress (even though they are complete at the time he writes). This can cause difficulty in translation by creating an illogical order of events. It may be necessary to make these consistent by writing as if all the events have already happened. 
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 5:24](./22.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

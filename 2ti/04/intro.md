@@ -2,13 +2,13 @@
 
 #### Structure and formatting ####
 
-##### "I solemnly command you" #####
+##### "I give this solemn command" #####
 Paul begins to give personal instructions to Timothy.
 
 #### Special concepts in this chapter ####
 
 ##### Crown #####
-In Scripture, there are several different types of crowns used as images for different things. It appears the crown in this chapter is achieved or awarded at the end of a person's life.
+Scripture uses different kinds of crowns as images for different things. It appears Christ will award the crown in this chapter to believers as a reward for living rightly.
 
 ## Links: ##
 

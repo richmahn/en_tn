@@ -49,13 +49,13 @@ The UDB will often be helpful as translators think about how to represent these 
 
 #### What are the major issues in the text of the Book of Hebrews? ####
 
-The following are the most significant textual issues in the Book of Hebrews:
+For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "and you have put him over the works of your hands." (2:7) The ULB, UDB, and most modern versions do not read this way. Some older versions do.
-* "those who did not unite in faith with those who obeyed" (4:2). The ULB, UDB, and some other versions read this way. Other versions read, "those who heard it without joining faith to it." If there are other versions in the region, translators might consider following their reading.
-* "Christ came as a high priest of the good things that have come." (9:11) The ULB, UDB, and most other modern versions read this way. Some other versions read, "Christ came as a high priest of the good things that are to come." If there are other versions in the region, translators might consider following their reading.
-* "on those who were prisoners" (10:34). The ULB, UDB, and most other modern versions read this way. Some older versions read, "of me in my chains."
-* "They were stoned. They were sawn in two. They were killed with the sword." (11:37) The ULB, UDB, and most other modern versions read this way. Some older versions read, "They were stoned. They were sawn in two. They were tempted. They were killed with the sword."
-* "If even an animal touches the mountain, it must be stoned." (12:20) The ULB, UDB, and most other modern versions read this way. Some older versions read, "If even an animal touches the mountain, it must be stoned or shot with an arrow."
+* "you crowned him with glory and honor" (2:7). Some older versions read, "you crowned him with glory and honor and you have put him over the works of your hands."
+* "those who did not unite in faith with those who obeyed" (4:2). Some older versions read, "those who heard it without joining faith to it."
+* "Christ came as a high priest of the good things that have come" (9:11). Some modern versions and older versions read, "Christ came as a high priest of the good things that are to come."
+* "on those who were prisoners" (10:34). Some older versions read, "of me in my chains."
+* "They were stoned. They were sawn in two. They were killed with the sword" (11:37). Some older versions read, "They were stoned. They were sawn in two. They were tempted. They were killed with the sword."
+* "If even an animal touches the mountain, it must be stoned" (12:20). Some older versions read, "If even an animal touches the mountain, it must be stoned or shot with an arrow."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

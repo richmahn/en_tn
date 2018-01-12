@@ -10,7 +10,7 @@ The ULB sets the lines of this chapter farther to the right on the page than the
 Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice. (See: [[rc://en/tw/dict/bible/kt/curse]])
 
 ##### Sickness and sin #####
-In the ancient Near East, it was common to believe that a person's illness was caused by sin. It was seen as the punishment of a god. While Yahweh may punish people because of their sin, not all sicknesses are caused by sin. (See: [[rc://en/tw/dict/bible/kt/believe]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
+In the ancient Near East, it was common to believe that a person's illness was caused by sin. It was seen as the punishment of a god. While Yahweh may punish people because of their sin, not all sicknesses are caused by sin. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 #### Important figures of speech in this chapter ####
 

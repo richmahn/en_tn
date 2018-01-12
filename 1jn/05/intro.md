@@ -2,16 +2,19 @@
 
 #### Special concepts in this chapter ####
 
+##### Children born from God #####
+When people believe in Jesus, God makes them his children and gives them eternal life. (See: [[rc://en/tw/dict/bible/kt/believe]])
+
 ##### Christian living #####
-There is a close connection in this chapter between Christians' confession of faith in Jesus and the way they live their lives. Believing in Jesus requires one to live a godly life. (See: [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/godly]])
+People who believe in Jesus should obey God's commands and love his children.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Death #####
-John's usage of death in this chapter always references physical death. (See: [[rc://en/tw/dict/bible/other/death]])
+When John writes about death in this chapter, he refers to physical death. (See: [[rc://en/tw/dict/bible/other/death]])
 
-##### "We know that we are from God, and we know that the whole world lies in the evil one." #####
-Satan, the evil one, is the  ruler of this world, but ultimately God is in control over everything. Scripture describes Satan as the "prince" of this world and God as the "king" of all of creation. (See: [[rc://en/tw/dict/bible/kt/satan]])
+##### "the whole world lies in the power of the evil one" #####
+The phrase "the evil one" refers to Satan. God has allowed him to rule the world, but ultimately God is in control over everything. God keeps his children safe from the evil one. (See: [[rc://en/tw/dict/bible/kt/satan]])
 
 ## Links: ##
 

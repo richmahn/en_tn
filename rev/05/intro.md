@@ -2,27 +2,31 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 4:8, 11.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this in verses 9-13.
 
 #### Special concepts in this chapter ####
 
 ##### Sealed scroll #####
-A sealed scroll contains a written message hidden and waiting to be read. The scroll can only be read by the person with the authority to open it.
+
+Kings and important people in John's time wrote important documents on large pieces of paper or animal skin. They then rolled them up and sealed them with wax so they would stay closed. Only the person to whom the document was written had the authority to open it by breaking the seal. In this chapter, "the one who was seated on the throne" had written the scroll. Only the person called "the Lion of the tribe of Judah, the Root of David" and "the Lamb" had the authority to open it. (See: [[rc://en/tw/dict/bible/other/scroll]] and [[rc://en/tw/dict/bible/kt/authority]])
 
 ##### Twenty-four elders #####
-This is probably a reference to church leaders, but the identity of the twenty-four elders is uncertain. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+
+Elders are church leaders. Twenty-four elders may be symbolic of the whole church through the ages. There were twelve tribes in Old Testament Israel and twelve apostles in the New Testament church. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 ##### Christian prayers #####
-The prayers of Christians are connected with incense. Christian prayers have a good smell to God. He is pleased when Christians pray.
+
+The prayers of Christians are described as incense. Christian prayers have a good smell to God. He is pleased when Christians pray.
 
 ##### Seven spirits of God #####
 
-The exact meaning of this phrase is unclear. It is possibly a symbolic reference to the Holy Spirit with the number seven symbolizing "completeness." It may also not be symbolic, and reference  seven spirits surrounding the throne of God.
+These spirits are the seven spirits of [Revelation 1:4](../01/04.md).
 
 #### Important figures of speech in this chapter ####
 
-##### Metaphor #####
-The "Lion of the tribe of Judah" and the "Root of David" are references to Jesus. They are metaphors and they function as titles for Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-explicit]])
+##### Metaphors #####
+
+The "Lion of the tribe of Judah" and the "Root of David" are metaphors that refer to Jesus. Jesus descended from the tribe of Judah and the family of David. Lions are fierce, and all animals and people are afraid of them, so they are a metaphor for a king whom everyone obeys. The words "Root of David" speak of Israel's King David as if he were a seed that God had planted and of Jesus as if he were a root growing from that seed. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

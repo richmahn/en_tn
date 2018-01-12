@@ -1,10 +1,16 @@
 # Matthew 09 General Notes #
 
-#### Passive voice ####
+#### Special concepts in this chapter ####
 
-Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
+##### "Sinners" #####
+
+When the people of Jesus' time spoke of "sinners," they were talking about people who did not obey the law of Moses and instead committed sins like stealing or sexual sins. When Jesus said that he came to call "sinners," he meant that only people who believe that they are sinners can be his followers. This is true even if they are not what most people think of as "sinners." (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
+
+##### Passive voice #####
+
+Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
 
 ##### Rhetorical questions #####
 

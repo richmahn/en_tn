@@ -2,20 +2,20 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 4:8.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 8, which is quoted from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Spiritual gifts #####
-Spiritual gifts are specific supernatural abilities given to Christians after coming to faith in Jesus. This is not an exhaustive list of the spiritual gifts. Some scholars believe there are some gifts given only in the early church because they were foundational to the development of the church. (See: [[rc://en/tw/dict/bible/kt/faith]])
+Spiritual gifts are specific supernatural abilities that the Holy Spirit gives to Christians after they come to believe in Jesus. Paul lists here only some of the spiritual gifts. Some scholars believe that the Holy Spirit gave some spiritual gifts only to believers in the early church. These spiritual gifts were foundational to developing the church. (See: [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Unity #####
-Paul places a great importance on unity in the church. This is a major theme of this chapter. 
+Paul considers it very important that the church is united. This is a major theme of this chapter. 
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Old man and new man #####
-The term "old man" probably refers to the sinful nature that a person is born with, while the "new man" is the new nature or new life that is given to a person after coming to faith in Christ. Paul also uses the terms old/new self and old/new creation in the same way. 
+The term "old man" probably refers to the sinful nature with which a person is born. The "new man" is the new nature or new life that God gives a person after they come to believe in Christ.
 
 ## Links: ##
 

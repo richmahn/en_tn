@@ -2,19 +2,19 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 14:21. The ULB also sets each line of poetry in the quotation farther to the right.
+In this chapter, Paul returns to discussing spiritual gifts.
 
-Paul returns to his discussion on the  gifts of the Holy Spirit.
+Some translations set what is quoted from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the words of verse 21.
 
 #### Special concepts in this chapter ####
 
 ##### Tongues #####
 
-The gift of tongues is described as an inferior gift because it primarily serves an individual or a few people within the church; it does not serve the church as a whole. It is also very important that this gift be used in the proper way. The use of tongues is also described as a sign for unbelievers. The exact meaning of this phrase is debated among scholars. 
+Scholars disagree on the exact meaning of the gift of tongues. Paul describes the gift of tongues as a sign for unbelievers. It does not serve the whole church, unless someone interprets what is spoken. It is very important that the church uses this gift properly. 
 
 ##### Prophecy #####
 
-Prophecy is described as a superior gift because it can be used in service of the entire church, unlike the gifts that are primarily helpful to an individual. Prophecy is described as a gift for believers, but the exact meaning of this phrase is debated among scholars. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Scholars disagree on the exact meaning of prophecy as a spiritual gift. Paul says prophets can build up the entire church. He describes prophecy as a gift for believers. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 ## Links: ##
 

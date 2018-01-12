@@ -12,7 +12,7 @@ This chapter makes it clear that the northern kingdom is going to be nearly deci
 
 #### Important figures of speech in this chapter ####
 
-== Rhetorical question==
+##### Rhetorical question #####
 
 Hosea uses rhetorical questions throughout this chapter. They are not questions requesting information but rather questions indicating some emotion like anger or dissatisfaction. (See: [[rc://en/ta/man/translate/figs-rquestion]]) 
 

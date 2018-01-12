@@ -37,10 +37,8 @@ In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16
 
 #### What are the major issues in the text of the Book of 1 Peter? ####
 
-Theses are the most significant textual issues in the Book of 1 Peter:
-
 * "You made your souls pure by obedience to the truth. This was for the purpose of sincere brotherly love; so love one another earnestly from the heart" (1:22). The ULB, UDB, and most other modern versions read this way. Some older versions read, "You made your souls pure by obedience to the truth through the Spirit for the purpose of sincere brotherly love, so love one another earnestly from the heart."
 
-Translators are advised not to include the expression "through the Spirit," in 1:22. However, if older Bible versions in their region have it, translators can include it. If it is included, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of 1 Peter.
+If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

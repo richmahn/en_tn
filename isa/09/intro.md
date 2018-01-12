@@ -7,7 +7,7 @@ This chapter begins with a prophecy that is a continuation of the prophecy concl
 #### Special concepts in this chapter ####
 
 ##### Messiah #####
-The prophecy in 9:1-7 is about the coming messiah. Parts of this prophecy were fulfilled when he first came to earth. Other parts are to be fulfilled when he will return in glory to earth. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+The prophecy in 9:1-7 is about the coming Messiah. Parts of this prophecy were fulfilled when he first came to earth. Other parts are to be fulfilled when he will return in glory to earth. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -2,18 +2,18 @@
 
 #### Structure and formatting ####
 
-It was possible at this time to begin an informal letter from a religious leader with a prayer. This is how Paul begins this letter. 
+Paul includes a prayer in the beginning of this letter. At that time, religious leaders sometimes began informal letters with a prayer. 
 
 #### Special concepts in this chapter ####
 
 ##### The day of Christ #####
-This is probably a reference to the day when Christ returns. It was common for Paul to connect the return of Christ with motivation for godly living. (See: [[rc://en/tw/dict/bible/kt/godly]])
+This probably refers to the day when Christ returns. Paul often connected the return of Christ with motivating godly living. (See: [[rc://en/tw/dict/bible/kt/godly]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. This statement in 1:21is a paradox: "to die is gain." In 1:23 Paul explains why it is better to die. ([Philippians 1:21](./20.md))
+A paradox is a true statement that appears to describe something impossible. This statement in verse 21 is a paradox: "to die is gain." In verse 23 Paul explains why this is true. ([Philippians 1:21](./20.md))
 
 ## Links: ##
 

@@ -2,18 +2,15 @@
 
 #### Special concepts in this chapter ####
 
-##### Misunderstandings about the messiah #####
-It is recorded that Paul was "explaining that it was necessary for the Christ to suffer and to rise again from the dead." There was a common misconception that the Messiah was to be a conquering king. This is true of Christ at his return, but the Scriptures also say that the messiah would be a suffering servant. Therefore, Paul explained to them the truth about the messiah. (See: [[rc://en/tw/dict/bible/kt/christ]])
+##### Misunderstandings about the Messiah #####
 
-##### Athenian religion #####
+The Jews expected the Christ or Messiah to be a powerful king because the Old Testament says so many times. But it also says many times that the Messiah would suffer, and that was what Paul was telling the Jews. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
-The Athenians were said to be "religious," but they did not worship Yahweh. They worshiped many different false gods. Often, when they conquered different countries, they incorporated the gods worshiped in other nations into their collection of gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+##### The religion of Athens #####
 
-#### Other possible translation difficulties in this chapter ####
+Paul said that the Athenians were "religious," but they did not worship Yahweh. They worshiped many different false gods. In the past they had conquered other peoples and begun to worship the gods of the people they had conquered. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
-##### Contextualization #####
-
-This passage is famous in many cultures because Paul "contextualizes" the gospel for a non-Jewish audience. This means that Paul makes the gospel relatable or understandable to those with no understanding of the Jewish religious system, without really losing meaning or power. The translator may wish to take extra care in preserving aspects of this "contextualization" if possible. 
+In this chapter Luke describes for the first time how Paul told the message of Christ to people who knew nothing of the Old Testament.
 
 ## Links: ##
 

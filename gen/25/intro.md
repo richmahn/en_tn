@@ -10,7 +10,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 Abraham married another wife. This was sinful of him. Many other Hebrew leaders came to marry multiple wives. This is known as "polygamy." It has never been an acceptable practice. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### Inheritance #####
-In the ancient Near East, inheritance was passed on through the eldest son. Even though Esau and Jacob were twins, it is very important that Esau was born first. It was his birthright to receive his inheritance, but he foolishly gave it up. (See: [[rc://en/tw/dict/bible/kt/inherit]], [[rc://en/tw/dict/bible/kt/birthright]] and [[rc://en/tw/dict/bible/kt/foolish]])
+In the ancient Near East, inheritance was passed on through the eldest son. Even though Esau and Jacob were twins, it is very important that Esau was born first. It was his birthright to receive his inheritance, but he foolishly gave it up. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/birthright]] and [[rc://en/tw/dict/bible/kt/foolish]])
 
 #### Other possible translation difficulties in this chapter ####
 

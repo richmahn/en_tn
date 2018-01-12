@@ -2,19 +2,16 @@
 
 #### Structure and formatting ####
 
-The author is still speaking about Jesus' role as the ultimate high priest. The author also begins to speak about how the new covenant is superior to the covenant God made with Moses. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+The author finishes describing how and why Jesus is the most important high priest. Then he begins to speak about how the new covenant is better to the covenant God made with Moses. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 8:8-12, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 8:8-12, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### New covenant #####
-The author mentions the new covenant and discusses Jesus' relationship to it. Israel's relationship to the new covenant is unclear and the subject of much debate.
 
-#### Other possible translation difficulties in this chapter ####
+The author tells how Jesus has established a new covenant that is better than the covenant that God established with the Israelites. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
-##### We #####
-The author begins to speak using the pronoun "we." It is uncertain who else this includes.
 ## Links: ##
 
 * __[Hebrews 08:01 Notes](./01.md)__

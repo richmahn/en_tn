@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Trust #####
-When things in the land were bad, Isaac did not trust in Yahweh. Instead, he ran to the safety of Egypt. Even when Abraham's descendants did not trust in Yahweh's faithfulness to fulfill his covenant, Yahweh remained faithful to his covenant and blessed Isaac. (See: [[rc://en/tw/dict/bible/kt/trust]], [[rc://en/tw/dict/bible/kt/faithful]], [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/covenant]])
+When things in the land were bad, Isaac did not trust in Yahweh. Instead, he ran to the safety of Egypt. Even when Abraham's descendants did not trust in Yahweh's faithfulness to fulfill his covenant, Yahweh remained faithful to his covenant and blessed Isaac. (See: [[rc://en/tw/dict/bible/kt/trust]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
 ##### Wells #####
 In the ancient Near East, wells were very important strategically. Therefore, they were a sign of power and a sign of God's blessing being upon Isaac.

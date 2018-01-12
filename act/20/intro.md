@@ -2,15 +2,17 @@
 
 #### Structure and formatting ####
 
-This chapter functions as a way for Paul to say goodbye to the people of Ephesus. He gives them instructions, since they will never see him again.
+In this chapter Luke describes Paul's last visits to believers in the provinces of Macedonia and Asia before he went to Jerusalem.
 
 #### Special concepts in this chapter ####
 
 ##### Race #####
-Paul uses the image of a "race" for the Christian life. This is not to say that the Christian life is about winning or coming in first place. Instead, it is a long race that requires discipline and perseverance. (See: [[rc://en/tw/dict/bible/kt/discipline]])
 
-##### The leading of the Holy Spirit #####
-Christians are to follow the leadership and guidance of the Holy Spirit in their lives.
+Paul spoke of living for Jesus as if he were running in a race. By this he meant that he needed to keep working hard even when things were difficult and he wanted to quit. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/discipline]])
+
+##### "Compelled by the Spirit" #####
+
+Paul thought that the Holy Spirit wanted him to go to Jerusalem even if Paul did not want to go there. The same Holy Spirit told other people that when Paul arrived in Jerusalem, people would try to harm him.
 
 ## Links: ##
 

@@ -9,7 +9,7 @@ This chapter continues using the poetic form to communicate about Yahweh's relat
 ##### Metaphor #####
 This chapter contains an extended metaphor of Israel as a male child in the care of Yahweh, his parent. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
-== Rhetorical question==
+##### Rhetorical question #####
 
 Yahweh uses rhetorical questions to show his disappointment and anger at Israel's persistent rejection of him. (See: [[rc://en/ta/man/translate/figs-rquestion]]) 
 

@@ -3,11 +3,8 @@
 #### Special concepts in this chapter ####
 
 ##### "The Gentiles also had received the word of God" #####
-In the early church, Christians were almost exclusively Jewish. Many Gentiles then started to believe in Jesus. This is what it means to "receive the word of God." 
 
-##### "Baptism in the Holy Spirit" #####
-
-Many scholars believe this events marks the time when the Spirit started to indwell people when they began to believe in Jesus. The Spirit did this in order to assure them and to guide them. Others believe this event gave them the ability to speak in tongues, in addition to indwelling them, but that it is an event that occurs after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/save]])
+Almost all of the first believers were Jewish. Luke writes in this chapter that many Gentiles started to believe in Jesus. They believed that the message about Jesus was true and so began to "receive the word of God." Some of the believers in Jerusalem did not believe that Gentiles could truly follow Jesus, so Peter went to them and told them what had happened to him and how he had seen the Gentiles receive the Word of God and receive the Holy Spirit.
 
 ## Links: ##
 

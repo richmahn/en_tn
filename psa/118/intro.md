@@ -7,7 +7,7 @@ Psalm 118 is a psalm of war and is about Christ. (See: [[rc://en/tw/dict/bible/k
 #### Special concepts in this chapter ####
 
 ##### Rejected stone #####
-The author praised Yahweh for his rescuing him. God enabled him to overpower his enemies. The new Testament, and even Jesus himself, saw the rejected stone as a reference to the messiah's rejection by the Jewish leaders. (See: [[rc://en/tw/dict/bible/kt/christ]])
+The author praised Yahweh for his rescuing him. God enabled him to overpower his enemies. The new Testament, and even Jesus himself, saw the rejected stone as a reference to the Messiah's rejection by the Jewish leaders. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 ## Links: ##
 

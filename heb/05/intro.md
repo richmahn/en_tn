@@ -9,12 +9,14 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### High priest #####
-Jesus needed to be a high priest in order to offer his life as a sacrifice for sin. The high priest was normally from the tribe of Levi, but Jesus was from the ruling tribe, Judah. His right to be a priest came from the tradition of Melchizedek, who was a priest before the Levites came into existence. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
+
+Only a high priest could offer sacrifices so that God could forgive sins, so Jesus had to be a high priest. The law of Moses commanded that the high priest be from the tribe of Levi, but Jesus was from the tribe of Judah. God made him a priest like the priest Melchizedek, who lived at the time of Abraham, before there was a tribe of Levi.
 
 #### Important figures of speech in this chapter ####
 
 ##### Milk and solid food #####
-This is an image used to describe maturity in Christ. It compares immature Christians to babies who are only able to drink milk. They are not mature enough to handle solid foods, which are the more complex teachings about Jesus. Instead, they have chosen not to grow and to remain like babies who drink only milk, the simpler and more basic teachings about Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+
+The writer speaks of Christians who are only able to understand simple things about Jesus as if they were babies, who drink only milk and cannot eat solid food. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

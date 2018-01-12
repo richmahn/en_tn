@@ -4,15 +4,13 @@
 
 ##### "Being gathered together to be with him" #####
 
-Many scholars believe this passage refers to an event known as the "rapture." This is a time when Jesus calls those who believe in him to himself. (See: [[rc://en/tw/dict/bible/kt/believe]])
+This passage refers to a time when Jesus calls to himself those who have believed in him. Scholars differ on whether or not this refers to Christ's final glorious return. (See: [[rc://en/tw/dict/bible/kt/believe]])
 
-##### Antichrist #####
-Other names for the Antichrist in this chapter are the "man of lawlessness," "the lawless one," and the "son of destruction." During the time prophesied in this chapter, Satan will be actively at work in the world. (See: [[rc://en/tw/dict/bible/kt/antichrist]])
-
-#### Other possible translation difficulties in this chapter ####
+##### Man of lawlessness #####
+This is the same as "son of destruction" and "lawless one" in this chapter. Paul associates him with Satan actively working in the world. (See: [[rc://en/tw/dict/bible/kt/antichrist]])
 
 ##### Sits in the temple of God #####
-Since the temple no longer exists, it is possible this is a reference to the idea that the temple will one day be rebuilt. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Paul could be referring to the Jerusalem temple that the Romans destroyed several years after he wrote this letter. Or he could be referring to a future physical temple, or to the church as the spiritual temple of God. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

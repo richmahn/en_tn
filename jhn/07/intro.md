@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This whole chapter revolves around the concept of believing Jesus to be the Messiah. Some people believed this to be true while others rejected it. Some were willing to recognize his power and even the possibility that he was a prophet, but most were unwilling to believe that he was the Messiah. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/prophet]])
+This whole chapter concerns the concept of believing Jesus to be the Messiah. Some people believed this to be true while others rejected it. Some were willing to recognize his power and even the possibility that he was a prophet, but most were unwilling to believe that he was the Messiah. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/prophet]])
 
 Translators may wish to include a note at verse 53 to explain to the reader why they have chosen or chosen not to translate verses 7:53-8:11.
 

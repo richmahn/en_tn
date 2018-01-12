@@ -2,19 +2,23 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 14:27, 62, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 14:27, 62, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### The eating of the body and blood #####
 
-To this day, this symbolic action is practiced in nearly all churches in remembrance of Christ's sacrifice for the sins of man. (See: [[rc://en/tw/dict/bible/kt/sin]])
+[Mark 14:22-25](./22.md) describes Jesus' last meal with his followers. At this time, Jesus told them that what they were eating and drinking were his body and his blood. Nearly all Christian churches celebrate "the Lord's Supper," the "Eucharist", or "Holy Communion" to remember this meal.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Abba, Father #####
 
-"Abba" is an Aramaic word. It was an informal, loving way to refer to  a person's father in ancient Israel. Mark "transliterates" its sounds by writing them with Greek letters, and then gives its meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
+"Abba" is an Aramaic word that the Jews used to speak to their fathers. Mark writes it as it sounds and then translates it. (See: [[rc://en/ta/man/translate/translate-transliterate]])
+
+##### "Son of Man" #####
+
+Jesus refers to himself as the "Son of Man" in this chapter ([Mark 14:20](./20.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

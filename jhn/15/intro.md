@@ -2,14 +2,11 @@
 
 #### Structure and formatting ####
 
-##### Vine #####
-The vine is an important image in scripture. This chapter forms a complex and extended metaphor. The various aspects of this image and how it is used will cause translation issues in any culture. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
 #### Special concepts in this chapter ####
 
-##### "I am ... " #####
+##### Vine #####
 
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name at the burning bush. The name "Yahweh" can be translated as "I am." (See: [[rc://en/tw/dict/bible/kt/reveal]])
+Jesus used the vine as a metaphor for himself. This is because the vine of the grape plant is what takes water and minerals from the ground to the leaves and grapes. Without the vine, the grapes and leaves die. He wanted his followers to know that unless they loved and obeyed him, they would be unable to do anything that pleased God. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

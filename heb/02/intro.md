@@ -2,20 +2,15 @@
 
 #### Structure and formatting ####
 
-This chapter is about how Jesus is better than Moses, the great Jew.
+This chapter is about how Jesus is better than Moses, the greatest Israelite.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 2:6-8, 12-13, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 2:6-8, 12-13, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Brothers #####
-The author probably uses the term "brothers" to refer to fellow Israelites and fellow Christians. Extra care should be taken to make sure the reference is clear. It may also be necessary to occasionally leave the referent vague. 
 
-#### Other possible translation difficulties in this chapter ####
-
-##### Prophecy #####
-Jesus literally fulfilled these prophecies about the Messiah but the prophecies themselves often contain poetic or metaphorical language. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]], and [[rc://en/ta/man/translate/figs-metaphor]])
-## Links: ##
+The author probably uses the term "brothers" to refer to Christians who grew up as Jews.
 
 * __[Hebrews 02:01 Notes](./01.md)__
 

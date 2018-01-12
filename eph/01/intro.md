@@ -4,12 +4,12 @@
 
 ##### "I pray" #####
 
-This chapter is structured loosely as a prayer, but it is not a typical prayer. This is a unique "prayer" where Paul is not just talking to God. He is also giving written instructions to the church in Ephesus. 
+Paul structures part of this chapter like a prayer of praise to God. But Paul is not just talking to God. He is teaching the church in Ephesus. He also tells the Ephesians how he is praying for them. 
 
 #### Special concepts in this chapter ####
 
 ##### Predestination #####
-Many scholars believe this chapter teaches on a subject known as "predestination." This is related to the biblical concept of "predestine." Some scholars take this to indicate that God has chosen some to be eternally saved before the foundation of the world. Since this is a source of theological diversity, extra care should be taken in translation, especially with regards to elements of causation in this chapter. (See: [[rc://en/tw/dict/bible/kt/predestine]])
+Many scholars believe this chapter teaches on a subject known as "predestination." This is related to the biblical concept of "predestine." Some scholars take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter, especially with regards to elements of causation. (See: [[rc://en/tw/dict/bible/kt/predestine]])
 
 ## Links: ##
 

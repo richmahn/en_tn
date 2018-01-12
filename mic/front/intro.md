@@ -26,7 +26,7 @@
 
 This book contains many of Micah's prophecies. Micah repeated many similar prophecies as found in Isaiah.  Micah warned the kingdoms of Israel and Judah that the Assyrians would soon attack them. Micah condemned those who acted unjustly and immorally. He spoke against those who did not work for a living. He also spoke against the false prophets in Israel and Judah. These false prophets were telling the people that Yahweh would never let a foreign kingdom harm or conquer them.
  
-Micah called the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countrymen proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
+Micah called the people to please Yahweh by living righteous and holy lives. However, the sinful way they lived and the unjust way they treated their fellow countrymen proved that they no longer wanted to obey and honor Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### How should the title of this book be translated? ####
 

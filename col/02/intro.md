@@ -2,17 +2,17 @@
 
 #### Special concepts in this chapter ####
 
-##### Worldliness #####
-Although believers must live in the world, Paul urges the Christians in Colossae not to live "worldly" lives. By this he means not to live as the non-Christians do.
+##### Circumcision and baptism #####
+In verses 11-12, Paul uses both the old covenant sign of circumcision and the new covenant sign of baptism to picture how Christians are united with Christ and freed from sin.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Flesh #####
 
-This is a complex issue and it is possible "flesh" is a metaphor for a person's sinful nature. It is not the physical part of man that is sinful. Paul is teaching that, while man remains alive ("in the flesh"), he will remain sinful regardless of his effort, but his new nature will be fighting against his old nature. Flesh is also used in this chapter to refer to the material part of man in general. 
+This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. Paul is not teaching that the physical part of man is sinful. Paul appears to be teaching that, while Christians are alive ("in the flesh"), we will continue to sin. But our new nature will be fighting against our old nature. Paul also uses "flesh" in this chapter to refer to the physical body. 
 
 ##### Implicit information #####
-There are several issues mentioned in this chapter that share implicit information about the context of the church in Colossae. It is best to allow uncertainty to remain in the text over the specifics of the situations referenced. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Paul mentions several issues in this chapter that imply information about the context of the church in Colossae. It is best to allow the text to remain uncertain over the actual details. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

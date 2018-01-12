@@ -3,20 +3,24 @@
 #### Special concepts in this chapter ####
 
 ##### Adultery #####
-Adultery is a common metaphor in Scripture. It is always used negatively and indicates a child of God is acting in an ungodly manner. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/godly]])
+
+Writers in the Bible often speak of adultery as a metaphor for people who say they love God but do things that God hates. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/godly]])
 
 ##### Law #####
-It is unclear whether this is a reference to the law of Moses. It is probably a reference to the "law" of God in general. This is the general standard of righteousness based on the character of God. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/righteous]])
+
+James probably uses this word in [James 4:11](./11.md) to refer to "the royal law" ([James 2:8](../02/08.md)), not to the law of Moses. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-James uses many rhetorical questions to teach his readers. (See: [[rc://en/ta/man/translate/figs-rquestion]])
+
+James asks many questions because he wants his readers to think about how they are living. He wants to correct and teach them. (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "The humble" #####
-This is probably not a reference to those who act humbly, but a reference to those who humble themselves and trust in Jesus for their salvation. (See: [[rc://en/tw/dict/bible/kt/save]])
+##### Humble #####
+
+This word probably usually refers to people who are not proud. James uses the word here to refer to people who are not proud and who also trust in Jesus and obey him.
 
 ## Links: ##
 

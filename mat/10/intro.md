@@ -11,13 +11,17 @@ Many verses in this chapter describe how Jesus sent the twelve disciples out. He
 ##### The twelve disciples #####
 
 The following are the lists of the twelve disciples:
+
 In Matthew: 
+
 Simon (Peter), Andrew, James son of Zebedee, John son of Zebedee, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddaeus, Simon the Zealot and Judas Iscariot.
 
 In Mark:
+
 Simon (Peter), Andrew, James the son of Zebedee and John the son of Zebedee (to whom he gave the name Boanerges, that is, sons of thunder), Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot. 
 
 In Luke:
+
 Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon (who was called the Zealot), Judas the son of James, and Judas Iscariot.
 
 Thaddaeus is probably the same person as Jude, the son of James. 

@@ -2,22 +2,23 @@
 
 #### Structure and formatting ####
 
-Many scholars believe the first half of this chapter is about a great revival among the Israelites, in which 144,000 people will come to believe in Jesus. The second half of this chapter tells about a great revival among the Gentiles, in which countless Gentiles will come to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+Scholars have interpreted parts of this chapter in many different ways. Translators do not need to fully understand what this chapter means to accurately translate its contents. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:5-8, 15-17.
+It is important to accurately translate the large numbers in this chapter. The number 144,000 is twelve times twelve thousand.
+
+Translators should be aware that the tribes of the people of Israel are not listed in this chapter the same as they are generally listed in the Old Testament.
+
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 5-8 and 15-17.
 
 #### Special concepts in this chapter ####
 
 ##### Worship #####
-The people in this chapter respond to these events with repentance and worship. This is the proper response to the information contained in this book. (See: [[rc://en/tw/dict/bible/kt/reveal]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/worship]])
-
-##### The Great Tribulation #####
-This is a period when the people of the earth will be greatly punished by God. There is some disagreement about this period but many scholars believe it is a reference to the last half of the seven years of tribulation prophesied in Revelation 4-19 and in the rest of Scripture. 
+God saves his people and keeps them through times of trouble. His people respond by worshipping him. (See: [[rc://en/tw/dict/bible/kt/worship]])
 
 #### Important figures of speech in this chapter ####
 
 ##### The Lamb #####
-This is a reference to Jesus. In this chapter, it also functions as a title for Jesus. (See: [[rc://en/ta/man/translate/figs-explicit]])
+This refers to Jesus. In this chapter, it is also a title for Jesus. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

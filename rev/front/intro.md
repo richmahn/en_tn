@@ -52,7 +52,7 @@ One does not need to understand all of the symbols in the Book of Revelation to 
 
 #### How are the ideas of "holy" and "sanctify" represented in Revelation in the ULB? ####
 
-The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating REvelation into English, the ULB uses the following principles:
+The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating Revelation into English, the ULB uses the following principles:
 * The meaning in two passages indicates moral holiness. Here, the ULB uses "holy." (See: 14:12; 22:11)
 * Usually the meaning in Revelation indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
 * Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "sanctify," "set apart," "dedicated to," or "reserved for." 
@@ -65,16 +65,16 @@ John referred to various periods of time in Revelation. For example, there are m
 
 #### What are the major issues in the text of the Book of Revelation? ####
 
-The following are the most significant textual issues in the Book of Revelation:
+For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "'I am the alpha and the omega,' says the Lord God, 'the one who is, and who was, and who is to come, the Almighty'" (1:8). The ULB, UDB, and most modern versions read this way. Some versions add the phrase "the Beginning and the End."
-* "the elders prostrated themselves and worshiped" (5:14). The ULB, UDB, and most modern versions read this way. Some older versions read, "the twenty-four elders prostrated themselves and worshiped the one who lives forever and ever."
-* "so that a third of it [the earth] was burned up" (8:7). The ULB, UDB, and most modern versions read this way. Some older versions do not include this phrase.
-* Some manuscripts add the phrase "and who is to come" (11:17). But the ULB, UDB, and most modern versions do not.
-* Some manuscripts add the phrase "before the throne of God" (14:5). But the ULB, UDB, and most modern versions do not.
-* "the one who is and who was, the Holy One" (16:5). The ULB, UDB, and most modern versions read this way. Some older manuscripts read, "O Lord, the One who is and who was and who is to be."
-* "The nations will walk by the light of that city" (21:24). The ULB, UDB, and most modern versions read this way. Some older manuscripts read, "The nations that are saved will walk by the light of that city."
-* "Blessed are those who wash their robes" (22:14). The ULB, UDB, and most modern versions read this way. Some older manuscripts read "Blessed are those who do his commandments."
-* "God will take away his share in the tree of life and in the holy city" (22:19). The ULB, UDB, and most modern versions read this way. Some older manuscripts read, "God will take away his share in the book of life and in the holy city." 
+* "'I am the alpha and the omega,' says the Lord God, 'the one who is, and who was, and who is to come, the Almighty'" (1:8). Some versions add the phrase "the Beginning and the End."
+* "the elders prostrated themselves and worshiped" (5:14). Some older versions read, "the twenty-four elders prostrated themselves and worshiped the one who lives forever and ever."
+* "so that a third of it [the earth] was burned up" (8:7). Some older versions do not include this phrase.
+* "the one who is and who was" (11:17). Some versions add the phrase "and who is to come."
+* "they are blameless" (14:5). Some versions add the phrase "before the throne of God" (14:5).
+* "the one who is and who was, the Holy One" (16:5). Some older versions read, "O Lord, the One who is and who was and who is to be."
+* "The nations will walk by the light of that city" (21:24). Some older versions read, "The nations that are saved will walk by the light of that city."
+* "Blessed are those who wash their robes" (22:14). Some older versions read "Blessed are those who do his commandments."
+* "God will take away his share in the tree of life and in the holy city" (22:19). Some older versions read, "God will take away his share in the book of life and in the holy city." 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

@@ -59,13 +59,13 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-These are the most significant textual issues in the Book of Luke:
+The following verses are not in the earliest manuscripts. The ULB and UDB include these verses, but some other versions do not.
 
-* "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) The ULB and UDB include this passage, but some other versions do not.
-* "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) The ULB and UDB include this passage, but some other versions do not.
+* "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44)
+* "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34)
 
-The following passage is not included in many modern versions. Some versions put it into square brackets:
+The following verse is not included in many modern versions. Some versions put it into square brackets. Translators are advised not to translate this verse. However, if in the translators' region, there are older versions of the Bible that include this verse, the translators can include it. If they are translated, it should be put inside square brackets ([]) to indicate that it was probably not original to Luke's Gospel.
 
 * "For he was required to release one prisoner during the feast" (23:17)
 
-Translators are advised not to translate this passage. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If they are translated, it should be put inside square brackets ([]) to indicate that it was probably not original to Luke's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+ (See: [[rc://en/ta/man/translate/translate-textvariants]])

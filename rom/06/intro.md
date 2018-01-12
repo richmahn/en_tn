@@ -18,7 +18,7 @@ This chapter uses the imagery of fruit. The image of fruit usually refers to a p
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-Paul uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]])
+Paul uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 

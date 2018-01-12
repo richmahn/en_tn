@@ -3,8 +3,8 @@
 #### Possible translation difficulties in this chapter ####
 
 ##### "Talitha, koum" #####
-The words "Talitha, koum" ([Mark 5:41](./41.md)) are from the Aramaic language. Mark writes them the way they sound and then translates them.
- 
+
+The words "Talitha, koum" ([Mark 5:41](./41.md)) are from the Aramaic language. Mark writes them the way they sound and then translates them. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ## Links: ##
 

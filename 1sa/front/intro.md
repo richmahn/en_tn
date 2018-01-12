@@ -42,7 +42,7 @@ It is uncertain who wrote 1 Samuel. It may have been someone alive soon after Ki
 
 #### Who is "Yahweh's anointed"? ####
  
-The writer of 1 Samuel often speaks of "Yahweh's anointed." This refers to the one whom Yahweh chose to be the king of his people. Also, the phrase "Yahweh's anointed" would make later readers think about the future descendant of David who would become king of God's people. This person who Yahweh chose would be known as the Messiah. (See: [[rc://en/tw/dict/bible/kt/anoint]], [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/tw/dict/bible/kt/christ]])
+The writer of 1 Samuel often speaks of "Yahweh's anointed." This refers to the one whom Yahweh chose to be the king of his people. Also, the phrase "Yahweh's anointed" would make later readers think about the future descendant of David who would become king of God's people. This person who Yahweh chose would be known as the Messiah. (See: [[rc://en/tw/dict/bible/kt/anoint]] and [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/tw/dict/bible/kt/christ]])
 
 ## Part 3: Important Translation Issues ##
 

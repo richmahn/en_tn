@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Daniel told the future #####
-Gabriel told Daniel a prophecy that Jerusalem would be rebuilt. Then later an anointed person would be killed and the worship at the temple stopped. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/anoint]] and [[rc://en/tw/dict/bible/kt/temple]])
+Gabriel told Daniel a prophecy that Jerusalem would be rebuilt. Then later an anointed person would be killed and the worship at the temple stopped. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/anoint]] and [[rc://en/tw/dict/bible/kt/temple]])
 
 ##### The unusual expression of numbers in 9:24-26 #####
 

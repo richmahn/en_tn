@@ -2,25 +2,23 @@
 
 #### Special concepts in this chapter ####
 
-##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/righteous]])
+##### Light and darkness #####
 
-##### "I am ... " #####
-
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name at the burning bush. The name "Yahweh" can be translated as "I am."
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### Passover #####
-This chapter records that Jesus no longer walked openly among the Jews. In turn, the Pharisees waited to find him during the Passover. It was the responsibility of the Jews, who were able, to go to Jerusalem during the Passover celebration. (See: [[rc://en/tw/dict/bible/kt/passover]])
+
+After Jesus made Lazarus become alive again, the Jewish leaders were trying hard to kill him, so he started traveling from place to place in secret. Now the Pharisees knew that he would probably come to Jerusalem for the Passover because God had commanded all Jewish men to celebrate the Passover in Jerusalem, so they planned to catch him and kill him then. (See: [[rc://en/tw/dict/bible/kt/passover]])
 
 #### Important figures of speech in this chapter ####
 
-##### "One man should die for the people" #####
-Caiaphas said, "it is expedient for you that one man should die for the people rather than that the whole nation should perish." It is ironic that Jesus would come to die for the sins of the nation and the whole world. This statement almost functions as a prophecy about Jesus' death for sin. This is something the high priest also gives a prophecy about later in this chapter. (See: [[rc://en/ta/man/translate/figs-irony]] and [[rc://en/tw/dict/bible/kt/prophet]])
+##### "One man dies for the people" #####
 
-#### Other possible translation difficulties in this chapter ####
+The law of Moses commanded the priests to kill animals so that God would forgive the people's sins. The high priest Caiaphas said, "It is better for you that one man dies for the people than that the whole nation perishes" ([John 10:50](./49.md)). He said this because he loved his "place" and "nation" ([John 10:48](./47.md)) more than he loved the God who had made Lazarus become alive again. He wanted Jesus to die so that the Romans would not destroy the temple and Jerusalem, but God wanted Jesus to die so that he could forgive all of his people's sins.
 
-##### "If you had been here" #####
-Mary and Martha had faith in Jesus but they did not understand fully who he was. In this passage, they had not yet come to realize that he had power over death itself and could raise Lazarus from the dead if he desired. (See: [[rc://en/ta/man/translate/figs-explicit]])
+##### Hypothetical situation #####
+
+When Martha said, "If you had been here, my brother would not have died," she was speaking of a situation that could have happened but did not happen. Jesus had not come, and her brother had died.
 
 ## Links: ##
 

@@ -8,7 +8,7 @@ According to the law of Moses, the people were required to free their indebted s
 
 ##### Actions with cultural meaning #####
 
-When the people of Israel made a sacred promise to God, they cut a calf in two and passed between its parts. It was a very serious sin not to do what one had promised. (See: [[rc://en/tw/dict/bible/kt/promise]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
+When the people of Israel made a sacred promise to God, they cut a calf in two and passed between its parts. It was a very serious sin not to do what one had promised. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

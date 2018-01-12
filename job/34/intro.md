@@ -9,7 +9,7 @@ The ULB sets the lines of this chapter farther to the right on the page than the
 #### Special concepts in this chapter ####
 
 ##### Yahweh's justice #####
-Elihu defends the justice of Yahweh after Job claimed that Yahweh was being unjust. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/justice]])
+Elihu defends the justice of Yahweh after Job claimed that Yahweh was being unjust. (See: [[rc://en/tw/dict/bible/kt/justice]])
 
 ## Links: ##
 

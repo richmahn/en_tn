@@ -74,10 +74,13 @@ The UDB will often be helpful as translators think about how to represent these 
 
 #### What are the major issues in the text of the Book of Romans? ####
 
-The following are the most significant textual issues in the Book of Romans:
+For the following verses, modern version of the Bible differ from older versions. The ULB includes the modern reading and puts the older reading in a footnote.
 
 * "he [God] works all things together for good" (8:28). Some older versions read, "All things work together for good."
-* "But if it is by grace, it is no longer by works. Otherwise grace would no longer be grace" (11:6). The best ancient copies have read this way. However, some versions read: "But if it is by works, then is it no more grace: otherwise work is no more work."
-* "May the grace of our Lord Jesus Christ be with you all. Amen" (16:24). The best ancient copies do not have this verse.
+* "But if it is by grace, it is no longer by works. Otherwise grace would no longer be grace" (11:6). Some older versions read: "But if it is by works, then is it no more grace: otherwise work is no more work."
 
-Translators are advised not to include this last passage. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Romans. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+The following verse is not in the best ancient copies of the Bible. Translators are advised not to include this verse. However, if in the translators' region there are older Bible versions that have this verse, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Romans.
+
+* "May the grace of our Lord Jesus Christ be with you all. Amen" (16:24).
+
+ (See: [[rc://en/ta/man/translate/translate-textvariants]])

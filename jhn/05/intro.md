@@ -2,20 +2,23 @@
 
 #### Special concepts in this chapter ####
 
-##### Porticos #####
-Many of the Jews believed these porticos had healing properties. This happened when the waters were "stirred up." (See: [[rc://en/ta/man/translate/figs-explicit]])
+##### Healing water #####
 
-##### "The resurrection of judgment" #####
-This is a reference to a time after death when all of mankind will be judged. (See: [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/judge]])
+Many of the Jews believed that God would heal people who got into some of the pools in Jerusalem when the waters were "stirred up."
+
+##### Testimony #####
+
+Testimony is what one person says about another person. What a person says about himself is not as important as what other people say about that person. Jesus told the Jews that God had told them who Jesus was, so he did not need to tell them who he was. This was because God had told the writers of the Old Testament what his Messiah would do, and Jesus had done everything they had written that he would do.
+
+##### The resurrection of life and the resurrection of judgment #####
+
+God will make some people alive again and because he gives them his grace, they will live with him forever. But he will make some people alive again and because he will treat them justly, they will live apart from him forever.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Son, Son of God #####
+##### The Son, the Son of God, and the Son of Man #####
 
-Jesus refers to himself as "the Son," the "Son of Man" and the "Son of God."Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
-
-##### "He has testified concerning me" #####
-Jesus speaks about the Old Testament testifying concerning himself. The Old Testament gives many prophecies concerning the Messiah which described Jesus before he came to earth. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]])
+Jesus refers to himself in this chapter as the "Son" ([John 5:19](./19.md)), the "Son of God" ([John 5:25](./25.md)), and the "Son of Man" ([John 5:27](./26.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

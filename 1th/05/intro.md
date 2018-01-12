@@ -2,15 +2,15 @@
 
 #### Structure and formatting ####
 
-The end of this chapter forms a conclusion typical of a letter in the ancient Near East. 
+Paul concludes his letter in a way that was typical of letters in the ancient Near East. 
 
 #### Special concepts in this chapter ####
 
 ##### Day of the Lord #####
-The exact time of the coming day of the Lord will be a surprise to the world. This is what the simile "like a thief in the night" means. Because of this, Christians are to be prepared for the coming of the Lord. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]] and [[rc://en/ta/man/translate/figs-simile]])
+The exact time of the coming day of the Lord will be a surprise to the world. This is what the simile "like a thief in the night" means. Because of this, Christians are to live prepared for the coming of the Lord. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]] and [[rc://en/ta/man/translate/figs-simile]])
 
 ##### Quench the Spirit #####
-This means to ignore the Holy Spirit's guidance and to ignore the work he is trying to do through a person.
+This means to ignore or work against the Holy Spirit's guidance and work.
 
 ## Links: ##
 

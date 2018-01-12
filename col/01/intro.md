@@ -2,26 +2,26 @@
 
 #### Structure and formatting ####
 
-As in a typical letter, this chapter begins (1:1-3) with a formal introduction to the Christians in Colossae. 
+As in a typical letter, Paul begins his letter in verses 1-2 by introducing Timothy and himself to the Christians in Colossae. 
 
-A large part of this chapter revolves around two basic ideas: who Christ is, and what Christ has accomplished for the Christian.
+Paul writes much of this chapter around two subjects: who Christ is, and what Christ has done for the Christian.
 
 #### Special concepts in this chapter ####
 
-##### Mystery #####
+##### Secret truth #####
 
-Paul refers to the church as a "mystery." The role of the church in the plans of God was once unknown, but has now been revealed by God. Part of this mystery involves the Gentiles' equal standing with the Jews in the current plans of God. (See: [[rc://en/tw/dict/bible/kt/reveal]])
+Paul refers to a "secret truth" in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[rc://en/tw/dict/bible/kt/reveal]])
 
 #### Important figures of speech in this chapter ####
 
-##### Images for christian living #####
-There are many different images used to describe christian living. In this chapter, two popular images are used by Paul. These are "walking" and "bearing fruit." (See: [[rc://en/tw/dict/bible/other/fruit]])
+##### Images for Christian living #####
+Paul uses many different images to describe Christian living. In this chapter, he uses the images of "walking" and "bearing fruit." (See: [[rc://en/tw/dict/bible/other/fruit]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in 1:24: "Now I rejoice in my sufferings for you." Most people do not think that they will rejoice in suffering. But in 1:25-29 Paul explains why his suffering is good. ([Colossians 1:24](./24.md))
+A paradox is a true statement that appears to describe something impossible. Verse 24 is a paradox: "Now I rejoice in my sufferings for you." People do not usually rejoice when they suffer. But in verses 25-29 Paul explains why his suffering is good. ([Colossians 1:24](./24.md))
 
 ## Links: ##
 

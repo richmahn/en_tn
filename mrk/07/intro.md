@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:6-7, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:6-7, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
@@ -14,7 +14,7 @@ The Pharisees washed many things that were not dirty because they were trying to
 
 ##### "Ephphatha" #####
 
-This is an Aramaic word. Mark wrote it the way it sounds using Greek letters and then explained what it means.
+This is an Aramaic word. Mark wrote it the way it sounds using Greek letters and then explained what it means. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ## Links: ##
 

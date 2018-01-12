@@ -3,10 +3,14 @@
 #### Special concepts in this chapter ####
 
 ##### "Satan filled your heart to lie to the Holy Spirit" #####
-This is a theologically difficult phrase. Satan controlled the hearts of Ananias and Sapphira. Scholars have debated whether these two were Christians or non-Christians. The meaning of "filled" can be translated as "completely controlled" or simply "controlled" or "guided." This will affect one's interpretation of this verse.
+
+No one knows for sure if Ananias and Sapphira were truly Christians when they decided to lie about the land that they sold ([Acts 5:1-10](./01.md)), because Luke does not say. He does say that they were among "those who believed" ([Luke 4:32](../04/32.md)) However, Peter knew that they lied to the believers, and he knew that they had listened to and obeyed Satan.
+
+When they lied to the believers, they also lied to the Holy Spirit. This is because the Holy Spirit lives inside believers.
 
 ##### Jail #####
-The Jewish council had the responsibility of maintaining order in Israel as well as administering justice. Apparently, they had the ability to put people in prison to maintain peace. 
+
+The "public jail" in which the Jewish council put Peter ([Acts 5:18](./17.md)) was probably a jail. 
 
 ## Links: ##
 

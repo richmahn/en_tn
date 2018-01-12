@@ -9,9 +9,9 @@ The ULB sets 31:29 farther to the right on the page than the rest of the text be
 This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../30/23.md). (See: [[rc://en/tw/dict/bible/kt/restore]])
 #### Special concepts in this chapter ####
 
-##### The New Covenant #####
+##### The new covenant #####
 
-This chapter is an important teaching regarding the New Covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[rc://en/tw/dict/bible/kt/covenant]], [[rc://en/tw/dict/bible/kt/forgive]] and [[rc://en/tw/dict/bible/kt/sin]])
+This chapter is an important teaching regarding the new covenant. God will make a new covenant that will bring forgiveness of sins and a desire to obey God. Scholars disagree about whether this new covenant has begun. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/forgive]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 

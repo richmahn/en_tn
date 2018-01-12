@@ -2,14 +2,15 @@
 
 #### Structure and formatting ####
 
-This chapter discusses how life as a Christian is superior to life as a Jew under the law of Moses and how the sacrifice of Jesus was superior to the sacrifices offered in the Temple. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
+In this chapter, the writer finishes describing how Jesus' sacrifice was better than the sacrifices offered in the Temple. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 10:5-7, 15-17, 37-38, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 10:5-7, 15-17, 37-38, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
-== God's judgment and reward==
-Holy living is important for Christians. God will hold people accountable for how they lived their Christian life. Even though there will not be eternal condemnation for Christians, ungodly actions do and will have consequences. In addition, faithful living will be rewarded. (See: [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/godly]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/other/reward]])
+##### God's judgment and reward #####
+
+Holy living is important for Christians. God will hold people accountable for how they lived their Christian life. Even though there will not be eternal condemnation for Christians, ungodly actions do and will have consequences. In addition, faithful living will be rewarded. (See: [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/other/reward]])
 
 #### Other possible translation difficulties in this chapter ####
 

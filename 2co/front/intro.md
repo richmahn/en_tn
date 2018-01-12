@@ -66,8 +66,6 @@ Paul's message was that God makes Christians part of a "new world" when a person
 
 #### What are the major issues in the text of the Book of 2 Corinthians? ####
 
-These are the most significant textual issues in 2 Corinthians:
-
 * "and in your love for us" (8:7). Many versions, including the ULB and UDB, read this way. However, many other versions read, "and in our love for you." There is strong evidence that each reading is original. Translators should probably follow the reading preferred by other versions in their region.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

@@ -56,4 +56,4 @@ The writer starts and ends the Book of Job by telling what happened to Job in na
 
 #### Is the Book of Job difficult to translate? ####
 
-Because the writer did not connect Job with a specific time or place in history, the translator may decide to translate this book before other Old Testament books. However, the Book of Job has many uncommon words and phrases, making parts of it hard to understand and translate. For this reason, translators may decide to translate this book after they have translated other books of the Bible.
+The Book of Job has many uncommon words and phrases, making parts of it hard to understand translate. For this reason, translators may decide to translate this book after they have translated other books of the Bible. However, since the writer did not connect Job with a specific time or place in history, the translator may decide to translate this book before other Old Testament books.  

@@ -6,22 +6,23 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 #### Special concepts in this chapter ####
 
-##### "Whitewashed" #####
-This is a common metaphor in Scripture for those who appear righteous but are not. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/righteous]])
-
 ##### Resurrection of the dead #####
-The Pharisees believed that, after death, people would be risen from the dead for punishment or reward. The Sadducees did not share this belief. They only trusted in the physical world. (See: [[rc://en/tw/dict/bible/other/raise]] and [[rc://en/tw/dict/bible/other/reward]])
 
-#### Important figures of speech in this chapter ####
+The Pharisees believed that after people died, they would become alive again and God would either reward them or punish them. The Sadducees believed that once people died, they stayed dead and would never become alive again. (See: [[rc://en/tw/dict/bible/other/raise]] and [[rc://en/tw/dict/bible/other/reward]])
 
 ##### "Called a curse" #####
-Some Jews made a promise to God that they would not eat or drink until they killed Paul, and asked God to curse them if they did not follow their promise. This is not something that would have pleased God, and they were clearly wrong for doing this. It is ironic that they used a holy vow in such an unholy way. (See: [[rc://en/tw/dict/bible/kt/curse]], [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/holy]], [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/kt/holy]])
 
-#### Other possible translation difficulties in this chapter ####
+Some Jews promised God that they would not eat or drink until they killed Paul, and they asked God to punish them if they did not do what they had promised to do.
 
 ##### Roman citizenship #####
 
-Men who had Roman citizenship were given many privileges. For example, they could appeal to Caesar if they were accused of a crime. Having Roman citizenship was very valuable and people would go to great lengths to attain citizenship. This "chief captain" could have gotten into trouble for treating a Roman citizen in this way.
+The Romans thought that they needed to treat only Roman citizens justly. They could do as they desired with people who were not Roman citizens, but they had to obey the law with other Romans. Some people were born Roman citizens, and others gave money to the Roman government so they could become Roman citizens. The "chief captain" could have been punished for treating a Roman citizen the same way he would treat a non-citizen.
+
+#### Important figures of speech in this chapter ####
+
+##### Whitewash #####
+
+This is a common metaphor in Scripture for appearing to be good or clean or righteous when one is evil or unclean or unrighteous. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

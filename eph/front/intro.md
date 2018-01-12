@@ -66,7 +66,8 @@ This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:
 
 #### What are the major issues in the text of the Book of Ephesians? ####
 
-The following are the most significant textual issues in Ephesians:
 
-* Some early manuscripts do not include "in Ephesus" (1:1) but this expression is probably in the original letter. The ULB, UDB, and many modern versions include it. 
-* "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators do choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "in Ephesus" (1:1). Some early manuscripts do not include this expression, but it is probably in the original letter. The ULB, UDB, and many modern versions include it. 
+* "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. 
+
+(See: [[rc://en/ta/man/translate/translate-textvariants]])

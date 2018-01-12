@@ -35,7 +35,7 @@ Although this book tells what Hosea prophesied, it is uncertain whether Hosea wr
 
 #### Why did God command Hosea to marry a prostitute? ####
 
-God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband and breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
+God told Hosea to marry the prostitute Gomer. This represented how the kingdom of Israel related to Yahweh. Israel was unfaithful to Yahweh and broke the covenant with him. This is compared to a woman who is unfaithful to her husband breaks her marriage agreement with him. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### What is a lawsuit? ####
 

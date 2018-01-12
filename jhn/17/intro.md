@@ -6,13 +6,19 @@ This chapter forms one long prayer.
 
 #### Special concepts in this chapter ####
 
-##### The eternality of Jesus #####
-This chapter makes it clear that Jesus existed before the world was created. 
+##### Glory #####
+
+Scripture often speaks of God's glory as a great, brilliant light. When people see this light, they are afraid. In this chapter Jesus asks God to show his followers his true glory ([John 17:1](./01.md)).
+
+##### Jesus is eternal #####
+
+Jesus existed before God created the world ([John 17:5(](./03.md)). John wrote about this in [John 1:1](../01/01.md).
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Prayer #####
-Prayer can be a difficult concept to translate in cultures not familiar with this practice. Since Jesus is God, his prayers are not like the prayers of other men. This chapter can be especially difficult to understand because Jesus does not have a real "need" to pray in order to ask for help, and his prayers can also sound like a command. It would be unacceptable for someone else to pray in this manner.
+
+Jesus is God's one and only Son ([John 3:16](../03/16.md)), so he could pray differently from the way other people pray. He used many words that sounded like commands. Your translation should make Jesus sound like a son speaking with love and respect to his father and telling him what the father needs to do so that the father will be happy.
 
 ## Links: ##
 

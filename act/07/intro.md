@@ -9,23 +9,32 @@ It appears that 8:1 is part of the narrative of this chapter.
 #### Special concepts in this chapter ####
 
 ##### "Stephen said" #####
-Stephen retells the history of Israel very briefly. This is something the Jewish council and the high priest would have already known. The climax of the story is Jesus coming as the Messiah of Israel and his rejection by the Jewish leaders. (See: [[rc://en/tw/dict/bible/kt/christ]])
+
+Stephen told the history of Israel very briefly. He paid special attention to the times that the Israelites had rejected the people God had chosen to lead them. At the end of the story, he said that the Jewish leaders he was talking to had rejected Jesus just as the evil Israelites had always rejected the leaders God had appointed for them.
 
 ##### "Full of the Holy Spirit" #####
-This means "to be completely controlled by the Holy Spirit." In other words, a person is living in total alignment with the will of God. (See: [[rc://en/tw/dict/bible/kt/willofgod]])
+
+The Holy Spirit completely controlled Stephen so that he said only and all of what God wanted him to say.
+
+##### Foreshadowing #####
+
+When an author speaks of something that is not important at that time but will be important later in the story, this is called foreshadowing. Luke mentions Saul, also known as Paul, here, even though he is not an important person in this part of the story. This is because Paul is an important person in the rest of the Book of Acts.
 
 #### Important figures of speech in this chapter ####
 
-##### "You act just as your forefathers acted" #####
-Stephen compares the idolatry of the Israelites in history with the leaders' rejection of Jesus, the Messiah. This is a type of metaphor. The phrases "stiff-necked" and "uncircumcised" are also metaphors for the people's sin and lack of understanding. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/sin]])
+##### Implied information #####
 
-##### Foreshadowing #####
-Saul, also known as Paul, is included here to foreshadow the role he will play in the rest of the book of Acts. Here Saul is persecuting Christians.
+Stephen was talking to Jews who knew the law of Moses well, so he did not explain things that his hearers already knew. But you may need to explain some of these things so that your readers will be able to understand what Stephen was saying. For example, you may need to make explicit that when Joseph's brothers "sold him into Egypt" ([Acts 7:9](./09.md)), Joseph was going to be a slave in Egypt. (See: [[rc://en/ta/man/translate/figs-explicit]])
+
+##### Metonymy #####
+
+Stephen spoke of Joseph ruling "over Egypt" and over all of Pharaoh's household. By this he meant that Joseph ruled over the people of Egypt and of the people and possessions in Pharaoh's household. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Background Knowledge #####
-This chapter will be very difficult to understand if the book of Genesis has not yet been translated into one's language. In many ways, it summarizes the book of Genesis, with many details left out.
+##### Background knowledge #####
+
+The Jewish leaders to whom Stephen spoke already knew much about the events he was telling them about. They knew what Moses had written in the Book of Genesis. If the Book of Genesis has not been translated into your language, it may be difficult for your readers to understand what Stephen said.
 
 ## Links: ##
 

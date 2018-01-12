@@ -18,7 +18,7 @@ It is uncertain when Paul wrote this letter and where he was when he wrote it. S
 
 #### What is the Book of Galatians about? ####
 
-Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result of God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[rc://en/tw/dict/bible/kt/goodnews]], [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/works]])
+Paul wrote this letter to both Jewish and non-Jewish Christians in the region of Galatia. He wanted to write against the false teachers who said that Christians need to follow the law of Moses. Paul defended the gospel by explaining that a person is saved by believing in Jesus Christ. People are saved as result of God being kind and not as a result of people doing good works. No person can perfectly obey the law. Any attempt to please God by obeying the law of Moses will only result in God condemning them. (See: [[rc://en/tw/dict/bible/kt/goodnews]], [[rc://en/tw/dict/bible/kt/save]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/works]])
 
 #### How should the title of this book be translated? ####
 
@@ -44,8 +44,6 @@ Please see the introduction to the Book of Romans for more details about this ki
 
 #### What are the major issues in the text of the Book of Galatians? ####
 
-The following passage is the most significant textual issue in the Book of Galatians:
-
-* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes?" (3:1) The ULB, UDB, and the other modern versions have this reading. However, older versions of the Bible add, "[so] that ye should not obey the truth." Translators are advised not to include this expression. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Galatians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes" (3:1)? The ULB, UDB, and the other modern versions have this reading. However, older versions of the Bible add, "[so] that ye should not obey the truth." Translators are advised not to include this expression. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Galatians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

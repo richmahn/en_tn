@@ -52,18 +52,13 @@ In the passage, "If my words remain in you" (John 15:7), the UDB expresses this 
 
 #### What are the major issues in the text of the Gospel of John? ####
 
-These are the most significant textual issues in the Gospel of John:
+The following verses found in older versions of the Bible but are not included in most modern versions. Translators are advised not to translate these verses. However, if in the translators' region, there are older versions of the Bible that include these verses, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to John's Gospel.
 
 * "waiting for the moving of the water. For an angel of the Lord occasionally went down into the pool and stirred the water and whoever went first after the stirring of the water, was made well from the disease they had." (5:3-4)
+* "going through the midst of them, and so passed by" (8:59)
 
-Translators are advised not to translate this passage. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it was probably not original to John's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+The following passage is included in most older and modern versions of the Bible. But it is not in the earliest copies of the Bible. Translators are advised to translate this passage. It should be put inside of square brackets ([]) to indicate that it may not have been original to John's Gospel.
 
 * The story of the adulterous woman (7:53–8:11)
 
-This passage is included in most older and modern versions of the Bible. But it is not in the earliest copies of the Bible. Translators are advised to translate this passage. It should be put inside of square brackets ([]) to indicate that it may not have been original to John's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
-
-Some old versions also have this passage:
-
-* "going through the midst of them, and so passed by" (8:59)
-
-But it is very certain that this passage was not original to the Gospel of John. It should not be included. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+(See: [[rc://en/ta/man/translate/translate-textvariants]])

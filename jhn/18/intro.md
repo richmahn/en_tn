@@ -2,20 +2,21 @@
 
 #### Structure and formatting ####
 
-Verses 13 and 14 state, "for he was father-in-law to Caiaphas, who was high priest that year. Now Caiaphas was the one who had given the advice to the Jews that it would be better that one man die for the people." This is a parenthetical statement being made by the author. It is intended to explain important background information. It is possible to put this information in parentheses. 
+Verse 14 says, "Now Caiaphas was the one who had given the advice to the Jews that it would be better that one man die for the people." The author says this to help the reader understand why it was to Caiaphas that they took Jesus. You might want to put these words in parentheses. (See: [[rc://en/ta/man/translate/writing-background]]) 
 
 #### Special concepts in this chapter ####
 
 ##### "It is not lawful for us to put any man to death" #####
-The Roman Empire did not allow the Jews to enforce a penalty of death upon anyone. Therefore, the Jews had to present their case to the pagan ruler, Pilate. 
 
-==Jesus' kingdom ==
-Jesus explains to Pilate that his kingdom is not "of this world." Some scholars take this to mean that Jesus rules a spiritual kingdom, while others claim Jesus meant his kingdom was not in competition with the Roman Empire. It is possible to translate the phrase as Jesus' kingdom "is not from this place" or "comes from another place."
+The Roman government did not allow the Jews to kill criminals, so the Jews needed to ask Pilate, the governor, to kill him ([John 18:31](./31.md)).
 
-#### Important figures of speech in this chapter ####
+##### Jesus' kingdom #####
 
-##### "King of the Jews" #####
-This phrase is used in two different ways in this passage. First, Jesus is said to be the king of the Jews. He is the king of the Jews and the whole world. Second, it is used ironically or sarcastically by Pilate. Pilate does not believe Jesus to be the king of the Jews. (See: [[rc://en/ta/man/translate/figs-irony]])
+No one knows for sure what Jesus meant when he told Pilate that his kingdom was not "of this world" ([John 18:36](./36.md)). Some people think that Jesus means that his kingdom is only spiritual and that he has no visible kingdom on this earth, Other people think that Jesus meant that he would not build and rule his kingdom by force, the way other kings build theirs. It is possible to translate the words "is not of this world" as "is not from this place" or "comes from another place."
+
+##### King of the Jews #####
+
+When Pilate asked if Jesus were the King of the Jews ([John 18:33](./33.md)), he was asking if Jesus were claiming to be like King Herod, whom the Romans were permitting to rule Judea. When he asked the crowd if he should release the King of the Jews ([John 18:39](./38.md)), he is mocking the Jews, because the Romans and Jews hated each other. He was also mocking Jesus, because he did not think that Jesus was a king at all, (See: [[rc://en/ta/man/translate/figs-irony]])
 
 ## Links: ##
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:18-21, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:18-21, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
@@ -17,6 +17,7 @@ No one knows for sure what actions people perform or what words they say when th
 #### Other possible translation difficulties in this chapter ####
 
 ##### Brothers and sisters #####
+
 Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://en/tw/dict/bible/kt/brother]])
 
 ## Links: ##

@@ -2,24 +2,21 @@
 
 #### Structure and formatting ####
 
-This chapter forms a rather abrupt ending to this historical book because it does not record the deaths of Peter, or Paul, or the destruction of the temple in Jerusalem. Many scholars believe this chapter forms an ellipsis, which implies that the church is responsible for continuing the story. Other scholars believe it ends this way because Luke died. (See: [[rc://en/ta/man/translate/figs-ellipsis]])
-
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in  28:26-27.
-
-After extensive details of the events of Paul's life, this story glosses over two years in Rome without discussing what happened during this time. It is unknown why this is the case, but apparently the church did not need to learn anything from this time. 
-
-##### "You should know that this salvation of God has been sent to the Gentiles, and they will listen" #####
-This statement indicates that the Gentiles will become the focus of the plans of God in this world until a time when he will once again bring Israel back to him. From this time on, the church will be increasingly composed of Gentile Christians.
+No one knows for sure why Luke ends his history without telling what happened to Paul after he had been in Rome for two years.
 
 #### Special concepts in this chapter ####
 
-##### "Letters" #####
-The letters mentioned would have been legal papers which authorized the persecution and imprisonment of the Christians. The translator's culture may have different terms for "legal papers" or "legally binding papers," which could be useful in translation.
+##### "Letters" and "brothers" #####
+
+The Jewish leaders were surprised that Paul wanted to speak with them, because they had received no letters from the high priest in Jerusalem telling them that Paul was coming.
+
+When the Jewish leaders spoke of "brothers," they were referring to fellow Jews, not to Christians.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "He was a god" #####
-Just because the people believed this to be, it does not mean it was true or that Paul did not correct them for this. 
+
+The native people believed that Paul was a god, but they did not believe that he was the one true God. We do not know why Paul did not tell the native people that he was not a god. 
 
 ## Links: ##
 

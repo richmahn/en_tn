@@ -3,13 +3,16 @@
 #### Special concepts in this chapter ####
 
 ##### Sailing #####
-In the ancient Near East, people traveled by boat powered by the wind. During different seasons, it was impossible to travel because the seas were too rough or the wind was blowing in the wrong direction.
+
+People who lived near the sea traveled by boat powered by the wind. During some months of the year, the wind would blow in the wrong direction or so hard that sailing was impossible.
 
 ##### Trust #####
-This chapter involves the concept of trust. Paul's trust of God was very great. In turn, he told the sailers and soldiers to trust that God would preserve them along with Paul. (See: [[rc://en/tw/dict/bible/kt/trust]])
 
-##### Bread #####
-The author uses the imagery of bread in this chapter. Bread's significance can be traced back to the daily provision God provided to Israel in the desert for 40 years and the events of Passover. (See: [[rc://en/tw/dict/bible/kt/passover]]) 
+Paul trusted God to bring him safely to land. He told the sailers and soldiers to trust that God would also keep them alive. (See: [[rc://en/tw/dict/bible/kt/trust]])
+
+##### Paul breaks bread #####
+
+Luke uses almost the same words here to describe Paul taking bread, thanking God, breaking it, and eating it that he used to describe the last supper Jesus ate with his disciples. However, your translation should not make your reader think that Paul was leading a religious celebration here. 
 
 ## Links: ##
 

@@ -39,12 +39,15 @@ In the passage, "the word of God remains in you" (1 John 2:13), the UDB expresse
 
 #### What are the major issues in the text of the Book of 1 John? ####
 
-The following are the most significant textual issues in 1 John:
+For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "And we are writing these things to you so that our joy may be complete." (1:4) The ULB, UDB, and most modern versions read this way. Some older versions have, "And we are writing these things to you so that your joy may be complete."
-* "And you all know the truth." (2:20) The ULB, UDB, and most modern versions read either this way or as follows: "And you all have knowledge." Some older versions have, "and you know all things."
-* "and this is what we are!" (3:1). The ULB, UDB, and most modern versions read this way. Some older manuscripts omit this phrase.
-* "and every spirit that does not acknowledge Jesus is not from God." (4:3) The ULB, UDB, and most modern versions have this reading. Some older manuscripts read, "and every spirit that does not acknowledge that Jesus has come in the flesh is not of God."
-* "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." (5:7-8). The ULB, UDB, and most other versions do not read this way. Translators are advised to translate this as ULB does. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is included, it should be put inside square brackets ([]) to indicate that it was probably not in the original version of 1 John. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "And we are writing these things to you so that our joy may be complete" (1:4). Some older versions have, "And we are writing these things to you so that your joy may be complete."
+* "And you all know the truth" (2:20). Other modern versions have, "And you all have knowledge." Some older versions have, "and you know all things."
+* "and this is what we are!" (3:1). The ULB, UDB, and most modern versions read this way. Some older versions omit this phrase.
+* "and every spirit that does not acknowledge Jesus is not from God" (4:3). The ULB, UDB, and most modern versions have this reading. Some older versions read, "and every spirit that does not acknowledge that Jesus has come in the flesh is not of God."
+
+For the following passage, translators are advised to translate this as the ULB does. However, if in the translators' region, there are older versions of the Bible that include this passage, the translators can include it. If it is included, it should be put inside square brackets ([]) to indicate that it was probably not in the original version of 1 John.
+
+* "For there are three who bear witness: the Spirit, the water, and the blood. These three are in agreement." (5:7-8) Some older versions have, "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are as one." 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

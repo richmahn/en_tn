@@ -8,7 +8,7 @@ Chapter 12 continues the section of the book (Chapter 10-22) which is attributed
 
 ##### Themes #####
 
-There are individual proverbs that run along common themes, often using contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility and  integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
+There are individual proverbs that run along common themes, often using contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility and  integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ## Links: ##
 

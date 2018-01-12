@@ -7,7 +7,7 @@ Saul wants to  kill David, but David trusts in God who keeps rescuing him. David
 
 #### Important figures of speech in this chapter ####
 
-== Synecdoche==
+##### Synecdoche #####
 Jonathan strengthens David with a synecdoche: "For the hand of Saul my father will not find you." This helps to strengthen David's faith. (See: [[rc://en/ta/man/translate/figs-synecdoche]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ## Links: ##

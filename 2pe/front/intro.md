@@ -39,11 +39,11 @@ In this book, the word "I" refers to Peter. Also, the word "you" is always plura
 
 #### What are the major issues in the text of the Book of 2 Peter? ####
 
-The following are the most significant textual issues in the Book of 2 Peter:
+For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "to be kept in chains of lower darkness until the judgment." (2:4) The ULB, UDB, and many versions read this way. Other versions have, "to be kept in pits of lower darkness until the judgment." If other versions exist in the translators' region, they might consider following those versions' reading in this passage.
-* "They enjoy their deceitful actions while they are feasting with you." (2:13) The ULB, UDB, and many versions read this way. Other versions have, "They enjoy their actions while they are feasting with you in love feasts."
-* "Beor" (2:15). The ULB, UDB, and many other modern versions read this way. Some other versions read, "Bosor."
-* "The elements will be burned with fire, and the earth and the deeds in it will be revealed." (3:10) The ULB, UDB, and many versions read this way. Other versions have, "The elements will be burned with fire, and the earth and the deeds in it will be burned up." If other versions exist in the translators' region, they might consider following those versions' readings in this passage.
+* "to be kept in chains of lower darkness until the judgment" (2:4). Some modern versions and older versions have, "to be kept in pits of lower darkness until the judgment."
+* "They enjoy their deceitful actions while they are feasting with you" (2:13). Some versions have, "They enjoy their actions while they are feasting with you in love feasts."
+* "Beor" (2:15). Some other versions read, "Bosor."
+* "The elements will be burned with fire, and the earth and the deeds in it will be revealed" (3:10). Other versions have, "The elements will be burned with fire, and the earth and the deeds in it will be burned up."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

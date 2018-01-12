@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Blessing #####
-The blessing of Jacob is given to Joseph, and his sons Manasseh and Ephraim. It is probably distinct from inheriting the promises Yahweh gave to Abraham because Scripture talks about all of Israel's descendants inheriting those promises. (See: [[rc://en/tw/dict/bible/kt/bless]], [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/promise]])
+The blessing of Jacob is given to Joseph, and his sons Manasseh and Ephraim. It is probably distinct from inheriting the promises Yahweh gave to Abraham because Scripture talks about all of Israel's descendants inheriting those promises. (See: [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/promise]])
 
 ## Links: ##
 

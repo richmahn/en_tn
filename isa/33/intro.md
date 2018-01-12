@@ -4,7 +4,7 @@
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in this chapter.
 
-This chapter continues the series of "woes." It speaks against ungodly or evil people in general. (See: [[rc://en/tw/dict/bible/kt/woe]], [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/evil]])
+This chapter continues the series of "woes." It speaks against ungodly or evil people in general. (See: [[rc://en/tw/dict/bible/kt/woe]] and [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/evil]])
 
 ## Links: ##
 

@@ -6,8 +6,8 @@ The ULB sets the lines of this chapter farther to the right on the page than the
 
 #### Special concepts in this chapter ####
 
-== Job's righteousness and Yahweh's power==
-Despite being upset about his circumstances, Job does not curse God. Job does not think that he can make a claim against Yahweh because only God is perfectly wise and just. Yahweh is truly powerful and Job understands this. (See: [[rc://en/tw/dict/bible/kt/curse]], [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/justice]])
+##### Job's righteousness and Yahweh's power #####
+Despite being upset about his circumstances, Job does not curse God. Job does not think that he can make a claim against Yahweh because only God is perfectly wise and just. Yahweh is truly powerful and Job understands this. (See: [[rc://en/tw/dict/bible/kt/curse]] and [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### Important figures of speech in this chapter ####
 

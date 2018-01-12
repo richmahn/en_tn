@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Abram's faith #####
-Since the land could not support both Lot's and Abraham's family, they each went their own way. Even though good land was not plentiful, Abraham allowed Lot to choose the better land because he trusted in God to fulfill his promises. (See: [[rc://en/tw/dict/bible/kt/trust]], [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
+Since the land could not support both Lot's and Abraham's family, they each went their own way. Even though good land was not plentiful, Abraham allowed Lot to choose the better land because he trusted in God to fulfill his promises. (See: [[rc://en/tw/dict/bible/kt/trust]] and [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
 
 ##### God's covenant with Abram #####
 

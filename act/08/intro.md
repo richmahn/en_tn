@@ -4,18 +4,17 @@
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 8:32-33. 
 
-The first verse appears connected to the narrative of chapter 7 and not the events of Chapter 8.
+The first sentence of verse 1 ends the description of the events in chapter 7. Luke begins a new part of his history with the words "So there began."
 
 #### Special concepts in this chapter ####
 
 ##### Receiving the Holy Spirit #####
 
-Many scholars believe this events marks the time when the Spirit started to indwell people when they began to believe in Jesus. The Spirit did this in order to assure them and to guide them. Others believe this event gave them the ability to speak in tongues, in addition to indwelling them, but that it is an event that occurs after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/save]])
+In this chapter for the first time Luke speaks of people receiving the Holy Spirit ([Acts 8:15-19](./14.md)). The Holy Spirit had already enabled the believers to speak in tongues, to heal the sick, and to live as a community, and he had filled Stephen. But when the Jews started putting believers in prison, those believers who could leave Jerusalem did leave, and as they went, they told people about Jesus. When the people who heard about Jesus received the Holy Spirit, the church leaders knew that those people had truly become believers,
 
-#### Other possible translation difficulties in this chapter ####
+##### Proclaimed #####
 
-##### Preached the gospel #####
-While "preaching" can take many forms, the general idea in this phrase is that they share the good news that Jesus died and rose again for the sins of man. It is the message and not its presentation that is significant here. (See: [[rc://en/tw/dict/bible/kt/sin]])
+This chapter more than any other in the Book of Acts speaks of the believers proclaiming the word, proclaiming the good news, and proclaiming that Jesus is the Christ. The word "proclaim" translates a Greek word that means to tell good news about something.
 
 ## Links: ##
 

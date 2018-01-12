@@ -12,7 +12,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 In this chapter, Paul scolds the church for being divided and for following different apostles. (See: [[rc://en/tw/dict/bible/kt/apostle]]) 
 
 ##### Spiritual gifts #####
-Spiritual gifts are specific supernatural abilities to help the church. The Holy Spirit gives these gifts to Christians after they come to believe in Jesus. Paul lists spiritual gifts in Chapter 12. Some scholars believe the Holy Spirit gave some of these gifts only in the early church to help establish the developing church. (See: [[rc://en/tw/dict/bible/kt/faith]])
+Spiritual gifts are specific supernatural abilities to help the church. The Holy Spirit gives these gifts to Christians after they come to believe in Jesus. Paul lists spiritual gifts in Chapter 12. Some scholars believe the Holy Spirit gave some of these gifts only in the early church to help establish the developing church. Other scholars believe all the gifts of the Spirit are still available to help all Christians throughout the church history. (See: [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Important figures of speech in this chapter ####
 

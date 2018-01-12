@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Important figures of speech in this chapter ####
 
 ##### Unclean #####
-Haggai uses an extended metaphor in this chapter related to ritual cleanliness. While the Jews were not unclean by nature as the Gentiles were, their actions made them unclean. (See: [[rc://en/ta/man/translate/figs-metaphor]], [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/clean]]) 
+Haggai uses an extended metaphor in this chapter related to ritual cleanliness. While the Jews were not unclean by nature as the Gentiles were, their actions made them unclean. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/clean]]) 
 
 ## Links: ##
 

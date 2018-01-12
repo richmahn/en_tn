@@ -2,25 +2,23 @@
 
 #### Special concepts in this chapter ####
 
-##### New and old commandments #####
-
-The old commandments are contained in the law of Moses. The new commandments are those given to the church after the death and resurrection of Jesus. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/resurrection]])
-
 ##### Antichrist #####
 
-This chapter refers to both a specific Antichrist and many different antichrists. The word "antichrist" means "opposed to Christ." The Antichrist is a person who will come in the last days and imitate the ministry of Jesus for evil. Before this person comes, there will be many different people who work against the cause of Christ and are referred to as "antichrists" because they are working against Jesus. (See: [[rc://en/tw/dict/bible/kt/antichrist]] and [[rc://en/tw/dict/bible/kt/lastday]] and [[rc://en/tw/dict/bible/kt/evil]])
+In this chapter John writes about both a specific antichrist and many antichrists. The word "antichrist" means "opposed to Christ." The antichrist is a person who will come in the last days and imitate Jesus' work, but he will do it for evil. Before this person comes, there will be many  people who work against Christ; they too are called "antichrists." (See: [[rc://en/tw/dict/bible/kt/antichrist]] and [[rc://en/tw/dict/bible/kt/lastday]] and [[rc://en/tw/dict/bible/kt/evil]])
 
 #### Important figures of speech in this chapter ####
 
-##### Metonymy #####
+##### Metaphor #####
 
-There are many different metonymies used in this chapter. They are used to teach and to give instructions that are generic and can be applied in many different circumstances. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+There are several groups of similar metaphors that are used throughout this chapter. 
 
-#### Other possible translation difficulties in this chapter ####
+Being in God is a metaphor for having fellowship with God, and God's word and truth being in people is a metaphor for people knowing and obeying God's word. 
 
-##### "By this we know that we know him: if we keep his commandments." #####
+Walking is a metaphor for behaving, not knowing where one is going is a metaphor for not knowing how to behave, and stumbling is a metaphor for sinning. 
 
-This appears to contradict John's earlier statement that Christian do not always keep God's commandments. John has just stated that all Christians sin. John explains that the desire to serve God is born from the indwelling of the Holy Spirit and the new life or nature given to Christians. The word "know" can be understood in many different ways and this range of meaning can cause confusion here.
+The light is a metaphor for knowing and doing what is right, and darkness and blindness are metaphors for not knowing what is right and doing what is wrong.
+
+Leading people astray is a metaphor for teaching people things that are not true. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

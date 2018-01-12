@@ -2,33 +2,39 @@
 
 #### Structure and formatting ####
 
-Chapters 2 and 3 form a single unit. This section is usually referred to as the "seven letters to the seven churches." The translator may wish to set these letters apart from each other to clearly distinguish them from each other.
+Chapters 2 and 3 together are usually called the "seven letters to the seven churches." You may wish to set each letter apart. The reader can then easily see that they are separate letters. 
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:7.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 7.
 
 #### Special concepts in this chapter ####
 
 ##### Seven spirits of God #####
-The exact meaning of this phrase is unclear. It is possibly a reference to the Holy Spirit with the number seven symbolizing "completeness." It may also be a reference to the seven spirits surrounding the throne of God. It should be unnecessary to specifically define it in translation.
+
+These spirits are the seven spirits of [Revelation 1:4](../01/04.md).
 
 ##### Seven stars #####
-These are probably a reference to the leaders of the churches. (See: [Revelation 1:20](../01/19.md))
 
-#### Important figures of speech in this chapter ####
+These stars are the seven stars of [Revelation 1:20](../01/19.md).
 
-##### Metaphor #####
-Some scholars take chapter 2 and 3 as a metaphor. They understand these churches to refer to types of churches or historical periods of the church. It is best to translate this as instructions to ancient churches in each of these cities. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+#### Important metaphors in this chapter ####
 
-The phrase "Look, I stand at the door and knock" is another extended metaphor describing Jesus' readiness and willingness to accept anyone who repents and believes in him. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/believe]])
+##### Look, I am standing at the door and am knocking #####
 
-##### "If you have an ear, listen to what the Spirit says to the churches." #####
-This is a phrase which acts as a call to repentance for those in the church.
+Jesus speaks of his desire to have the Christians in Laodicea obey him as if he were a man asking people in a house to allow him to enter and eat with them ([Revelation 3:20](./19.md)). (See: [[rc://en/ta/man/translate/figs-metaphor]])
+
+##### "Let the one who has an ear, hear what the Spirit is saying to the churches" #####
+
+The speaker knew that almost all of his readers had physical ears. The ear here is a metonym for hearing what God says and desiring to obey him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "The angels of the seven churches" #####
+##### "The angel of the church" #####
 
-The Greek word translated as "angels" can also be translated as "messengers." This is possibly a reference to the messengers or leaders of these seven churches.
+The word "angel" here can also mean "messenger." This might refer to the messenger or leader of the church. See how you translated "angel" in [Revelation 1:20](../01/19.md).
+
+##### "The words of the one who" #####
+
+The verses with these words can be difficult to translate. They do not make complete sentences. You may need to add "These are" to the beginning of these verses. Also, Jesus used these words to speak of himself as if he were speaking of another person. Your language may not allow people to speak of themselves as if they were speaking of other people. Jesus began speaking in [Revelation 1:17](../01/17.md). He continues to speak through the end of Chapter 3.
 
 ## Links: ##
 

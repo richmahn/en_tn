@@ -15,7 +15,7 @@ Those who try to obey the law will not be justified by trying to obey it. Those 
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical Questions #####
-Paul uses several rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
+Paul uses several rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Hypothetical Situation #####
 In context, "he will give eternal life" in verse 7 is a hypothetical statement. If a person could live a perfect life, they would earn eternal life as a reward. But only Jesus was able to live a perfect life.

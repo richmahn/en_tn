@@ -10,7 +10,7 @@ This chapter compiles a list of serious sins. The most serious sins are punished
 
 ##### Euphemism #####
 
-"To see someone's nakedness" means to live as husband and wife. (See: [[rc://en/ta/man/translate/figs-euphemism]])
+"To see someone's nakedness" means to live as husband wife. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
 ##### Metaphor #####
 The phrase "you must carry your own guilt" is a metaphor. It is unknown what this means, but it is possible it indicates a penalty of death. 

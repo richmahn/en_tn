@@ -9,7 +9,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Prophecy #####
-The angel gives a prophecy about the fall of Babylon. It is spoken of as having already happened even though it had not yet happened. This was common in prophecy and emphasizes the inevitability of the coming judgment. It is also prophesied that the people will lament over the fall of Babylon. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+The angel gives a prophecy about the fall of Babylon. It is spoken of as having already happened even though it had not yet happened. This was common in prophecy and emphasizes the inevitability of the coming judgment. It is also prophesied that the people will lament over the fall of Babylon. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 #### Important figures of speech in this chapter ####
 

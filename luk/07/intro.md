@@ -4,26 +4,31 @@
 
 Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 7:27.
 
-There are times in the narrative of this chapter where there is an abrupt change in topic. The translator should not feel the need to smooth these rough transitions. 
+Several times in this chapter Luke changes his topic without marking the change. You should not try to make these rough changes smooth.
 
 #### Special concepts in this chapter ####
 
 ##### Centurion #####
-This situation would have been very unusual in ancient Israel. It would not have been common for a Roman soldier to go to an Israelite for anything. They would have been insignificant to the Romans and they would not have sought healing from a Jew. It would also have been unusual for a wealthy man to be so concerned for his slave. It is a great display of faith. (See: [[rc://en/tw/dict/bible/kt/faith]])
+
+The centurion who asked Jesus to heal his slave ([Luke 7:2](./02.md) was doing many unusual things. A Roman soldier would almost never go to a Jew for anything, and most wealthy people did not love or care for their slaves. (See: [[rc://en/tw/dict/bible/kt/centurion]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### John's Baptism #####
-The baptism John performed was different than the baptism that the church practices. John's baptism was meant to signal that those receiving had repented of their sin. This is why the Pharisees did not participate in John's baptism. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
+
+John baptized people to show that those he was baptizing knew they were sinners and were sorry for their sin. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 ##### "Sinners" #####
-Luke refers to a group of people as "sinners." The Jewish leaders considered these people to be hopelessly ignorant of the Law of Moses, and so called them "sinners." In reality, the leaders were sinful. This situation can be taken as irony. (See: [[rc://en/ta/man/translate/figs-irony]])
+
+Luke refers to a group of people as "sinners." The Jewish leaders considered these people to be hopelessly ignorant of the law of Moses, and so called them "sinners." In reality, the leaders were sinful. This situation can be taken as irony. (See: [[rc://en/ta/man/translate/figs-irony]])
 
 ##### "Feet" #####
-Feet were considered to be very dirty in the Ancient Near East. It would have been a very humble act for this woman to wash Jesus' feet and was a way to show honor to Jesus.
+
+The feet of the people in the ancient Near East were very dirty because they wore sandals and the roads and trails were dusty and muddy. Only slaves washed other people's feet. The woman who washed Jesus' feet was showing him great honor.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Son of Man #####
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+##### "Son of Man" #####
+
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 7:34](./33.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

@@ -3,10 +3,12 @@
 #### Special concepts in this chapter ####
 
 ##### "My Father's house" #####
-This is not a reference to the temple. Instead, it is a reference to the dwelling place of God in heaven. (See: [[rc://en/tw/dict/bible/kt/heaven]]) 
 
-##### Comforter #####
-This is another name for the Holy Spirit, along with the "Spirit of Truth." He was already present in the world, but would come in a special way, to dwell in Christians, permanently. Jesus and the Holy Spirit are both God; because of this fact, it can be said that Jesus will live in Christians after his death. (See: [[rc://en/tw/dict/bible/kt/holyspirit]])
+Jesus used these words to speak of heaven, where God lives, not of the temple. (See: [[rc://en/tw/dict/bible/kt/heaven]]) 
+
+##### The Holy Spirit #####
+
+Jesus told his disciples that he would send the Holy Spirit to them. The Holy Spirit is the Comforter ([John 14:16](./15.md)) who is always with God's people to help them and to speak to God for them, He is also the Spirit of truth ([John 14:17](./15.md)) who tells God's people what is true about God so they know him better and serve him well. (See: [[rc://en/tw/dict/bible/kt/holyspirit]])
 
 ## Links: ##
 

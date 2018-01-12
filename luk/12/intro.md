@@ -4,21 +4,21 @@
 
 ##### "Blasphemy against the Spirit" #####
 
-There is a great deal of controversy regarding properly identifying this specific sin. However, it seems to involve insulting the Holy Spirit and his work. Since part of his work is to convince people that they are sinners and that they need God's forgiveness, anyone who mocked this truth would be unwilling to come in repentance to God. For this reason, he would not be forgiven. (See: [[rc://en/tw/dict/bible/kt/sin]])
+No one knows for sure what actions people perform or what words they say when they commit this sin. However, they probably insult the Holy Spirit and his work. Part of the Holy Spirit's work is to make people understand that they are sinners and that they need to have God forgive them. Therefore, anyone who does not try to stop sinning is probably committing blasphemy against the Spirit. (See: [[rc://en/tw/dict/bible/kt/blasphemy]] and [[rc://en/tw/dict/bible/kt/holyspirit]])
 
-##### Stewardship #####
-Although the word "steward" is not used in this chapter, stewardship, which is the work of a steward, is a concept that plays a significant part of the teaching in it. A good steward is a person whom others can trust to handle what belongs to them. Because everything always belongs to God, everything he gives each person still belongs to God, and the person who receives gifts from God is really a steward of what belongs to God. This includes not only the physical objects that God allows a person to control, but also such things as that person's natural abilities. God expects his stewards to remember that at any time he might command them to report how they have been handling what he has given them to be stewards over. (See: [[rc://en/tw/dict/bible/kt/trust]])
+##### Servants #####
+
+God expects his people to remember that everything in the world belongs to God. God gives his people things so they can serve him. He wants them to please him by doing what he wants them to do with everything he has given them. One day Jesus will ask his servants what they have done with everything he gave them to use. He will give a reward to those who have done what he wanted them to do, and he will punish those who have not.
 
 ##### Division #####
-There is an important teaching about division in this chapter ([Luke 12:51-56](./51.md)). This division is not intended to imply that people will become enemies. Instead, it references that there is now a clear division in the world between those who are Christians and those who are not. One's identity as a follower of Jesus is more significant than any family relation.
+
+Jesus knew that those who did not choose to follow him would hate those who did choose to follow him. He also knew that most people love their families more than they love anyone else. So he wanted his followers to understand that following and pleasing him had to be more important to them than having their family love them ([Luke 12:51-56](./51.md)).
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
-Jesus refers to himself as the "Son of Man." Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
-##### General and Specific Instructions #####
-There are times that the New Testament gives specific instructions or commands that always apply to all Christians. At other times, its instructions are considered to be more general instructions and should only be taken as "good ideas." For example, "do not be anxious" or "sell your possessions" are not meant to be instructions to all Christians. 
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 12;8](./08.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

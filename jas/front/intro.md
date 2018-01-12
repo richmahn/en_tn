@@ -48,7 +48,7 @@ Translators may choose to call this book by its traditional title, "James." Or t
 
 #### Did James disagree with Paul about how a person is justified before God? ####
 
-Paul taught in Romans that Christians are justified by faith and not by works. James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they agree with one another. Both of them taught that a person needs faith in order to be justified. And they both taught that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they had different audiences who needed to know different things about being justified. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
+Paul taught in Romans that Christians are justified by faith and not by works. James seems to teach that Christians are justified by works. This can be confusing. But a better understanding of what Paul and James taught shows that they agree with one another. Both of them taught that a person needs faith in order to be justified. And they both taught that true faith will cause a person to do good works. Paul and James taught about these things in different ways because they had different audiences who needed to know different things about being justified. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/works]])
 
 ## Part 3: Important Translation Issues ##
 
@@ -58,8 +58,6 @@ The letter quickly changes topics. Sometimes James does not tell the readers tha
 
 #### What are the major issues in the text of the Book of James? ####
 
-The following is the most significant textual issue in the Book of James:
-
-* "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULB, UDB, and modern versions read this way. Some older versions read, "Do you want to know, foolish man, that faith without works is dead?"
+* "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULB, UDB, and modern versions read this way. Some older versions read, "Do you want to know, foolish man, that faith without works is dead?" If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])
