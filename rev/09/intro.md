@@ -25,7 +25,7 @@ Despite great signs, people are described as not repenting and so remain in thei
 #### Important figures of speech in this chapter ####
 
 ##### Simile #####
-John uses many similes in this chapter. They help to describe the complex images that he sees in his vision. (See: [[rc://en/ta/man/translate/figs-simile]])
+John uses many similes in this chapter. They help to describe the images that he sees in his vision. (See: [[rc://en/ta/man/translate/figs-simile]])
 
 ## Links: ##
 
