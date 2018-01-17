@@ -21,7 +21,7 @@
 
 #### What is the Book of Daniel about? ####
 
-The first part of the Book of Daniel (chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land and serving a pagan king. And it tells how God rewarded them because they were faithful. 
+The first part of the Book of Daniel (chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land serving a pagan king. And it tells how God rewarded them because they were faithful. 
 
 The rest of the Book of Daniel is a series of prophetic visions. Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and a type of the great enemy of God appearing. Chapter 12 is a vision that describes end times.
 

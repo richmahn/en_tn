@@ -15,7 +15,7 @@ This person is unknown in Scripture, other than here. It is important to recogni
 Verse 10 through 31 is tightly formed as a poem in the original language. There are 22 lines in the Hebrew language that each begin with a successive letter of the alphabet. However, each language will have a different set of letters. Therefore, it is important to realize this was a single composition with a single theme of a noble or godly wife. 
 
 ##### Themes #####
-There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
+There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ## Links: ##
 

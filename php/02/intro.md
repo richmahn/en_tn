@@ -2,17 +2,17 @@
 
 #### Structure and formatting ####
 
-Some translations, like the ULB, prefer to set apart the lines of 2:6-11. This is a description of the "mind of Christ." This is an important teaching on the person of Jesus. 
+Some translations, like the ULB, set apart the lines of verses 6-11. These verses describe the example of Christ. They teach important truths about the person of Jesus. 
 
 #### Special concepts in this chapter ####
 
 ##### Practical instructions #####
-This chapter contains many practical instructions that Paul gives to the church in Philippi. 
+In this chapter Paul gives many practical instructions to the church in Philippi. 
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "If any" #####
-This appears to be a type of hypothetical statement, but it is not because it is assumed to be true. The translator may also translate as "since."
+##### "If there is any" #####
+This appears to be a type of hypothetical statement. However, it is not a hypothetical statement, because it expresses something that is true. The translator may also translate this phrase as "Since there is."
 
 ## Links: ##
 

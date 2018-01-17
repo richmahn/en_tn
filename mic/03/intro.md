@@ -2,7 +2,7 @@
 
 #### Special concepts in this chapter ####
 ##### Justice #####
-An unjust society was considered sinful. It was considered to be against the law of Moses. If these kingdoms did not have justice, they were not obedient to Yahweh. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
+An unjust society was considered sinful. It was considered to be against the law of Moses. If these kingdoms did not have justice, they were not obedient to Yahweh. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 #### Important figures of speech in this chapter ####
 

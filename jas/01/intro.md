@@ -2,27 +2,25 @@
 
 #### Special concepts in this chapter ####
 
-== Temptation and testing==
-These two words have a lot of overlap in their meaning. The translator should be aware that there are some significant differences between the meaning of "temptation" here ([James 1:13](./12.md)) and God "testing" man ([Hebrews 11:17](../../heb/11/17.md)). 
+##### Testing and temptation #####
+
+These two words occur together in ([James 1:12-13](./12.md)). Both words speak of a person who is able to choose between doing something good and doing something evil. The difference between them is important. God is testing the person and wants him to do what is good. Satan is tempting the person and wants him to do what is evil.
 
 ##### Crowns #####
-Crowns are a significant image used in Scripture. There are several Greek words translated as "crowns" in English. The crown referenced here is a type of reward. (See: [[rc://en/tw/dict/bible/other/reward]])
 
-##### Light #####
-Light is an important image used in Scripture. It is always used in a positive manner.
+The crown that a man who passes the test receives is a reward, something that people who do something especially good receive. (See: [[rc://en/tw/dict/bible/other/reward]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphors #####
-James uses many metaphors in this chapter. They help to give his instructions a gentle, pastoral tone. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+
+James uses many metaphors in this chapter, and you will need to understand the material on the [[rc://en/ta/man/translate/figs-metaphor]] page before you can translate them well.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "God is not tempted" #####
-This phrase can be difficult to understand in light of the fact that Jesus, true man and true God, was tempted in the wilderness. While Satan tried to tempt Jesus, he was not successful in persuading Jesus to sin. 
+##### "To the twelve tribes in the dispersion" #####
 
-##### "To the twelve tribes in dispersion" #####
-It appears the author wrote this letter to Christians, but he also uses this phrase, which is more typically understood in reference to Jews. There is uncertainty as to its meaning. Since the author gives many practical instructions for holy living, it is likely that he is referring to Jews who are also Christians. When this letter was written the church was exclusively made up of Jews.
+It is not clear to whom James wrote this letter. He calls himself a servant of the Lord Jesus Christ, so he was probably writing to Christians. But he calls his readers "the twelve tribes in the dispersion," words which usually refer to Jews. It is possible that he is using the words as a metaphor for "all people whom God has chosen" or that he wrote the letter at a time when most Christians had grown up as Jews.
 
 ## Links: ##
 

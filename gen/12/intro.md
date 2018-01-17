@@ -6,7 +6,7 @@
 When God said, "Go from your country, and from your relatives," he established several new people groups. These groups descended from Abram. 
 
 ##### God's covenant with Abraham #####
-God made a covenant with Abram. This covenant was not conditioned upon anything that Abraham needed to do, but the fulfillment of its promises is conditioned upon the actions of each generation of his descendants. It has not yet been fulfilled in its entirety. (See: [[rc://en/tw/dict/bible/kt/covenant]], [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
+God made a covenant with Abram. This covenant was not conditioned upon anything that Abraham needed to do, but the fulfillment of its promises is conditioned upon the actions of each generation of his descendants. It has not yet been fulfilled in its entirety. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -3,12 +3,14 @@
 #### Structure and formatting ####
 
 ##### "This is the voice of a god, not of a man!" #####
-Acts 12:20-22 can appear out-of-place in this chapter. It serves as a kind of interlude, interrupting the flow of events. It is included here to explain that this powerful man, who people claimed to be God, was not God and was immediately punished for these false claims. When the apostles claimed Jesus was God, they were affirmed by signs from heaven. 
+
+Chapter 12 tells what happened to King Herod while Barnabas was bringing Saul back from Tarsus and they were delivering money from Antioch Jerusalem (11:25-30). He killed many of the leaders of the church, and he put Peter in prison. After God helped Peter escape the prison, Herod killed the prison guards, and then God killed Herod. In the last verse of the chapter, Luke tells how Barnabas and Saul return to Antioch.
 
 #### Important figures of speech in this chapter ####
 
 ##### Personification #####
-The "word of God" is personified as growing and multiplying. This is common in Scripture because the word is always used with the imagery of being alive. (See: [[rc://en/tw/dict/bible/other/wordofgod]] and [[rc://en/ta/man/translate/figs-personification]])
+
+The "word of God" is spoken of as if it were a living thing that could grow and become many. (See: [[rc://en/tw/dict/bible/kt/wordofgod]] and [[rc://en/ta/man/translate/figs-personification]])
 
 ## Links: ##
 

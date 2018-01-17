@@ -2,17 +2,17 @@
 
 #### Structure and formatting ####
 
-Paul begins to answer a series of questions which may have been asked of him. The first question involves marriage. The second question is on changing one's status: a slave trying to become free, a Gentile becoming a Jew or a Jew becoming a Gentile. 
+Paul begins to answer a series of questions that the Corinthians may have asked him. The first question is about marriage. The second question is about a slave trying to become free, a Gentile becoming a Jew, or a Jew becoming a Gentile.
 
 #### Special concepts in this chapter ####
 
 ##### Divorce #####
-Christians should try not to divorce. Believers married to unbelievers should not leave their husband or wife. If the unbelieving husband or wife leaves, this is not considered to be sin. Paul advises that, because of the difficult times and the nearness to the return of Jesus, remaining unmarried is an acceptable option. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]])
+Paul says married Christians should not divorce. A Christian married to an unbeliever should not leave their husband or wife. If the unbelieving husband or wife leaves, this is not a sin. Paul advises that, because of the difficult times and being near to time that Jesus will return, it is acceptable to remain unmarried. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Euphemisms #####
-There are many euphemisms used to describe sexual relations because this is often a taboo topic and many cultures do not wish to speak openly about these matters. (See: [[rc://en/ta/man/translate/figs-euphemism]])
+Paul uses many euphemisms to discreetly refer to sexual relations. This is often a sensitive topic. Many cultures do not wish to speak openly about these matters. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 
 ## Links: ##
 

@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Repentance #####
-On this day of judgment, Judah should be repenting of their sin. Instead, they are celebrating it. Although Judah avoids Yahweh's punishment through the Assyrians, their punishment will still come. (See: [[rc://en/tw/dict/bible/kt/judge]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
+On this day of judgment, Judah should be repenting of their sin. Instead, they are celebrating it. Although Judah avoids Yahweh's punishment through the Assyrians, their punishment will still come. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]])
 
 #### Other possible translation difficulties in this chapter ####
 

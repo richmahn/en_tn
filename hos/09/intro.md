@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The chapter is written in poetic form to speak of Yahweh's displeasure with Israel's sins. He is showing the many ways in which they do not honor him. The priests and kings do not understand how they have totally broken their covenant with Yahweh. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/priest]] and [[rc://en/tw/dict/bible/kt/covenant]])
+The chapter is written in poetic form to speak of Yahweh's displeasure with Israel's sins. He is showing the many ways in which they do not honor him. The priests and kings do not understand how they have totally broken their covenant with Yahweh. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/priest]] and [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### Special concepts in this chapter ####
 

@@ -4,11 +4,11 @@
 
 ##### The tomb #####
 
-The tomb in which Jesus was buried ([Luke 24:1](./01.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+The tomb in which Jesus was buried ([Matthew 28:1](./01.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
 
 ##### "Make disciples" #####
 
-The last two verses ([Matthew 28:19-20](./18.md)) are commonly known as the Great Commission because they contain a very important command that all Christians must obey. To "make disciples" is to go to people, to share the good news of Jesus with them, and to tell and show them how to live as Christians.
+The last two verses ([Matthew 28:19-20](./18.md)) are commonly known as "The Great Commission" because they contain a very important command given to all Christians. Christians are to "make disciples" by going to people, sharing the gospel with them and training them to live as Christians.
 
 #### Other possible translation difficulties in this chapter ####
 

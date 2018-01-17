@@ -12,7 +12,7 @@ David never sought revenge against Saul's family. When two men snuck into Ishbos
 #### Important figures of speech in this chapter ####
 
 ##### Rhetorical questions #####
-When two men brought Ishbosheth's head to David and expected to get a reward for it, David condemned them with the rhetorical question: "should I not now require his blood from your hand, and remove you from the earth?" (See: [[rc://en/ta/man/translate/figs-rquestion]], [[rc://en/tw/dict/bible/kt/condemn]] and [[rc://en/tw/dict/bible/other/reward]])
+When two men brought Ishbosheth's head to David and expected to get a reward for it, David condemned them with the rhetorical question: "should I not now require his blood from your hand, and remove you from the earth?" (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/condemn]] and [[rc://en/tw/dict/bible/other/reward]])
 
 ## Links: ##
 

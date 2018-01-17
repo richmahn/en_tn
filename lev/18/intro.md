@@ -2,9 +2,9 @@
 
 #### Special concepts in this chapter ####
 
-##### Sexual morality #####
+##### Uncovering nakedness #####
 
-This chapter gives certain standards for sexual morality. 
+To "uncover nakedness" is a euphemism for having sexual relations with someone. This chapter gives many examples of people with whom Israelites were not to have sexual relations.
 
 ## Links: ##
 

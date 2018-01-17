@@ -15,8 +15,9 @@ It is apparent that Peter is speaking to many Christians who are experiencing gr
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "Has ceased from sin" #####
-This does not mean that anyone has stopped sinning. This would contradict other passages of Scripture. The UDB clarifies the meaning of this phrase. (See: [[rc://en/tw/dict/bible/kt/sin]])
+##### "Let it" and "Let none" and "Let him" and "Let those" #####
+
+Peter uses these phrases to tell his readers what he wants them to do. They are like commands because he wants his readers to obey. But it is as if he is telling one person what he wants other people to do.
 
 ## Links: ##
 

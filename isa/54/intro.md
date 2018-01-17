@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Yahweh's covenant faithfulness #####
-This chapter focuses on Yahweh's faithfulness to fulfill his covenants. It references several different covenant promises in this chapter. (See: [[rc://en/tw/dict/bible/kt/covenantfaith]], [[rc://en/tw/dict/bible/kt/faithful]], [[rc://en/tw/dict/bible/kt/fulfill]], [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/promise]])
+This chapter focuses on Yahweh's faithfulness to fulfill his covenants. It references several different covenant promises in this chapter. (See: [[rc://en/tw/dict/bible/kt/covenantfaith]], [[rc://en/tw/dict/bible/kt/faithful]], [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/promise]])
 
 ## Links: ##
 

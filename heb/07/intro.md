@@ -2,18 +2,14 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:17, 21, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 7:17, 21, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### High priest #####
-Jesus' role as high priest is explained in detail in this chapter. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
-##### Melchizedek #####
-The high priest was normally from the tribe of Levi, but Jesus was from the ruling tribe, Judah. His right to be a priest came from the tradition of Melchizedek, who was a priest before the Levites came into existence. This passage will be difficult to understand if Genesis has not been translated first. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Only a high priest could offer sacrifices so that God could forgive sins, so Jesus had to be a high priest. The law of Moses commanded that the high priest be from the tribe of Levi, but Jesus was from the tribe of Judah. God made him a priest like the priest Melchizedek, who lived at the time of Abraham, before there was a tribe of Levi.
 
-##### New Covenant #####
-The author mentions the New Covenant and discusses Jesus' relationship to it. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 ## Links: ##
 
 * __[Hebrews 07:01 Notes](./01.md)__

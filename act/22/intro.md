@@ -7,21 +7,16 @@ This is the second account of Paul's conversion in the book of Acts. Because thi
 #### Special concepts in this chapter ####
 
 ##### "In the Hebrew language" #####
-The Hebrew language was not commonly spoken in Israel at this time. People would have spoken Aramaic and Greek. Typically, it was the educated Jewish scholars who were able to speak Hebrew. This is why the people paid attention when Paul started speaking in Hebrew. 
+
+Most Jews at this time spoke Aramaic and Greek. Most of the people who spoke Hebrew were educated Jewish scholars. This is why the people paid attention when Paul started speaking in Hebrew. 
 
 ##### "The Way" #####
 
-This was a name given to the faith of the very early Christian believers.
-
-#### Other possible translation difficulties in this chapter ####
-
-##### "I am Jesus" #####
-
-The text does not make it explicitly clear, but this is Jesus after he was raised from the dead. He was only visible to Saul. (See: [[rc://en/ta/man/translate/figs-explicit]])
+No one knows for sure who first started calling believers followers of the Way. This is probably what the believers called themselves, because the Bible often speaks of a person living his life as if that person were walking on a path or "way," If this is true, the believers were "following the way of the Lord" by living in a way that pleased God.
 
 ##### Roman citizenship #####
 
-Men who had Roman citizenship were given many privileges. For example, they could appeal to Caesar if they were accused of a crime. Having Roman citizenship was very valuable and people would go to great lengths to attain citizenship. This "chief captain" could have gotten into trouble for treating a Roman citizen in this way. 
+The Romans thought that they needed to treat only Roman citizens justly. They could do as they desired with people who were not Roman citizens, but they had to obey the law with other Romans. Some people were born Roman citizens, and others gave money to the Roman government so they could become Roman citizens. The "chief captain" could have been punished for treating a Roman citizen the same way he would treat a non-citizen.
 
 ## Links: ##
 

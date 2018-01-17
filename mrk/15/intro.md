@@ -15,7 +15,7 @@ Both by pretending to worship Jesus ([Mark 15:19](./19.md)) and by pretending to
 #### Other possible translation difficulties in this chapter ####
 
 ##### Eloi, Eloi, lama sabachthani? #####
-This is a phrase in Aramaic. Mark transliterates its sounds by writing them using Greek letters. He then explains its meaning.
+This is a phrase in Aramaic. Mark transliterates its sounds by writing them using Greek letters. He then explains its meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ## Links: ##
 

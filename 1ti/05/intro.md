@@ -3,10 +3,10 @@
 #### Special concepts in this chapter ####
 
 ##### Honor and respect #####
-Paul encourages younger Christians to show honor and respect towards older Christians. Different cultures show respect to older people in different ways. 
+Paul encourages younger Christians to honor and respect older Christians. Cultures honor and respect older people in different ways. 
 
 ##### Widows #####
-In the ancient Near East, it was important to take care of the widows because they could not provide a living for themselves.
+In the ancient Near East, it was important to care for widows. They could not provide for themselves.
 
 ## Links: ##
 

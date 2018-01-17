@@ -6,21 +6,19 @@ The events of this chapter are commonly referred to as the last supper or the Lo
 
 #### Special concepts in this chapter ####
 
-##### "To wash the disciples' feet" #####
-Feet were considered very dirty in the ancient Near East. It was normally the servant who was responsible for washing the feet of his master. This act would have been considered humiliating for Jesus, which is why the disciples did not want him to do it. (See: [[rc://en/ta/man/translate/figs-explicit]])
+##### The washing of feet #####
 
-##### Washing #####
-The image of washing is used here on the eve of Jesus' death. It is Jesus who is able to make people clean. This image represents the ability "to make righteous." (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/righteous]]) 
+People in the ancient Near East thought that feet were very dirty. Only servants would wash people's feet. The disciples did not want Jesus to wash their feet because they considered him their master and themselves his servants, but he wanted to show them that they needed to serve each other. (See: [[rc://en/ta/man/translate/translate-symaction]])
 
-##### "I am ... " #####
+##### I AM #####
 
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name at the burning bush. The name "Yahweh" can be translated as "I am." (See: [[rc://en/tw/dict/bible/kt/reveal]])
+John records Jesus as saying these words four times in this book, once in this chapter. They stand alone as a complete sentence, and they literally translate the Hebrew word for "I AM," by which Yahweh identified himself to Moses. For these reasons, many people believe that when Jesus said these words he was claiming to be Yahweh. (See: [[rc://en/tw/dict/bible/kt/yahweh]]).
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Son of Man #####
+##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man." Some languages may not have the ability to have a person refer to himself in the third person.
+Jesus refers to himself as the "Son of Man" in this chapter ([John 13:31](./31.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

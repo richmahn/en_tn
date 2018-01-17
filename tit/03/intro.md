@@ -2,15 +2,15 @@
 
 #### Structure and formatting ####
 
-This chapter appears to shift the letter's focus and gives Titus personal instructions.
+Paul gives Titus personal instructions in this chapter.
 
-[Titus 3:12-15](./12.md) forms a formal conclusion to this letter. This is a common type of conclusion for a letter in the ancient Near East.
+Verse 15 formally concludes this letter. This is a common way of ending a letter in the ancient Near East.
 
 #### Special concepts in this chapter ####
 
 ##### Genealogies #####
 
-This is probably a reference to some group's speculation over the identification of the Messiah. (See: [[rc://en/tw/dict/bible/kt/christ]]) 
+Genealogies are lists that record a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could normally become king. They also showed from what tribe and family they came. For example, priests came from the tribe of Levi and the family of Aaron. 
 
 ## Links: ##
 

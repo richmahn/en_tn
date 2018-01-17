@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Kisses #####
-The kisses in this chapter are a type of kiss that was only done between a husband and a wife. It is an intimate kiss. (See: [[rc://en/ta/man/translate/figs-explicit]])
+The kisses in this chapter are a type of kiss that was only done between a husband a wife. It is an intimate kiss. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Love and affection #####
 This chapter is centered on the feelings of love, affection, and attraction. Different cultural standards may make translation difficult and the translator may use euphemisms to avoid offending people. (See: [[rc://en/ta/man/translate/figs-euphemism]])

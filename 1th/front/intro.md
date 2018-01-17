@@ -51,11 +51,10 @@ Paul meant to express the idea of a very a close union with Christ and the belie
 
 #### What are the major issues in the text of the Book of 1 Thessalonians? ####
 
-The following are the most significant textual issues in 1 Thessalonians:
+For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "May grace and peace be to you." (1:1) The ULB, UDB, and most other modern versions read this way. Some older versions read: "Grace and peace to you from God our Father and the Lord Jesus Christ."
-* "Instead, we were as gentle among you as a mother comforting her own children." (2:7) The ULB, UDB, and many other modern versions read this way. Other modern versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
-* "Timothy, our brother and fellow worker for God." (3:2) The ULB, UDB, and many other modern versions read this way. Some other versions read: "Timothy, our brother and servant of God."
+* "May grace and peace be to you" (1:1). Some older versions read: "Grace and peace to you from God our Father and the Lord Jesus Christ."
+* "Instead, we were as gentle among you as a mother comforting her own children." (2:7)  Other modern versions and older versions read, "Instead, we were like babies among you, as when a mother comforts her own children."
+* "Timothy, our brother and fellow worker for God" (3:2). Some other versions read: "Timothy, our brother and servant of God."
 
- 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

@@ -27,7 +27,7 @@ This book is traditionally titled "Song of Songs," which means the very best son
 
 #### What place do the descriptions of sexual behavior have in the Song of Songs? ####
 
-The Song of Songs approves of sexual behavior expressing love between a husband and his wife. 
+The Song of Songs approves of sexual behavior expressing love between a husband his wife. 
 
 ## Part 3: Important Translation Issues ##
 

@@ -10,7 +10,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 This vision described in this chapter is probably a scene in heaven. (See: [[rc://en/tw/dict/bible/kt/heaven]])
 
 ##### Isaiah's call #####
-This chapter record Isaiah's call to prophetic ministry. It recognizes the holiness of God and Isaiah recognizes his need for holiness. (See: [[rc://en/tw/dict/bible/kt/call]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/holy]])
+This chapter record Isaiah's call to prophetic ministry. It recognizes the holiness of God and Isaiah recognizes his need for holiness. (See: [[rc://en/tw/dict/bible/kt/call]] and [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/holy]])
 
 #### Other possible translation difficulties in this chapter ####
 

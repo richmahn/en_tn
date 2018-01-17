@@ -45,9 +45,9 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major textual issues in the text of the Book of 2 Timothy? ####
 
-The following are the most significant textual issues in the Book of 2 Timothy:
+For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "Because of this, I was appointed a preacher, an apostle, and a teacher" (1:11). The ULB, UDB, and most modern versions read this way. There are some older versions, however, that read, "Because of this, I was appointed a preacher, an apostle, and a teacher to the Gentiles."
-* "Warn them before God" (2:14). The ULB, UDB, and many modern versions read this way. There are some versions that read, "Warn them before the Lord." Translators should consider using the same reading as in the other versions in their region.
+* "Because of this, I was appointed a preacher, an apostle, and a teacher" (1:11). Some older versions read, "Because of this, I was appointed a preacher, an apostle, and a teacher to the Gentiles."
+* "Warn them before God" (2:14). Some older versions read, "Warn them before the Lord."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

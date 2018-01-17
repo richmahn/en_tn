@@ -18,7 +18,7 @@
 
 #### What is the Book of Jonah about? ####
 
-Jonah, son of Amittai, was a prophet from Gath Hepher (2 Kings 14:25). This book tells about what happened to Jonah. It tells how Yahweh shows mercy and grace to Gentiles. It also tells how the Ninevites repented and called out to Yahweh for mercy. (See: [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/grace]], and [[rc://en/tw/dict/bible/kt/repent]])
+Jonah, son of Amittai, was a prophet from Gath Hepher (2 Kings 14:25). This book tells about what happened to Jonah. It tells how Yahweh shows mercy and grace to Gentiles. It also tells how the Ninevites repented and called out to Yahweh for mercy. (See: [[rc://en/tw/dict/bible/kt/mercy]], [[rc://en/tw/dict/bible/kt/grace]] and [[rc://en/tw/dict/bible/kt/repent]])
 
 Yahweh sent Jonah to warn the people of Nineveh that he was ready to punish them. Yahweh said that if they would repent he would not harm them. However, Jonah was an Israelite and he did not want the Ninevites to repent. So Jonah tried to sail away in the opposite direction instead of doing what Yahweh told him to do. But Yahweh stopped him by sending a storm and a large fish to swallow him. 
 

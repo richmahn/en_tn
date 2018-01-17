@@ -3,12 +3,12 @@
 #### Special concepts in this chapter ####
 
 ##### "My joy and my crown" #####
-Paul considered the Philippians' spiritually maturity an important achievement that he helped to achieve. He takes pride in discipling other Christians and encouraging spirtual growth as an important part of the Christian life. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/disciple]])
+Paul had helped the Philippians become spiritually mature. As a result, Paul rejoiced and God honored him and his work. He considered discipling other Christians and encouraging them to grow spiritually as important to Christian living. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/disciple]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Euodia and Syntyche #####
-Apparently, there was a disagreement between these two women and Paul was encouraging unity and harmony between them. The exact details of their disagreement is insignificant (See: [[rc://en/ta/man/translate/figs-explicit]])
+Apparently, these two women disagreed with each other. Paul was encouraging them to agree. What they actually disagreed about is not significant. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

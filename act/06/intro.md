@@ -2,16 +2,15 @@
 
 #### Special concepts in this chapter ####
 
-##### Favoritism #####
-There was priority given to those in need based on where they were from. The Jewish widows (who were probably Jewish Christians) from Israel were given priority over the Jewish widows (who were probably Jewish Christians) from Greece. 
+##### The distribution to the widows #####
 
-##### Deacons #####
-The church establishes leaders to serve over the practical needs of the church. This is probably the practice that lead to the formation of the office of deacon, described elsewhere in the New Testament.
+The believers in Jerusalem gave food every day to women whose husbands had died. All of them had been raised as Jews, but some of them had lived in Judea and spoke Hebrew, and others had lived in Gentile areas and spoke Greek. Those who gave out the food gave it to the Hebrew-speaking widows but not to the Greek-speaking widows. To please God, the church leaders appointed Greek-speaking men to make sure the Greek-speaking widows received their share of the food. One of these Greek-speaking men was Stephen.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "His face was like the face of an angel" #####
-All cultures have different images associated with angels. It is important to avoid these connotations present in the background of the translator's culture. It is possible that his face was "shining" like an angel; regardless, it is probably an indication of his holiness or righteousness in the midst of this trial. (See: [[rc://en/tw/dict/bible/kt/holy]] or [[rc://en/tw/dict/bible/kt/righteous]])
+
+No one knows for sure what it was about Stephen's face that was like the face of an angel, because Luke does not tell us. It is best for the translation to say only what the ULB says about this.
 
 ## Links: ##
 

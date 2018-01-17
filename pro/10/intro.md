@@ -8,7 +8,7 @@ Chapter 10 starts a new section of the book, which is attributed to Solomon and 
 
 ##### Themes #####
 
-There are individual proverbs that run along common themes, often using contrasting elements: wise/foolish, money, lazy/diligent, truth telling, and wicked/righteous. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
+There are individual proverbs that run along common themes, often using contrasting elements: wise/foolish, money, lazy/diligent, truth telling, and wicked/righteous. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/foolish]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ## Links: ##
 

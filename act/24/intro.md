@@ -2,20 +2,19 @@
 
 #### Structure and formatting ####
 
-This chapter functions as a type of legal defense of Paul's actions. He lays out the facts and refutes the charges brought against him.
+Paul told the governor that he had not done what the Jews were accusing him of doing and that the governor should not punish him for what he did do.
 
 #### Special concepts in this chapter ####
 
 ##### Respect #####
-The Jewish leaders showed great respect to the Gentile leaders but show no respect to Paul, a Jewish leader. 
+
+Both the Jewish leaders ([Acts 24:2-4](./01.md)) and Paul ([Acts 24:10](./10.md)) began their speeches with words that show respect to  the governor.
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Governmental leaders #####
-This narrative contains many different government officials with different levels of power or influence over the charges brought against Paul. Translating the various titles will be difficult to correspond to the translator's cultural background.
 
-##### Implicit information #####
-The statement, "Go away for the present, but when I have time again, I will call you" implies the governor was too busy to make a decision about the case against Paul. The reader should understand that this is a weak excuse. The author explains that the governor hoped Paul was wealthy and could bribe his way out of prison. It took the governor two years to decide the outcome of the charges against Paul. (See: [[rc://en/ta/man/translate/figs-explicit]])
+The words "governor," "commander," and "centurion" may be difficult to translate into some languages. (See: [[rc://en/ta/man/translate/translate-unknown]])
 
 ## Links: ##
 

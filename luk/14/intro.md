@@ -4,21 +4,21 @@
 
 Verse 3 says, "Jesus asked the experts in the Jewish law and the Pharisees, 'Is it lawful to heal on the Sabbath, or not?'" Many times, the Pharisees got angry with Jesus for healing on the Sabbath. In this passage, Jesus dumbfounds the Pharisees. It was normally the Pharisees who tried to trap Jesus.
 
-##### Abrupt transitions #####
+##### Changes of subject #####
 
-This chapter abruptly shifts from one topic to another. There are several large sections comprised of multiple verses and other short teachings contained in a single verse.
+Many times in this chapter Luke changes from one subject to another without marking the changes.
 
 #### Important figures of speech in this chapter ####
 
-##### Allegory #####
+##### Parable #####
 
-Luke [Luke 14:15-24](./15.md) probably functions as an extended metaphor. The kingdom of God can be represented as a wedding feast or dinner. This metaphor would then signify that people reject Jesus for a variety of unimportant reasons and because of this miss out on the great blessing of Jesus. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/kingdomofgod]])
+Jesus told the parable in [Luke 14:15-24](./15.md) to teach that the kingdom of God will be something that everyone can enjoy. But people will refuse to be part of it. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/kingdomofgod]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](./10.md)).
+A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](./10.md)).
 
 ## Links: ##
 

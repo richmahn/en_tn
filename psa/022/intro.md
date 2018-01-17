@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 22 is a messianic psalm. It contains references to events during the crucifixion of Christ. It is also a psalm of individual lament and praise. (See: [[rc://en/tw/dict/bible/kt/christ]], [[rc://en/tw/dict/bible/kt/crucify]] and [[rc://en/tw/dict/bible/kt/lament]])
+Psalm 22 is a messianic psalm. It contains references to events during the crucifixion of Christ. It is also a psalm of individual lament and praise. (See: [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/crucify]] and [[rc://en/tw/dict/bible/kt/lament]])
 
 #### Special concepts in this chapter ####
 

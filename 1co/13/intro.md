@@ -2,19 +2,19 @@
 
 #### Structure and formatting ####
 
-While it appears that Paul interrupts his discussion of spiritual gifts, this chapter's contents probably serve a larger function in his teaching on the use of spiritual gifts.
+Paul seems to interrupt his teaching about spiritual gifts. However, this chapter probably serves a larger function in his teaching.
 
 #### Special concepts in this chapter ####
 
 ##### Love #####
 
-Love is the most important characteristic of the believer. This chapter gives a full description of love and why love is more important than the gifts of the Spirit. (See: [[rc://en/tw/dict/bible/kt/love]])
+Love is the most important characteristic of the believer. This chapter fully describes love. Paul tells why love is more important than the gifts of the Spirit. (See: [[rc://en/tw/dict/bible/kt/love]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphor #####
 
-There are many different metaphors in this chapter. Paul uses these metaphors to instruct the Corinthians, especially on difficult topics. Spiritual discernment is often needed to understand these teachings. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+Paul uses many different metaphors in this chapter. He uses these metaphors to instruct the Corinthians, especially on difficult topics. Readers often need spiritual discernment to understand these teachings. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

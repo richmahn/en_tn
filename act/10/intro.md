@@ -3,12 +3,12 @@
 #### Special concepts in this chapter ####
 
 ##### Unclean #####
-The Jews believed uncleanliness could be spread by associating with a Gentile or visiting someone from another nation. This was according to the laws the Pharisees made and not according to the law of Moses. While it was possible that some contact could have made one unclean, the Pharisees prohibited any type of close contact with Gentiles. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-#### Other possible translation difficulties in this chapter ####
+The Jews believed that they could become unclean in God's sight if they visited or ate food with a Gentile. This was because the Pharisees had made a law against it because they wanted to keep people from eating foods that the law of Moses said were unclean. The law of Moses did say that some foods were unclean, but it did not say that God's people could not visit or eat with Gentiles. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-##### "Get up, Peter; kill and eat!" #####
-Peter's vision was about a Christian's freedom to eat any animal. The Jews were not permitted to eat many animals because the law of Moses declared that they were unclean. Before this vision, Christians were not certain whether they needed to follow the law of Moses. The presence of the Holy Spirit is an indication that the Gentiles could be saved without following the law. (See: [[rc://en/tw/dict/bible/kt/save]])
+##### Baptism and the Holy Spirit #####
+
+The Holy Spirit "fell on" those who were listening to Peter. This showed the Jewish believers that Gentiles could receive the word of God and receive the Holy Spirit just as the Jewish believers had.  After that, the Gentiles were baptized.
 
 ## Links: ##
 

@@ -2,22 +2,22 @@
 
 #### Structure and formatting ####
 
-Overall, this chapter serves as a conclusion to Paul's letter. It contains some concluding thoughts, which may not be as connected to the rest of the material contained in the letter. There are also some other issues that Paul wished to address in the church in Galatia. 
+This chapter concludes Paul's letter. His final words address some issues that do not seem to be connected to the rest of his letter. 
 
 ##### Brothers #####
-This chapter is addressed to Christians and this should be seen as a reference to Paul's Christian brothers and not his Jewish brothers.
+Paul writes the words in this chapter to Christians. He calls them "brothers." This refers to Paul's Christian brothers and not his Jewish brothers.
 
 #### Special concepts in this chapter ####
 
 ##### New Creation #####
 
-This is a concept related to being born again. Those who are born again are said to be a new creation in Christ. To Paul, this is more significant than a person's ancestry. It also is related to the idea that the Christian has been given new life in Christ, and has a new nature in them after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/bornagain]] and [[rc://en/tw/dict/bible/kt/faith]])
+People who are born again are a new creation in Christ. Christians have been given new life in Christ. They have a new nature in them after they come to faith in Christ. To Paul, this is more significant than a person's ancestry. (See: [[rc://en/tw/dict/bible/kt/bornagain]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Flesh #####
 
-This is a complex issue and it is possible that "flesh" is still a subject used in distinction to the "spirit." The person of the flesh is controlled by their sinful desires while the spiritual is controlled by the Spirit. Flesh is also used to refer to the physical body in this chapter. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/spirit]])
+This is a complex issue. "Flesh" is contrasted with "spirit." In this chapter, flesh is also used to refer to the physical body. (See: [[rc://en/tw/dict/bible/kt/flesh]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 ## Links: ##
 

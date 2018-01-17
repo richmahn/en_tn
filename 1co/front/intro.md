@@ -55,7 +55,7 @@ The UDB will often be helpful as translators think about how to represent these 
 
 #### What is the meaning of "flesh?" ####
 
-Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. However, it is not the physical world that is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul frequently used the terms "flesh" or "fleshly" to refer to Christians who did sinful things. However, it is not the physical world that is evil. Paul also described Christians who lived in a righteous way as "spiritual." This is because they did what the Holy Spirit taught them to do. (See: [[rc://en/tw/dict/bible/kt/flesh]] and [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
@@ -65,12 +65,13 @@ Please see the introduction to the Book of Romans for more details about this ki
  
 #### What are the major issues in the text of the Book of 1 Corinthians? ####
 
-The following are the most significant textual issues in 1 Corinthians:
+For the following verses, modern versions of the Bible differ from older versions. Translators are advised to follow the modern versions of the Bible. However, if in the translators' region there are Bibles that read according to older versions of the Bible, the translators can follow those. If so, these verses should be put inside square brackets ([]) to indicate that they were probably not original to 1 Corinthians.
 
-* "and in your spirit, which are God's." (6:20) Some older versions read in this way, although the best copies do not have this reading. 
-* "I did this even though I myself was not under the law." (9:20) The ULB and UDB read in this way. However, some older versions leave this passage out.
-* "For the earth and everything in it belong to the Lord." (10:28) Some older versions have this passage, but the best copies do not have it. The ULB and UDB do not have it.
-* "and if I give my body to be burned." (13:3) Most versions, including the ULB and UDB, read in this way. However, some versions prefer, "and if I give my body so that I might boast."
-* "But if anyone does not recognize this, let him not be recognized." (14:38) Most versions read in this way. However, some older versions read, "But if anyone is ignorant of this, let him be ignorant." 
+* "Therefore glorify God with your body." Some older versions read "Therefore glorify God with your body and in your spirit, which are God's." (6:20)
+* "I did this even though I myself was not under the law" (9:20). Some older versions leave this passage out.
+* "for the sake of conscience--the conscience of the other man." Some older versions read "for the sake of conscience: for the earth and everything in it belong to the Lord: the conscience of the other man." (10:28) 
+* "and that I give my body to be burned" (13:3). Some older versions read, "and that I give my body so that I might boast."
+* "But if anyone does not recognize this, let him not be recognized" (14:38). Some older versions read, "But if anyone is ignorant of this, let him be ignorant."
 
-Translators are advised not to translate the passages that new translation of the Bible leave out. However, if in the translators' region there are older Bible versions that have one or more of the passages, the translators can include them. If they are translated, they should be put inside square brackets ([]) to indicate that they were probably not original to 1 Corinthians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+
+(See: [[rc://en/ta/man/translate/translate-textvariants]]) 

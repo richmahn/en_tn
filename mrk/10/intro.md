@@ -8,7 +8,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ##### Jesus' teaching about divorce #####
 
-The Pharisees wanted to find a way to make Jesus say that it is good to break the law of Moses, so they asked him about divorce. Jesus tells how God originally designed marriage to show that the Pharisees taught wrongly about divorce. 
+The Pharisees wanted to find a way to make Jesus say that it is good to break the law of Moses, so they asked him about divorce. Jesus tells how God originally designed marriage to show that the Pharisees taught wrongly about divorce.
 
 #### Important figures of speech in this chapter ####
 
@@ -20,7 +20,7 @@ Metaphors are pictures of visible objects that speakers use to explain invisible
 
 ##### Paradox #####
 
-A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wishes to become great among you must be your servant" ([Mark 10:43](./43.md)).
+A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wishes to become great among you must be your servant" ([Mark 10:43](./43.md)).
 
 ## Links: ##
 

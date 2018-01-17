@@ -7,17 +7,17 @@ Paul continues his defense. Paul views the Corinthian Christians as the proof of
 #### Special concepts in this chapter ####
 
 ##### Law of Moses #####
-There are many allusions to God giving the law of Moses. This chapter will be difficult to fully understand if the Old Testament has not yet been translated. This chapter contrasts the covenant God made with Moses with the New Covenant. Although the law was good, because it was revealed by God, it brought punishment to Israel because they were unable to obey it. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/reveal]])
+Paul alludes to God giving the Ten Commandments on stone tablets. This represents the law of Moses. The law was good because it came from God. But God punished the Israelites because they disobeyed it. This chapter may be difficult for translators to understand if the Old Testament has not yet been translated. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/reveal]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphors #####
-There are many metaphors used in this chapter to explain complex spiritual truths. It is unclear whether this makes Paul's teaching easier or more difficult to understand. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+Paul uses many metaphors used in this chapter to explain complex spiritual truths. It is unclear whether this makes Paul's teachings easier or more difficult to understand. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "This is a covenant not of the letter but of the Spirit." #####
-It is uncertain what this means but the New Covenant is contrasted with the law of Moses. The New Covenant is not comprised of a system of rules and regulations. It is possible that the term "spirit" is a reference to the Holy Spirit, but it may also be a reference to the New Covenant being "spiritual" in nature. (See: [[rc://en/tw/dict/bible/kt/spirit]])
+Paul contrasts the old and new covenants. The new covenant is not a system of rules and regulations. Here "Spirit" probably refers to the Holy Spirit. It may also refer to the new covenant being "spiritual" in nature. (See: [[rc://en/tw/dict/bible/kt/spirit]])
 
 ## Links: ##
 

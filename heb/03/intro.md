@@ -2,27 +2,23 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:7-11,15, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:7-11,15, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Brothers #####
 
-The author probably uses the term "brothers" to refer to fellow Israelites and fellow Christians. Extra care should be taken to make sure the reference is clear. It may be necessary to occasionally leave the referent vague.
+The author probably uses the term "brothers" to refer to Christians who grew up as Jews.
 
 #### Important figures of speech in this chapter ####
 
 ##### Harden your hearts #####
-This is a common metaphor used in Scripture. It indicates that a person who rejects Jesus will increasingly lack the spiritual discernment necessary to believe in him. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/believe]])
+
+A person who hardens his heart is a person who will not listen to or obey God. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### Rhetorical questions #####
 
-The author uses rhetorical questions as a way to convince his readers.
-
-#### Other possible translation difficulties in this chapter ####
-
-##### Prophecy #####
-Jesus literally fulfilled these prophecies about the Messiah but the prophecies themselves often contain poetic or metaphorical language. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]], and [[rc://en/ta/man/translate/figs-metaphor]])
+The author uses rhetorical questions as a way of warning his readers. Both he and the readers know the answers to the questions, and the writer knows that as the readers think about the answers to the questions, they will realize that they need to listen to God and obey him.
 
 ## Links: ##
 

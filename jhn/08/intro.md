@@ -2,25 +2,27 @@
 
 #### Structure and formatting ####
 
-Translators may wish to include a note at verse 1 to explain to the reader why they have chosen to or chosen not to translate verses 8:1-11. Because this is a controversial passage, it is best not to build theological conclusions from this passage.
+Translators may wish to include a note at verse 1 to explain to the reader why they have chosen to translate or to not translate verses 8:1-11.
 
 #### Special concepts in this chapter ####
 
-##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/righteous]])
+##### A light and darkness #####
 
-##### "I am ... " #####
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. Here it is all Gentiles  (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name Yahweh at the burning bush. The name "Yahweh" can be translated as "I am."
+##### I AM #####
 
-##### "A woman caught in the act of adultery" #####
-If the woman was caught in the act of adultery, there was a man who was also caught in the act of adultery. The man is noticeably absent from this account. (See: [[rc://en/tw/dict/bible/kt/adultery]] and [[rc://en/ta/man/translate/figs-explicit]])
+John records Jesus as saying these words four times in this book, three times in this chapter. They stand alone as a complete sentence, and they literally translate the Hebrew word for "I AM," by which Yahweh identified himself to Moses. For these reasons, many people believe that when Jesus said these words he was claiming to be Yahweh. (See: [[rc://en/tw/dict/bible/kt/yahweh]]).
+
+##### The Scribes and Pharisees' trap #####
+
+The Scribes and Pharisees wanted to trick Jesus. They wanted him to say either that they should keep the law of Moses by killing a woman whom they had found committing adultery or that they should disobey the law of Moses and forgive her sin. Jesus knew that they were trying to trick him and that they did not really want to keep the law of Moses. He knew this because the law said that both the woman and the man should die, but they did not bring the man to Jesus. (See: [[rc://en/tw/dict/bible/kt/adultery]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person.
+Jesus refers to himself as the "Son of Man" in this chapter ([John 8:28](./28.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

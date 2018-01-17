@@ -46,9 +46,9 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major issues in the text of the Book of 2 Thessalonians? ####
 
-The following are the most significant textual issues in 2 Thessalonians:
+For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading. 
 
 * "and the man of lawlessness is revealed" (2:3). The ULB, UDB, and most modern versions read this way. Older versions have, "and the man of sin is revealed."
-* "For God chose you as the firstfruits for salvation" (2:13) The ULB, UDB, and some other versions read this way. Other versions have, "For God chose you from the first for salvation." If there are other versions in their region, translators should consider following their reading in this passage.
+* "For God chose you as the firstfruits for salvation" (2:13) The ULB, UDB, and some other versions read this way. Other versions have, "For God chose you from the first for salvation." 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

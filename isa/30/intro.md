@@ -8,7 +8,7 @@ This chapter continues the series of "woes" against specific nations. It present
 
 #### Special concepts in this chapter ####
 
-== Negev==
+##### Negev #####
 This is an area between Egypt and Judah. The people would have had to travel though it in order to get to Egypt. No one really lived in this area and it was known to be very dangerous.
 
 ##### Trust #####
@@ -17,7 +17,7 @@ The people were to trust in Yahweh. Only he could provide them with protection. 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "That day" #####
-This is a common phrase in this section of Isaiah. The chapter appears to prophesy about a time of restoration when the messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+This is a common phrase in this section of Isaiah. The chapter appears to prophesy about a time of restoration when the Messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ## Links: ##
 

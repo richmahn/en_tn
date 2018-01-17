@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Inheritance #####
-In the ancient Near East, a person's children inherited the property and land of their parents. Abraham doubted the fulfillment of God's covenant because he did not have any children to whom to give his land. This showed a lack of faith. (See: [[rc://en/tw/dict/bible/kt/inherit]], [[rc://en/tw/dict/bible/kt/fulfill]],[[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/faith]])
+In the ancient Near East, a person's children inherited the property and land of their parents. Abraham doubted the fulfillment of God's covenant because he did not have any children to whom to give his land. This showed a lack of faith. (See: [[rc://en/tw/dict/bible/kt/inherit]] and [[rc://en/tw/dict/bible/kt/fulfill]],[[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Fulfilling a promise #####
 In the ancient Near East, two people performed a similar sacrifice by dividing animals in half. It was a way to say to the other person, "may this happen to me if I do not fulfill my promise." The event recorded here indicates that God will fulfill his promise and only he is responsible for bringing it about. (See: [[rc://en/tw/dict/bible/kt/fulfill]] and [[rc://en/tw/dict/bible/kt/promise]])

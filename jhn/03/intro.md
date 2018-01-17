@@ -3,16 +3,14 @@
 #### Special concepts in this chapter ####
 
 ##### Light and darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin, and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
-#### Other possible translation difficulties in this chapter ####
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
-##### "We know that you are a teacher come from God" #####
-Although this appears to be a display of faith, it is not. This is because believing Jesus is "only a teacher" shows a lack of awareness of who he truly is. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-explicit]])
+#### Possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this chapter ([John 3:13](./09.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

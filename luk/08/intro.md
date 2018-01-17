@@ -2,24 +2,25 @@
 
 #### Structure and formatting ####
 
-There are times in the narrative of this chapter where there is an abrupt change in topic. The translator should not feel the need to smooth these rough transitions.
+Several times in this chapter Luke changes his topic without marking the change. You should not try to make these rough changes smooth.
 
 #### Special concepts in this chapter ####
 
 ##### Miracles #####
 
-Jesus performed miracles to show that he could control things that no other people could control. He also showed that it is proper to worship him because he performed miracles. (See: [[rc://en/tw/dict/bible/kt/authority]])
+Jesus made a storm stop by speaking to it, he made a dead girl alive by speaking to her, and he made evil spirits leave a man by speaking to them. (See: [[rc://en/tw/dict/bible/kt/miracle]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Parables #####
 
-A parable is a short story used to illustrate a moral or religious lesson. This chapter has an extended parable, revealing truth to those who have faith in Jesus. Parables also conceal these same truths from those who reject Jesus. They usually take the form of stories.
+The parables were short stories that Jesus told so that people would easily understand the lesson he was trying to teach them. He also told the stories so that those who did not want to believe in him would not understand the truth ([Luke 8:4-15](./04.md)).
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Brother and Sisters #####
-This chapter introduces the concept of "spiritual" brothers and sisters. Scripture often uses these terms to refer to the relationship between fellow Israelites. Here, those who follow Jesus are now referred to as brothers and sisters. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/tw/dict/bible/kt/brother]])
+##### Brothers and sisters #####
+
+Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://en/tw/dict/bible/kt/brother]])
 
 ## Links: ##
 

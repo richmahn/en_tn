@@ -2,24 +2,17 @@
 
 #### Structure and formatting ####
 
-Many scholars believe the events of this chapter are both future and past. The author may shift between the events without shifting the tense in which he speaks. Despite this, John speaks as if these events are about to happen.
-
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:10-12.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 10-12.
 
 #### Special concepts in this chapter ####
 
 ##### Serpent #####
-The reference to Satan as the serpent is intended to have the reader remember the account of the temptation in the Garden of Eden. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-#### Important figures of speech in this chapter ####
-
-##### Metaphor #####
-The woman is described using many different metaphors, but her identity is unclear. The chapter also speaks about the rise of the antichrist. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/antichrist]])
+The Book of Revelation uses imagery from the Old Testament. For example, John refers to Satan as the serpent. This image comes from the account of the Garden of Eden when Satan tempted Eve. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "A great sign was seen in heaven" #####
-It is unclear whether this was seen by everybody on earth or whether it was only seen by John in his vision. The translator may have difficulty when the subject is unclear. In English, this is done through the use of the passive voice, but not every language has this construct. (See: [[rc://en/ta/man/translate/figs-activepassive]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+By using the passive voice here, John does not say who saw this great sign in heaven. The translation may be difficult when the subject is unclear, if your language does not have a passive voice. Many English translations use the past tense here and say "A great sign appeared in heaven." (See: [[rc://en/ta/man/translate/figs-activepassive]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 ## Links: ##
 

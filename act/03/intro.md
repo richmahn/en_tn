@@ -2,13 +2,15 @@
 
 #### Special concepts in this chapter ####
 
-##### Abrahamic Covenant #####
-This chapter explains that part of the Abrahamic covenant has been fulfilled in Jesus.
+##### The covenant God made with Abraham #####
+
+This chapter explains that Jesus came to the Jews because God was fulfilling part of the covenant he had made with Abraham. Peter thought that the Jews were the ones who were truly guilty of killing Jesus, but he 
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "You delivered up" #####
-There are many references to the "men of Israel" as "you." While it is true that the leaders of Israel were responsible for these events, ultimately it was Jesus' choice to be delivered up and the need for his death was the sin of mankind. Therefore, the author is not bringing judgment upon these people, but is urging repentance for their condemnation of Jesus. (See: [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/judge]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/condemn]])
+
+The Romans were the ones who killed Jesus, but they killed him because the Jews captured him, brought him to the Romans, and told the Romans to kill him. For this reason Peter thought that they were the ones who were truly guilty of killing Jesus. But he tells them that they are also the first ones to whom God has sent Jesus' followers to invite them to repent ([Luke 3:26](./24.md)). (See: [[rc://en/tw/dict/bible/kt/repent]])
 
 ## Links: ##
 

@@ -6,12 +6,13 @@ The ULB sets the last line of this chapter apart because it is more connected wi
 
 #### Special concepts in this chapter ####
 
-##### "They began to accuse him" #####
-These men did not just accuse Jesus of doing evil, their accusations were false. They perverted the facts to try to get Pilate to sentence Jesus to death.
+##### Accuse #####
+
+The chief priests and scribes accused Jesus of doing evil because they wanted Pilate to kill Jesus. But they were accusing him falsely, because Jesus had never done what they accused him of doing.
 
 ##### "The curtain of the temple was split in two" #####
 
-This is an important symbol. The curtain symbolically separated God and man. God could not be directly accessed because of his holiness. The death of Christ changed this. (See: [[rc://en/tw/dict/bible/kt/holy]])
+The curtain in the temple was an important symbol that showed that people needed to have someone speak to God for them. They could not speak to God directly because all people are sinful and God hates sin. God split the curtain to show that Jesus' people can now speak to God directly because Jesus has paid for their sins.
 
 ##### The tomb #####
 
@@ -19,8 +20,9 @@ The tomb in which Jesus was buried ([Luke 23:53](./52.md)) was the kind of tomb 
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "I find no fault in this man." #####
-After one simple question, it appears that Pilate declares Jesus innocent too quickly. This is because Luke omits many of the details of Jesus' interaction with Pilate. This information is contained in the other gospels. 
+##### "I find no fault in this man" #####
+
+Pilate was saying that he did not know of any reason why he should punish Jesus because Jesus had not broken any laws. Pilate was not saying that Jesus was perfect.
 
 ## Links: ##
 

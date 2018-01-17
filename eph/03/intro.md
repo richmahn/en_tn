@@ -4,12 +4,12 @@
 
 ##### "I pray" #####
 
-This chapter is structured loosely as a prayer, but it is not a typical prayer. This is a unique "prayer" where Paul is not just talking to God directly. He is also is giving written instructions to the church in Ephesus.
+Paul structures part of this chapter as a prayer to God. But Paul is not just talking to God. He is both praying for and instructing the church in Ephesus.
 
 #### Special concepts in this chapter ####
 
 ##### Mystery #####
-Paul refers to the church as a "mystery." The role of the church in the plans of God was once not known, but it has now been revealed by God. Part of this mystery involves the Gentiles' equal standing with the Jews in the current plans of God.
+Paul refers to the church as a "mystery." The role of the church in the plans of God was once not known. But God has now revealed it. Part of this mystery involves the Gentiles having equal standing with the Jews in the plans of God.
 
 ## Links: ##
 

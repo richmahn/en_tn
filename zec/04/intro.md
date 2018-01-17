@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter is written mainly in prose about the fifth vision, which is about the golden lampstand and olive trees. 
+This chapter is written mainly in prose about the fifth vision, which is about the golden lampstand olive trees. 
 
 #### Special concepts in this chapter ####
 

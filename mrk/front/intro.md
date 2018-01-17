@@ -53,13 +53,16 @@ The Gospel of Mark uses the word "immediately" forty-two times. Mark does this t
 
 #### What are the major issues in the text of the Book of Mark? ####
 
-These are the most significant textual issues in the Book of Mark:
+The following verses are found in older versions of the Bible but are not included in most modern versions. Translators are advised not to include these verses. However, if in the translators' region, there are older versions of the Bible that include one or more of these verses, the translators can include them. If they are included, they should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel.
 
 * "If any man has ears to hear, let him hear." (7:16)
 * "where their worm never dies and the fire is never quenched" (9:44)
 * "where their worm never dies and the fire is never quenched" (9:46)
 * "And the scripture was fulfilled that says, 'He was counted with the lawless ones'" (15:28)
+
+The following passage in not found in the earliest manuscripts. Most Bibles include this passage, but modern Bibles put it in brackets ([]) or indicate in some way that this passage may not have been original to Mark's Gospel. Translators are advised to do something similar as the modern versions of the Bible.
+
 * "Early on the first day of the week, after he arose, he appeared first to Mary Magdalene, from whom he had cast out seven demons. She went and told those who were with him, while they were mourning and weeping. They heard that he was alive and that he had been seen by her, but they did not believe. After these things he appeared in a different form to two of them, as they were walking out into the country. They went and told the rest of the disciples, but they did not believe them. Jesus later appeared to the eleven as they were reclining at the table, and he rebuked them for their unbelief and hardness of heart, because they did not believe those who saw him after he rose from the dead. He said to them, 'Go into all the world, and preach the gospel to the entire creation. He who believes and is baptized will be saved, and he who does not believe will be condemned. These signs will go with those who believe: In my name they will cast out demons. They will speak in new languages. They will pick up snakes with their hands, and if they drink anything deadly, it will not hurt them. They will lay hands on the sick, and they will get well.' After the Lord had spoken to them, he was taken up into heaven and sat down at the right hand of God. The disciples left and preached everywhere, while the Lord worked with them and confirmed the word by the signs that went with them." (16:9-20)
 
-Translators are advised not to include these passages. However, if in the translators' region, there are older versions of the Bible that include one or more of these passages, the translators can include them. If they are included, they should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+(See: [[rc://en/ta/man/translate/translate-textvariants]])
 

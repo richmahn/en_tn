@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Latter days #####
-This is probably a reference to the "last days." This makes parts of this prophecy reference events near the end of this world. Most scholars expect these prophecies to be fulfilled by Jesus. (See: [[rc://en/tw/dict/bible/kt/lastday]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
+This is probably a reference to the "last days." This makes parts of this prophecy reference events near the end of this world. Most scholars expect these prophecies to be fulfilled by Jesus. (See: [[rc://en/tw/dict/bible/kt/lastday]] and [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ##### Idolatry #####
 While the first prophecy of Isaiah concerned the lack of justice in Judah, this chapter focuses on the presence of idolatry in Judah. (See: [[rc://en/tw/dict/bible/kt/justice]])

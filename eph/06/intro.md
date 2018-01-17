@@ -3,12 +3,12 @@
 #### Special concepts in this chapter ####
 
 ##### Slavery #####
-This passage does not condone slavery as an acceptable practice. Paul's teaching on slavery would have been rather radical during his time because masters were not expected to treat their slaves in such a pleasant way. Overall, Paul's focus is on living in a way that pleases God despite the circumstances of one's life. Remember, Paul is in prison when he writes these words.
+Paul does not write in this chapter about whether slavery is good or bad. Paul teaches about working to please God whether as a slave or as a master. What Paul teaches here about slavery would have been surprising. In his time, masters were not expected to treat their slaves with respect and not threaten them.
 
 #### Important figures of speech in this chapter ####
 
 ##### Armor of God #####
-This is an extended metaphor describing how Christians can protect themselves from spiritual "attacks" in their daily lives. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/ta/man/translate/figs-metaphor]])
+This extended metaphor describes how Christians can protect themselves when spiritually attacked. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

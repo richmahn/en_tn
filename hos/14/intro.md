@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This last chapter of Hosea ends with hope. In this chapter, Hosea calls for Israel to confess to Yahweh and repent. This chapter continues to be written in poetic form, using metaphors and other devices to communicate God's love for his sinful people. (See: [[rc://en/tw/dict/bible/kt/confess]], [[rc://en/tw/dict/bible/kt/repent]], [[rc://en/tw/dict/bible/kt/love]], [[rc://en/tw/dict/bible/kt/sin]], [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/ta/man/translate/figs-metaphor]])
+This last chapter of Hosea ends with hope. In this chapter, Hosea calls for Israel to confess to Yahweh and repent. This chapter continues to be written in poetic form, using metaphors and other devices to communicate God's love for his sinful people. (See: [[rc://en/tw/dict/bible/kt/confess]], [[rc://en/tw/dict/bible/kt/repent]], [[rc://en/tw/dict/bible/kt/love]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 Why are confession and repentance even suggested here for a people that Yahweh has already condemned to be destroyed? It is because this is a teaching that Yahweh is a merciful God who loves his people. (See: [[rc://en/tw/dict/bible/kt/mercy]]) 
 

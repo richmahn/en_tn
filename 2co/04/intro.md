@@ -1,26 +1,27 @@
 # 2 Corinthians 04 General Notes #
 
 #### Structure and formatting ####
-This chapter begins with the word "therefore," which is connected to the teaching in the previous chapter. The awkward placement of the chapter division can cause confusion. 
+This chapter begins with the word "therefore." This connects it to what the previous chapter teaches. How these chapters are divided may be confusing to the reader. 
 
 #### Special concepts in this chapter ####
 
 ##### Ministry #####
 
-Paul has the ministry, or job, of telling people about Christ. He does not use trickery to get them to believe. If they do not understand, the problem is ultimately spiritual. (See: [[rc://en/tw/dict/bible/kt/spirit]]) 
+Paul ministers to people by telling them about Christ. He does not try to trick people into believing. If they do not understand the gospel, it is because the problem is ultimately spiritual. (See: [[rc://en/tw/dict/bible/kt/spirit]]) 
 
 #### Important figures of speech in this chapter ####
 
 ##### Light and darkness #####
-These are common images in the New Testament. Light is used here to indicate the revelation of God and his righteousness. Darkness describes sin and sin seeks to remain hidden from God. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### Life and death #####
-Life and death are not used in reference to physical life and death. Life represents the new life a Christian has in Jesus, while death represents the old way one lived prior to coming to faith in Jesus. (See: [[rc://en/tw/dict/bible/kt/life]], [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/faith]])
+Paul does not refer here to physical life and death. Life represents the new life a Christian has in Jesus. Death represents the old way of living before believing in Jesus. (See: [[rc://en/tw/dict/bible/kt/life]] and [[rc://en/tw/dict/bible/other/death]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Hope #####
-Paul uses a repeated pattern in a purposeful way. He makes a statement and then denies a seemingly opposite or contradictory statement or gives an exception. They function to give the reader hope in the midst of difficult circumstances. (See: [[rc://en/tw/dict/bible/kt/hope]])
+Paul uses a repeated pattern in a purposeful way. He makes a statement. Then he denies a seemingly opposite or contradictory statement or gives an exception. Together these give the reader hope in difficult circumstances. (See: [[rc://en/tw/dict/bible/kt/hope]])
 
 ## Links: ##
 

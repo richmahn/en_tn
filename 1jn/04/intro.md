@@ -3,12 +3,12 @@
 #### Special concepts in this chapter ####
 
 ##### Spirit #####
-This single word is used in many different ways in this chapter. It is used to reference non-physical things, specifically "spirits" who bear witness in some way in "spiritual" or religious matters. The "Spirit of God" is God. The "spirit" of the antichrist is that which is typical of the Antichrist. This is the same way it is used in the phrases the "spirit of truth" and the "spirit of error." (See: [[rc://en/tw/dict/bible/kt/antichrist]])
+This word "spirit" is used in different ways in this chapter. Sometimes the word "spirit" refers to spiritual beings. Sometimes it refers to the character of something. For example "the spirit of the antichrist," "the spirit of truth," and  "the spirit of error" refer to what is typical of the antichrist, truth, and error. "The Spirit" (written with a capital "S") and "the Spirit of God" refer to God. (See: [[rc://en/tw/dict/bible/kt/antichrist]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Loving God #####
-If people love God, their love should be displayed in the way they live their lives and the way they treat other people. It is not necessary to conclude the Christian's salvation is dependent upon these behaviors. (See: [[rc://en/tw/dict/bible/kt/save]])
+If people love God, they should show it in the way they live and the way they treat other people. Doing this may assure us that God has saved us and that we belong to him, but loving others does not save us. (See: [[rc://en/tw/dict/bible/kt/save]])
 
 ## Links: ##
 

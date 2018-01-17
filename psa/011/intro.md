@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 11 is a worship psalm. It tells how great God is and that God delivers the good people from the evil people. (See: [[rc://en/tw/dict/bible/other/deliverer]], [[rc://en/tw/dict/bible/kt/good]] and [[rc://en/tw/dict/bible/kt/evil]])
+Psalm 11 is a worship psalm. It tells how great God is and that God delivers the good people from the evil people. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/kt/good]] and [[rc://en/tw/dict/bible/kt/evil]])
 
 #### Special concepts in this chapter ####
 

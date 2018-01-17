@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Woe #####
-The prophecy of this chapter serves as a warning to the people of the kingdom of Judah. If they do not change their evil ways, Yahweh will punish them. (See: [[rc://en/tw/dict/bible/kt/woe]], [[:[[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/evil]])
+The prophecy of this chapter serves as a warning to the people of the kingdom of Judah. If they do not change their evil ways, Yahweh will punish them. (See: [[rc://en/tw/dict/bible/kt/woe]] and [[:[[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/evil]])
 
 #### Important figures of speech in this chapter ####
 

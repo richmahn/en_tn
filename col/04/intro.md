@@ -2,18 +2,18 @@
 
 #### Structure and formatting ####
 
-It appears [Colossians 4:1](./01.md) belongs with the material of chapter 3 instead of chapter 4. 
+[Colossians 4:1](./01.md) appears to belong with the topics of Chapter 3 instead of Chapter 4. 
 
 #### Special concepts in this chapter ####
 
 ##### "In my own hand" #####
-It was common in the ancient Near East to have someone physically write a letter while the author spoke. This is a common practice with the letters of the New Testament. Paul thought that this chapter was so important, he physically wrote it himself. 
+It was common in the ancient Near East for the author to speak and someone else to write down the words. Many of the New Testament letters were written this way. Paul wrote the final greeting himself.
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Mystery #####
+##### Secret truth #####
 
-Paul refers to the church as a "mystery." The role of the church in the plans of God was once unknown, but has now been revealed by God. Part of this mystery involves the Gentiles' equal standing with the Jews in the current plans of God. (See: [[rc://en/tw/dict/bible/kt/reveal]])
+Paul refers to a "secret truth" in this chapter. The role of the church in the plans of God was once unknown. But God has now revealed it. Part of this involves the Gentiles having equal standing with the Jews in the plans of God. (See: [[rc://en/tw/dict/bible/kt/reveal]])
 
 ## Links: ##
 

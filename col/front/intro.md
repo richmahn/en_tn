@@ -63,15 +63,15 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major issues in the text of the Book of Colossians? ####
 
-The following are the most significant textual issues in the Book of Colossians:
+For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "May grace be to you, and peace from God our Father" (1:2). The ULB, UDB, and many other modern versions read this way. Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
-* "Epaphras, our beloved fellow servant, who is a faithful servant of Christ on our behalf" (1:7). Many versions, including the ULB and UDB, read this way. However, other versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you." If other versions exist in the general region, translators should consider using the reading found in those versions.
-* "the Father, who has made you able to have a share in the inheritance of the believers in light" (1:12). The ULB and UDB read this way. However, some other versions read, "the Father, who has qualified us for a share in the inheritance in light." If other versions exist in the general region, translators should consider using the reading found in those versions. 
-* "In his Son we have redemption." (1:14) The ULB, UDB, and many other modern versions read this way. Some older versions read, "In his Son we have redemption through his blood." 
-* "and forgave us all of our trespasses" (2:13). The ULB, UDB, and many other modern versions have this reading. Some older versions read: "and forgave you all of your trespasses." 
-* "When Christ appears, who is your life" (3:4). The ULB, UDB, and many other modern versions read this way. Some older versions read, "When Christ appears, who is our life." 
-* "It is for these things that the wrath of God is coming on the sons of disobedience." (3:6) The ULB, UDB, and many other modern versions read this way. However, other modern versions read, "It is for these things that the wrath of God is coming." If other versions exist in the general region, translators should consider using the reading found in those versions. 
-* "I sent him to you for this, that you might know the matters about us." (4:8) The ULB, UDB, and most other modern versions read this way. Some older versions read, "I sent him to you for this, that he might know the matters about you."
+* "May grace be to you, and peace from God our Father" (1:2). Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
+* "Epaphras, our beloved fellow servant, who is a faithful servant of Christ on our behalf" (1:7). Some older versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you."
+* "the Father, who has made you able to have a share in the inheritance of the believers in light" (1:12). Some older versions read, "the Father, who has qualified us for a share in the inheritance in light."
+* "In his Son we have redemption" (1:14). Some older versions read, "In his Son we have redemption through his blood." 
+* "and forgave us all of our trespasses" (2:13). Some older versions read: "and forgave you all of your trespasses." 
+* "When Christ appears, who is your life" (3:4). Some older versions read, "When Christ appears, who is our life." 
+* "It is for these things that the wrath of God is coming on the sons of disobedience" (3:6). The ULB, UDB, and many other modern versions read this way. However, some modern and older versions read, "It is for these things that the wrath of God is coming." 
+* "I sent him to you for this, that you might know the matters about us" (4:8). Some older versions read, "I sent him to you for this, that he might know the matters about you."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

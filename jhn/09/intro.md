@@ -3,28 +3,28 @@
 #### Special concepts in this chapter ####
 
 ##### "Who sinned?" #####
-In ancient Israel, it was commonly believed that a child was born with disabilities because of the sin of one of his parents. This was not the teaching of the law of Moses. In this exchange, the Pharisees were sinners because they saw the power of Jesus and did not worship him. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-##### "I am ... " #####
-
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name Yahweh at the burning bush. The name "Yahweh" can be translated as "I am."
-
-##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as images representing sin or unrighteousness. (See: [[rc://en/tw/dict/bible/other/light]], [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/other/darkness]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/righteous]])
+Many of the Jews of Jesus' time believed that if a person was blind or deaf or crippled, it was because he or his parents or someone in his family had sinned. This was not the teaching of the law of Moses. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
 ##### "He does not keep the Sabbath" #####
-The Pharisees considered Jesus making the mud to be "work" and in violation of the laws regarding the Sabbath. (See: [[rc://en/tw/dict/bible/kt/sabbath]])
 
-#### Important figures of speech in this chapter ####
+The Pharisees thought that Jesus was working, and so breaking the Sabbath, by making mud. (See: [[rc://en/tw/dict/bible/kt/sabbath]])
 
-##### Sight #####
-This chapter records the events of a man who was born without sight. Jesus also uses these events as a metaphor. In [John 9:39-40](./39.md), the Pharisees are called blind because they are unable to see the truth in front of them. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+#### Important metaphors in this chapter ####
+
+##### Light and darkness #####
+
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://en/tw/dict/bible/kt/righteous]])
+
+##### Seeing and being blind #####
+
+Jesus calls the Pharisees blind because they see that Jesus is able to heal blind people but they still do not believe that God sent him ([John 9:39-40](./39.md)). (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
+Jesus refers to himself as the "Son of Man" in this chapter ([John 9:35](./35.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

@@ -7,7 +7,7 @@ Psalm 10 is a psalm of deliverance. (See: [[rc://en/tw/dict/bible/other/delivere
 #### Special concepts in this chapter ####
 
 ##### Evil people #####
-The wicked people are prospering and think that God does not care. They think that he is not involved in these affairs. They destroy the innocent. The godly need God to come to their rescue and to punish the wicked people for the evil that they are doing to the good people. (See: [[rc://en/tw/dict/bible/kt/evil]], [[rc://en/tw/dict/bible/kt/innocent]], [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/good]])
+The wicked people are prospering and think that God does not care. They think that he is not involved in these affairs. They destroy the innocent. The godly need God to come to their rescue and to punish the wicked people for the evil that they are doing to the good people. (See: [[rc://en/tw/dict/bible/kt/evil]], [[rc://en/tw/dict/bible/kt/innocent]] and [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/good]])
 
 ##### Second half of Psalm 9 #####
 

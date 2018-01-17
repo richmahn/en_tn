@@ -1,21 +1,14 @@
 # Acts 19 General Notes #
 
-#### Structure and formatting ####
-
-##### "So the word of the Lord spread very widely in powerful ways" #####
-This is the major theme of this chapter and the book of Acts overall.
-
 #### Special concepts in this chapter ####
 
-##### Receiving the Holy Spirit #####
-
-Many scholars believe this events marks the time when the Spirit started to indwell people when they began to believe in Jesus. The Spirit did this in order to assure them and to guide them. Others believe this event gave them the ability to speak in tongues, in addition to indwelling them, but that it is an event that occurs after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/tw/dict/bible/kt/save]])
-
 ##### Baptism #####
-There are several baptisms mentioned in this chapter. The baptism of John was about repentance. Christian baptism is about identifying with Christ. The baptism of the Spirit is the same as "receiving the Spirit." (See: [[rc://en/tw/dict/bible/kt/repent]])
+
+John baptized people to show that they were sorry for their sins. Jesus' followers baptized people who wanted to follow Jesus.
 
 ##### Temple of Diana #####
-The temple of Diana was important for the businesses of Ephesus. Many people came to this city to see this amazing temple and bought statues while they were there. The people's belief in Jesus caused problems for these people because of the affect it had on their businesses.
+
+The temple of Diana was an important place in the city of Ephesus. Many people came to Ephesus to see this temple, and they bought statues of the goddess Diana while they were there. The people who sold statues of Diana were afraid that if people did not believe Diana was a real goddess, they would stop giving the sellers money for statues.
 
 ## Links: ##
 

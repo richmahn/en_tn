@@ -16,6 +16,10 @@ Genesis 1 presents the ancient Hebrew idea of a day: it begins with sunset, last
 
 #### Other possible translation difficulties in this chapter ####
 
+##### "In the beginning" #####
+
+Some languages and cultures speak of the world as if it has always existed, as if it had no beginning. But "very long ago" is different from "in the beginning," and you need to be sure that your translation communicates correctly.
+
 ##### "God said, 'Let there be'" #####
 
 This expression occurs often in this chapter. It can be difficult to translate, because God is not shown as talking to a particular person. If God is talking to a thing, it is something not yet in existence. Translators should find the most natural way in the project language to signal the idea that God spoke things into existence; he created the world and the things in it by simply commanding that they should exist.

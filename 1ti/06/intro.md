@@ -4,7 +4,7 @@
 
 ##### Slavery #####
 
-This passage does not condone slavery as an acceptable practice. Paul's teaching on slavery would have been rather radical at this time because masters were not expected to treat their slaves in such a pleasant way. Overall, Paul's focus is on living in a way that pleases God despite the circumstances of one's life.
+Paul does not write in this chapter about whether slavery is good or bad. Paul teaches about honoring, respecting, and diligently serving masters. Paul teaches all believers to be godly and content in every situation.
 
 ## Links: ##
 

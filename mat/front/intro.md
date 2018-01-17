@@ -56,13 +56,13 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Matthew? ####
 
-These are the most significant textual issues in the Book of Matthew:
+The following verses are found in older versions of the Bible but are not included in most modern versions:
 
 * "Bless those who curse you, do good to those who hate you" (5:44) 
-* "For yours is the kingdom and the power and the glory forever. Amen" (6:13)
-* "Many are called, but few are chosen" (20:16) 
+* "For yours is the kingdom and the power and the glory forever. Amen" (6:13) 
 * "But this kind of demon does not go out except with prayer and fasting" (17:21)
 * "For the Son of Man came to save that which was lost" (18:11)
+* "Many are called, but few are chosen" (20:16)
 * "Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, while you make a show of long prayers. You will therefore receive greater condemnation." (23:14)
 
 Translators are advised not to include these passages. However, if in the translators' region, there are older versions of the Bible that include one or more of these passages, the translators can include them. If they are included, they should be put inside square brackets ([]) to indicate that they were probably not original to Matthew's Gospel. (See: [[rc://en/ta/man/translate/translate-textvariants]])

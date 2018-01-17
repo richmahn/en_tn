@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 The prophecies of this chapter occur after the exile in Babylon and are not in reference to the people contemporary to Isaiah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
-There is an important teaching or prophecy about the messiah beginning in this chapter and continues through the next chapter. This prophesy begins in 52:13 and scholars usually note that it portrays the messiah as a "suffering servant." (See: [[rc://en/tw/dict/bible/kt/christ]])
+There is an important teaching or prophecy about the Messiah beginning in this chapter and continues through the next chapter. This prophesy begins in 52:13 and scholars usually note that it portrays the Messiah as a "suffering servant." (See: [[rc://en/tw/dict/bible/kt/christ]])
 
 ## Links: ##
 

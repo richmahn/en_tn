@@ -21,7 +21,7 @@ Paul uses many rhetorical questions in this chapter. He does this to convince hi
 
 ##### "I will provoke you to jealousy by what is not a nation" #####
 
-Paul uses this prophecy to explain that God will use the church to make the Hebrew people jealous. This is so they will seek God and believe the gospel. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/jealous]] and [[rc://en/ta/man/translate/figs-explicit]])
+Paul uses this prophecy to explain that God will use the church to make the Hebrew people jealous. This is so they will seek God and believe the gospel. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/jealous]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

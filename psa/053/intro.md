@@ -2,7 +2,7 @@
 
 #### Type of psalm ####
 
-Psalm 53 is a wisdom psalm. It warns people who do evil that God will judge them. (See: [[rc://en/tw/dict/bible/kt/wise]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/judge]])
+Psalm 53 is a wisdom psalm. It warns people who do evil that God will judge them. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/judge]])
 
 #### Special concepts in this chapter ####
 ##### God's watching mankind #####

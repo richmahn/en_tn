@@ -2,38 +2,30 @@
 
 #### Structure and formatting ####
 
-This chapter continues the seven trumpet judgments. This chapter and the previous one form a single unit.
+In this chapter, John continues to describe what happens when angels sound seven trumpets. (See: rc://en/ta/man/translate/writing-apocalypticwriting)
 
 ##### Woe #####
-There are several specific "woes" mentioned in the book of Revelation. This chapter contains the first of these woes. It is possible that these have some structural significance or importance to the chronology of the events of Revelation.
+John describes several "woes" in the Book of Revelation. This chapter begins to describe three "woes" announced at the end of Chapter 8.
 
 #### Special concepts in this chapter ####
 
 ##### Animal imagery #####
-Animal imagery is common in this book, as well as very common in this chapter. The people of the ancient Near East probably viewed these animals as having some "trait" that typified the animal. For example, a lion is often seen as powerful.  The translator should not try to determine the meaning of each of these images. 
+This chapter includes several animals: locusts, scorpions, horses, lions, and snakes. Animals convey different qualities or traits. For example, a lion is powerful and dangerous. Translators should use the same animals in their translation if possible. If the animal is unknown, one with similar qualities or traits should be used. 
 
 ##### Bottomless pit #####
-This is a common image in the book of Revelation that portrays hell. It emphasizes that hell is inescapable. It is described as being down, in opposition to heaven which is considered up. This emphasizes that neither is on earth. (See: [[rc://en/tw/dict/bible/kt/hell]]) 
+This image is seen several times in the Book of Revelation. It is a picture of hell as being inescapable and the opposite direction as heaven. (See: [[rc://en/tw/dict/bible/kt/hell]]) 
 
 ##### Abaddon and Apollyon #####
 
-"Abaddon" here is a Hebrew word, and "Apollyon" is a Greek word. Both words mean "Destroyer." John transliterated the sounds of the Hebrew word by writing them with Greek letters. The translators of the ULB and the UDB transliterated the sounds of both words by writing them with English letters. Translators are encouraged to transliterate these words using the letters of the target language. Since the original Greek readers would have understood the meaning of "Apollyon," translators may also supply the meaning in the text or in a footnote.
+"Abaddon" is a Hebrew word. "Apollyon" is a Greek word. Both words mean "Destroyer." John used the sounds of the Hebrew word and wrote them with Greek letters. The ULB and UDB write the sounds of both words with English letters. Translators are encouraged to transliterate these words using the letters of the target language. The original Greek readers would have understood "Apollyon" to mean "Destroyer." So translators may also supply what it means in the text or in a footnote.
 
 ##### Repentance #####
-This chapter mentions the theme of repentance. Despite these great miracles, the people are said to avoid repentance and remain in their sin. One should not lose sight of this theme when reading the book of Revelation. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+Despite great signs, people are described as not repenting and so remain in their sin. People refusing to repent are also mentioned in Chapter 16. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]]) 
 
 #### Important figures of speech in this chapter ####
 
-##### Symbol #####
-Satan is often described as a fallen angel. Since stars are symbols for angels in the book of Revelation, the phrase "a star from heaven that had fallen" probably symbolizes Satan. (See: [[rc://en/tw/dict/bible/kt/satan]], [[rc://en/ta/man/translate/writing-symlanguage]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
-
 ##### Simile #####
-There are many similes in this chapter. Their purpose is to describe the complex images that John sees in his vision. Therefore, they serve more of a practical rather than poetic function. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-#### Other possible translation difficulties in this chapter ####
-
-##### "The people who did not have the seal of God" #####
-It is best to leave the meaning of this phrase unclear in translation, if possible. Many scholars believe the seal to be a mark made to distinguish believers from unbelievers in this time of tribulation. (See: [[rc://en/tw/dict/bible/kt/believe]] and [[rc://en/ta/man/translate/figs-explicit]]) 
+John uses many similes in this chapter. They help to describe the images that he sees in his vision. (See: [[rc://en/ta/man/translate/figs-simile]])
 
 ## Links: ##
 

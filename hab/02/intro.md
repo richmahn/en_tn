@@ -9,7 +9,7 @@ This chapter is arranged in a series of questions and answers between Yahweh and
 #### Special concepts in this chapter ####
 
 ##### "The righteous will live by his faith" #####
-This is an important phrase in Scripture. Paul also uses it to explain that man is justified by his faith. (See: [[rc://en/tw/dict/bible/kt/righteous]], [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/faith]])
+This is an important phrase in Scripture. Paul also uses it to explain that man is justified by his faith. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ## Links: ##
 

@@ -4,12 +4,12 @@
 
 ##### Spiritual children #####
 
-Paul calls Timothy his "son." Paul was very involved in discipling Timothy. Because of this relationship, he called him his "spiritual" son. (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/tw/dict/bible/kt/spirit]])
+Paul discipled Timothy as a Christian and a church leader. Paul may also have led him to believe in Christ. Therefore, Paul calls Timothy "beloved child." (See: [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/tw/dict/bible/kt/spirit]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Persecution #####
-Both Paul and Timothy were suffering persecution when this letter was written. Paul takes the time to encourage Timothy in the midst of these difficulties. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Paul was in prison when he wrote this letter. Paul encourages Timothy to be willing to suffer for the gospel. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

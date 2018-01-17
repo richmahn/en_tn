@@ -2,37 +2,39 @@
 
 #### Structure and formatting ####
 
-Chapters 2 and 3 together form a single unit. This section is usually referred to as the "seven letters to the seven churches." The translator may wish to set these letters apart from each other to clearly distinguish them. 
+Chapters 2 and 3 together are usually called the "seven letters to the seven churches." You may wish to set each letter apart. The reader can then easily see that they are separate letters.
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:27.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words of verse 27.
 
 #### Special concepts in this chapter ####
 
 ##### Poverty and wealth #####
-This chapter has a play on the two possible meanings of being poor and rich. The Ephesians were poor financially because they did not have a lot of money. They were not poor spiritually because of the great "riches" they had in Christ. (See: [[rc://en/tw/dict/bible/kt/spirit]])
+
+The Christians in Smyrna were poor because they did not have much money. But they were rich spiritually because God would reward them for their suffering. (See: [[rc://en/tw/dict/bible/kt/spirit]])
 
 ##### "The devil is about to" #####
-The book of Revelation is about the things that Satan is going to do on earth. Despite this, it is ultimately about what God will do in the end to defeat Satan.
 
-##### Balaam, Balak and Jezebel #####
-These teachings of Balaam are difficult to fully understand if the books of Kings have not yet been translated. This is probably a reference to leading the people of Israel into immorality and the worship of false gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+People were about to take some of the Christians in Smyrna and throw them into prison and even kill some of them ([Revelation 2:10](./10.md)). John does not say who these people were. But he does speak of them harming the Christians as if Satan himself were harming them. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+
+##### Balaam, Balak, and Jezebel #####
+
+Balaam, Balak, and Jezebel were people who lived long before Jesus was born. They all tried to harm the Israelites either by cursing them or by making them want to stop obeying God. 
 
 #### Important figures of speech in this chapter ####
 
-##### Metaphor #####
-Some scholars take chapter 2 and 3 as a metaphor. They understand these churches to refer to types of churches or historical periods of the church. It is best to translate this as instructions to ancient churches in each of these cities. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+##### "Let the one who has an ear, hear what the Spirit is saying to the churches" #####
 
-##### "If you have an ear, listen to what the Spirit says to the churches." #####
-This is a phrase which acts as a call to repentance for those in the church. (See: [[rc://en/tw/dict/bible/kt/repent]])
+The writer knew that almost all of his readers had physical ears. The ear here is a metonym for hearing what God says and desiring to obey him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "The angels of the seven churches" #####
+##### "The angel of the church" #####
 
-The Greek word translated as "angels" can also be translated as "messengers." It is possible this is a reference to the messengers or leaders of these seven churches.
+The word "angel" here can also mean "messenger." This might refer to the messenger or leader of the church. See how you translated "angel" in [Revelation 1:20](../01/19.md).
 
-##### "These are the words of the one" #####
-This phrase, used to introduce these letters is probably a reference to Jesus. Each letter then describes an aspect of Jesus which is significant for the rest of the letter. 
+##### "The words of the one who" #####
+
+The verses with these words can be difficult to translate. They do not make complete sentences. You may need to add "These are" to the beginning of these verses. Also, Jesus used these words to speak of himself as if he were speaking of another person. Your language may not allow people to speak of themselves as if they were speaking of other people. Jesus began speaking in [Revelation 1:17](../01/17.md). He continues to speak through the end of Chapter 3.
 
 ## Links: ##
 

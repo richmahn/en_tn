@@ -49,8 +49,8 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major textual issues in the text of the Book of 1 Timothy? ####
 
-These are the most significant textual issues in the Book of 1 Timothy:
+For the following verse, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
-* "Withdraw from such things." (6:5) Some older versions read this way, but the ULB, UDB, and most other modern versions do not. The best ancient copies do not include this phrase.
+* "godliness is a way to get more money." Some older versions of the Bible read this way, "godliness is a way to get more money: withdraw from such things." (6:5)
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

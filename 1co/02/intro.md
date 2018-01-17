@@ -2,14 +2,12 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:9 and 2:16
-
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:16.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the words of verses 9 and 16, which are from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Wisdom #####
-Paul continues the discussion from the first chapter contrasting human and God's wisdom. For Paul, wisdom can be simple. He said the wisdom from the Holy Spirit is the only true wisdom. Human ideas are foolish. Paul uses the phrase "hidden wisdom" in referring to truths that were not previously known. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/foolish]])
+Paul continues the discussion from the first chapter that contrasts human wisdom and God's wisdom. For Paul, wisdom can be simple and human ideas foolish. He said the wisdom from the Holy Spirit is the only true wisdom. Paul uses the phrase "hidden wisdom" when he refers to previously unknown truths. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/foolish]])
 
 ## Links: ##
 

@@ -3,15 +3,23 @@
 #### Special concepts in this chapter ####
 
 ##### Favoritism #####
-It is wrong to show favoritism in the church. There were people who showed special favor (favoritism) towards rich and powerful people. (See: [[rc://en/tw/dict/bible/kt/favor]])
+
+Some of James's readers treated rich and powerful people well and treated poor people badly. This is called favoritism, and James tells them that this is wrong. God wants his people to treat both rich people and poor people well.
 
 ##### Justification #####
-Justification means "the process of declaring someone righteous." There are two types of justification. One is to be declared righteous in the opinion of God and one is to be declared righteous in the opinion of other people. A person is not justified according to God by their actions. Abraham was declared righteous according to God by his faith. He was declared righteous according to other people when his actions showed his faith, by being willing to offer up his son Isaac as a sacrifice to God. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/faith]])
+
+Justification is what happens when God makes a person righteous. James says here that God makes righteous or justifies people whose faith works together with their good works. (See: [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Quotation marks #####
-There is some controversy regarding where to place the quotation marks in James 2:18. The ULB states "Yet someone will say, 'You have faith, and I have works.' Show me your faith without works, and I will show you my faith by my works." It is also possible to translate this as "Yet someone will say, 'You have faith, and I have works. Show me your faith without works, and I will show you my faith by my works.'" The length of this hypothetical statement can have significant theological implications. (See: [[rc://en/ta/man/translate/figs-hypo]])
+
+The words "Show me your faith without works, and I will show you my faith by my works" are hard to understand. Some people think that they are what "someone may say," like the words in the quotation marks. Most versions translate them as words that James is saying back to that "someone."
+
+##### "You have ... I have"
+
+Some people think that the words "you" and "I" are metonyms for "some people" and "other people." If they are correct, verse 18 could be translated, "Someone may say, 'Some people have faith and other people have works. Not everyone has both.'" If the next sentence is also what "someone may say," it could be translated "Some people show their faith without works, and other people show their faith by their works. Both have faith." In both cases, the reader will understand only if you add the extra sentence. It is probably best to translate as the ULB does. (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-explicit]])
+
 ## Links: ##
 
 * __[James 02:01 Notes](./01.md)__

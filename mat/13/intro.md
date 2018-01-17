@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:14-15, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:14-15, which are words from the Old Testament.
 
 This chapter begins a new section. It contains some of Jesus' parables about the kingdom of heaven.
 
@@ -14,7 +14,7 @@ Jesus often says the word "heaven" when he wants his hearers to think of God, wh
 
 ##### Implicit information #####
 
-Speakers usually do not say things that they think their hearers already understand. When Matthew said that Jesus "sat beside the sea" ([Matthew 13:1](./01.md)), he probably expected his hearers to know that Jesus was about to teach the people.
+Speakers usually do not say things that they think their hearers already understand. When Matthew wrote that Jesus "sat beside the sea" ([Matthew 13:1](./01.md)), he probably expected his hearers to know that Jesus was about to teach the people. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Metaphor #####
 

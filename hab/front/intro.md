@@ -13,7 +13,7 @@
 
 #### What is the Book of Habakkuk about? ####
 
-Other prophets spoke against Israel sinning and failing to obey Yahweh. But Habakkuk questioned Yahweh about the things he did. Yahweh said he would punish the people of Judah by sending the Babylonian army. Habakkuk complained because the Babylonians were more wicked than the people of Judah. Yahweh assured Habakkuk that he would also punish the Babylonians. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
+Other prophets spoke against Israel sinning and failing to obey Yahweh. But Habakkuk questioned Yahweh about the things he did. Yahweh said he would punish the people of Judah by sending the Babylonian army. Habakkuk complained because the Babylonians were more wicked than the people of Judah. Yahweh assured Habakkuk that he would also punish the Babylonians. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### How should the title of this book be translated? ####
 

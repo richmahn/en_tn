@@ -2,16 +2,15 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:5-6, which are words from the OT.
+After telling of the value discipline, the author begins a series of exhortations. (See; [[rc://en/tw/dict/bible/kt/exhort]])
+
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 12:5-6, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### Discipline #####
-God disciplines his children in the same way parents discipline or correct their children. This imagery is used because discipline is out of love. Different cultures may have different standards of parental discipline, some of which may be unbiblical. God's discipline is the way he uses different circumstances to correct his children and to bring them to repentance. (See: [[rc://en/tw/dict/bible/kt/discipline]], [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
-#### Important figures of speech in this chapter ####
-
-Many different figures of speech are used. They are usually more common in poetic writings than in narrative, but the author uses them as a way to teach people. 
+God wants his people to do what is right. When they do what is wrong, he needs to correct or punish them. He does this just as earthly fathers correct and punish children whom they love. (See: [[rc://en/tw/dict/bible/kt/discipline]])
 
 ## Links: ##
 

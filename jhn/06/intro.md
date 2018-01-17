@@ -2,31 +2,28 @@
 
 #### Special concepts in this chapter ####
 
-##### "Make him king" #####
-While not all scholars agree on the exact reason Jesus did not want to be made king, it is generally agreed that the people did not have the right motivation for making him king. They wanted him to be king because he gave them food. They failed to recognize the truth that he already is the king of kings. (See: [[rc://en/ta/man/translate/figs-explicit]])
+##### King #####
+
+The king of any nation was the richest and most powerful person in that nation. The people wanted Jesus to be their king because he gave them food and so they thought he would make the Jews into the richest and most powerful nation in the world. They did not understand that Jesus came to die so God could forgive his people's sins and that the world would persecute his people.
+
+#### Important metaphors in this chapter ####
 
 ##### Bread #####
-Jesus uses the imagery of bread in this chapter. Bread's significance can be traced back to the daily provision God provided to Israel in the desert for 40 years and the events of the Passover. (See: [[rc://en/tw/dict/bible/kt/passover]])
 
-##### "I am ... " #####
-John uses this phrase seven times in his gospel. It is the same words used by God, when he revealed himself and his name Yahweh at the burning bush. The name "Yahweh" can be translated as "I am."
+Bread was the most common and important food in Jesus' day, and so the word "bread" was their general word for "food."  It is often difficult to translate the word "bread" into the languages of people who do not eat bread because the general word for food in some languages refers to food that did not exist in Jesus' culture. Jesus used the word "bread" to refer to himself. He wanted them to understand that they need him so they can have eternal life. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-synecdoche]])
 
-#### Important figures of speech in this chapter ####
+##### Eating the flesh and drinking the blood #####
 
-##### "Gives to me ... comes to me" #####
-These phrases are used to mean that many will "come to believe in Jesus." (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-##### "Eat my flesh and drink my blood" #####
-This should clearly be seen as a metaphor. It is a reference to the practice instituted during Jesus' last meal when Jesus used bread and wine to represent his flesh and blood. This is a reference to Jesus' death for sin. (See: [[rc://en/tw/dict/bible/kt/flesh]], [[rc://en/tw/dict/bible/kt/blood]] and [[rc://en/tw/dict/bible/kt/sin]])
+When Jesus said, "Unless you eat the flesh of the Son of Man and drink his blood, you will not have life in yourselves," he knew that before he died he would tell his followers to do this by eating bread and drinking wine. In the event this chapter describes, he expected that his hearers would understand that he was using a metaphor but would not understand what the metaphor referred to. (See: [[rc://en/tw/dict/bible/kt/flesh]] and [[rc://en/tw/dict/bible/kt/blood]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Parenthetical Ideas #####
 Several times in this passage, John explains something or gives the reader some context to better understand the story. These explanation are intended to give the reader some additional knowledge without interrupting the flow of the narrative. The information is placed inside parentheses.
 
-##### "Son of Man, Son" #####
+##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this passage. Some languages may not allow a person to refer to himself in the third person.
+Jesus refers to himself as the "Son of Man" in this chapter ([John 6;26](./26.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

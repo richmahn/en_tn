@@ -12,7 +12,7 @@ The prophesied destruction of Babylon continues in this chapter. (See: [[rc://en
 Babylon will be conquered and the Jews will return to their homeland. At this time, Babylon controlled almost the entire Near East. The fulfillment of this prophecy would have been unthinkable. (See: [[rc://en/tw/dict/bible/kt/fulfill]])
 
 ##### Covenant with Abraham #####
-Babylon is destroyed because it drove the people of Judah from their homeland. This is in line with the promises of the covenant Yahweh made with Abraham to curse those who curse Abraham's descendants. (See: [[rc://en/tw/dict/bible/kt/promise]], [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/curse]])
+Babylon is destroyed because it drove the people of Judah from their homeland. This is in line with the promises of the covenant Yahweh made with Abraham to curse those who curse Abraham's descendants. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/curse]])
 
 ## Links: ##
 

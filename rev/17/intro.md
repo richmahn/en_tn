@@ -22,9 +22,9 @@ John uses many different metaphors in this chapter. He gives some explanation of
 ##### "The beast you saw existed, does not exist now, but is about to come up " #####
 This phrase is intended to contrast the statement that Jesus "was and is and is to come" used elsewhere in Scripture. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. This sentences in 17:11 is a paradox: "the beast ... is itself also an eighth king; but it is one of those seven kings." The translator should not attempt to resolve this paradox, and it should remain a mystery. ([Revelation 17:11](./20.md))
+A paradox is a true statement that appears to describe something impossible. This sentences in 17:11 is a paradox: "the beast ... is itself also an eighth king; but it is one of those seven kings." The translator should not attempt to resolve this paradox, and it should remain a mystery. ([Revelation 17:11](./20.md))
 
 ## Links: ##
 

@@ -2,15 +2,17 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 19:24, which are words from the OT.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 19:24, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
 ##### "Purple garment" #####
-The color purple was a sign of royalty in the ancient Near East. Jesus was mockingly dressed to look like a king.
+
+Purple is a color like red or blue. The people were mocking Jesus, so they put him in a purple garment. This was because kings wore purple garments. They spoke and acted like they were giving honor to a king, but everyone knew that they were doing it because they hated Jesus. (See: [[rc://en/ta/man/translate/figs-irony]])
 
 ##### "You are not Caesar's friend" #####
-Pilate did not want to sentence Jesus to death, but the Jews forced him. They did this to make it seem as if allowing Jesus to live would betray the Roman government.
+
+Pilate knew that Jesus was not a criminal, so he did not want to have his soldiers kill him. But the Jews told him that Jesus was claiming to be a king, and anyone who did that was breaking Caesar's laws ([John 19:12](./12.md)).
 
 ##### The tomb #####
 
@@ -19,11 +21,13 @@ The tomb in which Jesus was buried ([John 19:41](./40.md)) was the kind of tomb 
 #### Important figures of speech in this chapter ####
 
 ##### Sarcasm #####
-The following phrases are intended to be taken sarcastically: "Hail, King of the Jews," "Should I crucify your king?" and "Jesus of Nazareth, King of the Jews." Sarcasm is the use of irony to insult someone. (See: [[rc://en/ta/man/translate/figs-irony]])
+
+The soldiers were insulting Jesus when they said, "Hail, King of the Jews." Pilate was insulting the Jews when he asked, "Should I crucify your king?" He was probably also insulting both Jesus and the Jews when he wrote, "Jesus of Nazareth, King of the Jews." (See: [[rc://en/ta/man/translate/figs-irony]])
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Gabbatha, Golgotha #####
+
 These are two Hebrew words. After translating the meanings of these words ("The Pavement" and "The Place of a Skull"), the author transliterates their sounds by writing them with Greek letters.
 
 ## Links: ##

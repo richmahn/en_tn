@@ -12,7 +12,7 @@ The prophecy revealed to Jeremiah is recorded in 8:5-9:12. Despite covering more
 This chapter pictures Jerusalem as having a funeral with its typical songs. This is an image used to describe their destruction. It is a time of great sadness. 
 
 ##### Circumcision #####
-Circumcision is used here in an unusual way. Since circumcision was intended to be a display of faith, the author uses the term to differentiate between those who have faith in Yahweh and those who don't. This is a type of metaphor. Those who have a circumcised heart have faith in Yahweh while those with an uncircumcised heart do not have faith in Yahweh, regardless of whether they are physically circumcised. (See: [[rc://en/tw/dict/bible/kt/circumcise]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/circumcise]] and [[rc://en/ta/man/translate/figs-metaphor]])
+Circumcision is used here in an unusual way. Since circumcision was intended to be a display of faith, the author uses the term to differentiate between those who have faith in Yahweh and those who don't. This is a type of metaphor. Those who have a circumcised heart have faith in Yahweh while those with an uncircumcised heart do not have faith in Yahweh, regardless of whether they are physically circumcised. (See: [[rc://en/tw/dict/bible/kt/circumcise]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

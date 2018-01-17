@@ -14,7 +14,7 @@ In verse [Jonah 17](./17.md), there is the mention of "a great fish." It may be 
 
 ##### Situational irony #####
 
-There is an ironic situation in this chapter. Jonah is a prophet of God and should endeavor to do God's will. Instead, he is running away from God. Although the Gentile sailors are not Israelites, they act out of faith and fear of Yahweh when sending Jonah to a "certain death" by throwing him overboard. (See: [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/willofgod]] and [[rc://en/tw/dict/bible/kt/faith]])
+There is an ironic situation in this chapter. Jonah is a prophet of God and should endeavor to do God's will. Instead, he is running away from God. Although the Gentile sailors are not Israelites, they act out of faith and fear of Yahweh when sending Jonah to a "certain death" by throwing him overboard. (See: [[rc://en/ta/man/translate/figs-irony]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/willofgod]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Sea #####
 

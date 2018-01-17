@@ -7,23 +7,18 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### "Outward ornaments" #####
-These were signs of a beautiful woman in ancient Israel. They are contrasted with "inner" beauty or godly character. Many cultures have different standards of external beauty for women. (See: [[rc://en/tw/dict/bible/kt/godly]])
+
+Most people want to look good so other people will like them and think they are good people. Women are especially careful to look good by wearing nice clothes and jewels. Peter is saying that what a person thinks and says and does are more important to God than how he looks.
 
 ##### Unity #####
-The apostles placed a great value on unity in the local church. This chapter encourages unity and peace in the church.
+
+Peter wanted his readers to agree with each other. More importantly, he wanted them to love each other and be patient with each other.
 
 #### Important figures of speech in this chapter ####
 
-#### Other possible translation difficulties in this chapter ####
+##### Metaphor #####
 
-##### Synecdoche #####
-In the referenced verses, the psalmist uses several synecdoches to describe God. This is because God is indescribable and often requires images and other figures of speech for us to understand him. It is also common in poetry to use different figures of speech. (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-
-#### Other possible translation difficulties in this chapter ####
-
-##### Wives, submit to your husbands #####
-
-Scholars are divided over how to understand this passage in light of its historical and cultural context. Some scholars have the belief that men and women are perfectly equal in all things (known as egalitarianism). Other scholars have the belief that men and women were created to serve in distinctly different roles in marriage and the church (known as complementarianism). How one understands this issue will likely affect how this passage is translated.
+Peter quotes a psalm that describes God as if he were a person with eyes, ears, and a face. However, God is a spirit, so he does not have physical eyes or ears or a physical face. But he does know what people do, and he does act against wicked people. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 

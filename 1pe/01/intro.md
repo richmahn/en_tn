@@ -6,20 +6,23 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 #### Special concepts in this chapter ####
 
-##### Work of God in salvation #####
-This chapter emphasizes the work of God in salvation. It reminds Christians of the great things only God could have done in order to bring them to a right relationship with himself. (See: [[rc://en/tw/dict/bible/kt/works]] and [[rc://en/tw/dict/bible/kt/save]])
+##### What God reveals #####
+
+When Jesus comes again, everyone will see how good God's people were to have faith in Jesus. Then God's people will see how gracious God has been to them, and all people will praise both God and his people.
+
+##### Holiness #####
+
+God wants his people to be holy because God is holy. (See: [[rc://en/tw/dict/bible/kt/holy]])
 
 ##### Eternity #####
-This chapter contrasts living for things of this world, which will not last, with living for things that will matter eternally. It is also important to live with the expectation that Jesus will return soon. (See: [[rc://en/tw/dict/bible/kt/eternity]])
+
+Peter tells Christians to live for things that will last forever and not to live for the things of this world, which will end. (See: [[rc://en/tw/dict/bible/kt/eternity]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### The use of paradox #####
+##### Paradox #####
 
-A paradox is a seemingly absurd statement that appears to contradict itself, but it is not absurd. This sentence in 1:6 is a paradox. "You are very glad about this, even though it is now necessary for you to feel sadness in many different troubles." But in 1:7 Peter explains why the people are very glad even though they have troubles. ([1 Peter 1:6](./06.md))
-
-##### "You are now" #####
-Even though the statement, "You are now receiving for yourselves the result of your faith, the salvation of your souls," is in the present tense, it refers to an action that has already happened. Therefore, it can be translated as a completed action. Some English translations do this and use a slightly different construction.
+A paradox is a true statement that appears to describe something impossible. Peter writes that his readers are glad and sad at the same time ([1 Peter 1:6](./06.md)). He can say this because they are sad because they are suffering, but they are glad because they know that God will save them "in the last time" ([1 Peter 1:5](./03.md))
 
 ## Links: ##
 

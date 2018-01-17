@@ -2,19 +2,23 @@
 
 #### Special concepts in this chapter ####
 
-##### Sheep #####
-Sheep is a common image used to refer to people. In this passage, it specifically refers to people who believe in Jesus and follow him. The Pharisees are likewise compared to wolves coming to steal and destroy the sheep.
-
 ##### Blasphemy #####
-If someone falsely claims to be God, then it is considered blasphemy. In the law of Moses, the punishment for blasphemy was stoning to death. They did not believe Jesus, so they took up stones to kill him. Jesus was not guilty of blasphemy because he is God. (See: [[rc://en/tw/dict/bible/kt/blasphemy]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-#### Important figures of speech in this chapter ####
+When a person claims that he is God or that God has told him to speak when God has not told him to speak, this is called blasphemy. The law of Moses commanded the Israelites to kill blasphemers by stoning them to death. When Jesus said, "I and the Father are one," the Jews thought he was blaspheming, so they took up stones to kill him. (See: [[rc://en/tw/dict/bible/kt/blasphemy]] and [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-##### Sheepfold #####
-The illustration used here involves the place where sheep are kept. There would have been a door or gate that the shepherd would have normally entered into the sheepfold. The sheep immediately recognize him. On the other hand, a robber would have entered into the sheepfold through another way where he may not be caught. The sheep would likely run from the thief because they did not recognize him. Jesus uses this as a metaphor for his ministry. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+#### Important metaphors in this chapter ####
 
-##### "I lay down my life that I may take it again" #####
-Although this is not set apart in any way, it is certainly a prophecy concerning Jesus' coming death. It emphasizes that he willingly died for the sins of man. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/sin]])
+##### Sheep #####
+
+Jesus spoke of people as sheep because sheep do not see well, they do not think well, they often walk away from those who care for them, and they cannot defend themselves when other animals attack them. God's people also rebel against him and do not know when they are doing wrong.
+
+##### Sheep pen #####
+
+A sheep pen was a space with a stone wall around it in which shepherds would keep their sheep. Once they were inside the sheep pen, the sheep could not run away, and animals and thieves could not easily get inside to kill or steal them.
+
+##### Laying down and taking up life #####
+
+Jesus speaks of his life as if it were a physical object that he could lay down on the ground, a metaphor for dying, or pick up again, a metaphor for becoming alive again.
 
 ## Links: ##
 

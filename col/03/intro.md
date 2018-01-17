@@ -7,16 +7,16 @@ The second part of this chapter parallels Ephesians 5 and 6.
 #### Special concepts in this chapter ####
 
 ##### Old and new self #####
-The old and new self are concepts equivalent to the old/new man. The term "old man" probably refers to the sinful nature a person is born with, while the "new man" is the new nature or new life that is given to a person after they come to faith in Christ. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
-
-##### Character #####
-Many of the qualities Paul encourages his readers to pursue (or avoid) are not actions themselves as much as they are character qualities. Because of this, they may present difficulties in translation. (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+The old and new self mean the same as the old and new man. The term "old man" probably refers to the sinful nature with which a person is born. The "new man" is the new nature or new life that God gives a person after they come to believe in Christ. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "That which is above" #####
+##### Character #####
+Many of the things Paul encourages his readers to pursue or avoid are not actions but character qualities. Because of this, they may be difficult to translate. (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 
-God is often pictured as being located above. When Paul says here to seek the things above or to think about what is above, he is implying Christians should seek to please God with their actions. 
+##### "The things above" #####
+
+Where God dwells is often pictured as being located "above." Paul says to "seek the things above" and to "think about the things above." He is implying Christians should seek and think about heavenly and godly things. 
 
 ## Links: ##
 

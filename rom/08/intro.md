@@ -25,7 +25,7 @@ Paul poetically presents his teaching in verses 38 and 39 in the form of an exte
 #### Other possible translation difficulties in this chapter ####
 
 ##### No condemnation #####
-This phrase must be translated carefully to avoid doctrinal confusion. People are still guilty of their sin. God disapproves of acting sinfully, even after believing in Jesus. God still punishes the sins of believers, but Jesus has paid the punishment for their sin. This is what Paul expresses here. The word "condemn" has several possible meanings. Here Paul emphasizes that people who believe in Jesus are no longer punished eternally for their sin by being "condemned to hell." (See: [[rc://en/tw/dict/bible/kt/guilt]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/condemn]])
+This phrase must be translated carefully to avoid doctrinal confusion. People are still guilty of their sin. God disapproves of acting sinfully, even after believing in Jesus. God still punishes the sins of believers, but Jesus has paid the punishment for their sin. This is what Paul expresses here. The word "condemn" has several possible meanings. Here Paul emphasizes that people who believe in Jesus are no longer punished eternally for their sin by being "condemned to hell." (See: [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/condemn]])
 
 ##### Flesh #####
 

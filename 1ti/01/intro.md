@@ -3,16 +3,16 @@
 #### Special concepts in this chapter ####
 
 ##### Spiritual children #####
-Paul calls Timothy his "son." Paul was very involved in discipling Timothy in his faith. Therefore, he called him his "spiritual" son. (See: [[rc://en/tw/dict/bible/kt/disciple]], [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/ta/man/translate/figs-metaphor]]) 
+In this chapter, Paul calls Timothy a "son" and his "child." Paul discipled Timothy as a Christian and a church leader. Paul may also have led him to believe in Christ. Therefore, Paul called Timothy his "son in the faith." (See: [[rc://en/tw/dict/bible/kt/disciple]], [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/ta/man/translate/figs-metaphor]]) 
 
 ##### Genealogies #####
 
-Genealogies are lists that record a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could become king. Most important people had records of their genealogies.
+Genealogies are lists that record a person's ancestors or descendants. Jews used genealogies to choose the right man to become king. They did this because only a son of a king could normally become king. They also showed from what tribe and family they came. For example, priests came from the tribe of Levi and the family of Aaron. Most important people had records of their genealogies.
 
 #### Important figures of speech in this chapter ####
 
 ##### Play on words #####
-The phrase "the law is good if one uses it lawfully" is a pun or play on words. "Law" and "lawfully" sound similar. 
+The phrase "the law is good if one uses it lawfully" is a play on words. The words "law" and "lawfully" sound similar in the original language. 
 
 ## Links: ##
 

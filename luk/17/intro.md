@@ -1,30 +1,32 @@
 # Luke 17 General Notes #
 
-#### Structure and formatting ####
-
-In the cleansing of the 10 men ([Luke 17:11-17](./11.md)), there should be an implicit understanding of the structure of this story. It is one unified story. The reaction of the supposedly ungodly Samaritan is correct, while the reaction of the other men was incorrect and it is assumed that they were Jews. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/godly]])
-
 #### Special concepts in this chapter ####
 
 ##### Old Testament Examples #####
-This chapter uses a series of examples from the Old Testament. All of these examples are of times when the people did not concern themselves with God. Properly understanding the meaning of each individual example will be difficult without the necessary background understanding from the book of Genesis. 
+
+Jesus used the lives of Noah and of Lot to teach his followers. Noah was ready for the flood when it came, and they needed to be ready for him to return, because he would not warn them when he came. Lot's wife loved the evil city she had been living in so much that God also punished her when he destroyed it, and they needed to love Jesus more than anything else,
+
+Those who read your translation may need help so they can understand what Jesus was teaching here.
 
 #### Important figures of speech in this chapter ####
 
-##### "It would be better" #####
-This is a special type of hypothetical situation. In this situation, rather than speaking about a condition or what would happen, it gives an explanation about a hypothetical future situation if the current situation remains unchanged. (See: [[rc://en/ta/man/translate/figs-hypo]])
+##### Hypothetical situations #####
 
-##### Hypothetical Situations and Rhetorical Situations #####
-Jesus uses two figures of speech at the same time in this chapter. He combines a hypothetical situation and rhetorical questions because the proper answer to the hypothetical situation should be obvious. (See: [Luke 17:5-9](./05.md) and [[rc://en/ta/man/translate/figs-rquestion]])
+Hypothetical situations are situations that have not actually happened. Jesus used a special type of hypothetical situation to teach that what will happen to those who cause others to sin will be worse than being drowned ([Luke 19:1-2](./01.md)) and another to scold the disciples because they had little faith ([Luke 19:6](./05.md)). (See: [[rc://en/ta/man/translate/figs-hypo]])
+
+##### Rhetorical Questions #####
+
+Jesus asked his disciples three questions ([Luke 17:7-9](./07.md)) to teach them that even those who serve him well are righteous only because of his grace. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/grace]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 #### Other possible translation difficulties in this chapter ####
 
-##### Son of Man #####
-Jesus refers to himself as the "Son of Man." Not every language may allow a person to refer to himself in the third person. 
+##### "Son of Man" #####
 
-##### The use of paradox #####
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 17:22](./22.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
-A paradox is a seemingly absurd statement, which appears to contradict itself, but it is not absurd. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
+##### Paradox #####
+
+A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](./32.md)).
 
 ## Links: ##
 

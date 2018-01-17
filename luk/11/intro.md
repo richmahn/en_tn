@@ -8,16 +8,19 @@ The ULB sets the lines in 11:2-4 farther to the right on the page than the rest 
 
 ##### The Lord's Prayer #####
 
-This is not a prayer to be recited repeatedly, although this prayer can be used in that way. Instead, it provides a model for how Christians are to pray.
+When Jesus' followers asked him to teach them how to pray, he taught them this prayer. He did not expect them to use the same words every time they prayed, but he did want them to know what God wanted them to pray about.
 
 ##### Jonah #####
-Jonah was an Old Testament prophet of some significance but not a great deal of significance. He called a Gentile nation to repent of their sins and they obeyed. These events cause the Jewish prophet to be upset with God's grace being shown to Gentiles. This chapter finds a parallel with the future attitude of the Jews, their lack of repentance and eventually becoming upset with God for the grace he shows to the Gentiles. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/grace]])
 
-##### Light #####
-Light is a common image in Scripture used to represent righteousness. Light is also used to show the path of righteousness and to show righteous living. Darkness is often used as an image to represent sin or unrighteousness. (See: [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/righteous]])
+Jonah was an Old Testament prophet who was sent to the Gentile city of Nineveh to tell them to repent. When he told them to repent, they repented. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/repent]])
+
+##### Light and darkness #####
+
+The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### Washing #####
-This was a practice done by the Pharisees, but it was not an obligation according to the law of Moses. The Pharisees had many rituals involving washing in an attempt to make themselves clean. This is ironic because no amount of water could make them spiritually clean. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]], [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/ta/man/translate/figs-irony]])
+
+The Pharisees would wash themselves and the things they ate with. They would even wash things that were not dirty. The law of Moses did not tell them to wash these things, but they would wash them anyway. This was because they thought that if they obeyed both the rules that God had made and some rules that God had not made, God would think that they were better people. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/clean]])
 
 ## Links: ##
 

@@ -10,7 +10,7 @@
     - Four horns and four craftsmen (1:18–21)
     - The measuring line (2:1–13)
     - The priest in filthy clothes (3:1–10)
-    - The golden lampstand and olive trees (4:1–14)
+    - The golden lampstand olive trees (4:1–14)
     - The flying scroll (5:1–4)
     - The woman in a basket (5:5–11)
     - Four chariots (6:1–8)

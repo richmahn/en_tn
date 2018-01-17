@@ -18,9 +18,13 @@ Jesus said things that he did not expect his followers to understand literally. 
 
 Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they disappear. All four of them saw Elijah and Moses, and because Elijah and Moses spoke with Jesus, the reader should understand that Elijah and Moses appeared physically.
 
+##### "Son of Man" #####
+
+Jesus refers to himself as the "Son of Man" in this chapter ([Mark 9:31](./30.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+
 ##### Paradox #####
 
-A paradox is a statement that appears to describe something impossible. Jesus uses a paradox when he says, "If anyone wants to be first, he must be last of all and servant of all" ([Mark 9:35](./33.md)).
+A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "If anyone wants to be first, he must be last of all and servant of all" ([Mark 9:35](./33.md)).
 
 ## Links: ##
 

@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Woe #####
-This chapter presents a series of woes, or judgments against those who are spoken against. Most of these judgements are due to the lack of justice in Judah. (See: [[rc://en/tw/dict/bible/kt/woe]], [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/justice]])
+This chapter presents a series of woes, or judgments against those who are spoken against. Most of these judgements are due to the lack of justice in Judah. (See: [[rc://en/tw/dict/bible/kt/woe]] and [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/justice]])
 
 #### Important figures of speech in this chapter ####
 
