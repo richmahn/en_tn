@@ -2,19 +2,19 @@
 
 #### Structure and formatting ####
 
-Chapter 19 will continue the material contained in this chapter and both should be seen as a single unit.
-
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 19:1-8.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 1-8.
 
 #### Special concepts in this chapter ####
 
 ##### Prophecy #####
-The angel gives a prophecy about the fall of Babylon. It is spoken of as having already happened even though it had not yet happened. This was common in prophecy and emphasizes the inevitability of the coming judgment. It is also prophesied that the people will lament over the fall of Babylon. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+
+The angel prophesies about Babylon falling, which here means being destroyed. It is spoken of as having already happened. This is common in prophecy. It emphasizes that the coming judgment will certainly happen. The angel also prophesies that the people will lament over Babylon falling. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
 #### Important figures of speech in this chapter ####
 
 ##### Metaphors #####
-Metaphors are frequently used in prophecy. This chapter forms a slight break in the apocalyptic style of the book of Revelation overall. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+
+Prophecy frequently uses metaphors. This chapter has a slightly different apocalyptic style than the Book of Revelation overall. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 
