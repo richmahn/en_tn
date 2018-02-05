@@ -14,7 +14,7 @@ John wrote this book to seven actual churches in Asia Minor, which is now the co
 
 ##### White #####
 
-The Bible often speaks of something that belongs to a person being "white" as a metaphor and metonym for that person living rightly and pleasing God. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/tw/dict/bible/kt/righteous]])
+The Bible often speaks of something that belongs to a person as being "white." This is metaphor and metonym for that person living rightly and pleasing God. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
 ##### "Him who is, and who was, and who is to come" #####
 
@@ -34,7 +34,7 @@ Jesus went into the clouds when he went up to heaven after God raised him from t
 
 ##### "One like a son of man" #####
 
-This refers to Jesus. You should translate the words "son of man" using the same words that you used to translate the words of Jesus when he said he is the Son of Man.
+This refers to Jesus. You should translate the words "son of man" using the same words as you did in the Gospels for when Jesus called himself the "Son of Man."
 
 ##### "The angels of the seven churches" #####
 
