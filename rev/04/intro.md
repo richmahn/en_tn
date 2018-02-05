@@ -24,8 +24,6 @@ These spirits are the seven spirits of [Revelation 1:4](../01/04.md).
 
 God's glory is the great beauty and radiant majesty that God has because he is God. Other Bible writers describe it as if it were a light so bright that no one can look at it. No one can give God this kind of glory, because it is already his. When people give glory to God or when God receives glory, people say that God has the glory that is his, that it is right for God to have that glory, and that people should worship God because he has that glory. (See: [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/tw/dict/bible/kt/worthy]] and [[rc://en/tw/dict/bible/kt/worship]])
 
-#### Important figures of speech in this chapter ####
-
 #### Other possible translation difficulties in this chapter ####
 
 ##### Difficult images #####

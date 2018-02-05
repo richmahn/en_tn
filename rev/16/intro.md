@@ -2,26 +2,28 @@
 
 #### Structure and formatting ####
 
-This chapter forms the conclusion of a major section of the book of Revelation, ending the period of wrath or great judgment by God. (See: [[rc://en/tw/dict/bible/kt/judge]])
+This chapter continues the vision of chapter 15. Together they give the seven plagues that complete the wrath of God. (See: [[rc://en/tw/dict/bible/kt/wrath]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 16:5-7.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 5-7.
 
 #### Special concepts in this chapter ####
 
-##### "The most holy place" #####
+##### "I heard a loud voice call out of the temple" #####
 
-This statement has led some scholars to believe that the Jewish temple reflected a scene in heaven. (See: [[rc://en/tw/dict/bible/kt/heaven]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
+This is the same temple that was mentioned in chapter 15.
 
-##### Seven bowl judgments #####
-This chapter reveals judgments called the seven bowl judgments. The judgments are pictured as being poured out, emphasizing their quickness and totality. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+##### Seven bowls of God's wrath #####
+
+This chapter reveals severe judgments. They are pictured as angels pouring out seven bowls of God's wrath. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 
-The tone of this chapter is meant to shock the reader. This should not be minimized in translation. 
+The tone of this chapter is meant to astonish the reader. Translations should not minimize the vivid language expressed in this chapter.
 
 ##### Armageddon #####
 
-This is a word in Hebrew, and it is used as the name of a place. John transliterates the sounds of this word by writing them with Greek letters. Translators are encouraged to transliterate it using the letters of the target language. 
+This is a Hebrew word. It is the name of a place. John used the sounds of the Hebrew word and wrote them with Greek letters. Translators are encouraged to transliterate it using the letters of the target language. (See: [[rc://en/ta/man/translate/translate-transliterate]])
+
 
 ## Links: ##
 
