@@ -16,7 +16,7 @@ The Bible uses a building made of large stones as a metaphor for the church. Jes
 
 ##### Milk and babies #####
 
-When Peter tells his readers to "long for pure spiritual milk," he is using the metaphor of a baby who cannot yet eat solid food. He wants to tell the readers that they are only able to understand simple things about living to please God. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+When Peter tells his readers to "long for pure spiritual milk," he is using the metaphor of a baby craving his mother's milk. Peter wants Christians to crave God's word the same way a baby craves milk. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 ## Links: ##
 
