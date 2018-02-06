@@ -12,14 +12,14 @@ Paul teaches about the church in this chapter. The church is made of two differe
 #### Important figures of speech in this chapter ####
 
 ##### "Dead in trespasses and sins" #####
-Paul teaches that those who are not Christians are "dead" in their sin. Sin binds or enslaves them. This makes them spiritually "dead". Paul writes that God makes Christians alive in Christ. (See: [[rc://en/tw/dict/bible/other/death]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-metaphor]])
+Paul teaches that those who are not Christians are "dead" in their sin. Sin binds or enslaves them. This makes them spiritually "dead." Paul writes that God makes Christians alive in Christ. (See: [[rc://en/tw/dict/bible/other/death]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/ta/man/translate/figs-metaphor]])
 
 ##### Descriptions of worldly living #####
-Paul uses many different ways to describe how the non-Christian world acts. They "lived according to the ways of this world" and are "living according to the ruler of the authorities of the air," "fulfilling the evil desires of our sinful nature," and "carrying out the desires of the body and of the mind."
+Paul uses many different ways to describe how non-Christians act. They "lived according to the ways of this world" and are "living according to the ruler of the authorities of the air," "fulfilling the evil desires of our sinful nature," and "carrying out the desires of the body and of the mind."
 
 #### Other possible translation difficulties in this chapter ####
 
-##### "It is a gift of God" #####
+##### "It is the gift of God" #####
 Some scholars believe "it" here refers to being saved. Other scholars believe that it is faith that is the gift of God. Because of how the Greek tenses agree, "it" here more likely refers to all of being saved by God's grace through faith.
 
 ##### Flesh #####
