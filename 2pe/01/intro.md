@@ -1,5 +1,9 @@
 # 2 Peter 01 General Notes #
 
+#### Structure and formatting ####
+
+Peter formally introduces this letter in verses 1-2. Writers often began letters in this way in the ancient Near East.
+
 #### Special concepts in this chapter ####
 
 ##### Knowledge of God #####
