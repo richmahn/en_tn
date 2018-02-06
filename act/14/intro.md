@@ -8,7 +8,7 @@ The message of Jesus is the message that God will show grace to those who believ
 
 ##### Zeus and Hermes #####
 
-The Gentiles in the Roman Empire worshiped many different false gods who do not really exist. Paul and Barnabas told them to believe in the "living God," Yahweh. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+The Gentiles in the Roman Empire worshiped many different false gods who do not really exist. Paul and Barnabas told them to believe in the "living God." (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 #### Other possible translation difficulties in this chapter ####
 
