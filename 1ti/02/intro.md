@@ -6,7 +6,8 @@
 Paul encourages Christians to pray for everyone. They should pray for rulers so that Christians can live peacefully, in a godly and dignified way.
 
 ##### Women in the church #####
-Translators should be especially careful to accurately translate these passages. 
+
+Scholars are divided over how to understand this passage in its historical and cultural context. Some scholars believe men and women are perfectly equal in all things. Other scholars believe God created men and women to serve in distinctly different roles in marriage and the church. Translators should be careful not to let how they understand this issue affect how they translate this passage. 
 
 #### Other possible translation difficulties in this chapter ####
 
