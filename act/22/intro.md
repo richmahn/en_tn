@@ -12,7 +12,7 @@ Most Jews at this time spoke Aramaic and Greek. Most of the people who spoke Heb
 
 ##### "The Way" #####
 
-No one knows for sure who first started calling believers followers of the Way. This is probably what the believers called themselves, because the Bible often speaks of a person living his life as if that person were walking on a path or "way," If this is true, the believers were "following the way of the Lord" by living in a way that pleased God.
+No one knows for sure who first started calling believers "followers of the Way." This is probably what the believers called themselves, because the Bible often speaks of a person living his life as if that person were walking on a path or "way." If this is true, the believers were "following the way of the Lord" by living in a way that pleased God.
 
 ##### Roman citizenship #####
 
