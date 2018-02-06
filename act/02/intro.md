@@ -12,7 +12,7 @@ The events described in this chapter are commonly called "Pentecost." Many peopl
 
 ##### Tongues #####
 
-The word "tongues" has two meanings in theis chapter. Luke describes what came down from heaven ([Acts 2:3](./01.md)) as tongues that looked like fire. This is different from "a tongue of flame," which is a fire that looks like a tongue. Luke also uses the word "tongues" to describe the languages that the people spoke after the Holy Spirit filled them ([Acts 2:4-6](./01.md)). 
+The word "tongues" has two meanings in this chapter. Luke describes what came down from heaven ([Acts 2:3](./01.md)) as tongues that looked like fire. This is different from "a tongue of flame," which is a fire that looks like a tongue. Luke also uses the word "tongues" to describe the languages that the people spoke after the Holy Spirit filled them ([Acts 2:4-6](./01.md)). 
 
 ##### Last days #####
 

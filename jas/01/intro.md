@@ -1,5 +1,9 @@
 # James 01 General Notes #
 
+#### Structure and formatting ####
+
+James formally introduces this letter in verse 1. Writers often began letters in this way in the ancient Near East.
+
 #### Special concepts in this chapter ####
 
 ##### Testing and temptation #####
@@ -14,7 +18,7 @@ The crown that a man who passes the test receives is a reward, something that pe
 
 ##### Metaphors #####
 
-James uses many metaphors in this chapter, and you will need to understand the material on the [[rc://en/ta/man/translate/figs-metaphor]] page before you can translate them well.
+James uses many metaphors in this chapter, and you will need to understand the material on the metaphor page before you can translate them well. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 

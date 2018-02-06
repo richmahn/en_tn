@@ -8,7 +8,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### "Outward ornaments" #####
 
-Most people want to look good so other people will like them and think they are good people. Women are especially careful to look good by wearing nice clothes and jewels. Peter is saying that what a person thinks and says and does are more important to God than how he looks.
+Most people want to look good so other people will like them and think they are good people. Women are especially careful to look good by wearing nice clothes and jewels. Peter is saying that what a woman thinks and says and does are more important to God than how she looks.
 
 ##### Unity #####
 

@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Circumcision and baptism #####
-In verses 11-12, Paul uses both the old covenant sign of circumcision and the new covenant sign of baptism to picture how Christians are united with Christ and freed from sin.
+In verses 11-12, Paul uses both the old covenant sign of circumcision and the new covenant sign of baptism to show how Christians are united with Christ and freed from sin.
 
 #### Other possible translation difficulties in this chapter ####
 

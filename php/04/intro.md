@@ -8,7 +8,7 @@ Paul had helped the Philippians become spiritually mature. As a result, Paul rej
 #### Other possible translation difficulties in this chapter ####
 
 ##### Euodia and Syntyche #####
-Apparently, these two women disagreed with each other. Paul was encouraging them to agree. What they actually disagreed about is not significant. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Apparently, these two women disagreed with each other. Paul was encouraging them to agree. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ## Links: ##
 

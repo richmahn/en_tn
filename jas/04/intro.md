@@ -8,7 +8,7 @@ Writers in the Bible often speak of adultery as a metaphor for people who say th
 
 ##### Law #####
 
-James probably uses this word in [James 4:11](./11.md) to refer to "the royal law" ([James 2:8](../02/08.md)), not to the law of Moses. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
+James probably uses this word in [James 4:11](./11.md) to refer to "the royal law" ([James 2:8](../02/08.md)).
 
 #### Important figures of speech in this chapter ####
 

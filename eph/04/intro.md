@@ -7,7 +7,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 #### Special concepts in this chapter ####
 
 ##### Spiritual gifts #####
-Spiritual gifts are specific supernatural abilities that the Holy Spirit gives to Christians after they come to believe in Jesus. Paul lists here only some of the spiritual gifts. Some scholars believe that the Holy Spirit gave some spiritual gifts only to believers in the early church. These spiritual gifts were foundational to developing the church. (See: [[rc://en/tw/dict/bible/kt/faith]])
+Spiritual gifts are specific supernatural abilities that the Holy Spirit gives to Christians after they come to believe in Jesus. These spiritual gifts were foundational to developing the church. Paul lists here only some of the spiritual gifts. (See: [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### Unity #####
 Paul considers it very important that the church is united. This is a major theme of this chapter. 

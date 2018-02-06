@@ -8,7 +8,7 @@ The Jews expected the Christ or Messiah to be a powerful king because the Old Te
 
 ##### The religion of Athens #####
 
-Paul said that the Athenians were "religious," but they did not worship Yahweh. They worshiped many different false gods. In the past they had conquered other peoples and begun to worship the gods of the people they had conquered. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
+Paul said that the Athenians were "religious," but they did not worship the true God. They worshiped many different false gods. In the past they had conquered other peoples and begun to worship the gods of the people they had conquered. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 In this chapter Luke describes for the first time how Paul told the message of Christ to people who knew nothing of the Old Testament.
 

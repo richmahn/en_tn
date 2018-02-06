@@ -14,7 +14,7 @@ The crown that the Chief Shepherd will give is a reward, something that people w
 
 ##### Lion #####
 
-All animals are afraid of lions because they are fast and strong, and they eat almost every other kind of animal. They also eat people. Satan wants to make God's people afraid, so Peter uses the simile of a lion to teach his readers that Satan can harm their bodies, but if they trust in God and obey him, they will always be God's people, and God will care for them, (See: [[rc://en/ta/man/translate/figs-simile]])
+All animals are afraid of lions because they are fast and strong, and they eat almost every other kind of animal. They also eat people. Satan wants to make God's people afraid, so Peter uses the simile of a lion to teach his readers that Satan can harm their bodies, but if they trust in God and obey him, they will always be God's people, and God will care for them. (See: [[rc://en/ta/man/translate/figs-simile]])
 
 ##### Babylon #####
 
