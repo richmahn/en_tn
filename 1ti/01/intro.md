@@ -1,5 +1,9 @@
 # 1 Timothy 01 General Notes #
 
+#### Structure and formatting ####
+
+Paul formally introduces this letter in verses 1-2. Writers often began letters in this way in the ancient Near East.
+
 #### Special concepts in this chapter ####
 
 ##### Spiritual children #####
