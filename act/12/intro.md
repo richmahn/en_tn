@@ -2,8 +2,6 @@
 
 #### Structure and formatting ####
 
-##### "This is the voice of a god, not of a man!" #####
-
 Chapter 12 tells what happened to King Herod while Barnabas was bringing Saul back from Tarsus and they were delivering money from Antioch Jerusalem (11:25-30). He killed many of the leaders of the church, and he put Peter in prison. After God helped Peter escape the prison, Herod killed the prison guards, and then God killed Herod. In the last verse of the chapter, Luke tells how Barnabas and Saul return to Antioch.
 
 #### Important figures of speech in this chapter ####
