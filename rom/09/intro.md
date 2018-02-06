@@ -16,7 +16,7 @@ In other chapters, Paul uses the word "brother" to mean fellow Christians. Howev
 Paul refers to those who believe in Jesus as "children of God" and "children of the promise."
 
 ##### Predestination #####
-Many scholars believe Paul in this chapter teaches extensively on a subject known as "predestination." This is related to the biblical concept of "predestine." Some take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter, especially with regards to elements of causation. (See: [[rc://en/tw/dict/bible/kt/predestine]] and [[rc://en/tw/dict/bible/kt/save]])
+Many scholars believe Paul in this chapter teaches extensively on a subject known as "predestination." This is related to the biblical concept of "predestine." Some take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter. (See: [[rc://en/tw/dict/bible/kt/predestine]] and [[rc://en/tw/dict/bible/kt/save]])
 
 ##### Important figures of speech in this chapter #####
 
