@@ -9,7 +9,7 @@ Paul structures part of this chapter like a prayer of praise to God. But Paul is
 #### Special concepts in this chapter ####
 
 ##### Predestination #####
-Many scholars believe this chapter teaches on a subject known as "predestination." This is related to the biblical concept of "predestine." Some scholars take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter, especially with regards to elements of causation. (See: [[rc://en/tw/dict/bible/kt/predestine]])
+Many scholars believe this chapter teaches on a subject known as "predestination." This is related to the biblical concept of "predestine." Some scholars take this to indicate that God has, from before the foundation of the world, chosen some people to eternally save. Christians have different views on what the Bible teaches on this subject. So translators need to take extra care when translating this chapter. (See: [[rc://en/tw/dict/bible/kt/predestine]])
 
 ## Links: ##
 
