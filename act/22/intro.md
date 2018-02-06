@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This is the second account of Paul's conversion in the book of Acts. Because this is such an important event in the early church, there are three accounts of Paul's conversion. (See: [Acts 9](../09/01.md) and [Acts 26](../26/01.md)).
+This is the second account of Paul's conversion in the book of Acts. Because this is such an important event in the early church, there are three accounts of Paul's conversion. (See: [Acts 9](../09/01.md) and [Acts 26](../26/01.md))
 
 #### Special concepts in this chapter ####
 
