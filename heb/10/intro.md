@@ -15,7 +15,7 @@ Holy living is important for Christians. God will hold people accountable for ho
 #### Other possible translation difficulties in this chapter ####
 
 ##### "For it is impossible for the blood of bulls and goats to take away sins" #####
-The sacrifices themselves had no redeeming power. They were effective because they were a display of faith, which was credited to the person offering the sacrifice. It was ultimately the sacrifice of Jesus which then makes these sacrifices "take away sins." In turn, God does not want sacrifices offered devoid of faith. (See: [[rc://en/tw/dict/bible/kt/redeem]] and [[rc://en/tw/dict/bible/kt/faith]])
+The sacrifices themselves had no redeeming power. They were effective because they were a display of faith, which was credited to the person offering the sacrifice. It was ultimately the sacrifice of Jesus which then makes these sacrifices "take away sins."  (See: [[rc://en/tw/dict/bible/kt/redeem]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### "The covenant that I will make" #####
 It is unclear whether this prophecy was being fulfilled as the author was writing or whether it was to occur later. The translator should try to avoid making a claim about the time this covenant begins. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/covenant]])
