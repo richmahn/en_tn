@@ -19,6 +19,7 @@
 1. Final remarks
     - Values (4:8-9)
     - Contentment (4:10-20)
+    - Final Greetings (4:21-23)
 
 #### Who wrote the Book Philippians? ####
 
