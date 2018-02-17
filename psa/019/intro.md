@@ -11,6 +11,6 @@ God's law keeps people from sinning. There are two distinct themes in this psalm
  
 ## Links: ##
 
-* __[Psalms 19:1](./001.md)__
+* __[Psalms 19:1](../019/001.md)__
 
 __[<<](../018/intro.md) | [>>](../020/intro.md)__

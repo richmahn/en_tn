@@ -11,6 +11,6 @@ The author praises God for who he is and for having protected him.
 
 ## Links: ##
 
-* __[Psalms 63:1](./001.md)__
+* __[Psalms 63:1](../063/001.md)__
 
 __[<<](../062/intro.md) | [>>](../064/intro.md)__

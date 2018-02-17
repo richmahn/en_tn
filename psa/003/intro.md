@@ -11,6 +11,6 @@ Although the psalmist has many enemies and is saying he is without help, God is 
 
 ## Links: ##
 
-* __[Psalms 3:1](./001.md)__
+* __[Psalms 3:1](../003/001.md)__
 
 __[<<](../002/intro.md) | [>>](../004/intro.md)__

@@ -20,7 +20,7 @@ Matthew, Mark, Luke, and John all wrote about this event. Matthew and Mark wrote
 
 ##### Glory #####
 
-Scripture often speaks of God's glory as a great, brilliant light. When people see this light, they are afraid. In this chapter John says that the glory of Jesus is his resurrection ([John 12:16](./16.md)).
+Scripture often speaks of God's glory as a great, brilliant light. When people see this light, they are afraid. In this chapter John says that the glory of Jesus is his resurrection ([John 12:16](../12/16.md)).
 
 #### Important figures of speech in this chapter ####
 

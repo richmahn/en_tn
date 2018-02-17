@@ -14,6 +14,6 @@ The word "Michtam" is used in the superscription for this psalm. There is much d
 
 ## Links: ##
 
-* __[Psalms 57:1](./001.md)__
+* __[Psalms 57:1](../057/001.md)__
 
 __[<<](../056/intro.md) | [>>](../058/intro.md)__

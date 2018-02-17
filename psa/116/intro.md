@@ -11,6 +11,6 @@ The author was very sick and expected to die but God healed him. So he will pay 
 
 ## Links: ##
 
-* __[Psalms 116:1](./001.md)__
+* __[Psalms 116:1](../116/001.md)__
 
 __[<<](../115/intro.md) | [>>](../117/intro.md)__

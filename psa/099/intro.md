@@ -11,6 +11,6 @@ God is just and fair. Moses, Aaron and Samuel each prayed to him and obeyed him 
 
 ## Links: ##
 
-* __[Psalms 99:1](./001.md)__
+* __[Psalms 99:1](../099/001.md)__
 
 __[<<](../098/intro.md) | [>>](../100/intro.md)__

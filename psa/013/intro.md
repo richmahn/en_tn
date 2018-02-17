@@ -11,6 +11,6 @@ The author needs God to help him because his enemies will rejoice if they are ab
 
 ## Links: ##
 
-* __[Psalms 13:1](./001.md)__
+* __[Psalms 13:1](../013/001.md)__
 
 __[<<](../012/intro.md) | [>>](../014/intro.md)__

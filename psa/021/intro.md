@@ -10,6 +10,6 @@ Psalm 21 is a royal psalm. The king is praying for victory. Victory in war comes
 There is a shift in pronouns in this psalm. In verses 1-6 the psalm addresses Yahweh in second person but in verse 7 the psalmist uses third person before moving back to second person in the latter part. 
 ## Links: ##
 
-* __[Psalms 21:1](./001.md)__
+* __[Psalms 21:1](../021/001.md)__
 
 __[<<](../020/intro.md) | [>>](../022/intro.md)__

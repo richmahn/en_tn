@@ -3,7 +3,7 @@
 #### Special concepts in this chapter ####
 
 ##### Messiah #####
-This chapter contains a prophecy explaining that the Messiah was to be born in Bethlehem. This meaning is made clear in the New Testament. (See: [Micah 5:2](./02.md), [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]]) 
+This chapter contains a prophecy explaining that the Messiah was to be born in Bethlehem. This meaning is made clear in the New Testament. (See: [Micah 5:2](../05/02.md), [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]]) 
 
 #### Other possible translation difficulties in this chapter ####
 

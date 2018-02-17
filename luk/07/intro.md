@@ -10,7 +10,7 @@ Several times in this chapter Luke changes his topic without marking the change.
 
 ##### Centurion #####
 
-The centurion who asked Jesus to heal his slave ([Luke 7:2](./02.md) was doing many unusual things. A Roman soldier would almost never go to a Jew for anything, and most wealthy people did not love or care for their slaves. (See: [[rc://en/tw/dict/bible/kt/centurion]] and [[rc://en/tw/dict/bible/kt/faith]])
+The centurion who asked Jesus to heal his slave ([Luke 7:2](../07/02.md) was doing many unusual things. A Roman soldier would almost never go to a Jew for anything, and most wealthy people did not love or care for their slaves. (See: [[rc://en/tw/dict/bible/kt/centurion]] and [[rc://en/tw/dict/bible/kt/faith]])
 
 ##### John's Baptism #####
 
@@ -28,7 +28,7 @@ The feet of the people in the ancient Near East were very dirty because they wor
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Luke 7:34](./33.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 7:34](../07/34.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

@@ -14,6 +14,6 @@ This psalm is called "a Maschil of David." The word "Maschil" in the original la
 
 ## Links: ##
 
-* __[Psalms 55:1](./001.md)__
+* __[Psalms 55:1](../055/001.md)__
 
 __[<<](../054/intro.md) | [>>](../056/intro.md)__

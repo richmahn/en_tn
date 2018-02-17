@@ -11,6 +11,6 @@ God promised success to the psalmist, but Yahweh failed to help him conquer the 
 
 ## Links: ##
 
-* __[Psalms 108:1](./001.md)__
+* __[Psalms 108:1](../108/001.md)__
 
 __[<<](../107/intro.md) | [>>](../109/intro.md)__

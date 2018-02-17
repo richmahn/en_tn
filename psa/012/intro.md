@@ -14,6 +14,6 @@ This relatively short psalm focuses on the words people use.
 
 ## Links: ##
 
-* __[Psalms 12:1](./001.md)__
+* __[Psalms 12:1](../012/001.md)__
 
 __[<<](../011/intro.md) | [>>](../013/intro.md)__

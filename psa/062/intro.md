@@ -11,6 +11,6 @@ Although the psalmist's enemies have attacked him when he was feeling weak, he t
 
 ## Links: ##
 
-* __[Psalms 62:1](./001.md)__
+* __[Psalms 62:1](../062/001.md)__
 
 __[<<](../061/intro.md) | [>>](../063/intro.md)__

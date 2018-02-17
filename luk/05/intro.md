@@ -32,7 +32,7 @@ Parts of this chapter are sequences of events that have already happened. In a g
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Luke 5:24](./22.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 5:24](../05/24.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

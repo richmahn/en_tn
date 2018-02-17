@@ -8,7 +8,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Using questions to trap people #####
 
-When Jesus asked the Pharisees who gave John the authority to baptize ([Luke 20:4](./03.md)), they could not answer because any answer they gave would give someone a reason to say that they were wrong ([Luke 20:5-6](./05.md)). They thought that they would be able to say that Jesus was wrong when they asked him if people should pay taxes to Caesar ([Luke 20:22](./21.md)), but Jesus gave them an answer that they had not thought of.
+When Jesus asked the Pharisees who gave John the authority to baptize ([Luke 20:4](../20/04.md)), they could not answer because any answer they gave would give someone a reason to say that they were wrong ([Luke 20:5-6](./05.md)). They thought that they would be able to say that Jesus was wrong when they asked him if people should pay taxes to Caesar ([Luke 20:22](./21.md)), but Jesus gave them an answer that they had not thought of.
 
 #### Other possible translation difficulties in this chapter ####
 

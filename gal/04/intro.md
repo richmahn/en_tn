@@ -15,6 +15,6 @@ Sonship is a complex issue. Scholars have many views on Israel's sonship. Paul u
 "Abba" is an Aramaic word. In ancient Israel, people used it to informally refer to their fathers. Paul "transliterates" its sounds by writing them with Greek letters. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 ## Links: ##
 
-* __[Galatians 4:1](./01.md)__
+* __[Galatians 4:1](../04/01.md)__
 
 __[<<](../03/intro.md) | [>>](../05/intro.md)__
