@@ -12,7 +12,7 @@ Some translations set quotations from the Old Testament farther to the right on 
 
 ##### Baptize #####
 
-The word "baptize" has two meanings in this chapter. It refers to the water baptism of John and to the baptism of the Holy Spirit ([Acts 1:5](./04.md)). (See: [[rc://en/tw/dict/bible/kt/baptize]])
+The word "baptize" has two meanings in this chapter. It refers to the water baptism of John and to the baptism of the Holy Spirit ([Acts 1:5](../01/05.md)). (See: [[rc://en/tw/dict/bible/kt/baptize]])
 
 ##### "He spoke about the kingdom of God" #####
 

@@ -14,7 +14,7 @@ After Jesus made Lazarus become alive again, the Jewish leaders were trying hard
 
 ##### "One man dies for the people" #####
 
-The law of Moses commanded the priests to kill animals so that God would forgive the people's sins. The high priest Caiaphas said, "It is better for you that one man dies for the people than that the whole nation perishes" ([John 10:50](./49.md)). He said this because he loved his "place" and "nation" ([John 10:48](./47.md)) more than he loved the God who had made Lazarus become alive again. He wanted Jesus to die so that the Romans would not destroy the temple and Jerusalem, but God wanted Jesus to die so that he could forgive all of his people's sins.
+The law of Moses commanded the priests to kill animals so that God would forgive the people's sins. The high priest Caiaphas said, "It is better for you that one man dies for the people than that the whole nation perishes" ([John 10:50](../10/50.md)). He said this because he loved his "place" and "nation" ([John 10:48](./47.md)) more than he loved the God who had made Lazarus become alive again. He wanted Jesus to die so that the Romans would not destroy the temple and Jerusalem, but God wanted Jesus to die so that he could forgive all of his people's sins.
 
 ##### Hypothetical situation #####
 

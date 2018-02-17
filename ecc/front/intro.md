@@ -20,9 +20,9 @@ The traditional title for this book is "Ecclesiastes." Its meaning is similar to
 
 The author appears to be Solomon, "the Teacher, the descendant of David and king in Jerusalem." This is consistent with what Solomon was known for: 
 * his wisdom (See: [Ecclesiastes 1:16](../01/16.md) and twenty-six other references to wisdom);
-* his vast wealth (See: [Ecclesiastes 2:8](../02/07.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md));
+* his vast wealth (See: [Ecclesiastes 2:8](../02/08.md)), and the pain that comes from wealth (See: [Ecclesiastes 5:13-14](../05/13.md); [Ecclesiastes 4:8](../04/07.md); and [Ecclesiastes 9:11](../09/11.md));
 * his large number of servants (See: [Ecclesiastes 2:7](../02/07.md) and [Ecclesiastes 10:7](../10/05.md));
-* his limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/12.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and
+* his limitless opportunities for worldly pleasures (See: [Ecclesiastes 2:1-2](../02/01.md), [Ecclesiastes 10](../02/09.md); [Ecclesiastes 3:13](../03/13.md); [Ecclesiastes 4:8](../04/07.md); [Ecclesiastes 5:4](../05/04.md); and [Ecclesiastes 12:1](../12/01.md)); and
 * the wide range of his many building projects (See: [Ecclesiastes 2:4-6](../02/04.md)).
 
 Solomon appears to have written the Book of Ecclesiastes near the end of his life, as he reflected on what he gained from all that he did.

@@ -14,6 +14,6 @@ The whole collection of Psalms has been divided into several "books." This is th
 
 ## Links: ##
 
-* __[Psalms 72:1](./001.md)__
+* __[Psalms 72:1](../072/001.md)__
 
 __[<<](../071/intro.md) | [>>](../073/intro.md)__

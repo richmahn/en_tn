@@ -10,21 +10,21 @@ This chapter begins a new section. It contains some of Jesus' parables about the
 
 ##### Metonymy #####
 
-Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 13:11](./10.md)).
+Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 13:11](../13/11.md)).
 
 ##### Implicit information #####
 
-Speakers usually do not say things that they think their hearers already understand. When Matthew wrote that Jesus "sat beside the sea" ([Matthew 13:1](./01.md)), he probably expected his hearers to know that Jesus was about to teach the people. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Speakers usually do not say things that they think their hearers already understand. When Matthew wrote that Jesus "sat beside the sea" ([Matthew 13:1](../13/01.md)), he probably expected his hearers to know that Jesus was about to teach the people. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Metaphor #####
 
-Speakers often use words for things that can be touched to speak of things that cannot be touched. Jesus spoke of a bird eating a seed to describe how Satan kept people from understanding Jesus' message ([Matthew 13:19](./18.md)).
+Speakers often use words for things that can be touched to speak of things that cannot be touched. Jesus spoke of a bird eating a seed to describe how Satan kept people from understanding Jesus' message ([Matthew 13:19](../13/19.md)).
 
 #### Other possible translation difficulties in this chapter ####
 
 ##### Passive voice #####
 
-Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. For example, "they were scorched" ([Matthew 13:6](./03.md)). You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
+Many sentences in this chapter tell that a person had something happen to him without saying who caused that something to happen. For example, "they were scorched" ([Matthew 13:6](../13/06.md)). You may have to translate the sentence so that it tells the reader who performed the action. (See: [[rc://en/ta/man/translate/figs-activepassive]])
 
 ##### Parables #####
 

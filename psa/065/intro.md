@@ -11,6 +11,6 @@ God answered prayers and gave the people justice and hope. God created nature an
 
 ## Links: ##
 
-* __[Psalms 65:1](./001.md)__
+* __[Psalms 65:1](../065/001.md)__
 
 __[<<](../064/intro.md) | [>>](../066/intro.md)__

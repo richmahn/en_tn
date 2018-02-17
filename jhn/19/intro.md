@@ -12,11 +12,11 @@ Purple is a color like red or blue. The people were mocking Jesus, so they put h
 
 ##### "You are not Caesar's friend" #####
 
-Pilate knew that Jesus was not a criminal, so he did not want to have his soldiers kill him. But the Jews told him that Jesus was claiming to be a king, and anyone who did that was breaking Caesar's laws ([John 19:12](./12.md)).
+Pilate knew that Jesus was not a criminal, so he did not want to have his soldiers kill him. But the Jews told him that Jesus was claiming to be a king, and anyone who did that was breaking Caesar's laws ([John 19:12](../19/12.md)).
 
 ##### The tomb #####
 
-The tomb in which Jesus was buried ([John 19:41](./40.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+The tomb in which Jesus was buried ([John 19:41](../19/41.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
 
 #### Important figures of speech in this chapter ####
 

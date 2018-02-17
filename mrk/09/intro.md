@@ -10,7 +10,7 @@ Scripture often speaks of God's glory as a great, brilliant light. When people s
 
 ##### Hyperbole #####
 
-Jesus said things that he did not expect his followers to understand literally. When he said, "If your hand causes you to stumble, cut it off" ([Mark 9:43](./42.md)), he was exaggerating so they would know that they should stay away from anything that caused them to sin, even if it was something they loved or thought they needed.
+Jesus said things that he did not expect his followers to understand literally. When he said, "If your hand causes you to stumble, cut it off" ([Mark 9:43](../09/43.md)), he was exaggerating so they would know that they should stay away from anything that caused them to sin, even if it was something they loved or thought they needed.
 
 #### Other possible translation difficulties in this chapter ####
 
@@ -20,11 +20,11 @@ Elijah and Moses suddenly appear to Jesus, James, John, and Peter, and then they
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Mark 9:31](./30.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Mark 9:31](../09/31.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ##### Paradox #####
 
-A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "If anyone wants to be first, he must be last of all and servant of all" ([Mark 9:35](./33.md)).
+A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "If anyone wants to be first, he must be last of all and servant of all" ([Mark 9:35](../09/35.md)).
 
 ## Links: ##
 

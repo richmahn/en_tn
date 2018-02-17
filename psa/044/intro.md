@@ -14,6 +14,6 @@ This psalm is called "a Maschil." The word "Maschil" in the original language ha
 
 ## Links: ##
 
-* __[Psalms 44:1](./001.md)__
+* __[Psalms 44:1](../044/001.md)__
 
 __[<<](../043/intro.md) | [>>](../045/intro.md)__

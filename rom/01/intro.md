@@ -7,7 +7,7 @@ The first verse is a type of introduction. People in the ancient Mediterranean r
 #### Special concepts in this chapter ####
 
 ##### The gospel #####
-This chapter refers to the contents of the Book of Romans as "the gospel" ([Romans 1:2](./01.md)). Romans is not a gospel like Matthew, Mark, Luke and John. Instead, chapters 1-8 present the biblical gospel: All have sinned. Jesus died for our sins. He was raised again that we might have new life in him. 
+This chapter refers to the contents of the Book of Romans as "the gospel" ([Romans 1:2](../01/02.md)). Romans is not a gospel like Matthew, Mark, Luke and John. Instead, chapters 1-8 present the biblical gospel: All have sinned. Jesus died for our sins. He was raised again that we might have new life in him. 
 
 ##### Fruit #####
 This chapter uses the imagery of fruit. The image of fruit usually refers to a person's faith producing good works in their life. In this chapter, it refers to the results of Paul's work among the Roman Christians. (See: [[rc://en/tw/dict/bible/other/fruit]] and [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/righteous]])

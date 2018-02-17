@@ -11,6 +11,6 @@ This psalm focuses on the concept of trust. A quiet trust in Yahweh is best.
 
 ## Links: ##
 
-* __[Psalms 131:1](./001.md)__
+* __[Psalms 131:1](../131/001.md)__
 
 __[<<](../130/intro.md) | [>>](../132/intro.md)__

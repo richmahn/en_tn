@@ -13,6 +13,6 @@ This psalm shares some characteristics of another wisdom book called Ecclesiaste
 
 ## Links: ##
 
-* __[Psalms 39:1](./001.md)__
+* __[Psalms 39:1](../039/001.md)__
 
 __[<<](../038/intro.md) | [>>](../040/intro.md)__

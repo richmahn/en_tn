@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-[Colossians 4:1](./01.md) appears to belong with the topics of Chapter 3 instead of Chapter 4. 
+[Colossians 4:1](../04/01.md) appears to belong with the topics of Chapter 3 instead of Chapter 4. 
 
 #### Special concepts in this chapter ####
 

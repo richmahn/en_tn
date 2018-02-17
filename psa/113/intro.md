@@ -11,6 +11,6 @@ God helps the poor and gives children to the wife who cannot conceive children.
 
 ## Links: ##
 
-* __[Psalms 113:1](./001.md)__
+* __[Psalms 113:1](../113/001.md)__
 
 __[<<](../112/intro.md) | [>>](../114/intro.md)__

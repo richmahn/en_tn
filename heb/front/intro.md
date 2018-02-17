@@ -31,9 +31,9 @@ It would be very difficult for readers to understand this book without understan
 
 #### How is the idea of blood used in the Book of Hebrews? ####
 
-Beginning in [Hebrews 9:7](../09/06.md), the idea of blood is often used as metonymy to represent the death of any animal that was sacrificed according to God's covenant with Israel. The author also used blood to represent the death of Jesus Christ. Jesus became the perfect sacrifice so that God would forgive people for sinning against him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+Beginning in [Hebrews 9:7](../09/07.md), the idea of blood is often used as metonymy to represent the death of any animal that was sacrificed according to God's covenant with Israel. The author also used blood to represent the death of Jesus Christ. Jesus became the perfect sacrifice so that God would forgive people for sinning against him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
-Beginning in [Hebrews 9:19](../09/06.md), the author used the idea of sprinkling as a symbolic action. Old Testament priests sprinkled the blood of the animals sacrificed. This was a symbol of the benefits of the animal's death being applied to the people or to an object. This showed that the people or the object was acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]]) 
+Beginning in [Hebrews 9:19](../09/19.md), the author used the idea of sprinkling as a symbolic action. Old Testament priests sprinkled the blood of the animals sacrificed. This was a symbol of the benefits of the animal's death being applied to the people or to an object. This showed that the people or the object was acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]]) 
 
 ## Part 3: Important Translation Issues ##
 

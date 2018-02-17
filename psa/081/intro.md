@@ -11,6 +11,6 @@ If Israel would obey and worship God, he would destroy their enemies.
 
 ## Links: ##
 
-* __[Psalms 81:1](./001.md)__
+* __[Psalms 81:1](../081/001.md)__
 
 __[<<](../080/intro.md) | [>>](../082/intro.md)__

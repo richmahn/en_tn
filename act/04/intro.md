@@ -24,7 +24,7 @@ The cornerstone was the first piece of stone that people put down when they were
 
 ##### Name #####
 
-"There is no other name under heaven given among men by which we must be saved" ([Acts 4:12](./11.md)). With these words Peter was saying that no other person who has ever been on the earth or will ever be on earth can save people.
+"There is no other name under heaven given among men by which we must be saved" ([Acts 4:12](../04/12.md)). With these words Peter was saying that no other person who has ever been on the earth or will ever be on earth can save people.
 
 ## Links: ##
 

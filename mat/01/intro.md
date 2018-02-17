@@ -18,7 +18,7 @@ Matthew uses the passive voice very purposefully in this chapter to indicate tha
 
 ## Links: ##
 
-* __[Matthew 1:1](./01.md)__
+* __[Matthew 1:1](../01/01.md)__
 * __[Matthew intro](../front/intro.md)__
 
 __| [>>](../02/intro.md)__

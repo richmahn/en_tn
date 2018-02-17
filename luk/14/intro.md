@@ -18,7 +18,7 @@ Jesus told the parable in [Luke 14:15-24](./15.md) to teach that the kingdom of 
 
 ##### Paradox #####
 
-A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](./10.md)).
+A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "for everyone who exalts himself will be humbled, and he who humbles himself will be exalted" ([Luke 14:11](../14/11.md)).
 
 ## Links: ##
 

@@ -13,6 +13,6 @@ The author needs help and needs it immediately.
 This psalm is an almost exact duplicate of Psalm 40:13-17. 
 ## Links: ##
 
-* __[Psalms 70:1](./001.md)__
+* __[Psalms 70:1](../070/001.md)__
 
 __[<<](../069/intro.md) | [>>](../071/intro.md)__

@@ -11,6 +11,6 @@ People should praise Yahweh with every type of musical instrument.
 
 ## Links: ##
 
-* __[Psalms 150:1](./001.md)__
+* __[Psalms 150:1](../150/001.md)__
 
 __[<<](../149/intro.md) | __

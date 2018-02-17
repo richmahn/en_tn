@@ -11,7 +11,7 @@ After important events, it is common for Scripture to affirm the tenants of a co
 #### Other possible translation difficulties in this chapter ####
 
 ##### God tests Abraham #####
-Extra care should be taken when translating "testing." It is best to avoid using the same word used for "tempting" even though they overlap in meaning. This is because Scripture also says God does not tempt anyone. (See: [[rc://en/tw/dict/bible/kt/test]] and [[rc://en/tw/dict/bible/kt/tempt]] and [James 2:13](../../jas/02/12.md))
+Extra care should be taken when translating "testing." It is best to avoid using the same word used for "tempting" even though they overlap in meaning. This is because Scripture also says God does not tempt anyone. (See: [[rc://en/tw/dict/bible/kt/test]] and [[rc://en/tw/dict/bible/kt/tempt]] and [James 2:13](../../jas/02/13.md))
 
 ## Links: ##
 
