@@ -11,6 +11,6 @@ God is great. He has given his people food and a land always keeps his promises 
 
 ## Links: ##
 
-* __[Psalms 111:1](../111/001.md)__
+* __[Psalms 111:1](./001.md)__
 
 __[<<](../110/intro.md) | [>>](../112/intro.md)__

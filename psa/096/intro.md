@@ -11,6 +11,6 @@ Yahweh is king over all the earth and is worthy of all praise.
 
 ## Links: ##
 
-* __[Psalms 96:1](../096/001.md)__
+* __[Psalms 96:1](./001.md)__
 
 __[<<](../095/intro.md) | [>>](../097/intro.md)__

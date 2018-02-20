@@ -28,7 +28,7 @@ Nicodemus explains to the other Pharisees that the Law requires him to hear dire
 Jesus' brothers did not believe Jesus was the Messiah. (See: [[rc://en/tw/dict/bible/kt/believe]])
 
 ##### "The Jews" #####
-This term is used in two different ways in this passage. It is used specifically in reference to the opposition of the Jewish leaders who were trying to kill him ([John 7:1](../07/01.md)). It is also used in reference to the people of Judea in general who had a positive opinion of Jesus ([John 7:13](./12.md)). The translator may wish to use the terms "Jewish leaders" and "Jewish people" or "Jews (leaders)" and "Jews (in general)."
+This term is used in two different ways in this passage. It is used specifically in reference to the opposition of the Jewish leaders who were trying to kill him ([John 7:1](./01.md)). It is also used in reference to the people of Judea in general who had a positive opinion of Jesus ([John 7:13](./12.md)). The translator may wish to use the terms "Jewish leaders" and "Jewish people" or "Jews (leaders)" and "Jews (in general)."
 
 ## Links: ##
 

@@ -13,6 +13,6 @@ God blesses all who want to obey him. Praising God in his temple is better than 
 There are many similarities between these psalms and some scholars suggest they were written by the same people. 
 ## Links: ##
 
-* __[Psalms 84:1](../084/001.md)__
+* __[Psalms 84:1](./001.md)__
 
 __[<<](../083/intro.md) | [>>](../085/intro.md)__

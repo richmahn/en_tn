@@ -10,6 +10,6 @@ Psalm 144 is a prayer for safety and prosperity for the nation of Israel.
 
 ## Links: ##
 
-* __[Psalms 144:1](../144/001.md)__
+* __[Psalms 144:1](./001.md)__
 
 __[<<](../143/intro.md) | [>>](../145/intro.md)__

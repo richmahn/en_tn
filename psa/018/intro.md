@@ -11,6 +11,6 @@ God has tremendous power and he enabled David to prosper in war. This psalm, and
 
 ## Links: ##
 
-* __[Psalms 18:1](../018/001.md)__
+* __[Psalms 18:1](./001.md)__
 
 __[<<](../017/intro.md) | [>>](../019/intro.md)__

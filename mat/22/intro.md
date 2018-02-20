@@ -14,11 +14,11 @@ In the parable of the wedding feast ([Matthew 22:1-14](./01.md)), Jesus taught t
 
 ##### Implicit information #####
 
-Speakers usually do not say things that they think their hearers already understand. When the king in the parable said, "My oxen and fattened calves have been killed" ([Matthew 22:4](../22/04.md)), he assumed that the hearers would understand that those who had killed the animals had also cooked them.
+Speakers usually do not say things that they think their hearers already understand. When the king in the parable said, "My oxen and fattened calves have been killed" ([Matthew 22:4](./04.md)), he assumed that the hearers would understand that those who had killed the animals had also cooked them.
 
 ##### Paradox #####
 
-A paradox is a true statement that appears to describe something impossible. To the Jews, the ancestors were the masters of the descendants, but in one psalm David calls one of his descendants "Lord." Jesus tells the Jewish leaders that this is a paradox, saying, "If David then calls the Christ 'Lord,' how is he David's son?" ([Matthew 22:45](../22/45.md)).
+A paradox is a true statement that appears to describe something impossible. To the Jews, the ancestors were the masters of the descendants, but in one psalm David calls one of his descendants "Lord." Jesus tells the Jewish leaders that this is a paradox, saying, "If David then calls the Christ 'Lord,' how is he David's son?" ([Matthew 22:45](./45.md)).
 
 ## Links: ##
 

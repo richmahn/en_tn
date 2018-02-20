@@ -15,7 +15,7 @@ When Jesus called the people an "adulterous generation," he was telling them tha
 
 ##### Rhetorical Questions #####
 
-Jesus used many rhetorical questions as a way of both teaching the disciples ([Mark 8:17-21](./16.md)) and scolding the people ([Mark 8:12](../08/12.md)). (See: [[rc://en/ta/man/translate/figs-rquestion]])
+Jesus used many rhetorical questions as a way of both teaching the disciples ([Mark 8:17-21](./16.md)) and scolding the people ([Mark 8:12](./11.md)). (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
 #### Other possible translation difficulties in this chapter ####
 

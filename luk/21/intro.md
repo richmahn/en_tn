@@ -18,7 +18,7 @@ The Jews spoke of the time between when the Babylonians forced their ancestors t
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Luke 21:27](../21/27.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 21:27](./27.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

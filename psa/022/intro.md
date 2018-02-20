@@ -14,6 +14,6 @@ This psalm is quoted in different places in the New Testament. Verse 1a is cited
 
 ## Links: ##
 
-* __[Psalms 22:1](../022/001.md)__
+* __[Psalms 22:1](./001.md)__
 
 __[<<](../021/intro.md) | [>>](../023/intro.md)__

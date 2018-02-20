@@ -4,7 +4,7 @@
 
 ##### The tomb #####
 
-The tomb in which Jesus was buried ([Luke 24:1](../24/01.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+The tomb in which Jesus was buried ([Luke 24:1](./01.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
 
 ##### The faith of the women #####
 
@@ -18,11 +18,11 @@ Luke wants his readers to understand that Jesus came alive again in a physical b
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Luke 24:7](../24/07.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 24:7](./06.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ##### "On the third day" #####
 
-Jesus told his followers that he would become alive again "on the third day" ([Luke 18:33](../18/33.md)). He died on a Friday afternoon (before sunset) and became alive again on a Sunday, so he became alive again "on the third day" because the Jews said that the day began and ended at sunset, and they counted any part of the day as a day. Friday was the first day, Saturday was the second day, and Sunday was the third day.
+Jesus told his followers that he would become alive again "on the third day" ([Luke 18:33](../18/31.md)). He died on a Friday afternoon (before sunset) and became alive again on a Sunday, so he became alive again "on the third day" because the Jews said that the day began and ended at sunset, and they counted any part of the day as a day. Friday was the first day, Saturday was the second day, and Sunday was the third day.
 
 ##### Two men in bright shining robes #####
 

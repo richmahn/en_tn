@@ -17,6 +17,6 @@ The leaders of the nations are represented by their gods. (See: [[rc://en/ta/man
 
 ## Links: ##
 
-* __[Psalms 82:1](../082/001.md)__
+* __[Psalms 82:1](./001.md)__
 
 __[<<](../081/intro.md) | [>>](../083/intro.md)__

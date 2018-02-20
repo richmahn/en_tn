@@ -10,6 +10,6 @@ The author's best friend had become an enemy. His enemies were happy because the
 
 ## Links: ##
 
-* __[Psalms 41:1](../041/001.md)__
+* __[Psalms 41:1](./001.md)__
 
 __[<<](../040/intro.md) | [>>](../042/intro.md)__

@@ -18,7 +18,7 @@ The Pharisees thought that they themselves were the best examples of righteous g
 
 ##### "Son of Man" #####
 
-Jesus refers to himself as the "Son of Man" in this chapter ([Luke 18:8](../18/08.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
+Jesus refers to himself as the "Son of Man" in this chapter ([Luke 18:8](./06.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
 
 ## Links: ##
 

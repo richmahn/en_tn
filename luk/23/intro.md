@@ -16,7 +16,7 @@ The curtain in the temple was an important symbol that showed that people needed
 
 ##### The tomb #####
 
-The tomb in which Jesus was buried ([Luke 23:53](../23/53.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+The tomb in which Jesus was buried ([Luke 23:53](./52.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
 
 #### Other possible translation difficulties in this chapter ####
 

@@ -10,7 +10,7 @@ Jesus taught about divorce because the Pharisees wanted people to think Jesus' t
 
 ##### Metonymy #####
 
-Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 1:12](../01/12.md)).
+Jesus often says the word "heaven" when he wants his hearers to think of God, who lives in heaven ([Matthew 1:12](./10.md)).
 
 ## Links: ##
 * __[Matthew 19:01 Notes](./01.md)__

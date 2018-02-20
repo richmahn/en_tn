@@ -15,6 +15,6 @@ The psalmists uses several rhetorical questions. Each question forms a unit with
 
 ## Links: ##
 
-* __[Psalms 24:1](../024/001.md)__
+* __[Psalms 24:1](./001.md)__
 
 __[<<](../023/intro.md) | [>>](../025/intro.md)__

@@ -11,6 +11,6 @@ God wants his people to have rest. It is a blessing to have many children. (See:
 
 ## Links: ##
 
-* __[Psalms 127:1](../127/001.md)__
+* __[Psalms 127:1](./001.md)__
 
 __[<<](../126/intro.md) | [>>](../128/intro.md)__

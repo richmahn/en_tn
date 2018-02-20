@@ -4,7 +4,7 @@
 
 ##### Hypocrites #####
 
-Jesus calls the Pharisees hypocrites many times ([Matthew 23:13](../23/13.md)) and carefully tells what he means by doing that. The Pharisees made rules that no one could actually obey, and then they persuaded the ordinary people that they were guilty because they could not obey the rules. Also, the Pharisees obeyed their own rules instead of obeying God's original commands in the law of Moses. 
+Jesus calls the Pharisees hypocrites many times ([Matthew 23:13](./13.md)) and carefully tells what he means by doing that. The Pharisees made rules that no one could actually obey, and then they persuaded the ordinary people that they were guilty because they could not obey the rules. Also, the Pharisees obeyed their own rules instead of obeying God's original commands in the law of Moses. 
 
 #### Other possible translation difficulties in this chapter ####
 

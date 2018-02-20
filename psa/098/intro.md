@@ -11,6 +11,6 @@ Everyone and every thing should sing praises to Yahweh because he is worthy of a
 
 ## Links: ##
 
-* __[Psalms 98:1](../098/001.md)__
+* __[Psalms 98:1](./001.md)__
 
 __[<<](../097/intro.md) | [>>](../099/intro.md)__

@@ -14,7 +14,7 @@ The Christians in Smyrna were poor because they did not have much money. But the
 
 ##### "The devil is about to" #####
 
-People were about to take some of the Christians in Smyrna and throw them into prison and even kill some of them ([Revelation 2:10](../02/10.md)). John does not say who these people were. But he does speak of them harming the Christians as if Satan himself were harming them. (See: [[rc://en/ta/man/translate/figs-metonymy]])
+People were about to take some of the Christians in Smyrna and throw them into prison and even kill some of them ([Revelation 2:10](./10.md)). John does not say who these people were. But he does speak of them harming the Christians as if Satan himself were harming them. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
 ##### Balaam, Balak, and Jezebel #####
 
@@ -30,7 +30,7 @@ The writer knew that almost all of his readers had physical ears. The ear here i
 
 ##### "The angel of the church" #####
 
-The word "angel" here can also mean "messenger." This might refer to the messenger or leader of the church. See how you translated "angel" in [Revelation 1:20](../01/20.md).
+The word "angel" here can also mean "messenger." This might refer to the messenger or leader of the church. See how you translated "angel" in [Revelation 1:20](../01/19.md).
 
 ##### "The words of the one who" #####
 

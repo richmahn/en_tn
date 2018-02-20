@@ -21,7 +21,7 @@ Paul uses many different images to describe Christian living. In this chapter, h
 
 ##### Paradox #####
 
-A paradox is a true statement that appears to describe something impossible. Verse 24 is a paradox: "Now I rejoice in my sufferings for you." People do not usually rejoice when they suffer. But in verses 25-29 Paul explains why his suffering is good. ([Colossians 1:24](../01/24.md))
+A paradox is a true statement that appears to describe something impossible. Verse 24 is a paradox: "Now I rejoice in my sufferings for you." People do not usually rejoice when they suffer. But in verses 25-29 Paul explains why his suffering is good. ([Colossians 1:24](./24.md))
 
 ## Links: ##
 

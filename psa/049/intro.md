@@ -11,6 +11,6 @@ Riches do not last forever. They cannot save a person from death, and they canno
  
 ## Links: ##
 
-* __[Psalms 49:1](../049/001.md)__
+* __[Psalms 49:1](./001.md)__
 
 __[<<](../048/intro.md) | [>>](../050/intro.md)__

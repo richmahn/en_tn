@@ -18,7 +18,7 @@ Jesus knew what other people were thinking only because he was and is the Son of
 
 ##### "His disciples remembered" #####
 
-John used this phrase to stop telling the main history and to tell about something that happened much later. It was right after he scolded the pigeon sellers ([John 2:16](../02/16.md)) that the Jewish authorities spoke to him. It was after Jesus became alive again that his disciples remembered what the prophet had written long before and that Jesus was talking about the temple of his body ([John 2:17](./17.md) and [John 2:22](./20.md)).
+John used this phrase to stop telling the main history and to tell about something that happened much later. It was right after he scolded the pigeon sellers ([John 2:16](./15.md)) that the Jewish authorities spoke to him. It was after Jesus became alive again that his disciples remembered what the prophet had written long before and that Jesus was talking about the temple of his body ([John 2:17](./17.md) and [John 2:22](./20.md)).
 
 ## Links: ##
 

@@ -16,7 +16,7 @@ Jesus used these words to begin prophecies about times that could be shorter or 
 
 ##### The proper place of worship #####
 
-Long before Jesus lived, the Samaritan people had broken the law of Moses by setting up a false temple in their land ([John 4:20](../04/20.md)). Jesus explained to the woman that it was no longer important where people worshiped ([John 4:21-24](./21.md)).
+Long before Jesus lived, the Samaritan people had broken the law of Moses by setting up a false temple in their land ([John 4:20](./19.md)). Jesus explained to the woman that it was no longer important where people worshiped ([John 4:21-24](./21.md)).
 
 ##### Harvest #####
 

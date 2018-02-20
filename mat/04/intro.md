@@ -14,7 +14,7 @@ No one knows for use whether the "kingdom of heaven" was present or still coming
 
 ##### "If you are the Son of God" #####
 
-The reader should not understand these words in verses 3 and 6 to mean that Satan did not know whether Jesus was the Son of God. God had already said that Jesus was his Son ([Matthew 3:17](../03/17.md)), so Satan knew who Jesus was. He also knew that Jesus could make stones become bread and could throw himself off of high places and not be hurt. He was trying to make Jesus do these things and so disobey God and obey Satan. These words can be translated as "Because you are the Son of God" or "You are the Son of God. Show me what you can do." (See: [[rc://en/tw/dict/bible/kt/satan]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
+The reader should not understand these words in verses 3 and 6 to mean that Satan did not know whether Jesus was the Son of God. God had already said that Jesus was his Son ([Matthew 3:17](../03/16.md)), so Satan knew who Jesus was. He also knew that Jesus could make stones become bread and could throw himself off of high places and not be hurt. He was trying to make Jesus do these things and so disobey God and obey Satan. These words can be translated as "Because you are the Son of God" or "You are the Son of God. Show me what you can do." (See: [[rc://en/tw/dict/bible/kt/satan]] and [[rc://en/tw/dict/bible/kt/sonofgod]])
 
 ## Links: ##
 * __[Matthew 04:01 Notes](./01.md)__

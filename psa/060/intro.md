@@ -11,6 +11,6 @@ God has preserved the land of Israel, and now he will give them victory over the
 
 ## Links: ##
 
-* __[Psalms 60:1](../060/001.md)__
+* __[Psalms 60:1](./001.md)__
 
 __[<<](../059/intro.md) | [>>](../061/intro.md)__
