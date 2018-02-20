@@ -11,6 +11,6 @@ Evil people expect God to ignore their injustices. But God knows what they are d
 
 ## Links: ##
 
-* __[Psalms 94:1](../094/001.md)__
+* __[Psalms 94:1](./001.md)__
 
 __[<<](../093/intro.md) | [>>](../095/intro.md)__

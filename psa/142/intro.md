@@ -11,6 +11,6 @@ The psalmist is alone, and has many enemies surrounding him. Despite this, Yahwe
 
 ## Links: ##
 
-* __[Psalms 142:1](../142/001.md)__
+* __[Psalms 142:1](./001.md)__
 
 __[<<](../141/intro.md) | [>>](../143/intro.md)__

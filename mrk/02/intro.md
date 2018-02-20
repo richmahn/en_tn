@@ -14,7 +14,7 @@ People would fast, or not eat food for a long time, when they were sad or were s
 
 ##### Rhetorical Questions #####
 
-The Jewish leaders used rhetorical questions to show that they were angry because of what Jesus said and did and that they did not believe that he was God's Son ([Mark 2:7](../02/07.md)). Jesus used them to show the Jewish leaders that they were arrogant ([Mark 2:25-26](./25.md)). (See: [[rc://en/ta/man/translate/figs-rquestion]])
+The Jewish leaders used rhetorical questions to show that they were angry because of what Jesus said and did and that they did not believe that he was God's Son ([Mark 2:7](./05.md)). Jesus used them to show the Jewish leaders that they were arrogant ([Mark 2:25-26](./25.md)). (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
 ## Links: ##
 

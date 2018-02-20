@@ -10,7 +10,7 @@ The curtain in the temple was an important symbol that showed that people needed
 
 ##### Sarcasm #####
 
-Both by pretending to worship Jesus ([Mark 15:19](../15/19.md)) and by pretending to speak to a king ([Mark 15:18](./16.md)), the soldiers and the Jews showed that they hated Jesus and did not believe that he was the Son of God. (See: [[rc://en/ta/man/translate/figs-irony]] and [[rc://en/tw/dict/bible/other/mock]])
+Both by pretending to worship Jesus ([Mark 15:19](./19.md)) and by pretending to speak to a king ([Mark 15:18](./16.md)), the soldiers and the Jews showed that they hated Jesus and did not believe that he was the Son of God. (See: [[rc://en/ta/man/translate/figs-irony]] and [[rc://en/tw/dict/bible/other/mock]])
 
 #### Other possible translation difficulties in this chapter ####
 

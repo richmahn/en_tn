@@ -11,6 +11,6 @@ Yahweh has created everything and controls all of nature. He provides for the an
 
 ## Links: ##
 
-* __[Psalms 147:1](../147/001.md)__
+* __[Psalms 147:1](./001.md)__
 
 __[<<](../146/intro.md) | [>>](../148/intro.md)__

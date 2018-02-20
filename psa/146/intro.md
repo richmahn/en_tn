@@ -11,6 +11,6 @@ Trusting people for protection is useless because they die. But God blesses ever
 
 ## Links: ##
 
-* __[Psalms 146:1](../146/001.md)__
+* __[Psalms 146:1](./001.md)__
 
 __[<<](../145/intro.md) | [>>](../147/intro.md)__

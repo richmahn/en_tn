@@ -14,6 +14,6 @@ Note the superscription and the specific circumstances. There is no other refere
 
 ## Links: ##
 
-* __[Psalms 7:1](../007/001.md)__
+* __[Psalms 7:1](./001.md)__
 
 __[<<](../006/intro.md) | [>>](../008/intro.md)__

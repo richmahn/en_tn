@@ -10,6 +10,6 @@ Ever since he was a child, the psalmist has been sick, and now all his friends h
 
 ## Links: ##
 
-* __[Psalms 88:1](../088/001.md)__
+* __[Psalms 88:1](./001.md)__
 
 __[<<](../087/intro.md) | [>>](../089/intro.md)__

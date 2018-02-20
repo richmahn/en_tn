@@ -16,6 +16,6 @@ This psalm is called "a Maschil of the sons of Korah." The word "Maschil" in the
 
 ## Links: ##
 
-* __[Psalms 42:1](../042/001.md)__
+* __[Psalms 42:1](./001.md)__
 
 __[<<](../041/intro.md) | [>>](../043/intro.md)__

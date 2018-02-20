@@ -10,6 +10,6 @@ God has warned the evil people that they will be punished. He will strengthen th
 
 ## Links: ##
 
-* __[Psalms 75:1](../075/001.md)__
+* __[Psalms 75:1](./001.md)__
 
 __[<<](../074/intro.md) | [>>](../076/intro.md)__

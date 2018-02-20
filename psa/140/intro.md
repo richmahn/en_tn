@@ -11,6 +11,6 @@ He prayed that God would save him from his enemies who are lying about him. (See
 
 ## Links: ##
 
-* __[Psalms 140:1](../140/001.md)__
+* __[Psalms 140:1](./001.md)__
 
 __[<<](../139/intro.md) | [>>](../141/intro.md)__

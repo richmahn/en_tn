@@ -24,7 +24,7 @@ When an author speaks of something that is not important at that time but will b
 
 ##### Implied information #####
 
-Stephen was talking to Jews who knew the law of Moses well, so he did not explain things that his hearers already knew. But you may need to explain some of these things so that your readers will be able to understand what Stephen was saying. For example, you may need to make explicit that when Joseph's brothers "sold him into Egypt" ([Acts 7:9](../07/09.md)), Joseph was going to be a slave in Egypt. (See: [[rc://en/ta/man/translate/figs-explicit]])
+Stephen was talking to Jews who knew the law of Moses well, so he did not explain things that his hearers already knew. But you may need to explain some of these things so that your readers will be able to understand what Stephen was saying. For example, you may need to make explicit that when Joseph's brothers "sold him into Egypt" ([Acts 7:9](./09.md)), Joseph was going to be a slave in Egypt. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Metonymy #####
 

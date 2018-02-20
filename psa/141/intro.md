@@ -11,6 +11,6 @@ The author prayed that God would keep him from sinning. He is glad to be correct
 
 ## Links: ##
 
-* __[Psalms 141:1](../141/001.md)__
+* __[Psalms 141:1](./001.md)__
 
 __[<<](../140/intro.md) | [>>](../142/intro.md)__

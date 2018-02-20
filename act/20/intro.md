@@ -16,6 +16,6 @@ Paul thought that the Holy Spirit wanted him to go to Jerusalem even if Paul did
 
 ## Links: ##
 
-* __[Acts 20:1](../20/01.md)__
+* __[Acts 20:1](./01.md)__
 
 __[<<](../19/intro.md) | [>>](../21/intro.md)__

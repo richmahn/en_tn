@@ -11,6 +11,6 @@ The king will be able to conquer his enemies. Christ is seen as both high priest
 
 ## Links: ##
 
-* __[Psalms 110:1](../110/001.md)__
+* __[Psalms 110:1](./001.md)__
 
 __[<<](../109/intro.md) | [>>](../111/intro.md)__

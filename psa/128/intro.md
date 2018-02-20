@@ -11,6 +11,6 @@ Those people who respect God will live well and have many children. (See: [[rc:/
 
 ## Links: ##
 
-* __[Psalms 128:1](../128/001.md)__
+* __[Psalms 128:1](./001.md)__
 
 __[<<](../127/intro.md) | [>>](../129/intro.md)__

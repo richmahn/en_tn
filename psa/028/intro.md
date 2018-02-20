@@ -11,6 +11,6 @@ The psalmist trusted God completely and God rescued him. This is similar to psal
 
 ## Links: ##
 
-* __[Psalms 28:1](../028/001.md)__
+* __[Psalms 28:1](./001.md)__
 
 __[<<](../027/intro.md) | [>>](../029/intro.md)__

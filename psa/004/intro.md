@@ -11,6 +11,6 @@ God protects all those who truly trust in him for protection. (See: [[rc://en/tw
 
 ## Links: ##
 
-* __[Psalms 4:1](../004/001.md)__
+* __[Psalms 4:1](./001.md)__
 
 __[<<](../003/intro.md) | [>>](../005/intro.md)__

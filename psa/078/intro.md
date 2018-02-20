@@ -14,6 +14,6 @@ This is called a "Maschil." The word in the original language has caused scholar
 
 ## Links: ##
 
-* __[Psalms 78:1](../078/001.md)__
+* __[Psalms 78:1](./001.md)__
 
 __[<<](../077/intro.md) | [>>](../079/intro.md)__

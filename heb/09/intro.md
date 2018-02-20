@@ -26,6 +26,6 @@ This refers to the covenant that God made with Moses. However, before he made th
 
 ## Links: ##
 
-* __[Hebrews 9:1](../09/01.md)__
+* __[Hebrews 9:1](./01.md)__
 
 __[<<](../08/intro.md) | [>>](../10/intro.md)__

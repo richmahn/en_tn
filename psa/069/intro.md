@@ -11,6 +11,6 @@ The author prays for God to rescue him from his enemies. They show him no mercy,
 
 ## Links: ##
 
-* __[Psalms 69:1](../069/001.md)__
+* __[Psalms 69:1](./001.md)__
 
 __[<<](../068/intro.md) | [>>](../070/intro.md)__

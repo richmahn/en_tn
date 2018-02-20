@@ -11,6 +11,6 @@ God used to be close to the psalmist, but now it seems that God has completely a
 
 ## Links: ##
 
-* __[Psalms 77:1](../077/001.md)__
+* __[Psalms 77:1](./001.md)__
 
 __[<<](../076/intro.md) | [>>](../078/intro.md)__

@@ -12,7 +12,7 @@ The people were not allowed to store the food, called manna, they were provided 
 This is the first recorded celebration of the Sabbath rest. (See: [[rc://en/tw/dict/bible/kt/sabbath]])
 
 ##### Ark of the covenant #####
-Although the covenant has not yet been made, it is referenced in [Exodus 16:34](../16/34.md). This is probably done either in anticipation of the building of the ark or as an editorial comment made by Moses after these events. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+Although the covenant has not yet been made, it is referenced in [Exodus 16:34](./33.md). This is probably done either in anticipation of the building of the ark or as an editorial comment made by Moses after these events. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### Other possible translation difficulties in this chapter ####
 

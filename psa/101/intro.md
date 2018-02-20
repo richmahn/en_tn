@@ -11,6 +11,6 @@ The psalmist wanted to encourage all the good people in the land restrain all th
 
 ## Links: ##
 
-* __[Psalms 101:1](../101/001.md)__
+* __[Psalms 101:1](./001.md)__
 
 __[<<](../100/intro.md) | [>>](../102/intro.md)__

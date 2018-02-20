@@ -8,6 +8,6 @@ Some Jews who lived far away from Jerusalem and Judea had heard of John the Bapt
 
 ## Links: ##
 
-* __[Acts 18:1](../18/01.md)__
+* __[Acts 18:1](./01.md)__
 
 __[<<](../17/intro.md) | [>>](../19/intro.md)__
