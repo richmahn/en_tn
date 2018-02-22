@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-[1 Timothy 4:1-3](./01.md) is a prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]])
+[1 Timothy 4:1](../04/01.md) is a prophecy. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 #### Other possible translation difficulties in this chapter ####
 
