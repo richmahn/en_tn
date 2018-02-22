@@ -11,6 +11,6 @@ The author praised Yahweh for his rescuing him. God enabled him to overpower his
 
 ## Links: ##
 
-* __[Psalms 118:1](./001.md)__
+* __[Psalms 118:1](../../psa/118/001.md)__
 
 __[<<](../117/intro.md) | [>>](../119/intro.md)__

@@ -14,6 +14,6 @@ The word "Michtam" is used in the superscription for this psalm. There is much d
 
 ## Links: ##
 
-* __[Psalms 56:1](./001.md)__
+* __[Psalms 56:1](../../psa/056/001.md)__
 
 __[<<](../055/intro.md) | [>>](../057/intro.md)__

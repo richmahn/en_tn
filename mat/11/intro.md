@@ -4,13 +4,13 @@
 
 Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 11:10.
 
-Some scholars believe that [Matthew 11:20](./20.md) begins a new stage in the ministry of Christ because of Israel's rejection of him. 
+Some scholars believe that [Matthew 11:20](../../mat/11/20.md) begins a new stage in the ministry of Christ because of Israel's rejection of him. 
 
 #### Special concepts in this chapter ####
 
 ##### Hidden revelation #####
 
-After [Matthew 11:20](./20.md), Jesus begins to reveal information about himself and about the plans of God the Father, while hiding this information from those who reject him. (See: [Matthew 11:25](./25.md))
+After [Matthew 11:20](../../mat/11/20.md), Jesus begins to reveal information about himself and about the plans of God the Father, while hiding this information from those who reject him. (See: [Matthew 11:25](../../mat/11/25.md))
 
 #### Other possible translation difficulties in this chapter ####
 

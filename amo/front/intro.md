@@ -27,7 +27,7 @@ The traditional title of this book is "The Book of Amos" or just "Amos." Transla
 
 #### Who wrote the Book of Amos? ####
 
-The prophet Amos probably wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../01/01.md)). Though Amos was not trained as a prophet, he knew and understood the law of Moses. Also, Amos skillfully used expressive and meaningful words.
+The prophet Amos probably wrote this book. He lived in the southern kingdom of Judah. Amos came from a poor family. They grew sycamore trees (See: 7:14, 15) and were shepherds (See: [Amos 1:1](../../amo/01/01.md)). Though Amos was not trained as a prophet, he knew and understood the law of Moses. Also, Amos skillfully used expressive and meaningful words.
 
 ## Part 2: Important Religious and Cultural Concepts ##
 

@@ -11,6 +11,6 @@ The psalmist is innocent and needs God to rescue him from these enemies. (See: [
 
 ## Links: ##
 
-* __[Psalms 17:1](./001.md)__
+* __[Psalms 17:1](../../psa/017/001.md)__
 
 __[<<](../016/intro.md) | [>>](../018/intro.md)__

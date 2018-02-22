@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 The ULB sets 31:29 farther to the right on the page than the rest of the text because it is an important quotation.
 
-This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../30/23.md). (See: [[rc://en/tw/dict/bible/kt/restore]])
+This chapter begins with a transition from the previous chapter. "At that time" is a reference to the day of restoration mentioned in [Jeremiah 30:24](../../jer/30/24.md). (See: [[rc://en/tw/dict/bible/kt/restore]])
 #### Special concepts in this chapter ####
 
 ##### The new covenant #####

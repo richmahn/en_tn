@@ -14,6 +14,6 @@ The term "Michtam" is used in the superscription for this psalm. There is much d
 
 ## Links: ##
 
-* __[Psalms 16:1](./001.md)__
+* __[Psalms 16:1](../../psa/016/001.md)__
 
 __[<<](../015/intro.md) | [>>](../017/intro.md)__

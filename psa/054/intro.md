@@ -14,6 +14,6 @@ This psalm is called "a Maschil of David." The word "Maschil" in the original la
 
 ## Links: ##
 
-* __[Psalms 54:1](./001.md)__
+* __[Psalms 54:1](../../psa/054/001.md)__
 
 __[<<](../053/intro.md) | [>>](../055/intro.md)__

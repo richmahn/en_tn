@@ -10,7 +10,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### God's rest #####
 
-The word "rest" seems to refer to at least two things in this chapter. It refers to a place or time when God will allow his people to rest from their work ([Hebrews 4:3](./03.md)), and it refers to God resting on the seventh day ([Hebrews 4:4](./03.md)).
+The word "rest" seems to refer to at least two things in this chapter. It refers to a place or time when God will allow his people to rest from their work ([Hebrews 4:3](../../heb/04/03.md)), and it refers to God resting on the seventh day ([Hebrews 4:4](../../heb/04/04.md)).
 
 ## Links: ##
 

@@ -11,6 +11,6 @@ God is in heaven and is able to do whatever he wants. Idols can not do anything.
 
 ## Links: ##
 
-* __[Psalms 115:1](./001.md)__
+* __[Psalms 115:1](../../psa/115/001.md)__
 
 __[<<](../114/intro.md) | [>>](../116/intro.md)__

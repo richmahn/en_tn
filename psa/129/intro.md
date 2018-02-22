@@ -11,6 +11,6 @@ Israel's enemies have always persecuted them but God has saved them from their e
 
 ## Links: ##
 
-* __[Psalms 129:1](./001.md)__
+* __[Psalms 129:1](../../psa/129/001.md)__
 
 __[<<](../128/intro.md) | [>>](../130/intro.md)__

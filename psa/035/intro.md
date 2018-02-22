@@ -11,6 +11,6 @@ When his enemies were sick, he tried to comfort them, but when he was in trouble
 
 ## Links: ##
 
-* __[Psalms 35:1](./001.md)__
+* __[Psalms 35:1](../../psa/035/001.md)__
 
 __[<<](../034/intro.md) | [>>](../036/intro.md)__

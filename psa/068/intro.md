@@ -13,6 +13,6 @@ God is exceedingly great. He takes care of the weak and helpless. He is glorious
 Scholars have found this psalm the most difficult to interpret. There does not appear to be any unity to this psalm. 
 ## Links: ##
 
-* __[Psalms 68:1](./001.md)__
+* __[Psalms 68:1](../../psa/068/001.md)__
 
 __[<<](../067/intro.md) | [>>](../069/intro.md)__

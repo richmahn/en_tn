@@ -20,7 +20,7 @@ Metaphors are pictures of visible objects that speakers use to explain invisible
 
 ##### Paradox #####
 
-A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wishes to become great among you must be your servant" ([Mark 10:43](./43.md)).
+A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wishes to become great among you must be your servant" ([Mark 10:43](../../mrk/10/43.md)).
 
 ## Links: ##
 

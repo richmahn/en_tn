@@ -10,6 +10,6 @@ Do not envy evil people. Although it appears as though they prosper, soon they w
 
 ## Links: ##
 
-* __[Psalms 37:1](./001.md)__
+* __[Psalms 37:1](../../psa/037/001.md)__
 
 __[<<](../036/intro.md) | [>>](../038/intro.md)__

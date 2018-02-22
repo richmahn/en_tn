@@ -18,6 +18,6 @@ Jesus told his followers before he died that everyone who followed him would suf
 
 ## Links: ##
 
-* __[Acts 14:1](./01.md)__
+* __[Acts 14:1](../../act/14/01.md)__
 
 __[<<](../13/intro.md) | [>>](../15/intro.md)__

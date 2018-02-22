@@ -56,7 +56,7 @@ In the same way, anyone or anything that was not acceptable to God or not holy w
 
 Some people and some things could be made clean or "cleansed," that is, acceptable to God. People or things were made clean if the people performed the right sacrifices and ceremonies. For example, some foreigners who wished to live among the Israelites and worship Yahweh could be made clean. However, other people and things could never be made acceptable to him.
 
-It is important to know that not all unclean things or conditions were sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days. Then the proper animal sacrifice would be offered for her. The flow of blood made the woman unclean (See: [Leviticus 12:7](../12/07.md)). But Leviticus never suggests that someone with a flow of blood was sinning. In the same way, God did not allow Israelites to eat many kinds of animals, as one way of setting his people apart.
+It is important to know that not all unclean things or conditions were sinful. For example, after giving birth to a male child, a woman would be unclean for thirty-three days. Then the proper animal sacrifice would be offered for her. The flow of blood made the woman unclean (See: [Leviticus 12:7](../../lev/12/07.md)). But Leviticus never suggests that someone with a flow of blood was sinning. In the same way, God did not allow Israelites to eat many kinds of animals, as one way of setting his people apart.
 
 Because God does not sin, the terms "holy" and "holiness" often suggest this same idea. Something belonging to God is holy. Because people must respect God, they must respect the things that belong to him.
 

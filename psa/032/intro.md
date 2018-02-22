@@ -11,6 +11,6 @@ This psalm tells of the sorrow of unconfessed sin; it also tells of the blessing
 
 ## Links: ##
 
-* __[Psalms 32:1](./001.md)__
+* __[Psalms 32:1](../../psa/032/001.md)__
 
 __[<<](../031/intro.md) | [>>](../033/intro.md)__

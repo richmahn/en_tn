@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Paul continues to defend the true gospel. This began in [Galatians 1:11](../01/11.md).
+Paul continues to defend the true gospel. This began in [Galatians 1:11](../../gal/01/11.md).
 
 #### Special concepts in this chapter ####
 

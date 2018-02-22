@@ -6,7 +6,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 Some translations set prose quotations from the Old Testament farther to the right on the page to make it easier to read. The ULB does this with the quoted words in verse 12.
 
-In [Romans 15:14](./14.md), Paul begins to speak more personally. He shifts from teaching to telling of his personal plans.
+In [Romans 15:14](../../rom/15/14.md), Paul begins to speak more personally. He shifts from teaching to telling of his personal plans.
 
 #### Important figures of speech in this chapter ####
 

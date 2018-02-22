@@ -8,13 +8,13 @@ The Jewish leaders needed to get permission from Pontius Pilate, the Roman gover
 
 ##### The tomb #####
 
-The tomb in which Jesus was buried ([Matthew 27:60](./59.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
+The tomb in which Jesus was buried ([Matthew 27:60](../../mat/27/60.md)) was the kind of tomb in which wealthy Jewish families buried their dead. It was an actual room cut into a rock. It had a flat place on one side where they could place the body after they had put oil and spices on it and wrapped it in cloth. Then they would roll a large rock in front of the tomb so no one could see inside or enter.
 
 #### Important figures of speech in this chapter ####
 
 ##### Sarcasm #####
 
-The soldiers said, "Hail, King of the Jews!" ([Matthew 27:29](./27.md)) to mock Jesus. They did not think that he was the king of the Jews. (See: [[rc://en/ta/man/translate/figs-irony]])
+The soldiers said, "Hail, King of the Jews!" ([Matthew 27:29](../../mat/27/29.md)) to mock Jesus. They did not think that he was the king of the Jews. (See: [[rc://en/ta/man/translate/figs-irony]])
 
 ## Links: ##
 
