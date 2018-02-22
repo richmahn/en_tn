@@ -11,6 +11,6 @@ Jerusalem is an important city, the center of government and religious activitie
 
 ## Links: ##
 
-* __[Psalms 122:1](./001.md)__
+* __[Psalms 122:1](../../psa/122/001.md)__
 
 __[<<](../121/intro.md) | [>>](../123/intro.md)__

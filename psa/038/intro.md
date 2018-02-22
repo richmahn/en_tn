@@ -10,6 +10,6 @@ The author was very sick and his enemies were seeking ways to destroy him.
 
 ## Links: ##
 
-* __[Psalms 38:1](./001.md)__
+* __[Psalms 38:1](../../psa/038/001.md)__
 
 __[<<](../037/intro.md) | [>>](../039/intro.md)__

@@ -13,7 +13,7 @@ The last verse of the chapter ends with an incomplete sentence. Most translation
 The Jews in Jerusalem were following the law of Moses. Even those who were following Jesus still kept the law. Both groups thought that Paul had been telling Jews in Greece not to keep the law. But it was only the Gentiles to whom Paul was saying that.
 
 ##### Nazarite vow #####
-The vow that Paul and his three friends made was probably a Nazarite vow, because they shaved their heads ([Acts 21:23](./22.md)).
+The vow that Paul and his three friends made was probably a Nazarite vow, because they shaved their heads ([Acts 21:23](../../act/21/23.md)).
 
 ##### Gentiles in the temple #####
 

@@ -11,6 +11,6 @@ Just as God brought Israel through the wilderness, he took the author through ha
 
 ## Links: ##
 
-* __[Psalms 66:1](./001.md)__
+* __[Psalms 66:1](../../psa/066/001.md)__
 
 __[<<](../065/intro.md) | [>>](../067/intro.md)__

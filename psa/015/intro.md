@@ -17,6 +17,6 @@ Scholars have noted that this psalm contains a list of ten different conditions 
 
 ## Links: ##
 
-* __[Psalms 15:1](./001.md)__
+* __[Psalms 15:1](../../psa/015/001.md)__
 
 __[<<](../014/intro.md) | [>>](../016/intro.md)__

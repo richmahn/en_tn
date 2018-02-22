@@ -18,7 +18,7 @@ Elders are church leaders. Twenty-four elders may be symbolic of the whole churc
 
 ##### Seven spirits of God #####
 
-These spirits are the seven spirits of [Revelation 1:4](../01/04.md).
+These spirits are the seven spirits of [Revelation 1:4](../../rev/01/04.md).
 
 ##### Giving glory to God #####
 

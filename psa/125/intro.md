@@ -11,6 +11,6 @@ God protects good people. He will not allow the evil people to rule over the goo
 
 ## Links: ##
 
-* __[Psalms 125:1](./001.md)__
+* __[Psalms 125:1](../../psa/125/001.md)__
 
 __[<<](../124/intro.md) | [>>](../126/intro.md)__

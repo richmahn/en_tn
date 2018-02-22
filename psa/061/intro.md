@@ -11,6 +11,6 @@ The author has vowed to praise God every day of his life because God has blessed
 
 ## Links: ##
 
-* __[Psalms 61:1](./001.md)__
+* __[Psalms 61:1](../../psa/061/001.md)__
 
 __[<<](../060/intro.md) | [>>](../062/intro.md)__

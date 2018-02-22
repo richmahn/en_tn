@@ -11,6 +11,6 @@ God saved the Israelites from their enemy who wanted to completely destroy them.
 
 ## Links: ##
 
-* __[Psalms 124:1](./001.md)__
+* __[Psalms 124:1](../../psa/124/001.md)__
 
 __[<<](../123/intro.md) | [>>](../125/intro.md)__

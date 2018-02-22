@@ -11,6 +11,6 @@ The captives are told to sing songs of Zion there in Babylon but they felt too u
 
 ## Links: ##
 
-* __[Psalms 137:1](./001.md)__
+* __[Psalms 137:1](../../psa/137/001.md)__
 
 __[<<](../136/intro.md) | [>>](../138/intro.md)__

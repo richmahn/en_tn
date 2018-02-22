@@ -11,6 +11,6 @@ God does not need animal sacrifices; he does not eat meat or drink blood. The wo
 
 ## Links: ##
 
-* __[Psalms 50:1](./001.md)__
+* __[Psalms 50:1](../../psa/050/001.md)__
 
 __[<<](../049/intro.md) | [>>](../051/intro.md)__

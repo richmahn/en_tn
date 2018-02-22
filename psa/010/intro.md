@@ -15,6 +15,6 @@ As noted in the intro to the last psalm, this one is part of an acrostic poem. T
 
 ## Links: ##
 
-* __[Psalms 10:1](./001.md)__
+* __[Psalms 10:1](../../psa/010/001.md)__
 
 __[<<](../009/intro.md) | [>>](../011/intro.md)__

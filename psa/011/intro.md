@@ -11,6 +11,6 @@ The wicked people try to destroy the good people but God knows everything that i
 
 ## Links: ##
 
-* __[Psalms 11:1](./001.md)__
+* __[Psalms 11:1](../../psa/011/001.md)__
 
 __[<<](../010/intro.md) | [>>](../012/intro.md)__

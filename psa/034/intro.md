@@ -13,6 +13,6 @@ Good people can have problems, but God brings them through these. (See: [[rc://e
 
 ## Links: ##
 
-* __[Psalms 34:1](./001.md)__
+* __[Psalms 34:1](../../psa/034/001.md)__
 
 __[<<](../033/intro.md) | [>>](../035/intro.md)__

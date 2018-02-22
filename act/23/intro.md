@@ -26,6 +26,6 @@ This is a common metaphor in Scripture for appearing to be good or clean or righ
 
 ## Links: ##
 
-* __[Acts 23:1](./01.md)__
+* __[Acts 23:1](../../act/23/01.md)__
 
 __[<<](../22/intro.md) | [>>](../24/intro.md)__

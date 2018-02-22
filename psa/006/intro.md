@@ -15,6 +15,6 @@ This psalm is written using first person making its perspective very personal. T
 
 ## Links: ##
 
-* __[Psalms 6:1](./001.md)__
+* __[Psalms 6:1](../../psa/006/001.md)__
 
 __[<<](../005/intro.md) | [>>](../007/intro.md)__

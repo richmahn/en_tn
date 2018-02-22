@@ -11,6 +11,6 @@ Just as a servant trusts his master to protect him, so the author is trusting Go
 
 ## Links: ##
 
-* __[Psalms 123:1](./001.md)__
+* __[Psalms 123:1](../../psa/123/001.md)__
 
 __[<<](../122/intro.md) | [>>](../124/intro.md)__
