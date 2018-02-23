@@ -12,7 +12,7 @@ The events described in this chapter are commonly called "Pentecost." Many peopl
 
 ##### Tongues #####
 
-The word "tongues" has two meanings in this chapter. Luke describes what came down from heaven ([Acts 2:3](../../act/02/03.md)) as tongues that looked like fire. This is different from "a tongue of flame," which is a fire that looks like a tongue. Luke also uses the word "tongues" to describe the languages that the people spoke after the Holy Spirit filled them ([Acts 2:4-6](./01.md)). 
+The word "tongues" has two meanings in this chapter. Luke describes what came down from heaven ([Acts 2:3](../../act/02/03.md)) as tongues that looked like fire. This is different from "a tongue of flame," which is a fire that looks like a tongue. Luke also uses the word "tongues" to describe the languages that the people spoke after the Holy Spirit filled them ([Acts 2:4](../02/04.md)). 
 
 ##### Last days #####
 
@@ -20,11 +20,11 @@ No one knows for sure when the "last days" ([Acts 2:17](../../act/02/17.md)) beg
 
 ##### Baptize #####
 
-The word "baptize" in this chapter refers to Christian baptism ([Acts 2:38-41](./37.md)). Though the event described in [Acts 2:1-11](./01.md) is the baptism of the Holy Spirit that Jesus promised in [Acts 1:5](../../act/01/05.md), the word "baptize" here does not refer to that event. (See: [[rc://en/tw/dict/bible/kt/baptize]])
+The word "baptize" in this chapter refers to Christian baptism ([Acts 2:38-41](../02/38.md)). Though the event described in [Acts 2:1-11](./01.md) is the baptism of the Holy Spirit that Jesus promised in [Acts 1:5](../../act/01/05.md), the word "baptize" here does not refer to that event. (See: [[rc://en/tw/dict/bible/kt/baptize]])
 
 ##### The prophecy of Joel #####
 
-Many of the things that Joel said would happen did happen on the day of Pentecost ([Acts 2:17-18](./16.md)), but some things Joel spoke of did not happen ([Acts 2:19-20](./18.md)). (See: [[rc://en/tw/dict/bible/kt/prophet]])
+Many of the things that Joel said would happen did happen on the day of Pentecost ([Acts 2:17-18](../02/17.md)), but some things Joel spoke of did not happen ([Acts 2:19-20](../02/19.md)). (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
 ##### Wonders and signs #####
 
