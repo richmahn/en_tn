@@ -10,7 +10,7 @@ The first sentence of verse 1 ends the description of the events in chapter 7. L
 
 ##### Receiving the Holy Spirit #####
 
-In this chapter for the first time Luke speaks of people receiving the Holy Spirit ([Acts 8:15-19](./14.md)). The Holy Spirit had already enabled the believers to speak in tongues, to heal the sick, and to live as a community, and he had filled Stephen. But when the Jews started putting believers in prison, those believers who could leave Jerusalem did leave, and as they went, they told people about Jesus. When the people who heard about Jesus received the Holy Spirit, the church leaders knew that those people had truly become believers.
+In this chapter for the first time Luke speaks of people receiving the Holy Spirit ([Acts 8:15-19](../08/15.md)). The Holy Spirit had already enabled the believers to speak in tongues, to heal the sick, and to live as a community, and he had filled Stephen. But when the Jews started putting believers in prison, those believers who could leave Jerusalem did leave, and as they went, they told people about Jesus. When the people who heard about Jesus received the Holy Spirit, the church leaders knew that those people had truly become believers.
 
 ##### Proclaimed #####
 
