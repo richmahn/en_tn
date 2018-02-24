@@ -8,7 +8,7 @@ The tomb in which Jesus was buried ([Matthew 28:1](../../mat/28/01.md)) was the 
 
 ##### "Make disciples" #####
 
-The last two verses ([Matthew 28:19-20](./18.md)) are commonly known as "The Great Commission" because they contain a very important command given to all Christians. Christians are to "make disciples" by going to people, sharing the gospel with them and training them to live as Christians.
+The last two verses ([Matthew 28:19-20](./19.md)) are commonly known as "The Great Commission" because they contain a very important command given to all Christians. Christians are to "make disciples" by going to people, sharing the gospel with them and training them to live as Christians.
 
 #### Other possible translation difficulties in this chapter ####
 

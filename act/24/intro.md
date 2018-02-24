@@ -8,7 +8,7 @@ Paul told the governor that he had not done what the Jews were accusing him of d
 
 ##### Respect #####
 
-Both the Jewish leaders ([Acts 24:2-4](./01.md)) and Paul ([Acts 24:10](../../act/24/10.md)) began their speeches with words that show respect to  the governor.
+Both the Jewish leaders ([Acts 24:2-4](./02.md)) and Paul ([Acts 24:10](../../act/24/10.md)) began their speeches with words that show respect to  the governor.
 
 #### Other possible translation difficulties in this chapter ####
 
