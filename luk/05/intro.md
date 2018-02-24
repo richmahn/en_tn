@@ -18,7 +18,7 @@ People would fast, or not eat food for a long time, when they were sad or were s
 
 ##### Hypothetical Situation #####
 
-Jesus uses a hypothetical situation to condemn the Pharisees. This passage includes "people in good health" and "righteous people." This does not mean that there are people who do not need Jesus. There are no "righteous people," everybody needs Jesus. (See: [[rc://en/ta/man/translate/figs-hypo]] and [Luke 5:31-32](./29.md))
+Jesus uses a hypothetical situation to condemn the Pharisees. This passage includes "people in good health" and "righteous people." This does not mean that there are people who do not need Jesus. There are no "righteous people," everybody needs Jesus. (See: [[rc://en/ta/man/translate/figs-hypo]] and [Luke 5:31-32](./31.md))
 
 #### Other possible translation difficulties in this chapter ####
 

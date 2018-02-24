@@ -8,7 +8,7 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### The return of Christ #####
 
-Jesus said much about what would happen before he returned ([Mark 13:6-37](./05.md)). He told his followers that bad things would happen to the world and bad things would happen to them before he returned, but they needed to be ready for him to return at any time.
+Jesus said much about what would happen before he returned ([Mark 13:6-37](./06.md)). He told his followers that bad things would happen to the world and bad things would happen to them before he returned, but they needed to be ready for him to return at any time.
 
 ## Links: ##
 

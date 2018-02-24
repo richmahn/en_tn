@@ -28,7 +28,7 @@ Many sentences in this chapter tell that a person had something happen to him wi
 
 ##### Parables #####
 
-The parables were short stories that Jesus told so that people would easily understand the lesson he was trying to teach them. He also told the stories so that those who did not want to believe in him would not understand the truth ([Matthew 13:11-13](./10.md)).
+The parables were short stories that Jesus told so that people would easily understand the lesson he was trying to teach them. He also told the stories so that those who did not want to believe in him would not understand the truth ([Matthew 13:11-13](./11.md)).
 
 ## Links: ##
 * __[Matthew 13:01 Notes](./01.md)__
