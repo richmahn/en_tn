@@ -20,10 +20,10 @@ Paul likely uses the pronoun "we" to represent at least Timothy and himself. It 
 
 ##### Paradox #####
 
-A "paradox" is a true statement that appears to describe something impossible. These words in verse 2 are a paradox: "the abundance of their joy and the extremity of their poverty have produced great riches of generosity." In verse 3 Paul explains how their poverty produced riches. Paul also uses riches and poverty in other paradoxes. ([2 Corinthians 8:2](./01.md))
+A "paradox" is a true statement that appears to describe something impossible. These words in verse 2 are a paradox: "the abundance of their joy and the extremity of their poverty have produced great riches of generosity." In verse 3 Paul explains how their poverty produced riches. Paul also uses riches and poverty in other paradoxes. ([2 Corinthians 8:2](./02.md))
 
 ## Links: ##
 
-* __[2 Corinthians 08:01 Notes](./01.md)__
+* __[2 Corinthians 08:01 Notes](./02.md)__
 
 __[<<](../07/intro.md) | [>>](../09/intro.md)__
