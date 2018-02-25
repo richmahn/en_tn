@@ -29,7 +29,7 @@ Paul uses sarcasm, a special type of irony, when he reminds them how he had help
 
 ##### Paradox #####
 
-A "paradox" is a true statement that appears to describe something impossible. This sentence in verse 5 is a paradox: "I will not boast, except about my weaknesses." Most people do not boast about being weak. This sentence in verse 10 is also a paradox: "For whenever I am weak, then I am strong." In verse 9, Paul explains why both of these statements are true. ([2 Corinthians 12:5](./03.md))
+A "paradox" is a true statement that appears to describe something impossible. This sentence in verse 5 is a paradox: "I will not boast, except about my weaknesses." Most people do not boast about being weak. This sentence in verse 10 is also a paradox: "For whenever I am weak, then I am strong." In verse 9, Paul explains why both of these statements are true. ([2 Corinthians 12:5](./05.md))
 
 ## Links: ##
 

@@ -33,7 +33,7 @@ Peter probably was in Rome when he wrote this letter. He gave Rome the symbolic 
 ## Part 3: Important Translation Issues ##
 
 #### Singular and plural "you" ####
-In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/15.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to Peter's audience. (See: [[rc://en/ta/man/translate/figs-you]])
+In this book, the word "I" refers to Peter, except for two places: [1 Peter 1:16](../01/16.md) and [1 Peter 2:6](../02/06.md). The word "you" is always plural and refers to Peter's audience. (See: [[rc://en/ta/man/translate/figs-you]])
 
 #### What are the major issues in the text of the Book of 1 Peter? ####
 
