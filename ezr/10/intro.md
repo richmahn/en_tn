@@ -7,6 +7,6 @@ The people agree to divorce their Gentile wives. Many Jews were involved in thes
 
 ## Links: ##
 
-* __[Esra Ezra 10:01 Notes](./01.md)__
+* __[Ezra 10:01 Notes](./01.md)__
 
 __[<<](../09/intro.md) | __
