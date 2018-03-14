@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins the account of Jephthah. (See: [Judges 10-12](./01.md))
+This chapter begins the account of Jephthah ([Judges 10-12](./01.md)).
 
 #### Special concepts in this chapter ####
 
