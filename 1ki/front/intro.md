@@ -29,7 +29,7 @@
 
 These books are about what happened to the people of Israel, from the time of King Solomon to the time both the northern and southern kingdoms were destroyed. These books describe how Israel split into two kingdoms after Solomon died. It also tells about all the kings that ruled over each kingdom after Solomon died.
 
-In the southern kingdom, some kings did what Yahweh judged to be right. For example, King Josiah repaired the temple and reformed the worship of Yahweh. He responded to the high priest finding a copy of the Law of Yahweh in Jerusalem (See: [2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
+In the southern kingdom, some kings did what Yahweh judged to be right. For example, King Josiah repaired the temple and reformed the worship of Yahweh. He responded to the high priest finding a copy of the Law of Yahweh in Jerusalem ([2 Kings 22–23](../../2ki/22/01.md)). However, all of the kings of the northern kingdom were wicked.
 
 The Assyrians destroyed the northern kingdom in 722 B.C. The Babylonians destroyed the southern kingdom in 586 B.C.  
 
