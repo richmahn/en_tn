@@ -23,7 +23,7 @@
 
 This book is about David ruling as king over Israel. He first ruled over the tribe of Judah for seven years. Then the other eleven tribes agreed to have him become their king. He ruled over all Israel for thirty-three years. 
 
-Throughout this time, David led his army to fight foreign enemies who attacked Israel. However, he struggled the most against someone in his own family. Absalom, his son, rebelled and fought against him (See: [2 Samuel 13-19](../13/01.md)).
+Throughout this time, David led his army to fight foreign enemies who attacked Israel. However, he struggled the most against someone in his own family. Absalom, his son, rebelled and fought against him ([2 Samuel 13-19](../13/01.md)).
 
 The Book of 2 Samuel also tells about when David sinned greatly. He slept with Bathsheba, the wife of Uriah the Hittite. When she became pregnant, David arranged for Uriah to be killed in battle. David and all Israel suffered much because of David's sin.  However, the writer also tells of Yahweh repeatedly showing David grace and love after David repented of his sin.
 
