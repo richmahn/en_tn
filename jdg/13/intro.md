@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins the account of Samson. (See: [Judges 13-16](./01.md))
+This chapter begins the account of Samson ([Judges 13-16](./01.md)).
 
 #### Special concepts in this chapter ####
 
