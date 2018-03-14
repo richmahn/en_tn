@@ -10,7 +10,7 @@ Some scholars believe that [Matthew 11:20](../../mat/11/20.md) begins a new stag
 
 ##### Hidden revelation #####
 
-After [Matthew 11:20](../../mat/11/20.md), Jesus begins to reveal information about himself and about the plans of God the Father, while hiding this information from those who reject him. (See: [Matthew 11:25](../../mat/11/25.md))
+After [Matthew 11:20](../../mat/11/20.md), Jesus begins to reveal information about himself and about the plans of God the Father, while hiding this information from those who reject him ([Matthew 11:25](../../mat/11/25.md)).
 
 #### Other possible translation difficulties in this chapter ####
 

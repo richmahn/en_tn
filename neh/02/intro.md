@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter begins the account of the construction of the wall. Many scholars believe these chapters teach valuable lessons on leadership. (See: [Nehemiah 2-6](./01.md))
+This chapter begins the account of the construction of the wall. Many scholars believe these chapters teach valuable lessons on leadership ([Nehemiah 2-6](./01.md)).
 
 ##### Special concepts in this chapter #####
 
