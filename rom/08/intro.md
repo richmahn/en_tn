@@ -4,7 +4,7 @@
 
 The first verse of this chapter is a transitional sentence. Paul concludes his teaching of Chapter 7 and leads into the words of Chapter 8.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 36. Paul quotes these words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verse 36. Paul quotes these words from the Old Testament.
 
 #### Special concepts in this chapter ####
 

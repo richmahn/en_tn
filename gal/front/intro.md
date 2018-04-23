@@ -44,6 +44,6 @@ Please see the introduction to the Book of Romans for more details about this ki
 
 #### What are the major issues in the text of the Book of Galatians? ####
 
-* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes" (3:1)? The ULB, UDB, and the other modern versions have this reading. However, older versions of the Bible add, "[so] that ye should not obey the truth." Translators are advised not to include this expression. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Galatians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
+* "Foolish Galatians, whose evil eye has harmed you? Was not Jesus Christ depicted as crucified before your eyes" (3:1)? The ULT, UST, and the other modern versions have this reading. However, older versions of the Bible add, "[so] that ye should not obey the truth." Translators are advised not to include this expression. However, if in the translators' region there are older Bible versions that have the passage, the translators can include it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Galatians. (See: [[rc://en/ta/man/translate/translate-textvariants]])
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

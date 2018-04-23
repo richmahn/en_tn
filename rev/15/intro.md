@@ -4,7 +4,7 @@
 
 In this chapter, John describes events and pictures that occur in heaven.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 3-4.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verses 3-4.
 
 #### Special concepts in this chapter ####
 

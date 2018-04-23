@@ -63,18 +63,18 @@ These phrases also have specific meanings that depend on how Paul used them in a
 
 Nevertheless, the basic idea of our being united with Jesus Christ (and with the Holy Spirit) is seen in these passages as well. Therefore, the translator has a choice in many passages that use "in." He will often decide to represent the more immediate sense of "in," such as, "by means of," "in the manner of," or "in regard to." But, if possible, the translator should choose a word or phrase that reprents the immediate sense and the sense of "in union with." (See: [[rc://en/tw/dict/bible/kt/inchrist]])
 
-#### How are the ideas of "holy," "saints" or "holy ones," and "sanctify" represented in Romans in the ULB? ####
+#### How are the ideas of "holy," "saints" or "holy ones," and "sanctify" represented in Romans in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
-* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULB uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
-* Sometimes the meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "consecrated," or "reserved for." (See: 15:16)
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless and faultless manner in life. In these cases, the ULT uses "holy," "holy God," "holy ones" or "holy people." (See: 1:7)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In cases where some other English versions have "saints" or "holy ones," the ULT uses "believers." (See: 8:27; 12:13; 15:25, 26, 31; 16:2, 15)
+* Sometimes the meaning in a passage indicates the idea of someone or something set apart for God alone. In these cases, the ULT uses "set apart," "dedicated to," "consecrated," or "reserved for." (See: 15:16)
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What are the major issues in the text of the Book of Romans? ####
 
-For the following verses, modern version of the Bible differ from older versions. The ULB includes the modern reading and puts the older reading in a footnote.
+For the following verses, modern version of the Bible differ from older versions. The ULT includes the modern reading and puts the older reading in a footnote.
 
 * "he [God] works all things together for good" (8:28). Some older versions read, "All things work together for good."
 * "But if it is by grace, it is no longer by works. Otherwise grace would no longer be grace" (11:6). Some older versions read: "But if it is by works, then is it no more grace: otherwise work is no more work."

@@ -40,14 +40,14 @@ The Church is the group of people who believe in Christ. The Church includes bot
 
 These are the most significant textual issues in Acts:
 
-The following verses are found in older versions of the Bible, but they are not in the best ancient copies of the Bible. Some modern versions put the verses in square brackets ([]). The ULB and UDB put them in a footnote.
+The following verses are found in older versions of the Bible, but they are not in the best ancient copies of the Bible. Some modern versions put the verses in square brackets ([]). The ULT and UST put them in a footnote.
 
 * "Philip said, 'If you believe with all your heart, you may be baptized.' The Ethiopian answered, 'I believe that Jesus Christ is the Son of God'" (Acts 8:37). 
 * "But it seemed good to Silas to remain there." (Acts 15:34)
 * "And we wanted to judge him according to our law. But Lysias, the officer, came and forcibly took him out of our hands, sending him to you." (Acts 24:6b-8a)
 * "When he had said these things, the Jews departed, having a great dispute among themselves." (Acts 28:29)
 
-In the following verses, it is uncertain what the original text said. Translators will need to choose which reading to translate. The ULB has the first readings but include the second readings in footnotes.
+In the following verses, it is uncertain what the original text said. Translators will need to choose which reading to translate. The ULT has the first readings but include the second readings in footnotes.
 * "They returned from Jerusalem" (Acts 12:25). Some versions read, "They returned to Jerusalem (or to there)."
 * "he put up with them" (Acts 13:18). Some versions read, "he cared for them."
 * "This is what the Lord says, who has done these things that have been known from ancient times." (Acts 15:17-18). Some older versions read, "This is what the Lord says, to whom are known all his deeds from ancient times."

@@ -50,4 +50,4 @@ Joel prophesied that God will defeat Israel's enemies, rebuild the city of Jerus
 
 #### How should one translate the poetry of the Book of Joel? ####
 
-All of the text in the Book of Joel is poetry. The ULB presents it in this way. The UDB, however, presents the text as prose. Translators may choose to use prose in their versions. Translators who want to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])
+All of the text in the Book of Joel is poetry. The ULT presents it in this way. The UST, however, presents the text as prose. Translators may choose to use prose in their versions. Translators who want to translate the book as poetry should read about poetry and parallelism. (See: [[rc://en/ta/man/translate/writing-poetry]] and [[rc://en/ta/man/translate/figs-parallelism]])

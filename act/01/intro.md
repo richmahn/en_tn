@@ -4,9 +4,9 @@
 
 This chapter records an event, commonly known as the "Ascension," when Jesus returned to heaven after he became alive again. He will not come back until he returns at his "second coming." (See: [[rc://en/tw/dict/bible/kt/heaven]] and [[rc://en/tw/dict/bible/kt/resurrection]])
 
-The UDB has set the words "Dear Theophilus" apart from the other words. This is because English speakers often start letters this way. You might want to start this book the way people start letters in your culture. 
+The UST has set the words "Dear Theophilus" apart from the other words. This is because English speakers often start letters this way. You might want to start this book the way people start letters in your culture. 
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the two quotes from Psalms in 1:20. 
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the two quotes from Psalms in 1:20. 
 
 #### Special concepts in this chapter ####
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this in verses 9-13.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this in verses 9-13.
 
 #### Special concepts in this chapter ####
 

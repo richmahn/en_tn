@@ -50,4 +50,4 @@ Translators should avoid trying to explain these visions in their translations. 
 
 #### What does "and you will know that I am Yahweh" mean? ####
 
-This is a common phrase in the Book of Ezekiel. It is meant to assure the reader that these messages truly came from God, and that he will do what he has promised. The translator may also use the phrase "and you will understand that I am Yahweh and what I say will happen." The UDB translates it as "then you will know that I, Yahweh, have the power to do what I say that I will do."
+This is a common phrase in the Book of Ezekiel. It is meant to assure the reader that these messages truly came from God, and that he will do what he has promised. The translator may also use the phrase "and you will understand that I am Yahweh and what I say will happen." The UST translates it as "then you will know that I, Yahweh, have the power to do what I say that I will do."

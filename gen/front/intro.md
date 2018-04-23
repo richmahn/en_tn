@@ -67,7 +67,7 @@ Sin and evil have affected all people. This started when Adam disobeyed God in t
 
 #### What is one way in which Genesis marks the beginning of important sections? ####
 
-Genesis uses one Hebrew phrase that the ULB translates as "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
+Genesis uses one Hebrew phrase that the ULT translates as "this is the record of," "these were the events concerning," or "these were the descendants of." The information in these sections may have come from sources much older than Moses. These passages are 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
 
 If the translator wants to translate in only two ways, we recommend for most passages a phrase such as, "this is the record about" or "this is information about." Some passages will be better translated, however, as "These were the descendants of."
 
@@ -79,9 +79,9 @@ However, in many languages, it is preferred to write summaries at the end of a n
 
 #### What is the difference between "people," "peoples," and "people groups"? ####
 
-The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULB) refers to multiple groups of people. Each people group might speak their own language, have their own customs, and worships their own gods. Some different peoples in the ancient Near East were those of Israel, Egypt, Edom, Moab, and Ammon.
+The word "people" refers to all the individuals who belong to a group, such as "the people of Israel." The word "peoples" (used in the ULT) refers to multiple groups of people. Each people group might speak their own language, have their own customs, and worships their own gods. Some different peoples in the ancient Near East were those of Israel, Egypt, Edom, Moab, and Ammon.
 
-The expression "people groups" (used in the UDB) means the same thing as "peoples" in the ULB. The translator should use the most equivalent term that is common in the project language.
+The expression "people groups" (used in the UST) means the same thing as "peoples" in the ULT. The translator should use the most equivalent term that is common in the project language.
 
 #### What is the relationship between individuals and peoples that have similar names? ####
 

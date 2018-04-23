@@ -59,7 +59,7 @@ The Jewish Passover was a religious festival. Yahweh commanded the Israelites to
 
 The law of Moses instructed the people of Israel what Yahweh required them to do as his people. In the law, God told the people how they should live so that they honor him. He also instructed them about their need to offer animal sacrifices. God required these sacrifices so that he could forgive their sins and continue living among them. The law also described the duties of the priests and told how to build the tabernacle.
  
-#### What did it mean that Israel was to be a "kingdom of priests and a holy nation" (19:6 ULB)? ####
+#### What did it mean that Israel was to be a "kingdom of priests and a holy nation" (19:6 ULT)? ####
 
 Israel was a holy nation because Yahweh separated them from all other nations to belong to him. They were to honor and worship him only. This made them different than all the other nations of the world. These other nations worshiped many false gods.
 

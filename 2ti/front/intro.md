@@ -45,7 +45,7 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major textual issues in the text of the Book of 2 Timothy? ####
 
-For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "Because of this, I was appointed a preacher, an apostle, and a teacher" (1:11). Some older versions read, "Because of this, I was appointed a preacher, an apostle, and a teacher to the Gentiles."
 * "Warn them before God" (2:14). Some older versions read, "Warn them before the Lord."

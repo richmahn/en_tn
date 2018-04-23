@@ -39,7 +39,7 @@ In this book, the word "I" refers to Peter. Also, the word "you" is always plura
 
 #### What are the major issues in the text of the Book of 2 Peter? ####
 
-For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, some modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "to be kept in chains of lower darkness until the judgment" (2:4). Some modern versions and older versions have, "to be kept in pits of lower darkness until the judgment."
 * "They enjoy their deceitful actions while they are feasting with you" (2:13). Some versions have, "They enjoy their actions while they are feasting with you in love feasts."

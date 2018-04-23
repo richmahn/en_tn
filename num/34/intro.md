@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the lines in 34:19-28 farther to the right on the page than the rest of the text because they are long lists.
+The ULT sets the lines in 34:19-28 farther to the right on the page than the rest of the text because they are long lists.
 
 #### Special concepts in this chapter ####
 ##### The boundaries #####

@@ -51,7 +51,7 @@ Paul meant to express the idea of a very a close union with Christ and the belie
 
 #### What are the major issues in the text of the Book of 1 Thessalonians? ####
 
-For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "May grace and peace be to you" (1:1). Some older versions read: "Grace and peace to you from God our Father and the Lord Jesus Christ."
 * "Instead, we were as gentle among you as a mother comforting her own children." (2:7)  Other modern versions and older versions read, "Instead, we were like babies among you, as when a mother comforts her own children."

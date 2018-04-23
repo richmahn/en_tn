@@ -8,7 +8,7 @@ God told the new king that he had failed and God was replacing him, showing that
 
 #### Other possible translation difficulties in this chapter ####
 ##### Mene, Mene, Tekel, Upharsin #####
-These are words in Aramaic. Daniel "transliterates" these words by writing them with Hebrew letters, and then he explains their meanings. In the ULB and UDB they are written with English letters. Translators are encouraged to write them using the letters of the target language alphabet.
+These are words in Aramaic. Daniel "transliterates" these words by writing them with Hebrew letters, and then he explains their meanings. In the ULT and UST they are written with English letters. Translators are encouraged to write them using the letters of the target language alphabet.
 
 ## Links: ##
 

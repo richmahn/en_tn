@@ -4,7 +4,7 @@
 
 In this chapter, Paul returns to discussing spiritual gifts.
 
-Some translations set what is quoted from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the words of verse 21.
+Some translations set what is quoted from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the words of verse 21.
 
 #### Special concepts in this chapter ####
 

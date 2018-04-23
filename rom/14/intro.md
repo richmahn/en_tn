@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 11 of this chapter, which Paul quotes from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verse 11 of this chapter, which Paul quotes from the Old Testament.
 
 #### Special concepts in this chapter ####
 

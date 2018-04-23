@@ -8,7 +8,7 @@
 
 ##### The new covenant #####
 
-Some people think that Jesus established the new covenant during the supper. Others think he established it after he went up to heaven. Others think it will not be established until Jesus comes again. Your translation should say no more about this than the ULB does. (See: [[rc://en/tw/dict/bible/kt/covenant]])
+Some people think that Jesus established the new covenant during the supper. Others think he established it after he went up to heaven. Others think it will not be established until Jesus comes again. Your translation should say no more about this than the ULT does. (See: [[rc://en/tw/dict/bible/kt/covenant]])
 
 #### Other possible translation difficulties in this chapter ####
 

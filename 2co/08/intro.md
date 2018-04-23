@@ -4,7 +4,7 @@
 
 Chapters 8 and 9 begin a new section. Paul writes about how churches in Greece helped needy believers in Jerusalem.
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words of verse 15.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the quoted words of verse 15.
 
 #### Special concepts in this chapter ####
 

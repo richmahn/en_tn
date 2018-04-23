@@ -4,7 +4,7 @@
 
 The author finishes the list of exhortations he began in chapter 12. Then he asks the readers to pray for him and ends the letter.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 13:6, which are words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in 13:6, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 

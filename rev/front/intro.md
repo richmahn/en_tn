@@ -38,7 +38,7 @@ John used a special style of writing to describe his visions. John described wha
 
 Since early Christian times, scholars have interpreted Revelation differently. Some scholars think John described events that happened during his time. Some scholars think John described events happening from his time until the return of Jesus. Other scholars think John described events that will happen in a short period of time just before Christ returns.
 
-Translators will not need to decide how to interpret the book before they translate it. Translators should leave the prophecies in the tenses that are used in the ULB.
+Translators will not need to decide how to interpret the book before they translate it. Translators should leave the prophecies in the tenses that are used in the ULT.
 
 #### Are there any other books in the Bible like Revelation? ####
 
@@ -50,14 +50,14 @@ No other book of the Bible is like the Book of Revelation. But, passages in Ezek
 
 One does not need to understand all of the symbols in the Book of Revelation to translate it properly. Translators should not give possible meanings for the symbols or numbers in their translation. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-#### How are the ideas of "holy" and "sanctify" represented in Revelation in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Revelation in the ULT? ####
 
-The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating Revelation into English, the ULB uses the following principles:
-* The meaning in two passages indicates moral holiness. Here, the ULB uses "holy." (See: 14:12; 22:11)
-* Usually the meaning in Revelation indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
-* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "sanctify," "set apart," "dedicated to," or "reserved for." 
+The scriptures use these words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating Revelation into English, the ULT uses the following principles:
+* The meaning in two passages indicates moral holiness. Here, the ULT uses "holy." (See: 14:12; 22:11)
+* Usually the meaning in Revelation indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULT uses "believer" or "believers." (See: 5:8; 8:3, 4; 11:18; 13:7; 16:6; 17:6; 18:20, 24; 19:8; 20:9)
+* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULT uses "sanctify," "set apart," "dedicated to," or "reserved for." 
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### Periods of time ####
 
@@ -65,7 +65,7 @@ John referred to various periods of time in Revelation. For example, there are m
 
 #### What are the major issues in the text of the Book of Revelation? ####
 
-For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, some modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "'I am the alpha and the omega,' says the Lord God, 'the one who is, and who was, and who is to come, the Almighty'" (1:8). Some versions add the phrase "the Beginning and the End."
 * "the elders prostrated themselves and worshiped" (5:14). Some older versions read, "the twenty-four elders prostrated themselves and worshiped the one who lives forever and ever."

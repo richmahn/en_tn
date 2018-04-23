@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words of verse 17.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the quoted words of verse 17.
 
 In this chapter, Paul returns to defending his authority. He also compares the way he speaks and the way he writes.
 

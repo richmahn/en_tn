@@ -4,7 +4,7 @@
 
 In this chapter, the writer finishes describing how Jesus' sacrifice was better than the sacrifices offered in the Temple. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 10:5-7, 15-17, 37-38, which are words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in 10:5-7, 15-17, 37-38, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 

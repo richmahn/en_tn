@@ -57,9 +57,9 @@ Also, psalmists often expressed fear that they would be shamed by their enemies.
 
 ## Part 3: Important Translation Issues ##
 
-#### Why do the ULB and UDB display the Book of Psalms as poetry, but some modern versions do not? ####
+#### Why do the ULT and UST display the Book of Psalms as poetry, but some modern versions do not? ####
 
-The psalmists wrote the Psalms as Hebrew poetry. The ULB and UDB set each line farther to the right on the page than regular text is placed to show that the writing is poetry rather than prose. 
+The psalmists wrote the Psalms as Hebrew poetry. The ULT and UST set each line farther to the right on the page than regular text is placed to show that the writing is poetry rather than prose. 
 
 This style typically uses pairs of poetic lines that relate to each other in different ways. Usually, poetic lines are said to be "parallel" to each other. A line that is indented farther to the right is paired with the line above it. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 

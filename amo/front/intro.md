@@ -17,7 +17,7 @@
 
 The Book of Amos contains the words of Amos, a shepherd of Tekoa. Amos began to prophesy about 760 BC. He spoke Yahweh's messages against God's people behaving wickedly. He spoke messages to both the southern kingdom of Judah and the northern kingdom of Israel. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
-Yahweh gave Amos prophecies of judgment (Chapters 1-6) to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULB). 
+Yahweh gave Amos prophecies of judgment (Chapters 1-6) to proclaim to the people. Each of them begins with the phrase "This is what Yahweh says" (ULT). 
 
 Three visions of Yahweh coming to judge the people are in the last part of the book (7:1-9:10). A final vision promises that Yahweh will restore Israel (9:11-15). He will restore the "tent of David." This means a descendant of David would once again be king over Israel. 
 

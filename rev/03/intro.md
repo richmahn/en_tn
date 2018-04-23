@@ -4,7 +4,7 @@
 
 Chapters 2 and 3 together are usually called the "seven letters to the seven churches." You may wish to set each letter apart. The reader can then easily see that they are separate letters. 
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verse 7.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verse 7.
 
 #### Special concepts in this chapter ####
 
