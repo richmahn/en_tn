@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set words farther to the right on the page than the rest of the text. The ULB does this with verses 11-13. Paul may be quoting a poem or hymn in these verses.
+Some translations set words farther to the right on the page than the rest of the text. The ULT does this with verses 11-13. Paul may be quoting a poem or hymn in these verses.
 
 #### Special concepts in this chapter ####
 

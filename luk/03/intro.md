@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:4-6, which are words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in 3:4-6, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
@@ -16,7 +16,7 @@ A genealogy is a list which records a person's ancestors or descendants. Such li
 
 ##### Metaphor #####
 
-Prophecy often involves the use of metaphors to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy of Isaiah is an extended metaphor describing the ministry of John the Baptist ([Luke 3:4-6](./04.md)). Translation is difficult. It is suggested that the translator treat each line of the ULB as a separate metaphor. (See: [[rc://en/tw/dict/bible/kt/prophet]]) and [[rc://en/ta/man/translate/figs-metaphor]])
+Prophecy often involves the use of metaphors to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy of Isaiah is an extended metaphor describing the ministry of John the Baptist ([Luke 3:4-6](./04.md)). Translation is difficult. It is suggested that the translator treat each line of the ULT as a separate metaphor. (See: [[rc://en/tw/dict/bible/kt/prophet]]) and [[rc://en/ta/man/translate/figs-metaphor]])
 
 #### Other possible translation difficulties in this chapter ####
 

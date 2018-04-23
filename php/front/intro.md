@@ -61,6 +61,6 @@ This kind of expression occurs in 1:1, 8, 13, 14, 26, 27; 2:1, 5, 19, 24, 29; 3:
 
 #### What are the major issues in the text of the Book of Philippians? ####
 
-* Some versions have "Amen" at the end of the final verse in the letter (4:23). The ULB, UDB, and other many modern versions do not. If "Amen" is included, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Philippians. 
+* Some versions have "Amen" at the end of the final verse in the letter (4:23). The ULT, UST, and other many modern versions do not. If "Amen" is included, it should be put inside square brackets ([]) to indicate that it is probably not original to the Book of Philippians. 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

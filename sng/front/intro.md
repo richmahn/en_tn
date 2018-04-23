@@ -35,13 +35,13 @@ The Song of Songs approves of sexual behavior expressing love between a husband 
 
 The two main characters in this book are the man and the woman, who love each other. The woman also speaks to a group of women called the "daughters of Jerusalem," and these women make comments. However, it is possible that the group of women is not real and the woman is only imagining them.
 
-Some interpreters believe there may be more characters than these, but this is not certain. The ULB and UDB versions recognize only the man, the woman, and the group of women.
+Some interpreters believe there may be more characters than these, but this is not certain. The ULT and UST versions recognize only the man, the woman, and the group of women.
 
 #### What are the lines about people speaking? ####
 
 The Song of Songs is a poem that shows the thoughts and words of a man, a woman, and the woman’s friends. Throughout the poem, the author does not identify the speakers and their audience. So to help readers understand the poem, some translations attempt to identify the speaker and the audience. It is not always certain who the speaker is, so sometimes translations disagree about who is speaking.
 
-Before each speech, the ULB identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," or "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
+Before each speech, the ULT identifies the speaker and the audience like this: "The woman speaking to the other women," "The woman speaking to the man," "The man speaking to the woman," or "The woman speaking to herself." Translators are encouraged to include these ways of identifying the speaker and the audience, and to format them differently from the scripture text. The translators should also include a note explaining that these explanations are not actually part of the scripture.
 
 #### How should one translate the Song of Songs if the readers will view certain terms as coarse, vulgar, or improper? ####
 

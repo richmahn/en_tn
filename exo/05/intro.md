@@ -11,7 +11,7 @@ The Egyptians were known for making their slaves do a lot of work. They were for
 This is a very important statement. Moses does not ask Pharaoh for permission to "let go" of the Hebrew people. Instead, he is demanding that Pharaoh free the Hebrew people. 
 
 ##### Titles #####
-The leaders are given different titles in this chapter. The ULB uses "taskmasters" and "foremen." Many cultures will not have these types of titles. Generic expressions like "Egyptian leaders" and "Hebrew leaders" may be necessary.
+The leaders are given different titles in this chapter. The ULT uses "taskmasters" and "foremen." Many cultures will not have these types of titles. Generic expressions like "Egyptian leaders" and "Hebrew leaders" may be necessary.
 
 ## Links: ##
 

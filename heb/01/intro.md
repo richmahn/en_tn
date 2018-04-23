@@ -4,7 +4,7 @@
 
 This chapter describes how Jesus is more important to us than the angels are.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 1:5, 7-13, which are words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in 1:5, 7-13, which are words from the Old Testament.
 
 ##### "Our ancestors" #####
 

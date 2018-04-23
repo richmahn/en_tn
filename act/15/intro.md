@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 15:16-17.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry that is quoted from the Old Testament in 15:16-17.
 
 The meeting that Luke describes in this chapter is commonly called the "Jerusalem Council." This was a time when many church leaders got together to decide if believers needed to obey the whole law of Moses.
 

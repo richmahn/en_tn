@@ -34,7 +34,7 @@ Translators may choose to call this book by its traditional title, "Ephesians." 
 
 #### What was the "hidden truth" in the Book of Ephesians? ####
 
-The expression translated in the ULB as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+The expression translated in the ULT as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
 
 #### What did Paul say about salvation and righteous living? ####
 
@@ -50,15 +50,15 @@ In this book, the word "I" refers to Paul. The word "you" is almost always plura
 
 When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer receives from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used for God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
 
-#### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the use of "holy" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "holy" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
-* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers."
-* Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," or "reserved for." (See: 3:5)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the use of "holy" to express the fact that God views Christians as sinless because they are united to Jesus Christ. Another use of "holy" is to express the idea that God is perfect and faultless. A third use is to express the idea that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULT uses "holy," "holy God," "holy ones," or "holy people." (See: 1:1, 4)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULT uses "believer" or "believers."
+* Sometimes the meaning in a passage implies the idea of someone or something set apart for God alone. In these cases, the ULT uses "set apart," "dedicated to," or "reserved for." (See: 3:5)
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
 
@@ -67,7 +67,7 @@ This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:
 #### What are the major issues in the text of the Book of Ephesians? ####
 
 
-* "in Ephesus" (1:1). Some early manuscripts do not include this expression, but it is probably in the original letter. The ULB, UDB, and many modern versions include it. 
-* "because we are members of his body" (5:30). Most modern versions, including the ULB and UDB, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. 
+* "in Ephesus" (1:1). Some early manuscripts do not include this expression, but it is probably in the original letter. The ULT, UST, and many modern versions include it. 
+* "because we are members of his body" (5:30). Most modern versions, including the ULT and UST, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. 
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

@@ -34,7 +34,7 @@ Israelites practiced what is called "levirate marriage." This was a custom for t
 
 #### What was a "kinsman-redeemer"? ####
 
-A person's close relative or relatives were expected to act as "kinsmen-redeemers" (2:20 ULB) for him or her. They were responsible to provide for a relative in need. They were also responsible to practice "levirate marriage." In the Book of Ruth, Boaz is one such kinsman-redeemer.
+A person's close relative or relatives were expected to act as "kinsmen-redeemers" (2:20 ULT) for him or her. They were responsible to provide for a relative in need. They were also responsible to practice "levirate marriage." In the Book of Ruth, Boaz is one such kinsman-redeemer.
 
 #### What was "gleaning" in the Book of Ruth? ####
 
@@ -56,4 +56,4 @@ Some English Bible versions speak of Boaz sitting "at" the city gate. It may be 
 
 #### How does the Book of Ruth change from one topic to another topic? ####
 
-The Book of Ruth often changes to new topics or new parts of the story. The ULB uses various words to indicate these changes, such as "so," "then," and "now." Translators should use the ways most natural in their own languages to signal these changes.
+The Book of Ruth often changes to new topics or new parts of the story. The ULT uses various words to indicate these changes, such as "so," "then," and "now." Translators should use the ways most natural in their own languages to signal these changes.

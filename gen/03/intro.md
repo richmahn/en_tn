@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-This chapter continues the second creation account that began in Gen. 2:4. But a new section of this account begins in 3:1. The ULB reads, "Now the serpent was more shrewd than any other beast of the field which Yahweh God had made," because this is how the Scriptures introduce the serpent into the account. However, many languages prefer different ways to introduce new characters or things into stories, for example, "One of the wild animals made by God was the serpent" or "This is about the serpent, one of the wild animals that God had made."
+This chapter continues the second creation account that began in Gen. 2:4. But a new section of this account begins in 3:1. The ULT reads, "Now the serpent was more shrewd than any other beast of the field which Yahweh God had made," because this is how the Scriptures introduce the serpent into the account. However, many languages prefer different ways to introduce new characters or things into stories, for example, "One of the wild animals made by God was the serpent" or "This is about the serpent, one of the wild animals that God had made."
 
 Scholars typically refer to the events of this chapter as "the fall" or "the fall of man" because sin is introduced into creation. (See: [[rc://en/tw/dict/bible/kt/sin]])
 

@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 7:27.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the quoted material in 7:27.
 
 Several times in this chapter Luke changes his topic without marking the change. You should not try to make these rough changes smooth.
 

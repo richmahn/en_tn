@@ -58,6 +58,6 @@ The letter quickly changes topics. Sometimes James does not tell the readers tha
 
 #### What are the major issues in the text of the Book of James? ####
 
-* "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULB, UDB, and modern versions read this way. Some older versions read, "Do you want to know, foolish man, that faith without works is dead?" If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+* "Do you want to know, foolish man, that faith without works is useless?" (2:20). The ULT, UST, and modern versions read this way. Some older versions read, "Do you want to know, foolish man, that faith without works is dead?" If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

@@ -42,17 +42,17 @@ These were Jewish Christians. They taught that Gentile Christians had to obey th
 
 In this book, the word "I" refers to Paul. Also, the word "you" is almost always plural and refers to the believers in Corinth. There are two exceptions to this: 6:2 and 12:9. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-you]])
 
-#### How are the ideas of "holy" and "sanctify" represented in 2 Corinthians in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in 2 Corinthians in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people."
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULT uses "holy," "holy God," "holy ones," or "holy people."
 
-* The meaning in most passages in 2 Corinthians is a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 1:1; 8:4; 9:1, 12; 13:13)
+* The meaning in most passages in 2 Corinthians is a simple reference to Christians without implying any particular role filled by them. In these cases, the ULT uses "believer" or "believers." (See: 1:1; 8:4; 9:1, 12; 13:13)
 
-* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." 
+* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULT uses "set apart," "dedicated to," "reserved for," or "sanctified." 
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What did Paul mean by expressions like "in Christ" and "in the Lord"? ####
 
@@ -66,6 +66,6 @@ Paul's message was that God makes Christians part of a "new world" when a person
 
 #### What are the major issues in the text of the Book of 2 Corinthians? ####
 
-* "and in your love for us" (8:7). Many versions, including the ULB and UDB, read this way. However, many other versions read, "and in our love for you." There is strong evidence that each reading is original. Translators should probably follow the reading preferred by other versions in their region.
+* "and in your love for us" (8:7). Many versions, including the ULT and UST, read this way. However, many other versions read, "and in our love for you." There is strong evidence that each reading is original. Translators should probably follow the reading preferred by other versions in their region.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

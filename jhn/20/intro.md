@@ -18,11 +18,11 @@ John used Greek letters to describe the sound of the word, and then he explained
 
 ##### Jesus' resurrection body #####
 
-No one is sure what Jesus' body looked like after he became alive again. His disciples knew it was Jesus because they could see his face and touch the places where the soldiers had put the nails through his hands and feet, But he could also walk through solid walls and doors. It is best not to try to say more than what the ULB says.
+No one is sure what Jesus' body looked like after he became alive again. His disciples knew it was Jesus because they could see his face and touch the places where the soldiers had put the nails through his hands and feet, But he could also walk through solid walls and doors. It is best not to try to say more than what the ULT says.
 
 ##### Two angels in white #####
 
-Matthew, Mark, Luke, and John all wrote about angels in white clothing with the women at Jesus' tomb. Two of the authors called them men, but that is only because the angels were in human form. Two of the authors wrote about two angels, but the other two authors wrote about only one of them. It is best to translate each of these passages as it appears in the ULB without trying to make the passages all say exactly the same thing. (See: [Matthew 28:1-2](../../mat/28/01.md) and [Mark 16:5](../../mrk/16/05.md) and [Luke 24:4](../../luk/24/04.md) and [John 20:12](../../jhn/20/12.md))
+Matthew, Mark, Luke, and John all wrote about angels in white clothing with the women at Jesus' tomb. Two of the authors called them men, but that is only because the angels were in human form. Two of the authors wrote about two angels, but the other two authors wrote about only one of them. It is best to translate each of these passages as it appears in the ULT without trying to make the passages all say exactly the same thing. (See: [Matthew 28:1-2](../../mat/28/01.md) and [Mark 16:5](../../mrk/16/05.md) and [Luke 24:4](../../luk/24/04.md) and [John 20:12](../../jhn/20/12.md))
 
 ## Links: ##
 

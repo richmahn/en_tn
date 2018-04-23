@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations prefer to set apart quotations. The ULB and many other English translations set the lines of 7:29-34, which is an extended quotation, farther to the right on the page than the rest of the text.
+Some translations prefer to set apart quotations. The ULT and many other English translations set the lines of 7:29-34, which is an extended quotation, farther to the right on the page than the rest of the text.
 
 #### Special concepts in this chapter ####
 

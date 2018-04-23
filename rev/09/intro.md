@@ -17,7 +17,7 @@ This image is seen several times in the Book of Revelation. It is a picture of h
 
 ##### Abaddon and Apollyon #####
 
-"Abaddon" is a Hebrew word. "Apollyon" is a Greek word. Both words mean "Destroyer." John used the sounds of the Hebrew word and wrote them with Greek letters. The ULB and UDB write the sounds of both words with English letters. Translators are encouraged to transliterate these words using the letters of the target language. The original Greek readers would have understood "Apollyon" to mean "Destroyer." So translators may also supply what it means in the text or in a footnote. (See: [[rc://en/ta/man/translate/translate-transliterate]])
+"Abaddon" is a Hebrew word. "Apollyon" is a Greek word. Both words mean "Destroyer." John used the sounds of the Hebrew word and wrote them with Greek letters. The ULT and UST write the sounds of both words with English letters. Translators are encouraged to transliterate these words using the letters of the target language. The original Greek readers would have understood "Apollyon" to mean "Destroyer." So translators may also supply what it means in the text or in a footnote. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
 ##### Repentance #####
 Despite great signs, people are described as not repenting and so remain in their sin. People refusing to repent are also mentioned in Chapter 16. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/sin]]) 

@@ -49,9 +49,9 @@ In this letter, Paul frequently spoke of heaven as "above." He distinguished it 
 
 ## Part 3: Important Translation Issues ##
 
-#### How are the ideas of "holy" and "sanctify" represented in Colossians in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Colossians in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, these words usually indicate a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULB uses "believers" or "those who believe in him." (See: 1:2, 12, 26)
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In Colossians, these words usually indicate a simple reference to Christians without implying any particular role filled by them. So Colossians in the ULT uses "believers" or "those who believe in him." (See: 1:2, 12, 26)
 
 #### Was Jesus created or is he eternal? ####
 
@@ -63,7 +63,7 @@ Paul meant to express the idea of a very close union with Christ and the believe
 
 #### What are the major issues in the text of the Book of Colossians? ####
 
-For the following verses, some modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, some modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "May grace be to you, and peace from God our Father" (1:2). Some older versions have a longer reading: "Grace to you and peace from God our Father and the Lord Jesus Christ."
 * "Epaphras, our beloved fellow servant, who is a faithful servant of Christ on our behalf" (1:7). Some older versions read "for you": "Epaphras, our beloved fellow servant, a faithful servant of Christ for you."
@@ -71,7 +71,7 @@ For the following verses, some modern versions of the Bible differ from older ve
 * "In his Son we have redemption" (1:14). Some older versions read, "In his Son we have redemption through his blood." 
 * "and forgave us all of our trespasses" (2:13). Some older versions read: "and forgave you all of your trespasses." 
 * "When Christ appears, who is your life" (3:4). Some older versions read, "When Christ appears, who is our life." 
-* "It is for these things that the wrath of God is coming on the sons of disobedience" (3:6). The ULB, UDB, and many other modern versions read this way. However, some modern and older versions read, "It is for these things that the wrath of God is coming." 
+* "It is for these things that the wrath of God is coming on the sons of disobedience" (3:6). The ULT, UST, and many other modern versions read this way. However, some modern and older versions read, "It is for these things that the wrath of God is coming." 
 * "I sent him to you for this, that you might know the matters about us" (4:8). Some older versions read, "I sent him to you for this, that he might know the matters about you."
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

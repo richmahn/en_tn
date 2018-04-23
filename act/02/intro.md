@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 2:17-21, 25-28, and 34-35.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry that is quoted from the Old Testament in 2:17-21, 25-28, and 34-35.
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted material in 2:31.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the quoted material in 2:31.
 
 The events described in this chapter are commonly called "Pentecost." Many people believe that the church began to exist when the Holy Spirit came to live inside believers in this chapter.
 
@@ -16,7 +16,7 @@ The word "tongues" has two meanings in this chapter. Luke describes what came do
 
 ##### Last days #####
 
-No one knows for sure when the "last days" ([Acts 2:17](../../act/02/17.md)) began. Your translation should not say more than the ULB does about this. (See: [[rc://en/tw/dict/bible/kt/lastday]])
+No one knows for sure when the "last days" ([Acts 2:17](../../act/02/17.md)) began. Your translation should not say more than the ULT does about this. (See: [[rc://en/tw/dict/bible/kt/lastday]])
 
 ##### Baptize #####
 

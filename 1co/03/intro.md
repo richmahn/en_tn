@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page to make them easier to read. The ULB does this with the quoted words of verses 19 and 20.
+Some translations set quotations from the Old Testament farther to the right on the page to make them easier to read. The ULT does this with the quoted words of verses 19 and 20.
 
 #### Special concepts in this chapter ####
 

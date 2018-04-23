@@ -15,7 +15,7 @@ The church has used different titles for church leaders. Some titles include ove
 #### Other possible translation difficulties in this chapter ####
 
 ##### Should, may, must #####
-The ULB uses different words that indicate requirements or obligations. These verbs have different levels of force associated with them. The subtle differences may be difficult to translate. The UDB translates these verbs in a more general way. 
+The ULT uses different words that indicate requirements or obligations. These verbs have different levels of force associated with them. The subtle differences may be difficult to translate. The UST translates these verbs in a more general way. 
 
 ## Links: ##
 

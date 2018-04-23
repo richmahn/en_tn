@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations, like the ULB, set apart the lines of verses 6-11. These verses describe the example of Christ. They teach important truths about the person of Jesus. 
+Some translations, like the ULT, set apart the lines of verses 6-11. These verses describe the example of Christ. They teach important truths about the person of Jesus. 
 
 #### Special concepts in this chapter ####
 

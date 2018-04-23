@@ -4,7 +4,7 @@
 
 Acts 21:1-19 describes Paul's journey to Jerusalem. After he arrived in Jerusalem, the believers there told him that the Jews wanted to harm him and what he should do so they would not harm him (verses 20-26). Even though Paul did what the believers told him to do, the Jews tried to kill him. The Romans rescued him and gave him a chance to speak to the Jews.
 
-The last verse of the chapter ends with an incomplete sentence. Most translations leave the sentence incomplete, as the ULB does.
+The last verse of the chapter ends with an incomplete sentence. Most translations leave the sentence incomplete, as the ULT does.
 
 #### Special concepts in this chapter ####
 

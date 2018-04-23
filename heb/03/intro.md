@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry in 3:7-11,15, which are words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in 3:7-11,15, which are words from the Old Testament.
 
 #### Special concepts in this chapter ####
 

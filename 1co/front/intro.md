@@ -43,15 +43,15 @@ Many animals were slaughtered and sacrificed to the false gods in Corinth. Pries
 
 ## Part 3: Important Translation Issues ##
 
-#### How are the ideas of "holy" and "sanctify" represented in 1 Corinthians in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in 1 Corinthians in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, 1 Corinthians ULT uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2; 3:17)
-* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
-* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "set apart," "dedicated to," "reserved for," or "sanctified." (See: 1:2; 6:11; 7:14, 34)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God considers Christians to be sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact is that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULT uses "holy," "holy God," "holy ones," or "holy people." (See: 1:2; 3:17)
+* Sometimes the meaning in a passage indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULT uses "believer" or "believers." (See: 6:1, 2; 14:33; 16:1, 15)
+* Sometimes the meaning in the passage implies the idea of someone or something set apart for God alone. In these cases, the ULT uses "set apart," "dedicated to," "reserved for," or "sanctified." (See: 1:2; 6:11; 7:14, 34)
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What is the meaning of "flesh?" ####
 

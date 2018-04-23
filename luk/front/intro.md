@@ -59,7 +59,7 @@ Translating the title "Son of Man" can be difficult in many languages. Readers m
 
 #### What are the major issues in the text of the Book of Luke? ####
 
-The following verses are not in the earliest manuscripts. The ULB and UDB include these verses, but some other versions do not.
+The following verses are not in the earliest manuscripts. The ULT and UST include these verses, but some other versions do not.
 
 * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44)
 * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34)

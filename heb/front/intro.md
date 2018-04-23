@@ -37,19 +37,19 @@ Beginning in [Hebrews 9:19](../../heb/09/19.md), the author used the idea of spr
 
 ## Part 3: Important Translation Issues ##
 
-#### How are the ideas of "holy" and "sanctify" represented in Hebrews in the ULB? ####
+#### How are the ideas of "holy" and "sanctify" represented in Hebrews in the ULT? ####
 
-The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULB uses the following principles:
+The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
 
-* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God views Christians as sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULB uses "holy," "holy God," "holy ones," or "holy people."
-* Sometimes the meaning indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULB uses "believer" or "believers." (See: 6:10; 13:24)
-* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULB uses "sanctify," "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
+* Sometimes the meaning in a passage implies moral holiness. Especially important for understanding the gospel is the fact that God views Christians as sinless because they are united to Jesus Christ. Another related fact is that God is perfect and faultless. A third fact that Christians are to conduct themselves in a blameless, faultless manner in life. In these cases, the ULT uses "holy," "holy God," "holy ones," or "holy people."
+* Sometimes the meaning indicates a simple reference to Christians without implying any particular role filled by them. In these cases, the ULT uses "believer" or "believers." (See: 6:10; 13:24)
+* Sometimes the meaning implies the idea of someone or something set apart for God alone. In these cases, the ULT uses "sanctify," "set apart," "dedicated to," or "reserved for." (See: 2:11: 9:13; 10:10, 14, 29; 13:12)
 
-The UDB will often be helpful as translators think about how to represent these ideas in their own versions.
+The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
 #### What are the major issues in the text of the Book of Hebrews? ####
 
-For the following verses, modern versions of the Bible differ from older versions. The ULB text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
+For the following verses, modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 
 * "you crowned him with glory and honor" (2:7). Some older versions read, "you crowned him with glory and honor and you have put him over the works of your hands."
 * "those who did not unite in faith with those who obeyed" (4:2). Some older versions read, "those who heard it without joining faith to it."

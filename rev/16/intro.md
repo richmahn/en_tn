@@ -4,7 +4,7 @@
 
 This chapter continues the vision of chapter 15. Together they give the seven plagues that complete the wrath of God. (See: [[rc://en/tw/dict/bible/kt/wrath]])
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 5-7.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verses 5-7.
 
 #### Special concepts in this chapter ####
 

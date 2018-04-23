@@ -4,7 +4,7 @@
 
 The first three verses are a greeting. In the ancient Near East, this was a common way of starting a letter. 
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the words of verse 19, which are from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the words of verse 19, which are from the Old Testament.
 
 #### Special concepts in this chapter ####
 

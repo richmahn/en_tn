@@ -2,9 +2,9 @@
 
 #### Structure and formatting ####
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the three quotes from Psalms in 13:33-35.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the three quotes from Psalms in 13:33-35.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with the poetry that is quoted from the Old Testament in 13:41.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry that is quoted from the Old Testament in 13:41.
 
 The chapter is where the second half of the Book of Acts begins. Luke writes more about Paul than about Peter, and it describes how it is the Gentiles and not the Jews to whom the believers tell the message about Jesus.
 

@@ -4,7 +4,7 @@
 
 Chapters 2 and 3 together are usually called the "seven letters to the seven churches." You may wish to set each letter apart. The reader can then easily see that they are separate letters.
 
-Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULB does this with the quoted words of verse 27.
+Some translations set quotations from the Old Testament farther to the right on the page than the rest of the text. The ULT does this with the quoted words of verse 27.
 
 #### Special concepts in this chapter ####
 

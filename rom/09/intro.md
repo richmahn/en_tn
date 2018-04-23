@@ -4,7 +4,7 @@
 
 In this chapter, Paul changes what he is teaching about. In Chapters 9-11, he focuses on the nation of Israel.
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 25-29 and 33 of this chapter. Paul quotes all of these words from the Old Testament.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verses 25-29 and 33 of this chapter. Paul quotes all of these words from the Old Testament.
 
 #### Special concepts in this chapter ####
 
@@ -26,7 +26,7 @@ Paul explains that while some Gentiles accepted Jesus as their savior by believi
 #### Other possible translation difficulties in this chapter ####
 
 ##### "It is not everyone in Israel who truly belongs to Israel" #####
-Paul uses the word "Israel" in this verse with two different meanings. The first "Israel" means the physical descendants of Abraham through Jacob. The second "Israel" means those who are God's people through faith. The UDB reflects this.
+Paul uses the word "Israel" in this verse with two different meanings. The first "Israel" means the physical descendants of Abraham through Jacob. The second "Israel" means those who are God's people through faith. The UST reflects this.
 
 ## Links: ##
 

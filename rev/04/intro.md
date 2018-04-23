@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULB does this with verses 8 and 11.
+Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with verses 8 and 11.
 
 John has finished describing the letters to the churches. He now begins to describe a vision that God showed him.
 

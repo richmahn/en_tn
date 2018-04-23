@@ -4,7 +4,7 @@
 
 This chapter explains how the Book of Revelation records the vision John received on the island of Patmos. 
 
-Some translations set quotations from the Old Testament farther to the right on the page to make them easier to read. The ULB does this with the quoted words in verse 7.
+Some translations set quotations from the Old Testament farther to the right on the page to make them easier to read. The ULT does this with the quoted words in verse 7.
 
 #### Special concepts in this chapter ####
 

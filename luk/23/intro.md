@@ -2,7 +2,7 @@
 
 #### Structure and formatting ####
 
-The ULB sets the last line of this chapter apart because it is more connected with chapter 24 than with chapter 23.
+The ULT sets the last line of this chapter apart because it is more connected with chapter 24 than with chapter 23.
 
 #### Special concepts in this chapter ####
 

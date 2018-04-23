@@ -24,7 +24,7 @@ Jesus uses a hypothetical situation to condemn the Pharisees. This passage inclu
 
 ##### Implicit information #####
 
-In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UDB often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
+In several parts of this chapter the author left some information implicit that his original readers would have understood and thought about. Modern readers might not know some of those things, so they might have trouble understanding all that the author was communicating. The UST often shows how that information can be presented so that modern readers will be able to understand those passages. (See: [[rc://en/ta/man/translate/translate-unknown]] and [[rc://en/ta/man/translate/figs-explicit]])
 
 ##### Past Events #####
 
