@@ -27,9 +27,3 @@ Paul explains that while some Gentiles accepted Jesus as their savior by believi
 
 ##### "It is not everyone in Israel who truly belongs to Israel"
 Paul uses the word "Israel" in this verse with two different meanings. The first "Israel" means the physical descendants of Abraham through Jacob. The second "Israel" means those who are God's people through faith. The UST reflects this.
-
-## Links:
-
-* __[Romans 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

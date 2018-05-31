@@ -15,9 +15,3 @@ The second part of the chapter is about a crown made for the high priest. This i
 
 ##### Meaning of the visions
 The visions are stated and even when the prophet asked for an explanation, their true meaning is often obscure. This uncertainty should remain in your translation. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Zechariah 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

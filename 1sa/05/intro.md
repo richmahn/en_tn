@@ -15,9 +15,3 @@ The Philistines took the Ark of God to Ashdod and put it in their idol temple, b
 ##### Idioms
 
 There are two slightly different idioms used in the same way: the  "hand was heavy" and the "hand was hard." Both idioms mean "was severely punished." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[1 Samuel 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

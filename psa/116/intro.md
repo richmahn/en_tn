@@ -8,9 +8,3 @@ Psalm 116 is a psalm of praise for saving the psalmist's life. (See: [[rc://en/t
 
 ##### Healing
 The author was very sick and expected to die but God healed him. So he will pay his vow and sacrifice an offering of thanks. (See: [[rc://en/tw/dict/bible/kt/vow]])
-
-## Links:
-
-* __[Psalms 116:1](../../psa/116/001.md)__
-
-__[<<](../115/intro.md) | [>>](../117/intro.md)__

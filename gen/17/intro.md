@@ -14,9 +14,3 @@ Circumcision was an unusual practice in the ancient Near East. It served to sepa
 
 ##### Name change
 In Scripture, a change in name always occurs at a highly significant point in a person's life. The beginning of the practice of circumcision was a significant event in the history of the Hebrew people.
-
-## Links:
-
-* __[Genesis 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

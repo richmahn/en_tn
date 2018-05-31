@@ -15,8 +15,3 @@ Fruit is a common picture word in the scriptures. Writers use it to describe the
 ##### "The kingdom of heaven is near"
 
 No one knows for sure whether the "kingdom of heaven" was present or still coming when John spoke these words. English translations often use the phrase "at hand," but these words can be difficult to translate. Other versions use the phrases "is coming near" and "has come near."
-
-## Links:
-* __[Matthew 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

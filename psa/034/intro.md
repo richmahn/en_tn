@@ -10,9 +10,3 @@ The psalm does not relate directly to the superscription given about Abimelech.
 
 ##### Yahweh's help
 Good people can have problems, but God brings them through these. (See: [[rc://en/tw/dict/bible/kt/good]])
-
-## Links:
-
-* __[Psalms 34:1](../../psa/034/001.md)__
-
-__[<<](../033/intro.md) | [>>](../035/intro.md)__

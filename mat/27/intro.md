@@ -15,9 +15,3 @@ The tomb in which Jesus was buried ([Matthew 27:60](../../mat/27/60.md)) was the
 ##### Sarcasm
 
 The soldiers said, "Hail, King of the Jews!" ([Matthew 27:29](../../mat/27/29.md)) to mock Jesus. They did not think that he was the king of the Jews. (See: [[rc://en/ta/man/translate/figs-irony]])
-
-## Links:
-
-* __[Matthew 27:01 Notes](./01.md)__
-
-__[<<](../26/intro.md) | [>>](../28/intro.md)__

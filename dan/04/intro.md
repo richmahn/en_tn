@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### The king becomes insane
 
 The king became insane until he realized that Yahweh was the ruler over everyone, including him.
-
-## Links:
-
-* __[Daniel 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

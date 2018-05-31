@@ -8,9 +8,3 @@ Psalm 127 is a wisdom psalm. (See: [[rc://en/tw/dict/bible/kt/wise]])
 
 ##### Blessings
 God wants his people to have rest. It is a blessing to have many children. (See: [[rc://en/tw/dict/bible/other/rest]] and [[rc://en/tw/dict/bible/kt/bless]])
-
-## Links:
-
-* __[Psalms 127:1](../../psa/127/001.md)__
-
-__[<<](../126/intro.md) | [>>](../128/intro.md)__

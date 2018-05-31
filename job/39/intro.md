@@ -13,9 +13,3 @@ Yahweh is far greater than any man. He is the creator of the earth, and his ways
 
 ##### Rhetorical questions
 Yahweh uses a series of rhetorical questions in this chapter in order to defend his character. Many of these questions focus on nature because Yahweh is the creator of the heavens and the earth. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/heaven]])
-
-## Links:
-
-* __[Job 39:01 Notes](./01.md)__
-
-__[<<](../38/intro.md) | [>>](../40/intro.md)__

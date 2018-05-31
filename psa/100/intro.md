@@ -8,9 +8,3 @@ Psalm 100 is the last of six worship psalms (Psalms 95-100).
 
 ##### Yahweh's care for his creation
 God made mankind and takes good care of people.
-
-## Links:
-
-* __[Psalms 100:1](../../psa/100/001.md)__
-
-__[<<](../099/intro.md) | [>>](../101/intro.md)__

@@ -13,9 +13,3 @@ This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. P
 
 ##### Implicit information
 Paul mentions several issues in this chapter that imply information about the context of the church in Colossae. It is best to allow the text to remain uncertain over the actual details. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Colossians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

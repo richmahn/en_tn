@@ -15,9 +15,3 @@ Paul uses irony to shame the Corinthians for being proud. The Corinthian believe
 
 ##### Rhetorical questions
 Paul uses several rhetorical questions in this chapter. He uses them to emphasize important points as he teaches the Corinthians. (See: rc://en/ta/man/translate/figs-rquestion)
-
-## Links:
-
-* __[1 Corinthians 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

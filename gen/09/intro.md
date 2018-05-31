@@ -24,9 +24,3 @@ In Noah's culture, it was unacceptable to see a father's nakedness. It was wrong
 
 ##### "Be fruitful, multiply, and fill the earth"
 This is a command that God gives. He expects Noah to obey him.
-
-## Links:
-
-* __[Genesis 09 01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

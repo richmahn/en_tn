@@ -13,9 +13,3 @@ This chapter references the killing of children. Some religions in the ancient N
 
 ##### Mocking
 The people abandoned the worship of Yahweh in favor of other gods. When they needed help, he tells them to ask these false gods. This is mocking the power of the false gods and shows the people the uselessness of their worship of these gods. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
-
-## Links:
-
-* __[Isaiah 57:01 Notes](./01.md)__
-
-__[<<](../56/intro.md) | [>>](../58/intro.md)__

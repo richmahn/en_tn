@@ -8,9 +8,3 @@ Psalm 143 is a deliverance psalm. The author prays for deliverance from his enem
 
 ##### Yahweh's help
 The author prayed for help from Yahweh against his enemies because he is God's servant.
-
-## Links:
-
-* __[Psalms 143:1](../../psa/143/001.md)__
-
-__[<<](../142/intro.md) | [>>](../144/intro.md)__

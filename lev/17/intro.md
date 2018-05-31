@@ -9,9 +9,3 @@ Sacrifices could only be offered by the priests at the temple. Any other sacrifi
 
 ##### "The life of each creature is its blood"
 It is unclear why the life is described as being in the blood. It is possible that diseases were more common in the blood and this is why it was prohibited. Blood is also necessary for life to continue in a creature. (See: [[rc://en/tw/dict/bible/kt/life]] and [[rc://en/tw/dict/bible/kt/blood]])
-
-## Links:
-
-* __[Leviticus 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

@@ -25,10 +25,3 @@ Many scholars view the phrases "God gave them over" and "God gave them up" as th
 ##### Difficult phrases and concepts
 
 This chapter has many difficult ideas in it. How Paul writes makes many of the phrases in this chapter difficult to translate. The translator may need to use the UST to understand the meaning of the phrases. And it may be necessary to more freely translate these phrases. Some of the difficult phrases include: "obedience of faith," "whom I serve in my spirit," "from faith to faith" and "exchanged the glory of the imperishable God for the likenesses of an image of perishable man."
-
-## Links:
-
-* __[Romans 01:01 Notes](./01.md)__
-* __[Romans intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

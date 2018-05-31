@@ -29,9 +29,3 @@ This and similar phrases in this chapter contrast the beast with Jesus. Jesus is
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. This sentence in 17:11 is a paradox: "the beast ... is itself also an eighth king; but it is one of those seven kings." The translator should not attempt to resolve this paradox. It should remain a mystery. ([Revelation 17:11](../../rev/17/11.md))
-
-## Links:
-
-* __[Revelation 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

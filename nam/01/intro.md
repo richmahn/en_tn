@@ -13,10 +13,3 @@ This prophecy should be read in reference to the book of Jonah. That book descri
 
 ##### Complete destruction
 At that time, Assyria controlled almost the entire Near East. Nahum prophesied that the Assyrians would be so completely destroyed as a nation that they would no longer even be a people group. This prophecy came true very suddenly.
-
-## Links:
-
-* __[Nahum 01:01 Notes](./01.md)__
-* __[Nahum intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

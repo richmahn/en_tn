@@ -17,9 +17,3 @@ Many religions in the ancient Near East restricted what was eaten. Christians ha
 ##### The judgment seat of God
 
 The judgment seat of God or Christ represents a time when all people, including Christians, will be held accountable for the way they lived their lives.
-
-## Links:
-
-* __[Romans 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

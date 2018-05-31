@@ -13,9 +13,3 @@ When the temple was finished, Solomon told all of the people to come to Jerusale
 
 ##### Idiom
 Solomon prayed that God would respond to people's prayers using an idiom:  "that your eyes may be open to the request of your servant." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[1 Kings 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

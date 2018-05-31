@@ -13,9 +13,3 @@ Jeremiah commanded the people of Jerusalem to live justly. Without justice, they
 
 ##### "Do not pray for this people"
 Yahweh wanted the people to repent. This statement, and the others that follow, may be taken in another way. They are intended to show that it is too late for the people, and their punishment will come regardless of their response. (See: [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Jeremiah 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

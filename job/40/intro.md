@@ -18,9 +18,3 @@ Yahweh states, "He who argues with God, let him answer." Job immediately answers
 
 ##### Animals
 There are several animals mentioned in this chapter that do not exist and may never have existed. It may be necessary to leave these names untranslated or to translate their names as adjectives.
-
-## Links:
-
-* __[Job 40:01 Notes](./01.md)__
-
-__[<<](../39/intro.md) | [>>](../41/intro.md)__

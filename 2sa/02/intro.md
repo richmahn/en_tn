@@ -13,9 +13,3 @@ There was a civil war in Israel. David was made king of Judah and Saul's uncle (
 
 ##### Rhetorical question
 Abner finally stopped the battle with a rhetorical question to David's army. "Must the sword devour forever?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[2 Samuel 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

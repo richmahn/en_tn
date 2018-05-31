@@ -12,9 +12,3 @@ When God has decided a person will die, then they cannot avoid death. Ahab persu
 
 ##### "However, the shrines were still not taken away. The people were still sacrificing and burning incense at the shrines."
 At the shrines, the people worshiped Yahweh. But later, during Hezekiah's reign it was decided that all sacrifices must be made only at the temple. (See: [[rc://en/tw/dict/bible/kt/temple]])
-
-## Links:
-
-* __[1 Kings 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | __

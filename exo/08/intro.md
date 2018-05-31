@@ -10,9 +10,3 @@ Pharaoh's heart is often described as hard in this chapter. This means that his 
 ##### Let my people go
 
 This is a very important statement. Moses does not ask Pharaoh for permission to "let go" of the Hebrew people. Instead, he is demanding that Pharaoh free the Hebrew people.
-
-## Links:
-
-* __[Exodus 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

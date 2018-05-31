@@ -6,9 +6,3 @@ The king should have listened to the prophet Jeremiah and repented of his sin. I
 #### Other possible translation difficulties in this chapter
 ##### Israel
 The term "Israel" is used exclusively in reference to the nation of Israel as a whole in this chapter.
-
-## Links:
-
-* __[Jeremiah 32:01 Notes](./01.md)__
-
-__[<<](../31/intro.md) | [>>](../33/intro.md)__

@@ -11,9 +11,3 @@ The Jews expected the Christ or Messiah to be a powerful king because the Old Te
 Paul said that the Athenians were "religious," but they did not worship the true God. They worshiped many different false gods. In the past they had conquered other peoples and begun to worship the gods of the people they had conquered. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
 
 In this chapter Luke describes for the first time how Paul told the message of Christ to people who knew nothing of the Old Testament.
-
-## Links:
-
-* __[Acts 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

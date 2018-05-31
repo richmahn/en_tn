@@ -8,9 +8,3 @@ Psalm 117 is a psalm of praise.
 
 ##### Praise
 Everyone should praise God for his love and unending faithfulness. (See: [[rc://en/tw/dict/bible/kt/love]] and [[rc://en/tw/dict/bible/kt/faithful]])
-
-## Links:
-
-* __[Psalms 117:1](../../psa/117/001.md)__
-
-__[<<](../116/intro.md) | [>>](../118/intro.md)__

@@ -10,9 +10,3 @@ Having faced the temptation to curse Yahweh, and after being rebuked by him, in 
 
 ##### Justice
 Yahweh enacts justice at the end of this book. He punishes Job's friends and restores Job's blessings. Yahweh's blessing was not dependent upon Job's repentance, but upon Yahweh's grace. (See: [[rc://en/tw/dict/bible/kt/justice]], [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/grace]])
-
-## Links:
-
-* __[Job 42:01 Notes](./01.md)__
-
-__[<<](../41/intro.md) | __

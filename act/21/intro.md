@@ -22,9 +22,3 @@ The Jews accused Paul of bringing a Gentile man into a part of the temple into w
 ##### Roman citizenship
 
 The Romans thought that they needed to treat only Roman citizens justly. They could do as they desired with people who were not Roman citizens, but they had to obey the law with other Romans. Some people were born Roman citizens, and others gave money to the Roman government so they could become Roman citizens.
-
-## Links:
-
-* __[Acts 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

@@ -13,9 +13,3 @@ There is a change in person from 6:1-3 to 6:4-11. In the first passage, the spea
 
 ##### Metaphor
 Throughout the chapter, the author uses the metaphor of prostitution to say that his people have abandoned him. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Hosea 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -19,8 +19,3 @@ No one knows for sure what actions people perform or what words they say when th
 ##### Brothers and sisters
 
 Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://en/tw/dict/bible/kt/brother]])
-
-## Links:
-* __[Matthew 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

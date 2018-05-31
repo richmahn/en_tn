@@ -14,9 +14,3 @@ In this chapter, God curses the man, the woman, and the serpent for their sins. 
 
 ##### Serpent
 Most scholars believe that the serpent is Satan, even though his name is not used in this chapter. There are other places in Scripture where the serpent is used as an image for Satan. (See: [[rc://en/tw/dict/bible/kt/satan]] and [[rc://en/ta/man/translate/figs-explicit]]))
-
-## Links:
-
-* __[Genesis 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

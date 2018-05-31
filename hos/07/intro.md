@@ -14,9 +14,3 @@ Baking of bread is an extended metaphor in this chapter. Yahweh uses various asp
 
 ##### Israel and Ephraim
 This chapter begins by using two different names for the same group of people: Israel and Ephraim. It also mentions Samaria, which was the capital of the northern kingdom of Israel.
-
-## Links:
-
-* __[Hosea 7:1](../../hos/07/01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

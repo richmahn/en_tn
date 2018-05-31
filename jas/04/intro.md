@@ -21,9 +21,3 @@ James asks many questions because he wants his readers to think about how they a
 ##### Humble
 
 This word probably usually refers to people who are not proud. James uses the word here to refer to people who are not proud and who also trust in Jesus and obey him.
-
-## Links:
-
-* __[James 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

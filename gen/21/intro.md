@@ -10,9 +10,3 @@ According to the law at this time, Hagar was able to gain her freedom from slave
 
 ##### Treaty
 The Gentile king, Abimelech, made a covenant or treaty with Abraham. It is possible that he did this because he recognized the power of Abraham's God, but his exact reasons are unknown. (See: [[rc://en/tw/dict/bible/kt/covenant]])
-
-## Links:
-
-* __[Genesis 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

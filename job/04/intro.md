@@ -13,9 +13,3 @@ Eliphaz tells Job to curse Yahweh. The advice Eliphaz gives to Job is bad advice
 
 ##### Rhetorical questions
 Eliphaz uses many different rhetorical questions in this chapter in order to try to convince Job that he is wrong. These questions help to form Eliphaz's argument. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

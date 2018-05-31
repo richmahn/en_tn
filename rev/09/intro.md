@@ -26,9 +26,3 @@ Despite great signs, people are described as not repenting and so remain in thei
 
 ##### Simile
 John uses many similes in this chapter. They help to describe the images that he sees in his vision. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[Revelation 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

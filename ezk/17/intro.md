@@ -11,9 +11,3 @@ The king of Judah had vowed to obey Babylon but instead he followed Egypt. There
 ##### Metaphor
 
 Judah is compared to a vine that grows one direction and then another. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Ezekiel 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

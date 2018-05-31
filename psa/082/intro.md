@@ -14,9 +14,3 @@ The leaders of the nations need to protect the poor and needy and not to favor t
 ##### Metonymy
 
 The leaders of the nations are represented by their gods. (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/tw/dict/bible/kt/falsegod]])
-
-## Links:
-
-* __[Psalms 82:1](../../psa/082/001.md)__
-
-__[<<](../081/intro.md) | [>>](../083/intro.md)__

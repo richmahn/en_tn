@@ -7,9 +7,3 @@ Psalm 41 is a psalm of deliverance. The author's friends had become his enemies 
 #### Special concepts in this chapter
 ##### Enemies
 The author's best friend had become an enemy. His enemies were happy because they were sure his sickness would result in death.
-
-## Links:
-
-* __[Psalms 41:1](../../psa/041/001.md)__
-
-__[<<](../040/intro.md) | [>>](../042/intro.md)__

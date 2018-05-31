@@ -19,9 +19,3 @@ Walking is a metaphor for behaving, not knowing where one is going is a metaphor
 The light is a metaphor for knowing and doing what is right, and darkness and blindness are metaphors for not knowing what is right and doing what is wrong.
 
 Leading people astray is a metaphor for teaching people things that are not true. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[1 John 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

@@ -7,9 +7,3 @@ This chapter continues to be written in poetic style except for verses 9-10, whi
 #### Other possible translation difficulties in this chapter
 
 Verses 9-10 will probably be difficult to translate because the situation is vague and details don't appear to align easily. It is appropriate to translate these verses with some ambiguity remaining. It may be helpful to read many different versions prior to translating these verses. 
-
-## Links:
-
-* __[Amos 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

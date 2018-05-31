@@ -16,9 +16,3 @@ Job uses many different metaphors in this chapter to express himself or to descr
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to convince Bildad that he is wrong. These questions help to build Job's response. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

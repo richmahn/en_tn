@@ -13,9 +13,3 @@ Some translations choose to translate this as "virgin" and believe it is a refer
 
 ##### Israel
 In this chapter, Israel is a reference to the northern kingdom of Israel and not the nation as a whole. They are also called Ephraim in this chapter after its most prominent tribe.
-
-## Links:
-
-* __[Isaiah 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

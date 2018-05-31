@@ -8,9 +8,3 @@ This chapter is the  beginning of the story of the spiritual revival in Judah un
 
 ##### Athaliah's evil actions
 The mother of the king of Judah, Athaliah, killed all the royal children so that she could rule. She was not able to kill the baby Joash because his aunt hid him in the temple. When Joash was seven years old, the chief priest conspired with the army and made Joash king. They killed Athaliah and destroyed the temple of Baal. (See: [[rc://en/tw/dict/bible/kt/temple]])
-
-## Links:
-
-* __[2 Kings 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

@@ -10,9 +10,3 @@ Some translations prefer to set apart quotations. The ULT and many other English
 
 ##### Fasting
 This chapter discusses fasting. People were asking the same questions as those from previous generations. The Israelites were asking these same questions before they were exiled from their land.
-
-## Links:
-
-* __[Zechariah 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

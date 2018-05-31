@@ -13,9 +13,3 @@ Paul trusted God to bring him safely to land. He told the sailers and soldiers t
 ##### Paul breaks bread
 
 Luke uses almost the same words here to describe Paul taking bread, thanking God, breaking it, and eating it that he used to describe the last supper Jesus ate with his disciples. However, your translation should not make your reader think that Paul was leading a religious celebration here.
-
-## Links:
-
-* __[Acts 27:01 Notes](./01.md)__
-
-__[<<](../26/intro.md) | [>>](../28/intro.md)__

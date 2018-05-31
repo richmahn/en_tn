@@ -15,9 +15,3 @@ The "letters" Paul asked for were probably legal papers that permitted him to pu
 ##### What Saul saw when he met Jesus
 
 It is clear that Saul saw a light and that it was because of this light that he "fell upon the ground." Some people think that Saul knew that it was the Lord speaking to him without seeing a human form, because the Bible often speaks of God as being light and living in light. Other people think that later in his life he was able to say, "I have seen the Lord Jesus" because it was a human form that he saw here.
-
-## Links:
-
-* __[Acts 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

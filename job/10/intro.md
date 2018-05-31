@@ -13,9 +13,3 @@ Despite being upset about his circumstances, Job does not curse Yahweh. Instead,
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to defend himself. He does not believe that he committed a sin deserving severe punishment. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

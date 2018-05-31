@@ -29,9 +29,3 @@ The feet of the people in the ancient Near East were very dirty because they wor
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([Luke 7:34](../../luk/07/34.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[Luke 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

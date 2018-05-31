@@ -12,9 +12,3 @@ Occasionally, the author addresses a proverb to "my son." This is not intended t
 ##### Wisdom is feminine
 
 You may notice that wisdom is referenced using a feminine pronoun. This is a feature that is carried in from the Hebrew language. This may apply well in your language but if it does not, follow the conventions of your language. (See: [[rc://en/tw/dict/bible/kt/wise]])
-
-## Links:
-
-* __[Proverbs 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

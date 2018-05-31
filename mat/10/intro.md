@@ -29,8 +29,3 @@ Thaddaeus is probably the same person as Jude, the son of James.
 ##### "The kingdom of heaven has come near"
 
 No one knows for sure whether the "kingdom of heaven" was present or still coming when John spoke these words. English translations often use the phrase "at hand," but these words can be difficult to translate. Other versions use the phrases "is coming near" and "has come near."
-
-## Links:
-* __[Matthew 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Symbolism
 
 The action of hiding the undergarment was intended to be a symbolic event. It was supposed to get the Jews' attention and be a lesson for them to learn. Jeremiah performed the action, but it was not the action itself that was important. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Jeremiah 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

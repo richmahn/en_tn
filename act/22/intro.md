@@ -17,9 +17,3 @@ No one knows for sure who first started calling believers "followers of the Way.
 ##### Roman citizenship
 
 The Romans thought that they needed to treat only Roman citizens justly. They could do as they desired with people who were not Roman citizens, but they had to obey the law with other Romans. Some people were born Roman citizens, and others gave money to the Roman government so they could become Roman citizens. The "chief captain" could have been punished for treating a Roman citizen the same way he would treat a non-citizen.
-
-## Links:
-
-* __[Acts 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | [>>](../23/intro.md)__

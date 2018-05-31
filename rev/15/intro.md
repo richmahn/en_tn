@@ -18,9 +18,3 @@ Scripture elsewhere indicates the earthly temple copied God's perfect dwelling p
 ##### Songs
 
 The Book of Revelation often describes heaven as a place where people sing. They worship God with songs. This illustrates that heaven is a place where God is always worshiped.
-
-## Links:
-
-* __[Revelation 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

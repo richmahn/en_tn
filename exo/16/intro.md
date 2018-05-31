@@ -18,9 +18,3 @@ Although the covenant has not yet been made, it is referenced in [Exodus 16:34](
 
 ##### Wilderness of Sin
 Sin is the name of a part of the Sinai Wilderness. It is not the description of a place, and it has nothing to do with sinning. (See: [[rc://en/ta/man/translate/translate-names]])
-
-## Links:
-
-* __[Exodus 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

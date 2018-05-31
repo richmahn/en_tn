@@ -11,9 +11,3 @@ In the ancient Near East, two people performed a similar sacrifice by dividing a
 ##### God's covenant with Abraham
 
 God made a covenant with Abram. This covenant was not conditioned upon anything that Abraham needed to do, but the fulfillment of its promises is conditioned upon the actions of each generation of his descendants. This covenant has not yet been fulfilled in its entirety.
-
-## Links:
-
-* __[Genesis 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

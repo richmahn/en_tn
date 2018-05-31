@@ -10,9 +10,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Idolatry
 The making of the golden calf was considered a form of idolatry. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Exodus 32:01 Notes](./01.md)__
-
-__[<<](../31/intro.md) | [>>](../33/intro.md)__

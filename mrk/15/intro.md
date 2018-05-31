@@ -20,9 +20,3 @@ Both by pretending to worship Jesus ([Mark 15:19](../../mrk/15/19.md)) and by pr
 
 ##### Eloi, Eloi, lama sabachthani?
 This is a phrase in Aramaic. Mark transliterates its sounds by writing them using Greek letters. He then explains its meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
-
-## Links:
-
-* __[Mark 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

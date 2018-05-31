@@ -13,9 +13,3 @@ In Scripture, a change in name always occurs at a highly significant point in a 
 
 ##### "A man wrestled with him"
 Scholars are divided over the identity of the person Jacob wrestled with. It was probably an angel, but some believe he wrestled with Jesus before he came to earth. The translator will probably have difficulty trying to keep ambiguity in identifying this individual because the word "man" usually indicates a normal, living person. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Genesis 32:01 Notes](./01.md)__
-
-__[<<](../31/intro.md) | [>>](../33/intro.md)__

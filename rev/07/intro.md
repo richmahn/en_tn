@@ -19,9 +19,3 @@ God saves his people and keeps them through times of trouble. His people respond
 
 ##### The Lamb
 This refers to Jesus. In this chapter, it is also a title for Jesus. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Revelation 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

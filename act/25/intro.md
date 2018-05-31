@@ -10,9 +10,3 @@ This word is used in two different ways in this chapter. When the Jewish leaders
 
 The Romans thought that they needed to treat only Roman citizens justly. They could do as they desired with people who were not Roman citizens, but they had to obey the law with other Romans. Some people were born Roman citizens, and others gave money to the Roman government so they could become Roman citizens. Roman officials could have been punished for treating a Roman citizen the same way they would treat a non-citizen.
 
-
-## Links:
-
-* __[Acts 25:01 Notes](./01.md)__
-
-__[<<](../24/intro.md) | [>>](../26/intro.md)__

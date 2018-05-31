@@ -13,9 +13,3 @@ Saul's son, Jonathan, loves David. David is successful in battling the Philistin
 
 ##### Jonathan's love of David
 Some scholars believe Jonathan loved David as a man loves his wife. There is no reason to translate this as if Jonathan were a homosexual. Instead, treat this as a brotherly type of love.
-
-## Links:
-
-* __[1 Samuel 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

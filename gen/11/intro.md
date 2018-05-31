@@ -20,9 +20,3 @@ The statement "Yahweh came down to see" is a type of personification. Yahweh alw
 
 ##### "Let us build ourselves a city and a tower whose top will reach to the sky"
 The people were very full of pride and rebelled against God in this action. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Genesis 11:1](../../gen/11/01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

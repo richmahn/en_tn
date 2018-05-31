@@ -22,9 +22,3 @@ Paul likely uses the pronoun "we" to represent at least Timothy and himself. It 
 ##### Original situation
 
 This chapter discusses in detail a previous situation. We can figure out some aspects of this situation from the information in this chapter. But it is best not to include this type of implicit information in a translation. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[2 Corinthians 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

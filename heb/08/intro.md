@@ -11,9 +11,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### New covenant
 
 The author tells how Jesus has established a new covenant that is better than the covenant that God established with the Israelites. (See: [[rc://en/tw/dict/bible/kt/covenant]])
-
-## Links:
-
-* __[Hebrews 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

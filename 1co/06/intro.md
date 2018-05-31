@@ -13,9 +13,3 @@ The temple of the Holy Spirit is an important metaphor. It refers to the place w
 
 ##### Rhetorical questions
 Paul uses several rhetorical questions in this chapter. He uses them to emphasize important points as he teaches the Corinthians. (See: rc://en/ta/man/translate/figs-rquestion)
-
-## Links:
-
-* __[1 Corinthians 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

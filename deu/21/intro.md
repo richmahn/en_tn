@@ -7,9 +7,3 @@ Older men were required to lead the people of Israel and help to administer just
 
 ##### Peace in Israel
 The rules and instructions in this chapter help to ensure peace in Israel. This is not a military peace. Instead, it is about establishing peace within Israel and among the people.
-
-## Links:
-
-* __[Deuteronomy 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

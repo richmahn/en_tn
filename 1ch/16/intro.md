@@ -10,9 +10,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### David's psalm
 As David organized the priests in their work in the tent, he wrote a psalm of praise to Yahweh.
-
-## Links:
-
-* __[1 Chronicles 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

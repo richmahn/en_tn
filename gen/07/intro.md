@@ -13,9 +13,3 @@ Noah sacrificed to Yahweh some of the "clean" animals and birds that he had with
 ##### Water underneath and over the earth
 
 The flood is presented as occurring because of rain pouring out of the sky and because of seawater rising from under the earth. This is because the ancient Hebrews pictured the earth as resting on top of the sea. They also pictured the sky as containing water above the earth that poured down through windows in the sky when God allowed it to rain. Translators should not try to change this picture in order to suit what readers believe about the world. (See: [[rc://en/tw/dict/bible/kt/heaven]])
-
-## Links:
-
-* __[Genesis 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

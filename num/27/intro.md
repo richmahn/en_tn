@@ -8,9 +8,3 @@ The daughters of Korah received no land because their father was punished by Yah
 ##### The new leader is Joshua
 
 God told Moses to appoint Joshua as the new leader. Joshua became Yahweh's anointed leader. (See: [[rc://en/tw/dict/bible/kt/appoint]] and [[rc://en/tw/dict/bible/kt/anoint]])
-
-## Links:
-
-* __[Numbers 27:01 Notes](./01.md)__
-
-__[<<](../26/intro.md) | [>>](../28/intro.md)__

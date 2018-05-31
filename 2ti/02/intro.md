@@ -13,9 +13,3 @@ Faithful Christians will reign with Christ in the future. (See: rc://en/tw/dict/
 
 ##### Analogies
 In this chapter, Paul makes several analogies to teach about living as a Christian. He uses analogies of soldiers, athletes, and farmers. Later in the chapter, he uses the analogy of different kinds of containers in a house.
-
-## Links:
-
-* __[2 Timothy 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

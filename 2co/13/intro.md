@@ -15,9 +15,3 @@ Paul repeatedly uses the contrasting words "power" and "weakness" in this chapte
 
 ##### "Examine yourselves to see if you are in the faith. Test yourselves."
 Scholars are divided over what these sentences mean. Some scholars say that Christians are to test themselves to see whether their actions align with their Christian faith. The context favors this understanding. Others say these sentences mean that Christians should look at their actions and question whether they are genuinely saved. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/save]])
-
-## Links:
-
-* __[2 Corinthians 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | __

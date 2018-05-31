@@ -9,9 +9,3 @@ Shadrach, Meshach, and Abednego refused to worship the new idol. In the ancient 
 ##### The furnace
 
 There was a fourth person with them in the furnace, and because of this they were not hurt. Most scholars believe this to be Jesus before he was born.
-
-## Links:
-
-* __[Daniel 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

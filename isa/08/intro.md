@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Trust in Yahweh
 Israel will not trust in Yahweh. Instead, they will trust in their own power, their Gentile allies and the power of false gods. They will be punished because the power of Yahweh is greater than all of these. (See: [[rc://en/tw/dict/bible/kt/trust]] and [[rc://en/tw/dict/bible/kt/falsegod]])
-
-## Links:
-
-* __[Isaiah 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

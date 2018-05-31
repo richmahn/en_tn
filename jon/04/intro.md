@@ -21,9 +21,3 @@ In verse 2, Jonah attributes a series of characteristics to God. A Jewish reader
 
 ##### God's grace
 When Jonah went outside the city, he got very hot and God graciously provided some relief through the plant. God was trying to teach Jonah through an object lesson. It is important for the reader to see this clearly. (See: [[rc://en/tw/dict/bible/kt/grace]])
-
-## Links:
-
-* __[Jonah 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | __

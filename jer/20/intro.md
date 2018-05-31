@@ -11,9 +11,3 @@ This chapter prophesied punishment against a specific leader named Pashhur. He w
 
 ##### Jeremiah's reaction
 Jeremiah's reaction contrasts with the reaction of the Jews in general. Although Jeremiah was not happy with Yahweh's actions, he still trusted in Yahweh. On the other hand, the Jews were not happy with the prophecies Yahweh gave to Jeremiah, so they beat the prophet. (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Jeremiah 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

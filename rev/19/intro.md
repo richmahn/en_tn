@@ -15,9 +15,3 @@ The Book of Revelation often describes heaven as a place where people sing. They
 ##### Wedding celebration
 
 The wedding celebration or feast is an important image in Scripture. Jewish culture often pictured paradise, or life with God after death, as a feast. Here, the wedding feast is for the Lamb, who is Jesus, and his bride, who is all his people.
-
-## Links:
-
-* __[Revelation 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

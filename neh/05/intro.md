@@ -8,9 +8,3 @@ The rich made money from the poor. The rich oppressed the poor by charging inter
 
 ##### Governor
 Nehemiah was a governmental leader in Jerusalem, but he was not a king. Jerusalem had a great deal of independence, but it  was under the authority of the Persian king. The term "governor" reflects this idea, but a different term may be used in translation.
-
-## Links:
-
-* __[Nehemiah 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -16,10 +16,3 @@ Hosea's marriage to Gomer is a metaphor for the kingdom of Israel's relationship
 ##### Metaphor
 
 Hosea 1-4 is controlled by a metaphor that Hosea lived out. He was personifying the relationship between Israel and Yahweh. Hosea played the part of Yahweh, and Gomer played the part of Israel.
-
-## Links:
-
-* __[Hosea 01:01 Notes](./01.md)__
-* __[Hosea intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

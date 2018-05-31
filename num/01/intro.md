@@ -7,10 +7,3 @@ The ULT sets the lines in 1:5-15 farther to the right on the page than the rest 
 ##### Census
 
 They counted how many men of military age were in each tribe of Israel. These men would also become the heads of families. It is possible the numbers in this chapter are rounded to the nearest 100.
-
-## Links:
-
-* __[Numbers 01:01 Notes](./01.md)__
-* __[Numbers intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

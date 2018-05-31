@@ -13,9 +13,3 @@ Paul says married Christians should not divorce. A Christian married to an unbel
 
 ##### Euphemisms
 Paul uses many euphemisms to discreetly refer to sexual relations. This is often a sensitive topic. Many cultures do not wish to speak openly about these matters. (See: [[rc://en/ta/man/translate/figs-euphemism]])
-
-## Links:
-
-* __[1 Corinthians 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

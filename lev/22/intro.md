@@ -5,9 +5,3 @@
 ##### Holy things
 
 Priests who are unclean must not touch any holy thing. The things in the temple and involved in sacrifices must remain clean. An unclean priest would cause anything he touched to become unclean. (See: [[rc://en/tw/dict/bible/kt/priest]] and [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/holy]])
-
-## Links:
-
-* __[Leviticus 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | [>>](../23/intro.md)__

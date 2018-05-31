@@ -29,9 +29,3 @@ Many of the things that Joel said would happen did happen on the day of Pentecos
 ##### Wonders and signs
 
 These words refer to things that only God could do that showed that Jesus is who the disciples said he is.
-
-## Links:
-
-* __[Acts 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

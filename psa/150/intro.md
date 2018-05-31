@@ -8,9 +8,3 @@ Psalm 150 is a worship psalm. It is last in a series of worship psalms. (Psalms 
 
 ##### Instruments
 People should praise Yahweh with every type of musical instrument.
-
-## Links:
-
-* __[Psalms 150:1](../../psa/150/001.md)__
-
-__[<<](../149/intro.md) | __

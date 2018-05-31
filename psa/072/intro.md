@@ -11,9 +11,3 @@ May the king be honored throughout the world. May he help the poor. May there be
 
 ##### Close of Book Two
 The whole collection of Psalms has been divided into several "books." This is the last psalm of the second book. It is attributed to Solomon, the son of David.
-
-## Links:
-
-* __[Psalms 72:1](../../psa/072/001.md)__
-
-__[<<](../071/intro.md) | [>>](../073/intro.md)__

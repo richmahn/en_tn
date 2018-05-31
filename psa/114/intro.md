@@ -8,9 +8,3 @@ Psalm 114 is a psalm of praise to God for his miracles in bringing the people of
 
 ##### Praise
 The psalmist praised God for opening up the Red Sea for the people to cross, for providing the earthquake that stopped the Jordan River so the people could cross and providing water from a rock for the people to drink.
-
-## Links:
-
-* __[Psalms 114:1](../../psa/114/001.md)__
-
-__[<<](../113/intro.md) | [>>](../115/intro.md)__

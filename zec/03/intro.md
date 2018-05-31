@@ -16,9 +16,3 @@ It is important for each of these visions to keep their meanings and not be inte
 ##### The high priest
 
 This chapter seems to refer to a particular person, Joshua the high priest. However, little is known about him. (See: [[rc://en/tw/dict/bible/kt/highpriest]])
-
-## Links:
-
-* __[Zechariah 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

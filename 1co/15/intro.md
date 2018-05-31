@@ -13,9 +13,3 @@ Paul presents the resurrection as the ultimate proof that Jesus is God. Christ i
 #### Important figures of speech in this chapter
 
 Paul uses many different figures of speech in this chapter. He uses them to express difficult theological teachings in a way that people can understand.
-
-## Links:
-
-* __[1 Corinthians 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

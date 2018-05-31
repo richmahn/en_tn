@@ -20,9 +20,3 @@ Some of the imagery used in this chapter may be connected to the worship of spec
 
 ##### "In that day"
 This changes the reference from the time when Assyria comes to dominate the world and looks to a more distant future day.
-
-## Links:
-
-* __[Isaiah 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

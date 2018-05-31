@@ -10,9 +10,3 @@ The first part of this chapter is probably a prophecy about the coming Messiah a
 
 ##### Restoration
 This chapter prophesies concerning a future time of peace and restoration. It is unlikely to have been fulfilled in Isaiah's day. (See: [[rc://en/tw/dict/bible/kt/restore]] and [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/fulfill]])
-
-## Links:
-
-* __[Isaiah 61:01 Notes](./01.md)__
-
-__[<<](../60/intro.md) | [>>](../62/intro.md)__

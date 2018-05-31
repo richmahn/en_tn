@@ -15,9 +15,3 @@ From verses 15 through 32, the author uses a specific technique to explain some 
 
 ##### Themes
 There are individual proverbs that run along common themes, often including contrasting elements: wise/foolish, money, lazy/diligent, truth telling, wicked/righteous, sluggard, pride/humility, integrity/crookedness. (See: [[rc://en/tw/dict/bible/kt/foolish]] and [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/tw/dict/bible/kt/righteous]])
-
-## Links:
-
-* __[Proverbs 30:01 Notes](./01.md)__
-
-__[<<](../29/intro.md) | [>>](../31/intro.md)__

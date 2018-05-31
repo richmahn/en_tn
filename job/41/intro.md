@@ -14,9 +14,3 @@ Yahweh uses a series of rhetorical questions in this chapter in order to defend 
 ##### Animals
 
 There are several animals mentioned in this chapter that do not exist and may never have existed. It may be necessary to leave these names untranslated or to translate their names as adjectives.
-
-## Links:
-
-* __[Job 41:01 Notes](./01.md)__
-
-__[<<](../40/intro.md) | [>>](../42/intro.md)__

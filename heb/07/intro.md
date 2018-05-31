@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### High priest
 
 Only a high priest could offer sacrifices so that God could forgive sins, so Jesus had to be a high priest. The law of Moses commanded that the high priest be from the tribe of Levi, but Jesus was from the tribe of Judah. God made him a priest like the priest Melchizedek, who lived at the time of Abraham, before there was a tribe of Levi.
-
-## Links:
-
-* __[Hebrews 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

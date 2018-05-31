@@ -13,9 +13,3 @@ Many scholars believe this chapter prophesies that Gentiles will be able to come
 
 ##### Beasts
 The Israelites are compared to beasts and dogs in this chapter. This would have been very offensive to them. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Isaiah 56:01 Notes](./01.md)__
-
-__[<<](../55/intro.md) | [>>](../57/intro.md)__

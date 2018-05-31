@@ -16,9 +16,3 @@ Paul considers it very important that the church is united. This is a major them
 
 ##### Old man and new man
 The term "old man" probably refers to the sinful nature with which a person is born. The "new man" is the new nature or new life that God gives a person after they come to believe in Christ.
-
-## Links:
-
-* __[Ephesians 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

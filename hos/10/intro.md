@@ -13,9 +13,3 @@ Yahweh's relationship to his people was not based on his people's actions. Even 
 ##### Jacob
 
 The repeated use of different names for the two kingdoms can be confusing. In verse 11, "Ephraim" refers to the northern kingdom of Israel, and "Judah" refers to the southern kingdom of Judah. However, Jacob is also mentioned. This use of "Jacob" makes us think of the earlier unified nation and may also refer to a future unified nation. (See: [[rc://en/ta/man/translate/translate-names]])
-
-## Links:
-
-* __[Hosea 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

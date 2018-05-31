@@ -17,9 +17,3 @@ When the Jewish leaders spoke of "brothers," they were referring to fellow Jews,
 ##### "He was a god"
 
 The native people believed that Paul was a god, but they did not believe that he was the one true God. We do not know why Paul did not tell the native people that he was not a god.
-
-## Links:
-
-* __[Acts 28:01 Notes](./01.md)__
-
-__[<<](../27/intro.md) | __

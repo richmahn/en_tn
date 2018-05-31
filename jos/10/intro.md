@@ -14,9 +14,3 @@ Israel's conquest of the Promised Land was Yahweh's war on the ungodly Canaanite
 ##### Idiom
 
 The people of Gibeon used an idiom when they called for help from Israel: "Do not withdraw your hands," meaning "do not stop protecting." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[Joshua 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

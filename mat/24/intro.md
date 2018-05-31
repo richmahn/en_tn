@@ -19,9 +19,3 @@ In the time of Noah, God sent a great flood to punish people for their sins. He 
 ##### "Let"
 
 The ULT uses this word to begin several commands of Jesus, such as "let those who are in Judea flee to the mountains" (24:16), "let him who is on the housetop not go down to take anything out of his house" (24:17), and "let him who is in the field not return to take his cloak" (24:18). There are many different ways to form a command. Translators must select the most natural ways in their own languages.
-
-## Links:
-
-* __[Matthew 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

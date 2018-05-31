@@ -8,9 +8,3 @@ Psalm 60 is a psalm of war.
 
 ##### Protection
 God has preserved the land of Israel, and now he will give them victory over the countries of Moab and Edom.
-
-## Links:
-
-* __[Psalms 60:1](../../psa/060/001.md)__
-
-__[<<](../059/intro.md) | [>>](../061/intro.md)__

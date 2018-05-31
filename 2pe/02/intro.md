@@ -8,9 +8,3 @@
 
 ##### Implicit information
 There are several analogies in 2:4-8 that are difficult to understand if the Old Testament has not yet been translated. Further explanation may be necessary. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[2 Peter 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

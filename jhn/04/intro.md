@@ -31,9 +31,3 @@ John probably told this story to show the difference between the Samaritan woman
 ##### "In spirit and truth"
 
 The people who truly know who God is and enjoy worshiping him and love him for who he is are the ones who truly please him. Where they worship is not important.
-
-## Links:
-
-* __[John 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -22,9 +22,3 @@ Prophecy often involves the use of metaphors to express its meaning. Spiritual d
 
 ##### "(Herod) had John locked up in prison"
 This event can cause confusion because the author says John was imprisoned and then says he was baptizing Jesus. The author probably uses this phrase in anticipation of Herod's imprisonment of John. This would mean that this statement is still in the future at the time of the narrative.
-
-## Links:
-
-* __[Luke 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

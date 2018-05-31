@@ -13,9 +13,3 @@ Despite being upset about his circumstances, Job does not curse God. His friends
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to convince Zophar that he is wrong. These questions help to build Job's response. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

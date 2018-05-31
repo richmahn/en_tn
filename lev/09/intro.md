@@ -13,9 +13,3 @@ Great care is taken to show that Aaron perfectly followed Yahweh's instructions.
 
 ##### "Fire came out from Yahweh"
 Aaron did not create the fire that consumed his sacrifice. Instead, Yahweh miraculously began the fire which consumed the sacrifice. This showed that the sacrifice was acceptable to him. (See: [[rc://en/tw/dict/bible/kt/miracle]])
-
-## Links:
-
-* __[Leviticus 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

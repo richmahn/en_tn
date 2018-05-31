@@ -19,9 +19,3 @@ Peter wanted his readers to agree with each other. More importantly, he wanted t
 ##### Metaphor
 
 Peter quotes a psalm that describes God as if he were a person with eyes, ears, and a face. However, God is a spirit, so he does not have physical eyes or ears or a physical face. But he does know what people do, and he does act against wicked people. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[1 Peter 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

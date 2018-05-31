@@ -13,9 +13,3 @@ God proved himself to all the people of Israel. Elijah went to meet Ahab. He tol
 ##### Humor
 
 Elijah insults the false god Baal. He states, "Perhaps he is thinking, or is relieving himself, or he is traveling on a journey, or perhaps he is sleeping and must be awakened." Baal was too busy in the bathroom to answer the prophets. "Relieving himself" is a euphemism. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/ta/man/translate/figs-euphemism]])
-
-## Links:
-
-* __[1 Kings 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

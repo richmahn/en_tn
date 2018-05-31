@@ -16,9 +16,3 @@ Circumcision was important to the Israelites. It identified a person as a descen
 
 ##### Rhetorical Questions
 Paul uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/guilt]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Romans 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

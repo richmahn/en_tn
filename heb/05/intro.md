@@ -17,9 +17,3 @@ Only a high priest could offer sacrifices so that God could forgive sins, so Jes
 ##### Milk and solid food
 
 The writer speaks of Christians who are only able to understand simple things about Jesus as if they were babies, who drink only milk and cannot eat solid food. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Hebrews 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

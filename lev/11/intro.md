@@ -8,9 +8,3 @@ This chapter contains a list of the animals the Israelites were not allowed to e
 
 =##### Special concepts in this chapter
 Eating unclean foods made a person unclean. The process of consuming these types of foods spread the uncleanliness to a person. (See: [[rc://en/tw/dict/bible/kt/clean]])
-
-## Links:
-
-* __[Leviticus 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

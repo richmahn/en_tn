@@ -17,9 +17,3 @@ Melchizedek was both a priest and a king. Because of this, he parallels the role
 ##### God Most High
 
 Melchizedek worshiped the God Most High. This is probably a reference to the true and only God who created the heavens and the earth and came to be known as Yahweh. (See: [[rc://en/tw/dict/bible/kt/heaven]])
-
-## Links:
-
-* __[Genesis 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

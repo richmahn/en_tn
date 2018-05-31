@@ -9,9 +9,3 @@ During the exile, the Hebrew language was no longer spoken. Only the priests and
 ##### Festival of Shelters
 
 After they heard Ezra read the law of Moses, the people obeyed it by making temporary shelters for themselves with tree branches. They did this to remember that their ancestors slept in shelters when they came out of slavery in Egypt.
-
-## Links:
-
-* __[Nehemiah 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

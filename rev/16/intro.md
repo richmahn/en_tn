@@ -24,9 +24,3 @@ The tone of this chapter is meant to astonish the reader. Translations should no
 
 This is a Hebrew word. It is the name of a place. John used the sounds of the Hebrew word and wrote them with Greek letters. Translators are encouraged to transliterate it using the letters of the target language. (See: [[rc://en/ta/man/translate/translate-transliterate]])
 
-
-## Links:
-
-* __[Revelation 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

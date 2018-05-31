@@ -8,9 +8,3 @@ Psalm 62 is a psalm of deliverance. It expresses trust that God will save the ps
 
 ##### Trust
 Although the psalmist's enemies have attacked him when he was feeling weak, he trusts in God to deliver him. God is powerful and kind.
-
-## Links:
-
-* __[Psalms 62:1](../../psa/062/001.md)__
-
-__[<<](../061/intro.md) | [>>](../063/intro.md)__

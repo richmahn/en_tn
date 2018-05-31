@@ -8,9 +8,3 @@ Psalm 108 is a psalm of war.
 
 ##### Victory
 God promised success to the psalmist, but Yahweh failed to help him conquer the country of Edom. He needed God to give him victory over Edom.
-
-## Links:
-
-* __[Psalms 108:1](../../psa/108/001.md)__
-
-__[<<](../107/intro.md) | [>>](../109/intro.md)__

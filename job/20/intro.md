@@ -13,9 +13,3 @@ Zophar tells Job to curse Yahweh. The advice Zophar gives to Job is bad advice. 
 
 ##### Metaphors
 There are many metaphors used in this chapter. Zophar uses them to explain the temporary nature of life and riches. He also uses them to describe God's punishment of Job. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Job 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

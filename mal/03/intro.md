@@ -9,9 +9,3 @@ There are several prophecies in this chapter concerning the Messiah and the one 
 
 ##### Rhetorical questions
 Several rhetorical questions are used in this chapter to convince the reader of the truth of what he is saying and of their sin. (See: [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Malachi 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -24,9 +24,3 @@ Several times in this passage, John explains something or gives the reader some 
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([John 6;26](./26.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[John 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

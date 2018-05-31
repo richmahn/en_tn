@@ -9,9 +9,3 @@ The events of this chapter were so significant, the Jews celebrated these events
 
 ##### Ironic Situation
 The day that was supposed to bring great victory to the enemies of the Jews became a day of great victory for the Jews. This is a type of irony.
-
-## Links:
-
-* __[Esther 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

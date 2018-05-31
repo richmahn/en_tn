@@ -12,9 +12,3 @@ The theme of vengeance is important in this chapter. Ancient Hebrew society allo
 
 The theme of vengeance continues with the words of Lamech, who had killed someone for injuring him:
 "I have killed a man for wounding me, a young man for bruising me. If Cain is avenged seven times as much, truly Lamech will be avenged seventy-seven times as much" (Gen. 4:23b-24).
-
-## Links:
-
-* __[Genesis 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

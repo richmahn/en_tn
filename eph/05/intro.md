@@ -13,9 +13,3 @@ This is difficult to understand. Some scholars believe those who continue to pra
 
 ##### Wives, submit to your husbands
 Scholars are divided over how to understand this passage in its historical and cultural context. Some scholars believe men and women are perfectly equal in all things. Other scholars believe God created men and women to serve in distinctly different roles in marriage and the church. Translators should be careful not to let how they understand this issue affect how they translate this passage.
-
-## Links:
-
-* __[Ephesians 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -9,9 +9,3 @@ Chapter 12 tells what happened to King Herod while Barnabas was bringing Saul ba
 ##### Personification
 
 The "word of God" is spoken of as if it were a living thing that could grow and become many. (See: [[rc://en/tw/dict/bible/kt/wordofgod]] and [[rc://en/ta/man/translate/figs-personification]])
-
-## Links:
-
-* __[Acts 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

@@ -15,10 +15,3 @@ A genealogy is a list that records a person's ancestors or descendants. Jews use
 ##### Use of the passive voice
 
 Matthew uses the passive voice very purposefully in this chapter to indicate that Mary did not have a sexual relationship with anyone. She became pregnant with Jesus because the Holy Spirit performed a miracle. Many languages do not have a passive voice, so translators in those languages must find other ways to present the same truths. (See: [[rc://en/ta/man/translate/figs-activepassive]])
-
-## Links:
-
-* __[Matthew 1:1](../../mat/01/01.md)__
-* __[Matthew intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

@@ -15,10 +15,3 @@ This was not a reference to the northern kingdom of Israel; it had already been 
 
 ##### Opposition
 The people were supposed to listen to God's prophet. When he prophesied, they should have repented. Instead, they persecuted Jeremiah. (See: [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Jeremiah 01:01 Notes](./01.md)__
-* __[Jeremiah intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

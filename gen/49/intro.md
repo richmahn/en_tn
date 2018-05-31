@@ -16,9 +16,3 @@ This prophecy indicates Judah will be the ruling tribe of Israel. The future kin
 
 ##### "I buried Leah"
 Since Moses wrote the book of Genesis, this is an editorial comment he makes in the text as the narrator. 
-
-## Links:
-
-* __[Genesis 49:01 Notes](./01.md)__
-
-__[<<](../48/intro.md) | [>>](../50/intro.md)__

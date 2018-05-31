@@ -13,9 +13,3 @@ Scholars are divided over how to understand this passage in its historical and c
 
 ##### "Prayers, intercessions, and thanksgivings"
 These terms overlap each other in what they mean. It is not necessary to view them as distinct categories.
-
-## Links:
-
-* __[1 Timothy 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

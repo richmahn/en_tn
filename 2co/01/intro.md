@@ -26,10 +26,3 @@ Paul uses the pronoun "we". This likely represents at least Timothy and himself.
 ##### Guarantee
 
 Paul says the Holy Spirit is the guarantee, which means pledge or down-payment, of a Christian's eternal life. Christians are securely saved. But they will not experience all of God's given promises until after they die. The Holy Spirit is a personal guarantee that this will happen. This idea comes from a business term. A person gives some valuable item to another person as a "guarantee" that they will repay money. (See: [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/save]])
-
-## Links:
-
-* __[2 Corinthians 01:01 Notes](./01.md)__
-* __[2 Corinthians intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

@@ -11,9 +11,3 @@ Since God is protecting the psalmist, he has nothing to fear from his enemies.
 
 ##### Superscription
 The word "Michtam" is used in the superscription for this psalm. There is much discussion about this word but, in the end, no one is certain what it means. It is easiest to transliterate this word into your language, or you can simply translate it as "psalm." 
-
-## Links:
-
-* __[Psalms 57:1](../../psa/057/001.md)__
-
-__[<<](../056/intro.md) | [>>](../058/intro.md)__

@@ -13,9 +13,3 @@ Bildad describes the holiness of Yahweh and the universal nature of man's sinful
 
 ##### Rhetorical questions
 Bildad uses many different rhetorical questions in this chapter in order to try to convince Job that he is wrong. These questions help to build Bildad's argument. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 25:01 Notes](./01.md)__
-
-__[<<](../24/intro.md) | [>>](../26/intro.md)__

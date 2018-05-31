@@ -18,9 +18,3 @@ The Christian's home is no longer in the world. A Christian's real home is in he
 
 ##### "The message of reconciliation"
 This refers to the gospel. Paul calls for people who are hostile to God to repent and be reconciled to him. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/reconcile]])
-
-## Links:
-
-* __[2 Corinthians 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

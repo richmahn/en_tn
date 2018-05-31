@@ -8,9 +8,3 @@ The people who returned from Persia were counted according to their families. Ne
 
 ##### Different lists
 This list is paralleled in [Ezra 2](../../ezr/02/01.md). The lists do contain some differences in numbers. This is probably due to the timing of their counting. They were likely counted at different times.
-
-## Links:
-
-* __[Nehemiah 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

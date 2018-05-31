@@ -15,9 +15,3 @@ Both the Jewish leaders ([Acts 24:2-4](./02.md)) and Paul ([Acts 24:10](../../ac
 ##### Governmental leaders
 
 The words "governor," "commander," and "centurion" may be difficult to translate into some languages. (See: [[rc://en/ta/man/translate/translate-unknown]])
-
-## Links:
-
-* __[Acts 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

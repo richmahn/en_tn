@@ -12,10 +12,3 @@ Leprosy was a disease of the skin that made a person unclean and unable to prope
 ##### "The kingdom of God is near"
 
 Scholars debate whether the "kingdom of God" was present at this time or is something that is still coming. English translations frequently use the phrase "at hand," but this can create difficulty for translators. Other versions use the phase "is coming" and "has come near."
-
-## Links:
-
-* __[Mark 01:01 Notes](./01.md)__
-* __[Mark intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

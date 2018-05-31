@@ -12,9 +12,3 @@ The wicked people are prospering and think that God does not care. They think th
 ##### Second half of Psalm 9
 
 As noted in the intro to the last psalm, this one is part of an acrostic poem. This psalm covers the last half on the Hebrew alphabet. It also does not have a superscription to introduce it. However, the psalms do separate well on the subjects they address. One addresses thanksgiving and praise whereas Psalm 10 is a lament. (See: [[rc://en/tw/dict/bible/kt/lament]])
-
-## Links:
-
-* __[Psalms 10:1](../../psa/010/001.md)__
-
-__[<<](../009/intro.md) | [>>](../011/intro.md)__

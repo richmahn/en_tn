@@ -15,9 +15,3 @@ Paul uses an extended comparison using many metaphors. Yeast represents evil. Th
 
 ##### Rhetorical questions
 Paul uses rhetorical questions in this chapter. He uses them to emphasize important points as he teaches the Corinthians. (See: rc://en/ta/man/translate/figs-rquestion)
-
-## Links:
-
-* __[1 Corinthians 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

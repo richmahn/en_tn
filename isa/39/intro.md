@@ -7,9 +7,3 @@ Although it is not said why it was sinful for Hezekiah to show the king of Babyl
 
 ##### Babylon
 At this time, Babylon was not very powerful, but was little more than a city. In a short time, however, Babylon became a very powerful nation and conquered Assyria.
-
-## Links:
-
-* __[Isaiah 39:01 Notes](./01.md)__
-
-__[<<](../38/intro.md) | [>>](../40/intro.md)__

@@ -8,9 +8,3 @@ The story of the building of the temple and re-establishment of the temple worsh
 
 ##### Helping to build the temple
 The people of the surrounding nations offered to help to build the temple. It is unknown why the Jews refused their help. These other people became their enemies and tried to hinder the work. They even persuaded the king of Persia to stop the Jews from building.
-
-## Links:
-
-* __[Ezra 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

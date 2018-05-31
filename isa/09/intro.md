@@ -13,9 +13,3 @@ The prophecy in 9:1-7 is about the coming Messiah. Parts of this prophecy were f
 
 ##### Fulfillment of prophecies
 Some of the prophecies in this chapter were fulfilled in Isaiah's lifetime while others are fulfilled in the distant future. Some scholars believe that there can be multiple fulfillments of each of these prophecies, while others see only one complete fulfillment.
-
-## Links:
-
-* __[Isaiah 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -8,9 +8,3 @@ This chapter serves as a type of farewell address. This is a way for leaders to 
 #### Other possible translation difficulties in this chapter
 
 It is common in Scripture to use Israel's history to show how faithful God has been. This gives the readers evidence to trust in Yahweh in their current situation. (See: [[rc://en/tw/dict/bible/kt/faithful]] and [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[1 Samuel 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

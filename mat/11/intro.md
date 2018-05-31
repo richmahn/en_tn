@@ -17,8 +17,3 @@ After [Matthew 11:20](../../mat/11/20.md), Jesus begins to reveal information ab
 ##### "The kingdom of heaven is near"
 
 No one knows for sure whether the "kingdom of heaven" was present or still coming when John spoke these words. English translations often use the phrase "at hand," but these words can be difficult to translate. Other versions use the phrases "is coming near" and "has come near."
-
-## Links:
-* __[Matthew 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

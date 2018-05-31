@@ -8,9 +8,3 @@ Psalm 31 is a psalm of deliverance. The psalmist's enemies thought they had defe
 
 ##### Abandonment
 Even though everyone deserted and despised the psalmist, God did not abandon him.
-
-## Links:
-
-* __[Psalms 31:1](../../psa/031/001.md)__
-
-__[<<](../030/intro.md) | [>>](../032/intro.md)__

@@ -18,9 +18,3 @@ Paul uses several metaphors in this chapter to illustrate his points and help ex
 
 ##### "You are cut off from Christ, you who would be justified by the law; you no longer experience grace."
 Some scholars think Paul teaches that being circumcised causes a person to lose their salvation. Other scholars think Paul means that obeying the law to try to get right with God will keep a person from being saved by grace.  (See: [[rc://en/tw/dict/bible/kt/grace]])
-
-## Links:
-
-* __[Galatians 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

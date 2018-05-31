@@ -16,9 +16,3 @@ The verb "to know" is used in two different ways in this chapter. Sometimes it i
 
 ##### "He who keeps God's commandments remains in him, and God remains in him"
 Many scholars believe this is about remaining in God's will and is not about being saved. (See: [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/save]])
-
-## Links:
-
-* __[1 John 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

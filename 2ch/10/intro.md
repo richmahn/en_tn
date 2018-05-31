@@ -14,9 +14,3 @@ The people asked Solomon's son, Rehoboam, to reduce the heavy taxes and the forc
 ##### Metaphor
 
 The people use the metaphor of a yoke to complain about the high taxes and forced labor Solomon demanded from the people. They said, "Your father made our yoke difficult." (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[2 Chronicles 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

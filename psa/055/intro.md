@@ -11,9 +11,3 @@ The author wishes he could get far away from his enemies after his best friend b
 
 ##### Superscription
 This psalm is called "a Maschil of David." The word "Maschil" in the original language has caused scholars to have various opinions about its meaning. Some say it means to instruct, while others say that the word is referring to the skill used in creating the psalm. Still others think it means that meditation should be used in reading this psalm.
-
-## Links:
-
-* __[Psalms 55:1](../../psa/055/001.md)__
-
-__[<<](../054/intro.md) | [>>](../056/intro.md)__

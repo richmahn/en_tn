@@ -19,9 +19,3 @@ Jesus knew that those who did not choose to follow him would hate those who did 
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([Luke 12;8](./08.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[Luke 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

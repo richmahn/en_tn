@@ -15,9 +15,3 @@ When Jesus asked the Pharisees who gave John the authority to baptize ([Luke 20:
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. In this chapter, Jesus quotes a psalm that records David calling his son "lord," that is, "master." However, to the Jews, ancestors were greater than their descendants. In this passage, Jesus is trying to lead his hearers to the true understanding that the Messiah will himself be divine, and that he himself is the Messiah. ([Luke 20:41-44](./41.md)).
-
-## Links:
-
-* __[Luke 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

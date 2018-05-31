@@ -15,9 +15,3 @@ Throughout this letter, Paul contrasts freedom and slavery. The Christian is fre
 ##### "I do not negate the grace of God"
 
 Paul teaches that, if a Christian attempts to follow the law of Moses, they do not understand the grace God has shown to them. This is a fundamental error. But Paul uses the words "I do not negate the grace of God" as a type of hypothetical situation. The purpose of this statement could be seen as, "If you could be saved by following the law, then it would negate the grace of God." (See: [[rc://en/tw/dict/bible/kt/grace]] and [[rc://en/ta/man/translate/figs-hypo]])
-
-## Links:
-
-* __[Galatians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

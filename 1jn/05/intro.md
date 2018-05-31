@@ -15,9 +15,3 @@ When John writes about death in this chapter, he refers to physical death. (See:
 
 ##### "the whole world lies in the power of the evil one"
 The phrase "the evil one" refers to Satan. God has allowed him to rule the world, but ultimately God is in control over everything. God keeps his children safe from the evil one. (See: [[rc://en/tw/dict/bible/kt/satan]])
-
-## Links:
-
-* __[1 John 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | __

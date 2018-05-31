@@ -23,9 +23,3 @@ Jesus will return to finish the work that he began when he died so that God woul
 ##### First covenant
 
 This refers to the covenant that God made with Moses. However, before he made this covenant, God had made a covenant with Abraham. But this was the first covenant that God had made with the people of Israel. You may decide to translate "the first covenant" as "the earlier covenant."
-
-## Links:
-
-* __[Hebrews 9:1](../../heb/09/01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

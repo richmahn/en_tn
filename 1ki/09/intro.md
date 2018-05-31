@@ -13,9 +13,3 @@ Yahweh alone must be worshiped. It is necessary for people to stay faithful to G
 
 ##### Metaphor
 'Walk" is a common image in Scripture. It is said, "if you walk before me as David your father walked." (See: [[rc://en/tw/dict/bible/other/walk]])
-
-## Links:
-
-* __[1 Kings 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

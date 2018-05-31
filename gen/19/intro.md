@@ -12,9 +12,3 @@ Hospitality, or being kind to a visitor, was very important in the Ancient Near 
 
 ##### Contrasts
 It is probable that Abraham's faith and actions in chapter 18 are intended to contrast with the actions of the worldly Sodomites. (See: [[rc://en/tw/dict/bible/kt/faith]])
-
-## Links:
-
-* __[Genesis 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

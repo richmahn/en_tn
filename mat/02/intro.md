@@ -15,8 +15,3 @@ These words probably refer to a star that the learned men believed to be the sig
 ##### "Learned men"
 
 English translations use many different words to translate this phrase. These words include "magi" and "wise men." These men could have been scientists or astrologers. If you can, you should translate this with the general word "learned men."
-
-## Links:
-* __[Matthew 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

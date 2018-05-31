@@ -15,9 +15,3 @@ Saul sent most of his army home before Jonathan attacked and defeated a Philisti
 ##### Hyperbole
 
 Wanting to express the vast number of enemy soldiers, the author uses a hyperbole: "as numerous as the sand on the seashore," meaning "too many to count." (See: [[rc://en/ta/man/translate/figs-hyperbole]])
-
-## Links:
-
-* __[1 Samuel 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -12,9 +12,3 @@ This chapter really introduces the concept that the people group Israel is the c
 
 ##### Yahweh hardened Pharaoh's heart
 Scholars are divided over how to understand this statement. There is debate over whether Pharaoh plays an active or passive role in the hardening of his own heart. (See: [[rc://en/ta/man/translate/figs-activepassive]])
-
-## Links:
-
-* __[Exodus 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -10,9 +10,3 @@ Gideon's son, Abimelech, killed all of his brothers except Jotham in order to be
 
 ##### Tree metaphor
 This chapter contains an extended metaphor about trees. This metaphor functions as a parable instructing Israel about their sinful desire to have a king. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Judges 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

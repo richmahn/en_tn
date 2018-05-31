@@ -14,9 +14,3 @@ This psalm outlines a person who is godly and sees others from a godly perspecti
 Scholars have noted that this psalm contains a list of ten different conditions for those who want to participate in worship at the temple. The list consists of three positives in verse 2, 3 negatives in verse 3, two positives in verse 4, followed by two negatives in verse 5. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
 
-
-## Links:
-
-* __[Psalms 15:1](../../psa/015/001.md)__
-
-__[<<](../014/intro.md) | [>>](../016/intro.md)__

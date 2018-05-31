@@ -10,9 +10,3 @@ It is possible that Yahweh is using the word "a" (meaning "even one") as hyperbo
 
 ##### Rhetorical questions
 Yahweh asks several rhetorical questions in this chapter. This is intended to show Jeremiah the justness of his actions. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Jeremiah 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -11,10 +11,3 @@ The chapter explains that Israel's conquering of the Promised Land will be done 
 
 ##### Possessing the land
 While the Promised Land belongs to Israel, they do not possess the land. Possessing the land is an important theme. Posessing the land depended on Israel's faithfulness. (See: [[rc://en/tw/dict/bible/kt/faithful]])
-
-## Links:
-
-* __[Deuteronomy 01:01 Notes](./01.md)__
-* __[Deuteronomy intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

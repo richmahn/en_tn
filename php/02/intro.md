@@ -13,9 +13,3 @@ In this chapter Paul gives many practical instructions to the church in Philippi
 
 ##### "If there is any"
 This appears to be a type of hypothetical statement. However, it is not a hypothetical statement, because it expresses something that is true. The translator may also translate this phrase as "Since there is."
-
-## Links:
-
-* __[Philippians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

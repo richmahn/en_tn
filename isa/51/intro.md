@@ -11,9 +11,3 @@ There are many rhetorical questions in this chapter. These questions prove Yahwe
 
 ##### Awake
 In this chapter the author uses sleeping as a metaphor for sin. The people are told to "awake," meaning they are to repent and return to Yahweh. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Isaiah 51:01 Notes](./01.md)__
-
-__[<<](../50/intro.md) | [>>](../52/intro.md)__

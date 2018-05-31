@@ -10,9 +10,3 @@ When the donkeys of Saul's father strayed away, Saul went looking for them. When
 ##### Rhetorical questions
 
 Saul uses two rhetorical questions to convince Samuel he is not important: "Am not I a Benjamite, from the smallest of the tribes of Israel? Is not my clan the least of all the clans of the tribe of Benjamin?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

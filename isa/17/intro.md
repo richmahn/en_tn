@@ -15,9 +15,3 @@ This chapter prophesies destruction against the people of Damascus. Damascus was
 
 ##### Ephraim
 This chapter prophesied destruction against the kingdom of Israel. They are also called Ephraim in this chapter. Both the northern kingdom of Israel and Aram were conquered at about the same time in history.
-
-## Links:
-
-* __[Isaiah 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

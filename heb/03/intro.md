@@ -19,9 +19,3 @@ A person who hardens his heart is a person who will not listen to or obey God. (
 ##### Rhetorical questions
 
 The author uses rhetorical questions as a way of warning his readers. Both he and the readers know the answers to the questions, and the writer knows that as the readers think about the answers to the questions, they will realize that they need to listen to God and obey him.
-
-## Links:
-
-* __[Hebrews 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

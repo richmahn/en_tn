@@ -10,9 +10,3 @@ Many scholars believe that there are four songs or poems which Isaiah records ab
 
 ##### Rhetorical Questions
 There are many rhetorical questions in this chapter. These questions prove Yahweh's point and are intended to convince the readers. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Isaiah 50:01 Notes](./01.md)__
-
-__[<<](../49/intro.md) | [>>](../51/intro.md)__

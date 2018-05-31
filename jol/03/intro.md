@@ -8,9 +8,3 @@ There is a change in focus in this chapter from the people of Israel to her enem
 
 ##### Israel
 The mention of Israel in this chapter is probably a reference to the people of Judah and not the northern kingdom of Israel. It is also possible this is a reference to the people of Israel as a whole.
-
-## Links:
-
-* __[Joel 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | __

@@ -12,9 +12,3 @@ Some translations prefer to set apart quotations, prayers, and songs. The ULT an
 
 God caused rain and flooding to bog down Jaban's chariots making
 them vulnerable to soldiers on foot, even though it is not said. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Judges 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

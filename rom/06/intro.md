@@ -24,9 +24,3 @@ Paul uses rhetorical questions in this chapter. It appears the intent of these r
 
 ##### Death
 Paul uses "death" many different ways in this chapter: physical death, spiritual death, sin reigning in the heart of man, and to end something. He contrasts sin and death with the new life provided by Christ and the new way Christians are supposed to live after they are saved. (See: [[rc://en/tw/dict/bible/other/death]])
-
-## Links:
-
-* __[Romans 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

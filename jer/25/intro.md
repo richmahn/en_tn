@@ -15,9 +15,3 @@ Babylon will rule over Judah for seventy years. Because Yahweh is just, he will 
 ##### Idiom
 
 Jeremiah uses the idiom of drinking the cup of wine of God's punishment to say that Babylon will destroy all the surrounding nations and then be destroyed. (See: [[rc://en/ta/man/translate/figs-idiom]]) 
-
-## Links:
-
-* __[Jeremiah 25:01 Notes](./01.md)__
-
-__[<<](../24/intro.md) | [>>](../26/intro.md)__

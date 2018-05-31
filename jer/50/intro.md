@@ -13,9 +13,3 @@ Babylon will be conquered and the Jews will return to their homeland. At this ti
 #### Other possible translation difficulties in this chapter
 ##### Israel
 The author sometimes uses the term "Israel" to refer to the people of the old northern kingdom of Israel, and at other times to the nation of Israel as a whole. He switches between these uses several times without warning the reader. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Jeremiah 50:01 Notes](./01.md)__
-
-__[<<](../49/intro.md) | [>>](../51/intro.md)__

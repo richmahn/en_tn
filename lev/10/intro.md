@@ -14,9 +14,3 @@ Aaron was told that he and his remaining sons should not mourn Aaron's sons who 
 
 ##### "Unapproved fire"
 The phrase "unapproved fire " indicates that Aaron's son offered an unacceptable sacrifice. Because of Yahweh's holiness, this was a serious sin. They may have offered a sacrifice at the wrong time or in the wrong way. (See: [[rc://en/tw/dict/bible/kt/holy]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Leviticus 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

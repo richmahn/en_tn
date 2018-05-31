@@ -11,9 +11,3 @@ The author should not be discouraged because he trusts in God to deliver him. (S
 
 ##### Psalm 42 and Psalm 43
 Some scholars believe that these two psalms were originally written together as one psalm.
-
-## Links:
-
-* __[Psalms 43:1](../../psa/043/001.md)__
-
-__[<<](../042/intro.md) | [>>](../044/intro.md)__

@@ -9,9 +9,3 @@ It was great sin to take what was to be destroyed. Because of their sin, Yahweh 
 
 ##### Built an altar
 Altars were commonly built in the Ancient Near East to commemorate important events. Several altars were built in the Book of Joshua.
-
-## Links:
-
-* __[Joshua 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

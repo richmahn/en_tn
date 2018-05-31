@@ -8,9 +8,3 @@ Psalm 134 is a temple psalm. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
 ##### Watchmen
 The watchmen who work at night should praise God. Then he will bless them. (See: [[rc://en/tw/dict/bible/kt/bless]])
-
-## Links:
-
-* __[Psalms 134:1](../../psa/134/001.md)__
-
-__[<<](../133/intro.md) | [>>](../135/intro.md)__

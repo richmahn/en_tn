@@ -21,9 +21,3 @@ The Bible often speaks of unrighteous people, people who do not do what pleases 
 ##### Washing
 
 The Pharisees would wash themselves and the things they ate with. They would even wash things that were not dirty. The law of Moses did not tell them to wash these things, but they would wash them anyway. This was because they thought that if they obeyed both the rules that God had made and some rules that God had not made, God would think that they were better people. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/clean]])
-
-## Links:
-
-* __[Luke 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

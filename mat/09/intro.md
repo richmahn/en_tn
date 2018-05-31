@@ -19,8 +19,3 @@ Speakers in this chapter asked questions to which they already knew the answer. 
 ##### Proverbs
 
 Proverbs are very short sentences that use words that are easy to remember to tell about something that is generally true. People who understand proverbs usually have to know much about the language and culture of the speaker. When you translate the proverbs in this chapter, you may have to use many more words than the speakers used so that you can add information that the hearers knew but your reader do not know. (See: [[rc://en/ta/man/translate/writing-proverbs]])
-
-## Links:
-* __[Matthew 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

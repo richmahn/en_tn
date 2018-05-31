@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Parallelism
 The chapter uses parallelism with the phrase, "a time to." This gives the quotation a poetic style. Their overall purpose is to show that Yahweh directs the events of the world and therefore, they have purpose.
-
-## Links:
-
-* __[Ecclesiastes 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

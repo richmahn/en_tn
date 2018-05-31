@@ -10,9 +10,3 @@ Sometimes it seems that wicked people have no problems and everything works for 
 
 ##### Psalms by Asaph
 There are twelve psalms attributed to Asaph; the first one is Psalm 50, which is in Book Two, and the other eleven (Psalm 73–83) are at the beginning of Book Three.
-
-## Links:
-
-* __[Psalms 73:1](../../psa/073/001.md)__
-
-__[<<](../072/intro.md) | [>>](../074/intro.md)__

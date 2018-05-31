@@ -15,9 +15,3 @@ Scholars disagree on the exact meaning of the gift of tongues. Paul describes th
 ##### Prophecy
 
 Scholars disagree on the exact meaning of prophecy as a spiritual gift. Paul says prophets can build up the entire church. He describes prophecy as a gift for believers. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[1 Corinthians 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

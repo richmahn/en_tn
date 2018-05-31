@@ -17,9 +17,3 @@ This phrase is used several times to introduce a rhetorical question. The questi
 
 ##### Excused from fighting
 In ancient Israel, men were excused from fighting in battle for several different reasons. Some of these reasons are mentioned in this chapter. Apparently, needing to establish a new house, the need to harvest a field and cowardice were possible excuses. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Deuteronomy 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

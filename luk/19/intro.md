@@ -26,9 +26,3 @@ When king would enter the cities they ruled, people would cut branches from tree
 ##### The merchants in the temple
 
 Jesus forced the people who were selling animals in the temple to leave. He did this to show everyone that he had authority over the temple and that only those who were righteous, who did what God said was good, could be in it. (See: [[rc://en/tw/dict/bible/kt/righteous]])
-
-## Links:
-
-* __[Luke 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

@@ -15,9 +15,3 @@ In this chapter for the first time Luke speaks of people receiving the Holy Spir
 ##### Proclaimed
 
 This chapter more than any other in the Book of Acts speaks of the believers proclaiming the word, proclaiming the good news, and proclaiming that Jesus is the Christ. The word "proclaim" translates a Greek word that means to tell good news about something.
-
-## Links:
-
-* __[Acts 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

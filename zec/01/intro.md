@@ -15,10 +15,3 @@ This book contains a number of visions given to Zechariah, so the images are not
 
 ##### Date
 Zechariah uses two separate dates in this first chapter. When compared to the book of Haggai, Zechariah's prophecy was proclaimed just a few weeks after Haggai. However, they prophesied in two different places: Haggai was in Jerusalem and Zechariah was somewhere outside of Jerusalem. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Zechariah 01:01 Notes](./01.md)__
-* __[Zechariah intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

@@ -12,9 +12,3 @@ Although a few scholars believe the possession of the household gods was a sign 
 
 ##### Irony
 Laban's sons complained that Jacob cheated them out of their father's possessions. It was their father who tried to cheat Jacob out of what he promised to give Jacob. Jacob treated his brother Esau in the same way. Jacob cheated Esau out of their father's blessing.
-
-## Links:
-
-* __[Genesis 31:01 Notes](./01.md)__
-
-__[<<](../30/intro.md) | [>>](../32/intro.md)__

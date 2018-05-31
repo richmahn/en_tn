@@ -14,10 +14,3 @@ Paul discipled Timothy as a Christian and a church leader. Paul may also have le
 
 ##### Persecution
 Paul was in prison when he wrote this letter. Paul encourages Timothy to be willing to suffer for the gospel. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[2 Timothy 01:01 Notes](./01.md)__
-* __[2 Timothy intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

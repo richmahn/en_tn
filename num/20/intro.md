@@ -13,9 +13,3 @@ It is possible that this statement should be taken as hyperbole, but it does not
 #### Other possible translation difficulties in this chapter
 ##### Wilderness of Sin
 Sin is the name of a place in this chapter. It is not a place that is known for its sin. The name is not related to the meaning of the word "sin." (See: [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Numbers 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

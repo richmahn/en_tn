@@ -11,9 +11,3 @@ Jacob had a dream or received a vision. The purpose of this dream is to show tha
 
 ##### Bethel
 This was an important city for Abraham and his descendants. It is possible that there is some theological significance to the city of Bethel.
-
-## Links:
-
-* __[Genesis 28:01 Notes](./01.md)__
-
-__[<<](../27/intro.md) | [>>](../29/intro.md)__

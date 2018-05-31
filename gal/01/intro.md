@@ -17,10 +17,3 @@ Some people in the early church were teaching that Gentiles needed to obey the l
 
 ##### "You are turning so quickly to a different gospel"
 The Book of Galatians is one of Paul's earliest letters in Scripture. It shows that heresies troubled even the early church. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Galatians 01:01 Notes](./01.md)__
-* __[Galatians intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

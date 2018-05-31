@@ -16,9 +16,3 @@ This is an important metaphor in Scripture. The Church has many different parts.
 
 ##### "No one can say, 'Jesus is Lord,' except by the Holy Spirit."
 In reading the Old Testament, the Jews would have substituted the word "Lord" for the word "Yahweh." This sentence probably means that no one can say that Jesus is Yahweh, God in the flesh, without the Holy Spirit's influence drawing them to accept this truth. If this statement is translated poorly, it can have unintended theological consequences.
-
-## Links:
-
-* __[1 Corinthians 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

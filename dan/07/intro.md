@@ -11,9 +11,3 @@ There will be four successive kingdoms before Yahweh sets up his eternal kingdom
 ##### The Son of Man
 
 God will give the Son of Man an eternal kingdom and he will judge people from the books. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/tw/dict/bible/kt/judge]])
-
-## Links:
-
-* __[Daniel 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

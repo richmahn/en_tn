@@ -10,9 +10,3 @@ This passage does not condone slavery as an acceptable practice. However, it doe
 
 ##### Justice in society
 The rules and law of this chapter are not intended to be followed by every society. Israel was God's chosen nation and was required to live in a special way. These laws concerned creating a just society and a holy nation. (See: [[rc://en/tw/dict/bible/kt/elect]] and [[rc://en/tw/dict/bible/kt/justice]] and [[rc://en/tw/dict/bible/kt/holy]])
-
-## Links:
-
-* __[Exodus 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

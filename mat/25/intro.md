@@ -12,9 +12,3 @@ Jesus told the parable of the ten virgins ([Matthew 25:1-13](./01.md)) to tell h
 
 When the Jews arranged marriages, they would plan for the wedding to take place weeks or months later. At the proper time, the young man would go to his bride's house, where she would be waiting for him. The wedding ceremony would take place, and then the man and his bride would travel to his home, where there would be a feast. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-
-## Links:
-
-* __[Matthew 25:01 Notes](./01.md)__
-
-__[<<](../24/intro.md) | [>>](../26/intro.md)__

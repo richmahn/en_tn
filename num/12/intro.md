@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Idiom
 
 God used the idiom "mouth to mouth" meaning "speaking directly with both people present." This indicated that Moses was more than just a prophet and greater than other prophets. (See: [[rc://en/ta/man/translate/figs-idiom]] and [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Numbers 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

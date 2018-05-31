@@ -13,9 +13,3 @@ The events of Job occurred long before the Old Testament was written. Therefore,
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in his appeal to Yahweh. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

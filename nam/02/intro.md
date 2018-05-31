@@ -10,9 +10,3 @@ Despite being divided into three chapters, this book contains one long prophecy.
 
 ##### Complete destruction
 At that time, Assyria controlled almost the entire Near East. Nahum prophesied that the Assyrians would be so completely destroyed as a nation that they would no longer even be a people group. This prophecy came true and did so very suddenly. At times, this chapter is very violent in describing the destruction of Assyria, and this violence should not be toned down through the use of euphemism.
-
-## Links:
-
-* __[Nahum 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

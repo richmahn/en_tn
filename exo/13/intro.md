@@ -14,9 +14,3 @@ The law mentioned here is not the law of Moses because it has not yet been revea
 ##### Let my people go
 
 This is a very important statement. Moses does not ask Pharaoh for permission to "let go" of the Hebrew people. Instead, he is demanding that Pharaoh free the Hebrew people. When this chapter states that Pharaoh let the people go, it indicates that he gave them permission to leave.
-
-## Links:
-
-* __[Exodus 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -8,9 +8,3 @@ Psalm 83 is a deliverance psalm. It is a prayer for deliverance from the many na
 
 ##### Destruction
 God should destroy these enemy nations like he destroyed Israel's enemies during the time of the Judges.
-
-## Links:
-
-* __[Psalms 83:1](../../psa/083/001.md)__
-
-__[<<](../082/intro.md) | [>>](../084/intro.md)__

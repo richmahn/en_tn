@@ -23,9 +23,3 @@ Paul uses rhetorical questions to scold the people for their unwillingness to fo
 ##### The head
 
 Paul uses "head" as a metonym for authority in verse 3 and also to refer to a person's actual head in verse 4 and following. Since they are so close together, it is likely that Paul intentionally used "head" in this way. This would show that the ideas in these verses were connected. (See: [[rc://en/ta/man/translate/figs-metonymy]])
-
-## Links:
-
-* __[1 Corinthians 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

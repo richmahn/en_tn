@@ -13,9 +13,3 @@ Because the covenant has been broken, the people will be exiled into another lan
 
 ##### Change in speaker
 In verse 16, Yahweh is speaking; but in verse 17, Hosea starts speaking. There is a change in pronouns; the use of "my God" must imply that someone other than Yahweh is speaking.
-
-## Links:
-
-* __[Hosea 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

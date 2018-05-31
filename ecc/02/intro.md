@@ -13,9 +13,3 @@ When the author thought about the pointlessness of life, he decided to fill it w
 
 ##### Assumed knowledge
 It is assumed that the author is going to reject the way of living in this chapter. He is certainly not encouraging this way of living even though he does not say this explicitly. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Ecclesiastes 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

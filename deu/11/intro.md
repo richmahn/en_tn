@@ -12,9 +12,3 @@ The instruction that Moses gives and the retelling of the great things Yahweh ha
 
 ##### Covenant
 This chapter is included in the covenant God made with Moses, even though it is not explicitly said. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Deuteronomy 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

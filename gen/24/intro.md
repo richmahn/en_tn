@@ -19,9 +19,3 @@ There are many instances recorded in this chapter which highlight Abraham's sign
 ##### "Put your hand under my thigh"
 
 Many scholars believe this is a euphemism. Putting one's hand on a man's genitals was a way to make an important oath. It represented power and progeny. (See: [[rc://en/ta/man/translate/figs-euphemism]])
-
-## Links:
-
-* __[Genesis 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

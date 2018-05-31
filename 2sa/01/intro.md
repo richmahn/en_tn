@@ -15,10 +15,3 @@ David praised Saul and Jonathan as great warriors and Jonathan as his dearest fr
 
 ##### Synecdoche
 David used two figures of speech to express that Jonathan and Saul were great warriors: "the bow of Jonathan did not turn back, and the sword of Saul did not return empty." (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-
-## Links:
-
-* __[2 Samuel 01:01 Notes](./01.md)__
-* **[2 Samuel intro](../front/intro.md)
-
-__| [>>](../02/intro.md)__

@@ -12,9 +12,3 @@ God was very pleased with Solomon's request for wisdom. This is because wisdom w
 
 ##### Putting the needs of others first
 There are two additional examples of people putting the needs of others in front of their own needs. God is pleased with people wanting to do their job well more than wanting to be blessed. A mother will put the life of her child above every other concern. (See: [[rc://en/tw/dict/bible/kt/bless]])
-
-## Links:
-
-* __[1 Kings 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

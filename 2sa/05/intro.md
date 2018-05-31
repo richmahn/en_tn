@@ -11,9 +11,3 @@ David brought the combined army to Jerusalem and conquered it by going in throug
 
 ##### David consulting God
 David always consulted God before fighting a battle. The Philistines invaded Israel trying to capture David. David asked God if he should attack the Philistines, and God said yes; so he defeated them. They invaded again and God told him to attack them from the rear and he defeated them again. 
-
-## Links:
-
-* __[2 Samuel 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

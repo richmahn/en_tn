@@ -13,9 +13,3 @@ The prophecies of this chapter focus on the coming Messiah. Some of these prophe
 
 ##### Ambiguity
 It is uncertain what period of time these prophecies refer to or who will fulfill them. The translator should allow this uncertainty and ambiguity to remain. (See: [[rc://en/tw/dict/bible/kt/fulfill]])
-
-## Links:
-
-* __[Isaiah 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

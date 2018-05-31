@@ -17,9 +17,3 @@ No one knows for sure what Jesus meant when he told Pilate that his kingdom was 
 ##### King of the Jews
 
 When Pilate asked if Jesus were the King of the Jews ([John 18:33](../../jhn/18/33.md)), he was asking if Jesus were claiming to be like King Herod, whom the Romans were permitting to rule Judea. When he asked the crowd if he should release the King of the Jews ([John 18:39](../../jhn/18/39.md)), he is mocking the Jews, because the Romans and Jews hated each other. He was also mocking Jesus, because he did not think that Jesus was a king at all, (See: [[rc://en/ta/man/translate/figs-irony]])
-
-## Links:
-
-* __[John 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

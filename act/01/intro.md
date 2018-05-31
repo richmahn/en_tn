@@ -41,10 +41,3 @@ Thaddaeus is probably the same person as Jude, the son of James.
 ##### Akeldama
 
 This is a phrase in Hebrew or Aramaic. Luke used Greek letters so his readers would know how it sounded, and then he told what it means. You should probably spell it the way it sounds in your language and then explain the meaning. (See: [[rc://en/ta/man/translate/translate-transliterate]])
-
-## Links:
-
-* __[Acts 01:01 Notes](./01.md)__
-* __[Acts intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

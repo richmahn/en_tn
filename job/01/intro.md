@@ -14,10 +14,3 @@ Job is a very godly man and celebrates Yahweh's provision by having feasts. It m
 
 ##### Job's faith
 Satan believes that Job's faith is based on Yahweh's blessings. He challenges Yahweh to remove these blessings from Job's life because he thinks that Job will no longer trust in Yahweh if this happens. (See: [[rc://en/tw/dict/bible/kt/faith]], [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Job 01:01 Notes](./01.md)__
-* __[Job intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

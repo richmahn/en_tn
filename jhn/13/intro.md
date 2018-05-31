@@ -19,9 +19,3 @@ John records Jesus as saying these words four times in this book, once in this c
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([John 13:31](../../jhn/13/31.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[John 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -12,9 +12,3 @@ Occasionally, the author addresses a proverb to "my son." This is not intended t
 ##### Adulteress
 
 This chapter is unusual because it holds a theme about the adulteress and warns the young man to avoid her. An adulteress is a woman who commits adultery. (See: [[rc://en/tw/dict/bible/kt/adultery]])
-
-## Links:
-
-* __[Proverbs 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

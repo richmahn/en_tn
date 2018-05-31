@@ -21,8 +21,3 @@ This is what the people shouted to welcome Jesus into Jerusalem. This word meant
 ##### "The kingdom of God will be taken away from you"
 
 No one knows for sure what this phrase means. No one knows if Jesus meant that God would someday give the kingdom back or not.
-
-## Links:
-* __[Matthew 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

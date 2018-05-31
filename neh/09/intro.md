@@ -15,9 +15,3 @@ This chapter teaches that the Jews learned from the mistakes of their ancestors.
 
 ##### Recalling the great power of God
 It was common to recall the great things God did for Israel. This is a reminder to Israel of God's power. It is intended to bring the people to repentance and proper worship of Yahweh. (See: [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Nehemiah 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

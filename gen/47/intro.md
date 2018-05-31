@@ -7,9 +7,3 @@ Part of the Abrahamic covenant was that Yahweh would bless those who bless Abrah
 
 ##### Jacob was not buried in Egypt
 In the ancient Near east, a person was typically buried in their hometown. Since Egypt was not the Israelites' home, Jacob did not wish to be buried in Egypt. This was a lesson to the Israelites that Canaan was their true home, the promised land. (See: [[rc://en/tw/dict/bible/kt/promisedland]])
-
-## Links:
-
-* __[Genesis 47:01 Notes](./01.md)__
-
-__[<<](../46/intro.md) | [>>](../48/intro.md)__

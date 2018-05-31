@@ -12,9 +12,3 @@ Moses is not allowed to enter into the Promised Land. Since they are getting rea
 
 ##### Rhetorical Questions
 Moses uses several rhetorical questions in this chapter. The purpose of these questions is to convince his readers to obey his instructions. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Deuteronomy 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

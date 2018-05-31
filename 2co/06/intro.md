@@ -27,9 +27,3 @@ Paul uses a series of rhetorical questions to teach his readers. All of these qu
 ##### We
 
 Paul likely uses the pronoun "we" to represent at least Timothy and himself. It may also include other people.
-
-## Links:
-
-* __[2 Corinthians 6:1](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

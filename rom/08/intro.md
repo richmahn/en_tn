@@ -30,9 +30,3 @@ This phrase must be translated carefully to avoid doctrinal confusion. People ar
 ##### Flesh
 
 This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. Paul is not teaching that our physical bodies are sinful. Paul appears to be teaching that as long as Christians are alive ("in the flesh"), we will continue to sin. But our new nature will be fighting against our old nature. (See: [[rc://en/tw/dict/bible/kt/flesh]])
-
-## Links:
-
-* __[Romans 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

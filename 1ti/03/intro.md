@@ -13,9 +13,3 @@ The church has used different titles for church leaders. Some titles include eld
 
 ##### Character qualities
 This chapter lists several qualities that a man must have if he is to be an overseer or deacon in the church.  (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-
-## Links:
-
-* __[1 Timothy 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

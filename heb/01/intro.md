@@ -19,10 +19,3 @@ The author uses rhetorical questions as a way of proving Jesus is better than th
 ##### Poetry
 
 Jewish teachers, like the Old Testament prophets, would put their most important teachings in the form of poetry so that the hearers would be able to learn and remember them.
-
-## Links:
-
-* __[Hebrews 01:01 Notes](./01.md)__
-* __[Hebrews intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

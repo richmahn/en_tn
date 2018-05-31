@@ -15,10 +15,3 @@ God is in control of the future. King Ahaziah sent messengers to ask the Philist
 
 ##### Rhetorical question
 Elijah rebuked the king with a rhetorical question: "Is it because there is no God in Israel that you are going to consult with Baal Zebub, the god of Ekron?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[2 Kings 01:01 Notes](./01.md)__
-* __[2 Kings intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

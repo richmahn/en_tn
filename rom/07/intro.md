@@ -19,9 +19,3 @@ Scripture commonly uses marriage as a metaphor. Here Paul uses it to describe ho
 
 ##### Flesh
 This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. Paul is not teaching that our physical bodies are sinful. Paul appears to be teaching that as long as Christians are alive ("in the flesh"), we will continue to sin. But our new nature will be fighting against our old nature. (See: [[rc://en/tw/dict/bible/kt/flesh]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Romans 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

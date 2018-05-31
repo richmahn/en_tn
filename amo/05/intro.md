@@ -11,9 +11,3 @@ This chapter refers to various places in land of Israel (i.e. Gilgal, Bethel, Be
 
 ##### City gate
 The "city gate" is mentioned several times. This was a place where people would go with legal and financial issues. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Amos 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -9,9 +9,3 @@ This word "spirit" is used in different ways in this chapter. Sometimes the word
 
 ##### Loving God
 If people love God, they should show it in the way they live and the way they treat other people. Doing this may assure us that God has saved us and that we belong to him, but loving others does not save us. (See: [[rc://en/tw/dict/bible/kt/save]])
-
-## Links:
-
-* __[1 John 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

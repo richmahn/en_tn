@@ -8,9 +8,3 @@ Psalm 19 is a praise psalm, praising God for his creation and for his law.
 
 ##### God's law
 God's law keeps people from sinning. There are two distinct themes in this psalm. Verses 1-6 are God's glory in the heavens and the second is praising God for his law. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/glory]] and [[rc://en/tw/dict/bible/kt/heaven]])
-
-## Links:
-
-* __[Psalms 19:1](../../psa/019/001.md)__
-
-__[<<](../018/intro.md) | [>>](../020/intro.md)__

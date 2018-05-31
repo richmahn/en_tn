@@ -27,9 +27,3 @@ These spirits are the seven spirits of [Revelation 1:4](../../rev/01/04.md).
 ##### Metaphors
 
 The "Lion of the tribe of Judah" and the "Root of David" are metaphors that refer to Jesus. Jesus descended from the tribe of Judah and the family of David. Lions are fierce, and all animals and people are afraid of them, so they are a metaphor for a king whom everyone obeys. The words "Root of David" speak of Israel's King David as if he were a seed that God had planted and of Jesus as if he were a root growing from that seed. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Revelation 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

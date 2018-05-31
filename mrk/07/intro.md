@@ -15,9 +15,3 @@ The Pharisees washed many things that were not dirty because they were trying to
 ##### "Ephphatha"
 
 This is an Aramaic word. Mark wrote it the way it sounds using Greek letters and then explained what it means. (See: [[rc://en/ta/man/translate/translate-transliterate]])
-
-## Links:
-
-* __[Mark 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

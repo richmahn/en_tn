@@ -27,10 +27,3 @@ Paul uses rhetorical questions to scold the Corinthians for dividing into factio
 
 ##### Stumbling block
 A stumbling block is a rock people stumble over. Here it means the Jews find it hard to believe that God allowed his Messiah to be crucified. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[1 Corinthians 01:01 Notes](./01.md)__
-* __[1 Corinthians intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

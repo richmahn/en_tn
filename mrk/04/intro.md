@@ -11,9 +11,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Parables
 
 The parables were short stories that Jesus told so that people would easily understand the lesson he was trying to teach them. He also told the stories so that those who did not want to believe in him would not understand the truth.
-
-## Links:
-
-* __[Mark 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

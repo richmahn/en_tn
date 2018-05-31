@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Imagery
 The imagery of judgment in this chapter is intended to be rather vivid. The translator should avoid euphemisms, if possible. Overall, this chapter prophesies a day of great judgment and God's wrath. (See: [[rc://en/tw/dict/bible/kt/judge]] and [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/wrath]])
-
-## Links:
-
-* __[Isaiah 63:01 Notes](./01.md)__
-
-__[<<](../62/intro.md) | [>>](../64/intro.md)__

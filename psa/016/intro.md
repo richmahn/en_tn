@@ -11,9 +11,3 @@ God has been so good to the psalmist, who will worship no other god. The New Tes
 
 ##### Superscription
 The term "Michtam" is used in the superscription for this psalm. There is much discussion about this term, but in the end no one is certain what it means. So it is easiest to transliterate this word into your language, or you are welcome to translate it as "psalm." 
-
-## Links:
-
-* __[Psalms 16:1](../../psa/016/001.md)__
-
-__[<<](../015/intro.md) | [>>](../017/intro.md)__

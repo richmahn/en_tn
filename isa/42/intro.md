@@ -10,9 +10,3 @@ Many scholars believe that there are four songs or poems which Isaiah records ab
 
 ##### Servant
 Israel is called Yahweh's servant. The Messiah is also called the servant of Yahweh. It is likely that the two different usages of the word "servant" are intended to contrast with one another.
-
-## Links:
-
-* __[Isaiah 42:01 Notes](./01.md)__
-
-__[<<](../41/intro.md) | [>>](../43/intro.md)__

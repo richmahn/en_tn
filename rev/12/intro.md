@@ -13,9 +13,3 @@ The Book of Revelation uses imagery from the Old Testament. For example, John re
 
 ##### "A great sign was seen in heaven"
 By using the passive voice here, John does not say who saw this great sign in heaven. The translation may be difficult when the subject is unclear, if your language does not have a passive voice. Many English translations use the past tense here and say "A great sign appeared in heaven." (See: [[rc://en/ta/man/translate/figs-activepassive]] and [[rc://en/ta/man/translate/writing-apocalypticwriting]])
-
-## Links:
-
-* __[Revelation 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

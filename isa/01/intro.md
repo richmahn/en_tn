@@ -16,10 +16,3 @@ There are many vivid metaphors used to describe Judah's sin. Their sin is descri
 
 ##### Rhetorical Questions
 Yahweh uses several rhetorical questions in this chapter. The purpose of these questions is to convince the people of Judah of their sin. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Isaiah 01:01 Notes](./01.md)__
-* __[Isaiah intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

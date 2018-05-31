@@ -19,9 +19,3 @@ They described Elisha with the idiom, "who poured water on the hands of Elijah,"
 
 ##### Anger
 It is said that, "Anger came on Israel." It is not clear who was angry or why they were angry.
-
-## Links:
-
-* __[2 Kings 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

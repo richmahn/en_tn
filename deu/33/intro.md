@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Families
 Moses gives a series of prophecies or instructions for each of the tribes of Israel and Israel overall. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Deuteronomy 33:01 Notes](./01.md)__
-
-__[<<](../32/intro.md) | [>>](../34/intro.md)__

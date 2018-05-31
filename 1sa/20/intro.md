@@ -9,9 +9,3 @@ David tells Jonathan that Saul is still trying to kill him. Jonathan promises to
 
 ##### Metaphor
 David uses a powerful metaphor and an oath to impress Jonathan with the danger he is in: "But as truly as Yahweh lives, and as you live, there is but a step between me and death." (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[1 Samuel 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

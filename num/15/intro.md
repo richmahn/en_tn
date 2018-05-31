@@ -9,9 +9,3 @@ As the people travel through the wilderness, Yahweh is purifying them. He is doi
 ##### Prostitution
 
 The imagery of prostitution is commonly used in Scripture to indicate that Yahweh alone is to be worshiped. The people are compared to the prostitute because a husband is to only have a sexual relationship with his wife. Both the prostitute and the worship of other gods are violations of this exclusive relationship. Many cultures will struggle with this imagery because of a desire to use euphemisms. (See: [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/ta/man/translate/figs-euphemism]])
-
-## Links:
-
-* __[Numbers 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

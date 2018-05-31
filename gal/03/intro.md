@@ -17,9 +17,3 @@ This is a complex issue. "Flesh" is possibly a metaphor for our sinful nature. P
 
 ##### "Those of faith are children of Abraham"
 Scholars are divided on what this means. Some believe Christians inherit the promises that God gave to Abraham, so Christians replace the physical descendants of Israel. Others believe Christians spiritually follow Abraham, but they do not inherit the promises that God gave to Abraham. In light of Paul's other teachings and the context here, Paul is probably writing about the Jewish and Gentile Christians sharing the same faith as Abraham did. (See: [[rc://en/tw/dict/bible/kt/spirit]] and [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Galatians 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

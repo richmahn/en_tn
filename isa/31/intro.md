@@ -18,9 +18,3 @@ This is a common phrase in this section of Isaiah. This chapter appears to proph
 
 ##### Israel
 The use of the term "Israel" in this chapter is in reference to the northern kingdom of Israel exclusively.
-
-## Links:
-
-* __[Isaiah 31:01 Notes](./01.md)__
-
-__[<<](../30/intro.md) | [>>](../32/intro.md)__

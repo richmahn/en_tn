@@ -10,9 +10,3 @@ how he is going to respond. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]] and [
 ##### "This is the declaration of Yahweh"
 
 This phrase is used to introduce prophecy. It highlights what God is proclaiming. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Amos 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

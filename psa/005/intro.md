@@ -8,9 +8,3 @@ Psalm 5 is a psalm of deliverance. Notice how the psalmist both praises God and 
 
 ##### Yahweh's help
 God does not help people who do evil but he blesses those who are good and trust in him. (See: [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Psalms 5:1](../../psa/005/001.md)__
-
-__[<<](../004/intro.md) | [>>](../006/intro.md)__

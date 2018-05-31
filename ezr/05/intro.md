@@ -8,9 +8,3 @@ The story of the building of the temple and re-establishment of the temple worsh
 
 ##### Rebuilding the temple
 The prophets Haggai and Zechariah encouraged the Jews to begin again building the temple. This was very important to life in Judah. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Ezra 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

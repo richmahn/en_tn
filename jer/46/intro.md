@@ -14,9 +14,3 @@ Much of Jeremiah is concerned with Yahweh's punishment of Judah. Yahweh used Egy
 
 ##### Battle preparations
 Jeremiah commands the Egyptian army to prepare for battle, even though they will not be able to defend themselves. Their  punishment has already been determined by Yahweh.
-
-## Links:
-
-* __[Jeremiah 46:01 Notes](./01.md)__
-
-__[<<](../45/intro.md) | [>>](../47/intro.md)__

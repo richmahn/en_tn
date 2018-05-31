@@ -27,9 +27,3 @@ Jesus refers to himself as the "Son of Man" in this chapter ([Luke 17:22](../../
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([Luke 17:33](../../luk/17/33.md)).
-
-## Links:
-
-* __[Luke 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

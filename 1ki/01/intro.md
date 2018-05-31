@@ -15,10 +15,3 @@ David did not announce who was to succeed him. Because of this, there was fighti
 
 ##### Idiom
 Several times in this chapter, the people use the idiom "sit on the throne" to mean "be king." Solomon assures Adonijah that if he behaves himself "not a hair of his will fall to the earth," meaning "he will not be harmed." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[1 Kings 01:01 Notes](./01.md)__
-* __[1 Kings intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

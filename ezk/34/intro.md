@@ -11,9 +11,3 @@ God is against those who exploit others. He will protect and take care of his pe
 ##### Metaphor
 
 The people of Israel are compared to sheep and God and the son of David as good shepherds. This is a common metaphor in scripture. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Ezekiel 34:01 Notes](./01.md)__
-
-__[<<](../33/intro.md) | [>>](../35/intro.md)__

@@ -11,9 +11,3 @@ The concept of unleavened bread is introduced in this chapter. Its significance 
 
 ##### Ethnic segregation
 The Hebrew people were to be separate from the rest of the world. Because of this, they separated themselves from other people groups. At this time, these foreigners were looked upon as unholy. (See: [[rc://en/tw/dict/bible/kt/holy]])
-
-## Links:
-
-* __[Exodus 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

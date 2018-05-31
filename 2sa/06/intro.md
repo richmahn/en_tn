@@ -12,9 +12,3 @@ David danced for joy in front of the ark. His wife, Michal, criticized David for
 
 ##### Irony
 Michal criticized David by using irony: "How honored the king of Israel was today, who undressed himself today before the eyes of the slave girls among his servants, like one of the crude fellows who shamelessly undresses himself!" (See: [[rc://en/ta/man/translate/figs-irony]])
-
-## Links:
-
-* __[2 Samuel 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

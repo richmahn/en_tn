@@ -23,9 +23,3 @@ No one is sure what Jesus' body looked like after he became alive again. His dis
 ##### Two angels in white
 
 Matthew, Mark, Luke, and John all wrote about angels in white clothing with the women at Jesus' tomb. Two of the authors called them men, but that is only because the angels were in human form. Two of the authors wrote about two angels, but the other two authors wrote about only one of them. It is best to translate each of these passages as it appears in the ULT without trying to make the passages all say exactly the same thing. (See: [Matthew 28:1-2](../../mat/28/01.md) and [Mark 16:5](../../mrk/16/05.md) and [Luke 24:4](../../luk/24/04.md) and [John 20:12](../../jhn/20/12.md))
-
-## Links:
-
-* __[John 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

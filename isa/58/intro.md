@@ -13,9 +13,3 @@ The practice of fasting became more common after the exile. This was intended to
 
 ##### "Yet they seek me daily"
 The people did not truly seek Yahweh every day. They practiced the outward aspects of the Jewish religion, but their hearts were far from Yahweh. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Isaiah 58:01 Notes](./01.md)__
-
-__[<<](../57/intro.md) | [>>](../59/intro.md)__

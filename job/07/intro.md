@@ -16,9 +16,3 @@ Job uses many different metaphors in this chapter to express his pain or despair
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to convince Eliphaz that he is wrong. These questions help to build Job's response. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

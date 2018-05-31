@@ -16,9 +16,3 @@ This chapter record Isaiah's call to prophetic ministry. It recognizes the holin
 
 ##### Inevitability
 The way Yahweh speaks in this chapter shows the inevitability of the punishment of Yahweh against the people of Judah. The punishment must now come. It is too late for repentance. (See: [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Isaiah 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

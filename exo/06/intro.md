@@ -10,9 +10,3 @@ According to the covenant Yahweh made with Abraham, Egypt is not the home of the
 ##### Let my people go
 
 This is a very important statement. Moses does not ask Pharaoh for permission to "let go" of the Hebrew people. Instead, he is demanding that Pharaoh free the Hebrew people.
-
-## Links:
-
-* __[Exodus 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

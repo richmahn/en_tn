@@ -17,9 +17,3 @@ Many of the things Paul encourages his readers to pursue or avoid are not action
 ##### "The things above"
 
 Where God dwells is often pictured as being located "above." Paul says to "seek the things above" and to "think about the things above." He is implying Christians should seek and think about heavenly and godly things.
-
-## Links:
-
-* __[Colossians 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

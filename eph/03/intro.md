@@ -10,9 +10,3 @@ Paul structures part of this chapter as a prayer to God. But Paul is not just ta
 
 ##### Mystery
 Paul refers to the church as a "mystery." The role of the church in the plans of God was once not known. But God has now revealed it. Part of this mystery involves the Gentiles having equal standing with the Jews in the plans of God.
-
-## Links:
-
-* __[Ephesians 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

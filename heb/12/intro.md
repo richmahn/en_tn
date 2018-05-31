@@ -11,9 +11,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Discipline
 
 God wants his people to do what is right. When they do what is wrong, he needs to correct or punish them. He does this just as earthly fathers correct and punish children whom they love. (See: [[rc://en/tw/dict/bible/kt/discipline]])
-
-## Links:
-
-* __[Hebrews 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

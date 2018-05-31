@@ -12,9 +12,3 @@ In the ancient Near East, it was common to describe a woman using metaphors invo
 
 ##### "My sister, my bride"
 The woman described is not the sister of her husband. They are not related. Instead, this is a reference to a woman who is a fellow Israelite.
-
-## Links:
-
-* __[Song of Songs 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

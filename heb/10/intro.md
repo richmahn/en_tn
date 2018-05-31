@@ -19,9 +19,3 @@ The sacrifices themselves had no redeeming power. They were effective because th
 
 ##### "The covenant that I will make"
 It is unclear whether this prophecy was being fulfilled as the author was writing or whether it was to occur later. The translator should try to avoid making a claim about the time this covenant begins. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/covenant]])
-
-## Links:
-
-* __[Hebrews 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

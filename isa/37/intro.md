@@ -11,9 +11,3 @@ This was a sign of great distress. While it is often accompanies repentance, in 
 
 ##### Prayer
 Hezekiah was different from the other kings because when he was threatened by Assyria, he went to Yahweh in prayer. He did not trust in his army or make an alliance with Egypt. (See: [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Isaiah 37:01 Notes](./01.md)__
-
-__[<<](../36/intro.md) | [>>](../38/intro.md)__

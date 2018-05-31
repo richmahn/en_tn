@@ -16,9 +16,3 @@ Samuel told Saul that God wanted him to completely destroy the Amalekite people 
 
 ##### Rhetorical questions
 When Saul insisted that he had obeyed God, Samuel rebuked him with these rhetorical questions: "What then is this bleating of sheep in my ears, and the lowing of the oxen that I hear?"; "Though you are little in your own sight, were you not made the head of the tribes of Israel?"; "Why then did you not obey the voice of Yahweh, but instead you seized the booty and did what was evil in the sight of Yahweh?"; and "Has Yahweh as much delight in burnt offerings and sacrifices, as in obeying the voice of Yahweh?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

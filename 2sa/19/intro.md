@@ -15,9 +15,3 @@ The ten tribes of Israel argued with the tribe of Judah about who would bring Da
 
 ##### Rhetorical questions
 The people wanted David back as their king and expressed it in a rhetorical question: "So why are we not talking about bringing the king back?" David also used a question to persuade the people of Judah to bring him back: "You are my brothers, my flesh and bone. Why then are you the last to bring back the king?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[2 Samuel 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

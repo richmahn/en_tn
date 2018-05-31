@@ -11,9 +11,3 @@ God knows the truth; it is useless to try to fool God's prophet. Jeroboam's son 
 
 ##### Rehoboam's reign
 When Solomon obeyed God, God made him very rich. When the people of Judah began to worship the fertility goddess, Ashtoreth, and to do many evil things, they had to give all of their wealth to the king of Egypt to persuade him not to attack Jerusalem. (See: [[rc://en/tw/dict/bible/kt/evil]])
-
-## Links:
-
-* __[1 Kings 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

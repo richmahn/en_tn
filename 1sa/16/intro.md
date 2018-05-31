@@ -14,9 +14,3 @@ Humans judge others by what they look like, but God judges people by their true 
 
 ==Rhetorical Question ==
 God scolds Samuel with this rhetorical question for his unwillingness to accept God's decision: "How long will you mourn for Saul, since I have rejected him from being king over Israel?" It was wrong to mourn because it was God's punishment of Saul. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

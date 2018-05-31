@@ -19,9 +19,3 @@ David spoke of his impending death using a euphemism: "I am going the way of all
 ##### Parallelism
 
 David wanted to emphasize the importance of obeying God to his son Solomon. He used parallelism, saying the same thing seven times using different words: "Keep the commands of Yahweh your God to walk in his ways, to obey his statutes, his commandments, his decisions, and his covenant decrees, being careful to do what is written in the law of Moses." Some languages have other ways of emphasizing an idea. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-
-## Links:
-
-* __[1 Kings 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

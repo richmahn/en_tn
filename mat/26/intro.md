@@ -22,9 +22,3 @@ The Passover festival was when the Jews would celebrate the day God killed the f
 
 ##### "I am able to destroy the temple of God"
 Two men accused Jesus of saying that he could destroy the temple in Jerusalem and then rebuild it "in three days" ([Matthew 26:61](../../mat/26/61.md)). They were accusing him of insulting God by claiming that God had given him the authority to destroy the temple and the power to rebuild it. What Jesus actually said was that if the Jewish authorities were to destroy this temple, he would certainly raise it up in three days ([John 2:19](../../jhn/02/19.md)).
-
-## Links:
-
-* __[Matthew 26:01 Notes](./01.md)__
-
-__[<<](../25/intro.md) | [>>](../27/intro.md)__

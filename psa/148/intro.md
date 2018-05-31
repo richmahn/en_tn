@@ -8,9 +8,3 @@ Psalm 148 is a worship psalm. It is the fifth in a series of seven worship psalm
 
 ##### Praise
 All creation, including humans, should praise God for his greatness.
-
-## Links:
-
-* __[Psalms 148:1](../../psa/148/001.md)__
-
-__[<<](../147/intro.md) | [>>](../149/intro.md)__

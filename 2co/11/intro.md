@@ -42,9 +42,3 @@ This is sarcasm, a special type of irony used to mock or insult. Paul does not b
 ##### Paradox
 
 A "paradox" is a true statement that appears to describe something impossible. This sentence in verse 30 is a paradox: "If I must boast, I will boast about what shows my weaknesses." Paul does not explain why he would boast in his weakness until 2 Corinthians 12:9.  ([2 Corinthians 11:30](./30.md))
-
-## Links:
-
-* __[2 Corinthians 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

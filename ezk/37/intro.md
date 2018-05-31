@@ -10,9 +10,3 @@ God will unite the two kingdoms of Israel and Judah and the Messiah will rule ov
 ##### Metaphor
 
 The people are discouraged and compare themselves to skeletons, but God will cause them to become a nation again. (See: [[rc://en/ta/man/translate/figs-metaphor]]) 
-
-## Links:
-
-* __[Ezekiel 37:01 Notes](./01.md)__
-
-__[<<](../36/intro.md) | [>>](../38/intro.md)__

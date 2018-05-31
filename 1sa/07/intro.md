@@ -15,9 +15,3 @@ Samuel told the people to get rid of all their idols and worship Yahweh alone. T
 ##### Idioms
 
 Whenever Samuel spoke to a group of people, he used many idioms: "to turn to" means "to worship"; "with your whole heart" means "completely"; and "rescue from the hand" means "rescued from the power." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[1 Samuel 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

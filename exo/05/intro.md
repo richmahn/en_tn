@@ -12,9 +12,3 @@ This is a very important statement. Moses does not ask Pharaoh for permission to
 
 ##### Titles
 The leaders are given different titles in this chapter. The ULT uses "taskmasters" and "foremen." Many cultures will not have these types of titles. Generic expressions like "Egyptian leaders" and "Hebrew leaders" may be necessary.
-
-## Links:
-
-* __[Exodus 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

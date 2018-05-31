@@ -7,9 +7,3 @@ This chapter assures the Israelites that it is Yahweh who will empower them to c
 
 ##### Israel's sin
 Yahweh is about to punish the Canaanites for their sin. He also reminds Israel of their sin. This serves as a warning to the people of Israel. If they sin again, Yahweh will punish them too.
-
-## Links:
-
-* __[Deuteronomy 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

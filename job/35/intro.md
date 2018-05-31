@@ -15,9 +15,3 @@ Elihu uses many different rhetorical questions in this chapter in order to try t
 
 ##### Ironic situation
 Elihu explains the irony of Job's claim. He claimed to be righteous and desired Yahweh to intervene. In this chapter, Elihu explains to Job that his claims of righteousness are prideful. This makes him unrighteous. (See: [[rc://en/ta/man/translate/figs-irony]] and [[rc://en/tw/dict/bible/kt/righteous]])
-
-## Links:
-
-* __[Job 35:01 Notes](./01.md)__
-
-__[<<](../34/intro.md) | [>>](../36/intro.md)__

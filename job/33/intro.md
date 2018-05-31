@@ -10,9 +10,3 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 
 ##### God's mercy
 While Job has been complaining about the lack of justice and response from Yahweh, Elihu shows Job that Yahweh has shown him great mercy along the way. He is still alive because of Yahweh's mercy. (See: [[rc://en/tw/dict/bible/kt/mercy]])
-
-## Links:
-
-* __[Job 33:01 Notes](./01.md)__
-
-__[<<](../32/intro.md) | [>>](../34/intro.md)__

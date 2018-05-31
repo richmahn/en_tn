@@ -16,9 +16,3 @@ We know very little about what people will be like in heaven. Paul teaches here 
 
 ##### Prize
 Paul uses an extended illustration to describe the Christian life. The goal of the Christian life is attempting to grow to be like Christ until a person dies. We can never achieve this goal perfectly, but we must strive for it.
-
-## Links:
-
-* __[Philippians 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

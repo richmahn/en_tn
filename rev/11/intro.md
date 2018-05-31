@@ -18,9 +18,3 @@ Scholars have suggested many different ideas about these two witnesses. Translat
 
 ##### Bottomless pit
 This image is seen several times in the Book of Revelation. It is a picture of hell as being inescapable and the opposite direction as heaven. (See: [[rc://en/tw/dict/bible/kt/hell]])
-
-## Links:
-
-* __[Revelation 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

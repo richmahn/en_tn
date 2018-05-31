@@ -25,9 +25,3 @@ Jesus refers to himself as the "Son of Man" in this chapter ([Mark 9:31](../../m
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "If anyone wants to be first, he must be last of all and servant of all" ([Mark 9:35](../../mrk/09/35.md)).
-
-## Links:
-
-* __[Mark 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

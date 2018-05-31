@@ -23,10 +23,3 @@ Some languages and cultures speak of the world as if it has always existed, as i
 ##### "God said, 'Let there be'"
 
 This expression occurs often in this chapter. It can be difficult to translate, because God is not shown as talking to a particular person. If God is talking to a thing, it is something not yet in existence. Translators should find the most natural way in the project language to signal the idea that God spoke things into existence; he created the world and the things in it by simply commanding that they should exist.
-
-## Links:
-
-* __[Genesis 01:01 Notes](./01.md)__
-* __[Genesis intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

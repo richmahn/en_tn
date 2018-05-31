@@ -21,9 +21,3 @@ The parables were short stories that Jesus told so that people would easily unde
 ##### Brothers and sisters
 
 Most people call those who have the same parents "brother" and "sister" and think of them as the most important people in their lives. Many people also call those with the same grandparents "brother" and "sister." In this chapter Jesus says that the most important people to him are those who obey his Father in heaven. (See: [[rc://en/tw/dict/bible/kt/brother]])
-
-## Links:
-
-* __[Luke 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

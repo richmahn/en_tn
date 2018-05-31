@@ -9,9 +9,3 @@ The time of this day is unclear. It may be a time in the near future for Isaiah,
 
 ##### Tense
 Extra care must be taken in translating the tense of this chapter. The author talks about the future, but frequently changes to speak in the present tense. Some languages will have difficulty speaking in this way.
-
-## Links:
-
-* __[Isaiah 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

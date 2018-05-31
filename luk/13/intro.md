@@ -9,9 +9,3 @@ The people and Jesus speak about two events that they knew about but about which
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. A paradox occurs in this chapter: "those who are least important will be first, and those who are most important will be last" ([Luke 13:30](../../luk/13/30.md)).
-
-## Links:
-
-* __[Luke 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

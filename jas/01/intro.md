@@ -25,10 +25,3 @@ James uses many metaphors in this chapter, and you will need to understand the m
 ##### "To the twelve tribes in the dispersion"
 
 It is not clear to whom James wrote this letter. He calls himself a servant of the Lord Jesus Christ, so he was probably writing to Christians. But he calls his readers "the twelve tribes in the dispersion," words which usually refer to Jews. It is possible that he is using the words as a metaphor for "all people whom God has chosen" or that he wrote the letter at a time when most Christians had grown up as Jews.
-
-## Links:
-
-* __[James 01:01 Notes](./01.md)__
-* __[James intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

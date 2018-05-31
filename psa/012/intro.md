@@ -11,9 +11,3 @@ There are so many wicked people now and they are proud of their evil. But God wi
 
 ##### Words
 This relatively short psalm focuses on the words people use.
-
-## Links:
-
-* __[Psalms 12:1](../../psa/012/001.md)__
-
-__[<<](../011/intro.md) | [>>](../013/intro.md)__

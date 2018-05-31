@@ -23,9 +23,3 @@ Translators can also consider pairing a transliteration of "Yahweh" with a meani
 ##### The Garden of Eden
 
 This was not a vegetable garden or cultivated field. Instead, it was probably a large area of land with fruit trees and other plants bearing leaves, etc., that were good to eat. A river flowed out from the Garden of Eden, giving the impression that the Garden was a holy place; in the ancient Near East, temples had gardens and waterways. In Rev. 22:1-2, the throne of God in the New Jerusalem is pictured with a river flowing out from it. (See: [[rc://en/tw/dict/bible/kt/holy]])
-
-## Links:
-
-* __[Genesis 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

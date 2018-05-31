@@ -10,9 +10,3 @@ A millstone was the way a person made a living. To take a person's millstone was
 
 ##### Lending money
 Lending money to fellow Israelites was a way to help them out. It was not intended to be a way to make money off their brothers. This chapter gives limitations regarding the lending of money.
-
-## Links:
-
-* __[Deuteronomy 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

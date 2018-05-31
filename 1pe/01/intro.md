@@ -25,10 +25,3 @@ Peter tells Christians to live for things that will last forever and not to live
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. Peter writes that his readers are glad and sad at the same time ([1 Peter 1:6](./06.md)). He can say this because they are sad because they are suffering, but they are glad because they know that God will save them "in the last time" ([1 Peter 1:5](./05.md))
-
-## Links:
-
-* __[1 Peter 01:01 Notes](./01.md)__
-* __[1 Peter intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

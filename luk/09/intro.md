@@ -31,9 +31,3 @@ Jesus refers to himself as the "Son of Man" in this chapter ([Luke 9:22](../../l
 ##### "Receiving"
 
 This word appears several times in this chapter and means different things. When Jesus says, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me" ([Luke 9:48](../../luk/09/48.md)), he is speaking of people serving the child. When Luke says, "the people there did not receive him" ([Luke 9:53](../../luk/09/53.md)), he means that the people did not believe in or accept Jesus. (See: [[rc://en/tw/dict/bible/kt/believe]])
-
-## Links:
-
-* __[Luke 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

@@ -7,9 +7,3 @@ The rules and laws of this chapter are not intended to be followed by every soci
 
 ##### Celebrations of feasts and festivals
 The people of Israel were required to celebrate certain feasts and festivals. These were part of the law of Moses and some are described in this chapter. Their purpose was to worship Yahweh and to remember the great things Yahweh has done for them.
-
-## Links:
-
-* __[Exodus 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

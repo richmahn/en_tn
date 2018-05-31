@@ -19,9 +19,3 @@ All animals are afraid of lions because they are fast and strong, and they eat a
 ##### Babylon
 
 Babylon was the evil nation that in Old Testament times had destroyed Jerusalem, taken the Jews away from their homes, and ruled over them. Peter uses Babylon as a metaphor for the nation that was persecuting the  Christians he was writing to. He could have been referring to Jerusalem because the Jews were persecuting the Christians. Or he could have been referring to Rome because the Romans were persecuting the Christians. (See: [[rc://en/tw/dict/bible/kt/evil]] and [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[1 Peter 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | __

@@ -14,9 +14,3 @@ If Judah repents, God will bring the people back from the captivity into which h
 
 ##### Adultery
 Judah's faithlessness to God is often pictured as adultery. This is a common image in Scripture. When Judah does not worship God, their nation is spoken of as if it were a woman unfaithful to her husband. (See: [[rc://en/tw/dict/bible/kt/adultery]])
-
-## Links:
-
-* __[Jeremiah 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

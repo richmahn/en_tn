@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Wisdom
 Paul continues the discussion from the first chapter that contrasts human wisdom and God's wisdom. For Paul, wisdom can be simple and human ideas foolish. He said the wisdom from the Holy Spirit is the only true wisdom. Paul uses the phrase "hidden wisdom" when he refers to previously unknown truths. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/foolish]])
-
-## Links:
-
-* __[1 Corinthians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

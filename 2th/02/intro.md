@@ -11,9 +11,3 @@ This is the same as "son of destruction" and "lawless one" in this chapter. Paul
 
 ##### Sits in the temple of God
 Paul could be referring to the Jerusalem temple that the Romans destroyed several years after he wrote this letter. Or he could be referring to a future physical temple, or to the church as the spiritual temple of God. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[2 Thessalonians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

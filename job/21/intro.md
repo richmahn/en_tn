@@ -13,9 +13,3 @@ In the ancient Near East, it was common to believe that a person could be punish
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to convince Zophar that he is wrong. These questions help to build Job's argument. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

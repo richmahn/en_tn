@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Phoenicia
 This chapter prophesies destruction against several cities in Phoenicia as well as in Tarshish. The exact location of Tarshish is unknown. Because of the locations mentioned in this chapter, it appears that the Assyrians will conquer many of the nations on the Mediterranean Sea. (See: [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Isaiah 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

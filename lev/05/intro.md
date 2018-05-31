@@ -11,9 +11,3 @@ If a person saw a crime, or a wrong being done, they were required to be a witne
 
 ##### Sacrifices for the poor
 This chapter explains that poor people were allowed to offer less expensive sacrifices if they could not afford more costly sacrifices.
-
-## Links:
-
-* __[Leviticus 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

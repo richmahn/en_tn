@@ -35,9 +35,3 @@ Stephen spoke of Joseph ruling "over Egypt" and over all of Pharaoh's household.
 ##### Background knowledge
 
 The Jewish leaders to whom Stephen spoke already knew much about the events he was telling them about. They knew what Moses had written in the Book of Genesis. If the Book of Genesis has not been translated into your language, it may be difficult for your readers to understand what Stephen said.
-
-## Links:
-
-* __[Acts 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

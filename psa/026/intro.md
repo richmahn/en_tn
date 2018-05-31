@@ -8,9 +8,3 @@ Psalm 26 is a teaching psalm; showing people how they should live by the example
 
 ##### Praise
 The psalmist delights in praising God and doing good deeds. It is striking how this psalm uses the first person pronoun. This is an individual psalm of petition. Each of the four petitions are accompanied with various claims. (See: [[rc://en/tw/dict/bible/kt/good]] and [[rc://en/tw/dict/bible/kt/works]])
-
-## Links:
-
-* __[Psalms 26:1](../../psa/026/001.md)__
-
-__[<<](../025/intro.md) | [>>](../027/intro.md)__

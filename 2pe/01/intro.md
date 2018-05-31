@@ -16,10 +16,3 @@ Peter teaches that God has given believers all that they need for living godly l
 
 ##### The truth of Scripture
 Peter teaches that the prophecies in Scripture were not made up by men. The Holy Spirit revealed God's message to the men who spoke them or wrote them down. Also, Peter and the other apostles did not make up the stories they told people about Jesus. They witnessed what Jesus did and heard God call Jesus his son.
-
-## Links:
-
-* __[2 Peter 01:01 Notes](./01.md)__
-* __[2 Peter intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

@@ -9,9 +9,3 @@ Paul circumcised Timothy because they were telling the message of Jesus to Jews 
 ##### The woman who had a spirit of divination
 
 Most people want very much to know the future, but the law of Moses said that speaking with the spirits of dead people to learn about the future is a sin. This woman seems to have been able to tell the future very well. She was a slave, and her masters made much money from her work. Paul wanted her to stop sinning, so he told the spirit to leave her. Luke does not say that she began to follow Jesus or tell us anything more about her.
-
-## Links:
-
-* __[Acts 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

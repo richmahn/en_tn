@@ -8,9 +8,3 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 
 ##### Rhetorical questions
 Job uses several rhetorical questions in this chapter. The purpose of these rhetorical questions is to show Job's earnest desire. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -10,9 +10,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Daniel and the lions
 
 Daniel was thrown into the lions' den for praying to Yahweh, but Yahweh protected him and the lions did not hurt him at all.
-
-## Links:
-
-* __[Daniel 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

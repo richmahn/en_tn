@@ -13,9 +13,3 @@ It was apparently the cause of shame or embarrassment in ancient Ammon to have t
 
 ##### Metaphor
 The Ammon people used a metaphor comparing themselves to a bad smell: "they had become a stench to David" when they realized they had made David very angry. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[2 Samuel 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

@@ -11,9 +11,3 @@ Israel worshiped idols and false gods. Because of this, Yahweh allowed Aram and 
 ##### "Blew a trumpet"
 
 When Ehud "blew a trumpet," he was calling all of the men to come help him fight. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Judges 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

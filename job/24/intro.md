@@ -13,9 +13,3 @@ This chapter uses an extended metaphor of a court case to describe Job's "case,"
 
 ##### Rhetorical questions
 Job uses many different rhetorical questions in this chapter in order to try to convince Eliphaz that he is wrong. These questions help to build Job's argument. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

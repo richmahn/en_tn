@@ -8,10 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Tone
 The tone of this chapter is sad, or depressing. The author believes that everything in life is pointless. The metaphors in this chapter all describe the idea that nothing ever changes. This is also known as "fatalism." (See: [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Ecclesiastes 01:01 Notes](./01.md)__
-* __[Ecclesiastes intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

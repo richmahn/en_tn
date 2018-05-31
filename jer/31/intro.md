@@ -17,9 +17,3 @@ This chapter is an important teaching regarding the new covenant. God will make 
 
 ##### Israel
 In this chapter, Jeremiah uses the term "Israel" in reference to the nation of Israel as a whole. He also uses it in reference to the northern kingdom of Israel and their people group.
-
-## Links:
-
-* __[Jeremiah 31:01 Notes](./01.md)__
-
-__[<<](../30/intro.md) | [>>](../32/intro.md)__

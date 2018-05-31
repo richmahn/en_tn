@@ -8,9 +8,3 @@ The story of Solomon's reign continues in this chapter. This chapter also begins
 
 ##### House of God
 The temple is repeatedly referred to as the "house of God" because Yahweh will dwell in the temple. (See: [[rc://en/tw/dict/bible/kt/houseofgod]])
-
-## Links:
-
-* __[2 Chronicles 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

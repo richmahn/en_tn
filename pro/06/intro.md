@@ -29,9 +29,3 @@ The author will use rhetorical questions to draw the reader's attention to impor
 ##### Animals used as types
 
 The gazelle and the ant have certain characteristics which the author uses to give wisdom. If your language does not recognize these characteristics in those animals, you could add a footnote to explain or possibly substitute another animal from your culture that would help explain the same concept. (See: [[rc://en/tw/dict/bible/kt/wise]])
-
-## Links:
-
-* __[Proverbs 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

@@ -15,9 +15,3 @@ In his exchange with God, Abraham did not show any sign of unbelief. Instead, he
 ##### Sarah's age
 
 It should be apparent that Sarah was physically no longer able to have children because of her age. There is a natural period in a woman's life when she stops being able to have children. The text assumes the reader understands that Sarah has already experienced this event. In English, this is called "menopause." (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Genesis 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

@@ -16,9 +16,3 @@ In the ancient Near East, inheritance was passed on through the eldest son. Even
 
 ##### God fulfill's his promise
 God begins to fulfill the promise he gave to Abraham about making his descendants numerous. Many of these children through his concubines would become large people groups. This may not be easy to understand without the remainder of the Old Testament and the history it records. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Genesis 25:01 Notes](./01.md)__
-
-__[<<](../24/intro.md) | [>>](../26/intro.md)__

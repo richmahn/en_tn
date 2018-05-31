@@ -18,9 +18,3 @@ People who are born again are a new creation in Christ. Christians have been giv
 ##### Flesh
 
 This is a complex issue. "Flesh" is contrasted with "spirit." In this chapter, flesh is also used to refer to the physical body. (See: [[rc://en/tw/dict/bible/kt/flesh]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/spirit]])
-
-## Links:
-
-* __[Galatians 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | __

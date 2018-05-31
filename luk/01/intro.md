@@ -13,10 +13,3 @@ Most people in the ancient Near East would give a child the same name as someone
 #### Important figures of speech in this chapter
 
 Luke's language is simple and straightforward. He does not use many figures of speech.
-
-## Links:
-
-* __[Luke 01:01 Notes](./01.md)__
-* __[Luke intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

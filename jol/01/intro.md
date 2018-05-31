@@ -17,10 +17,3 @@ Translators should translate simply, presenting the scenes of locusts as Joel de
 
 ##### Rhetorical Questions
 The author also uses rhetorical questions that communicate surprise and alarm. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Joel 01:01 Notes](./01.md)__
-* __[Joel intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

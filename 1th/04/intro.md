@@ -10,9 +10,3 @@ In the early church, people apparently wondered what would happen if a believer 
 
 ##### "Caught up in the clouds to meet the Lord in the air"
 This passage refers to a time when Jesus calls to himself those who have believed in him. Scholars differ on whether or not this refers to Christ's final glorious return. (See: [[rc://en/tw/dict/bible/kt/believe]])
-
-## Links:
-
-* __[1 Thessalonians 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

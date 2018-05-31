@@ -9,9 +9,3 @@ Abraham was afraid the people of Gerar would see him as a foreigner and upon see
 
 ##### Irony
 Abraham believed that the people of Gerar did not fear Yahweh, but when confronted by Yahweh, the king showed that he feared Yahweh. Instead, it was Abraham who did not show any fear of Yahweh when he sinned. This is irony. (See: [[rc://en/tw/dict/bible/kt/fear]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Genesis 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

@@ -10,9 +10,3 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 
 ##### Yahweh's justice
 This chapter focuses on the justice of Yahweh. It is important to remember that justice won't always come in this life. (See: [[rc://en/tw/dict/bible/kt/justice]])
-
-## Links:
-
-* __[Job 37:01 Notes](./01.md)__
-
-__[<<](../36/intro.md) | [>>](../38/intro.md)__

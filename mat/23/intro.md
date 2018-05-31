@@ -15,9 +15,3 @@ In most cultures, it is wrong to insult people. The Pharisees took many of the w
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "He who is greatest among you will be your servant" ([Matthew 23:11-12](./11.md)).
-
-## Links:
-
-* __[Matthew 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

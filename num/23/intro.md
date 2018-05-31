@@ -10,9 +10,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Cursing God's people
 
 God does not allow others to curse his people. Balaam blessed Israel twice when he was supposed to curse them. This may be taken as humor or an ironic situation. (See: [[rc://en/tw/dict/bible/kt/curse]] and  [[rc://en/tw/dict/bible/kt/peopleofgod]])
-
-## Links:
-
-* __[Numbers 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

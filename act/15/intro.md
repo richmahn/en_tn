@@ -19,9 +19,3 @@ Some believers wanted the Gentiles to be circumcised because God had told Abraha
 ##### "Abstain from things sacrificed to idols, blood, things strangled, and from sexual immorality"
 
 It is possible that the church leaders decided on these laws so that Jews and Gentiles could not only live together but eat the same foods together.
-
-## Links:
-
-* __[Acts 15:01 Notes](./01.md)__
-
-__[<<](../14/intro.md) | [>>](../16/intro.md)__

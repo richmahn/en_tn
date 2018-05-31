@@ -18,9 +18,3 @@ It is apparent that Peter is speaking to many Christians who are experiencing gr
 ##### "Let it" and "Let none" and "Let him" and "Let those"
 
 Peter uses these phrases to tell his readers what he wants them to do. They are like commands because he wants his readers to obey. But it is as if he is telling one person what he wants other people to do.
-
-## Links:
-
-* __[1 Peter 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

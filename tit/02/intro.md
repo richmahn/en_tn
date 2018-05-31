@@ -9,9 +9,3 @@ Scholars are divided over how to understand this passage in its historical and c
 ##### Slavery
 
 Paul does not write in this chapter about whether slavery is good or bad. Paul teaches slaves to faithfully serve their masters. He teaches all believers to be godly and live rightly in every situation.
-
-## Links:
-
-* __[Titus 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

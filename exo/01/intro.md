@@ -16,10 +16,3 @@ It is obvious that some time has passed since the beginning of the famine which 
 
 ##### "All of the descendants of Jacob were seventy in number"
 This number included both Jacob's children and grandchildren. It may cause confusion, but it is important to remember Jacob only had 12 sons.
-
-## Links:
-
-* __[Exodus 01:01 Notes](./01.md)__
-* __[Exodus intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

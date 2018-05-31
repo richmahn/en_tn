@@ -13,9 +13,3 @@ On this day of judgment, Judah should be repenting of their sin. Instead, they a
 
 ##### "Valley of Visions"
 This is a metaphor used in this prophecy against the nation of Judah. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Isaiah 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | [>>](../23/intro.md)__

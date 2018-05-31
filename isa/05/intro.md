@@ -16,9 +16,3 @@ This chapter begins as an allegory. An allegory is a story with a symbolic meani
 
 ==Animals being present where people once lived==
 Verse 17 ("Then the sheep will feed as in their own pasture, and in the ruins of the rich people, lambs will graze") is an example of the Old Testament's prophets' habit of describing complete ruin and desolation in terms of a picture of animals--usually wild animals, but here sheep and lambs--living in or feeding in those places. Whether the picture is of flocks or wild animals, the purpose is to say that the human habitation has gone back to wild nature, and that this has happened because of God's punishment on the people.
-
-## Links:
-
-* __[Isaiah 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -12,9 +12,3 @@ John uses the passive voice several times in this chapter. This hides who perfor
 
 ##### Similes
 In verses 8 and 10, John uses similes to try to describe the images he sees in the vision. He compares the images to everyday things. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[Revelation 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

@@ -19,10 +19,3 @@ It was customary for Israelites to promise God to make a sacrifice to him if God
 When Hannah wanted to assure Eli she was telling the truth, she used the idiom "as you live." This is a type of oath formula meaning "I promise you I am telling the truth." (See: [[rc://en/ta/man/translate/figs-idiom]])
 
 The author also uses the phrase "call to mind." This is a common idiom meaning "remember."
-
-## Links:
-
-* __[1 Samuel 1:1](./01.md)__
-* __[1 Samuel intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

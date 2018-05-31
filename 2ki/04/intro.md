@@ -8,9 +8,3 @@ The story of Elisha continues with a group of stories about the miracles Elisha 
 
 ##### Widow
 Elisha helps a widow financially, and he correctly prophesies that a barren woman would conceive and have a baby by the next year. Later, when that child dies, Elisha miraculously causes him to come back to life. Also, Elisha causes a poisonous food to no longer be harmful, and he miraculously feeds 100 people with only 20 loaves of bread.
-
-## Links:
-
-* __[2 Kings 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

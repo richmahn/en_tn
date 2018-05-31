@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### False prophets
 
 The false prophets promised there would not be any war or drought. They gave people a false sense of hope, when they needed to repent. Because of this, Yahweh sent a drought and said that the false prophets would die of drought and war. This showed that these were not true prophets of Yahweh.  (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/hope]] and [[rc://en/tw/dict/bible/kt/repent]])
-
-## Links:
-
-* __[Jeremiah 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | [>>](../15/intro.md)__

@@ -29,9 +29,3 @@ The soldiers were insulting Jesus when they said, "Hail, King of the Jews." Pila
 ##### Gabbatha, Golgotha
 
 These are two Hebrew words. After translating the meanings of these words ("The Pavement" and "The Place of a Skull"), the author transliterates their sounds by writing them with Greek letters.
-
-## Links:
-
-* __[John 19:01 Notes](./01.md)__
-
-__[<<](../18/intro.md) | [>>](../20/intro.md)__

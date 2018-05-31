@@ -9,9 +9,3 @@ When Israel first conquered the land, they promised not to kill the people of Gi
 
 ##### Wisdom, grace and justice
 David is seen to have many great qualities in this chapter. These were qualities important for a king of Israel: wisdom, grace and justice. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/grace]] and [[rc://en/tw/dict/bible/kt/justice]])
-
-## Links:
-
-* __[2 Samuel 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

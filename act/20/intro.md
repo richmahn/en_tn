@@ -13,9 +13,3 @@ Paul spoke of living for Jesus as if he were running in a race. By this he meant
 ##### "Compelled by the Spirit"
 
 Paul thought that the Holy Spirit wanted him to go to Jerusalem even if Paul did not want to go there. The same Holy Spirit told other people that when Paul arrived in Jerusalem, people would try to harm him.
-
-## Links:
-
-* __[Acts 20:1](../../act/20/01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

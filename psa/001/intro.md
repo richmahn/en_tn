@@ -12,10 +12,3 @@ A main theme in this psalm is what it means to be blessed. Here "blessed" refers
 ##### People who opposed Yahweh
 
 There are several words in this psalm for those who oppose God: "the wicked" (those who do evil), "sinners" (those who ignore God's law), and "mockers" (those who mock God and the righteous people). (See: [[rc://en/tw/dict/bible/kt/evil]], [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/righteous]])
-
-## Links:
-
-* __[Psalms 1:1](../../psa/001/001.md)__
-* __[Psalms intro](../front/intro.md)__
-
-__| [>>](../002/intro.md)__

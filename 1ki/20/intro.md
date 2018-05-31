@@ -13,9 +13,3 @@ God had chosen to defeat Ben Hadad, king of Aram. So when he attacked Samaria wi
 
 ##### Simile
 There were so few Israel soldiers that they were "like two little flocks of goats." (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[1 Kings 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

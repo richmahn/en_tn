@@ -11,9 +11,3 @@ Although God did one miracle after the other, the people of Israel still complai
 
 ##### Superscription
 This is called a "Maschil." The word in the original language has caused scholars to have various opinions about its meaning. Some say it means to instruct, while others say that the word is referring to the skill used in creating the psalm. Still others think it means that meditation should be used in reading this psalm.
-
-## Links:
-
-* __[Psalms 78:1](../../psa/078/001.md)__
-
-__[<<](../077/intro.md) | [>>](../079/intro.md)__

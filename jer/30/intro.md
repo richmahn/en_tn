@@ -12,9 +12,3 @@ Despite the prophesied punishment in this chapter, Yahweh promises to restore Ju
 
 #### Other possible translation difficulties in this chapter
 The author uses the term "Israel" in two different ways. He uses it in reference to the nation of Israel. He also uses it in reference to the people who used to inhabit the northern kingdom of Israel, namely the people group of Israel.
-
-## Links:
-
-* __[Jeremiah 30:01 Notes](./01.md)__
-
-__[<<](../29/intro.md) | [>>](../31/intro.md)__

@@ -18,9 +18,3 @@ Obeying the law cannot make a person right with God. Obeying God's law is a way 
 
 ##### Rhetorical Questions
 Paul frequently uses rhetorical questions in this chapter. It appears the intent of these rhetorical questions is to make the reader see their sin so they will trust in Jesus. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/guilt]])
-
-## Links:
-
-* __[Romans 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

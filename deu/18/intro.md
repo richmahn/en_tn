@@ -7,9 +7,3 @@ As Yahweh's chosen priests, the priest were to trust in Yahweh to provide for th
 
 ##### Messiah
 This chapter is one of the first prophecies about the promised, coming Messiah. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/christ]])
-
-## Links:
-
-* __[Deuteronomy 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

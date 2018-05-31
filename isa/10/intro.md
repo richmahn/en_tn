@@ -14,9 +14,3 @@ Yahweh has so much power and authority that he controls all of the nations. He e
 
 ##### Rhetorical Questions
 There are many rhetorical questions in this chapter. Yahweh uses rhetorical questions to make statements about Israel's sin. The Assyrians use rhetorical questions in order to boast in their pride. (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Isaiah 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

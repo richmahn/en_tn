@@ -45,9 +45,3 @@ In Luke:
 Simon (Peter), Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon (who was called the Zealot), Judas the son of James, and Judas Iscariot.
 
 Thaddaeus is probably the same person as Jude, the son of James.
-
-## Links:
-
-* __[Luke 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

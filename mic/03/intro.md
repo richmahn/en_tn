@@ -8,9 +8,3 @@ An unjust society was considered sinful. It was considered to be against the law
 
 ##### Metaphors
 There are vivid pictures used in this chapter which show how the leaders of the people were treating the Israelites. These situations are absurd unless taken as a metaphor. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Micah 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -18,9 +18,3 @@ Paul uses many metaphors used in this chapter to explain complex spiritual truth
 
 ##### "This is a covenant not of the letter but of the Spirit."
 Paul contrasts the old and new covenants. The new covenant is not a system of rules and regulations. Here "Spirit" probably refers to the Holy Spirit. It may also refer to the new covenant being "spiritual" in nature. (See: [[rc://en/tw/dict/bible/kt/spirit]])
-
-## Links:
-
-* __[2 Corinthians 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

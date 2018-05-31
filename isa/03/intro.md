@@ -11,9 +11,3 @@ This chapter is structured as a judgment against the Jews. God is acting as a ju
 
 ##### Exile
 While the previous part of the prophecy in chapter 2 discussed the last days, this part of the prophecy predicts the exile of Judah to Babylon. (See: [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/lastday]])
-
-## Links:
-
-* __[Isaiah 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

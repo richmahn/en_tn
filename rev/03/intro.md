@@ -35,9 +35,3 @@ The word "angel" here can also mean "messenger." This might refer to the messeng
 ##### "The words of the one who"
 
 The verses with these words can be difficult to translate. They do not make complete sentences. You may need to add "These are" to the beginning of these verses. Also, Jesus used these words to speak of himself as if he were speaking of another person. Your language may not allow people to speak of themselves as if they were speaking of other people. Jesus began speaking in [Revelation 1:17](../../rev/01/17.md). He continues to speak through the end of Chapter 3.
-
-## Links:
-
-* __[Revelation 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

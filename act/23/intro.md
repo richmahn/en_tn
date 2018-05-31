@@ -23,9 +23,3 @@ The Romans thought that they needed to treat only Roman citizens justly. They co
 ##### Whitewash
 
 This is a common metaphor in Scripture for appearing to be good or clean or righteous when one is evil or unclean or unrighteous. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Acts 23:1](../../act/23/01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

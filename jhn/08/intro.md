@@ -23,9 +23,3 @@ The Scribes and Pharisees wanted to trick Jesus. They wanted him to say either t
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([John 8:28](../../jhn/08/28.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[John 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

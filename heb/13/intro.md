@@ -11,9 +11,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Hospitality
 
 God wants his people to invite other people to come to their homes to eat food and even to sleep. His people should do this even if they do not know well the people they are inviting. In the Old Testament, Abraham and his nephew Lot both showed hospitality to people they did not know. Abraham served a costly meal to them, and then Lot invited them to sleep in his house. They learned later that those people were actually angels.
-
-## Links:
-
-* __[Hebrews 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | __

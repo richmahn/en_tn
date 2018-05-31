@@ -11,9 +11,3 @@ Solomon hired a man from Tyre who was good at casting things out of bronze. The 
 
 ##### The temple and the palace
 Solomon spent 13 years building a palace for himself that was much bigger than the temple. It is significant that the house of Solomon was much larger than the house of God. (See: [[rc://en/tw/dict/bible/kt/houseofgod]])
-
-## Links:
-
-* __[1 Kings 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

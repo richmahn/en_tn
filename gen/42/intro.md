@@ -7,9 +7,3 @@ Apparently this famine extended beyond Egypt and encompassed the land of Canaan 
 
 ##### Joseph's test
 Joseph tests his brothers to see if they are good. They treat their brother Benjamin better than they treated Joseph and tried to protect him.
-
-## Links:
-
-* __[Genesis 42:01 Notes](./01.md)__
-
-__[<<](../41/intro.md) | [>>](../43/intro.md)__

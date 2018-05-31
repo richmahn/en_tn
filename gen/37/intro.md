@@ -11,9 +11,3 @@ Jacob's favoritism became a great problem for his sons. They are always jealous 
 
 ##### God's power
 The account of Joseph focuses on the power of God. God is able to protect his people despite the evil actions of some. He also is able to continue to bless them despite their circumstances. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]] and [[rc://en/tw/dict/bible/kt/bless]])
-
-## Links:
-
-* __[Genesis 37:01 Notes](./01.md)__
-
-__[<<](../36/intro.md) | [>>](../38/intro.md)__

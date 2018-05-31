@@ -16,9 +16,3 @@ In the ancient Near East, it was common to believe that a person's illness was c
 
 ##### Rhetorical questions
 Eliphaz uses many different rhetorical questions in this chapter in order to try to convince Job that he is wrong. These questions help to build Eliphaz's argument. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Job 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

@@ -14,10 +14,3 @@ In the ancient Near East, if a woman lacked a husband or sons, she was considere
 
 ##### Contrast
 The actions of Ruth the Moabite are intended to contrast with the actions of Naomi the Jew. Ruth shows great faith in Naomi's god, while Naomi does not trust in Yahweh. (See: [[rc://en/tw/dict/bible/kt/faith]] and [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Ruth 01:01 Notes](./01.md)__
-* __[Ruth intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

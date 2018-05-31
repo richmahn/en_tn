@@ -9,9 +9,3 @@ David has another opportunity to kill Saul but he refuses to kill the one God ha
 
 ##### Rhetorical question
 David put his reason for not killing Saul in a rhetorical question: "Do not destroy him; for who can extend his hand against Yahweh's anointed one and be guiltless?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 26:01 Notes](./01.md)__
-
-__[<<](../25/intro.md) | [>>](../27/intro.md)__

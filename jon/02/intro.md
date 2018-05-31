@@ -18,9 +18,3 @@ Prayers in Scripture often contain a poetic form. Poetry frequently uses metapho
 
 ##### Repentance
 Scholars are divided over whether Jonah's repentance was genuine or whether he was trying to save his life. In light of his attitude in chapter 4, it is uncertain if he was genuinely repentant. If possible, it is best for translators to avoid making a definitive stance on whether Jonah's repentance was genuine. (See: [[rc://en/tw/dict/bible/kt/repent]] and [[rc://en/tw/dict/bible/kt/save]])
-
-## Links:
-
-* __[Jonah 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

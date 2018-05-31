@@ -25,10 +25,3 @@ People in the ancient Near East also saw the sea as chaotic and did not trust it
 ##### Implicit information
 
 Even though no one knows for sure where Tarshish was, the writer assumes that the reader knows that Jonah had to face away from Nineveh to go there. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Jonah 01:01 Notes](./01.md)__
-* __[Jonah intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

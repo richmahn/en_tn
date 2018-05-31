@@ -13,9 +13,3 @@ Ammon is destroyed because it drove the people of the tribe of Gad from their ho
 #### Important figures of speech in this chapter
 ##### Rhetorical questions
 There are many rhetorical questions in this chapter. The purpose of these rhetorical questions is to convict those Yahweh addresses. (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[Jeremiah 49:01 Notes](./01.md)__
-
-__[<<](../48/intro.md) | [>>](../50/intro.md)__

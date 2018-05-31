@@ -16,9 +16,3 @@ This is a metaphor for an unknown nation. Scholars are divided over the proper i
 
 ##### Mystery
 The fulfillment of this chapter is very mysterious. It is unknown who is truly being addressed and how this is to be fulfilled in history. The translator should not attempt to give the reader insight into this prophecy's fulfillment. (See: [[rc://en/tw/dict/bible/kt/fulfill]])
-
-## Links:
-
-* __[Isaiah 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

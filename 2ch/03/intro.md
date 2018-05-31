@@ -8,9 +8,3 @@ The story of King Solomon and the building of the temple continues in this chapt
 
 ##### Location of the temple
 The location of the temple was very significant. Many important events in history occurred at this location. 
-
-## Links:
-
-* __[2 Chronicles 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

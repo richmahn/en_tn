@@ -14,9 +14,3 @@ In ancient Persia, they thought it was important for their conquered peoples to 
 
 ##### Yahweh's control
 Yahweh is seen as very powerful. He is able to provide for his people, even through a foreign king. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]])
-
-## Links:
-
-* __[Nehemiah 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

@@ -16,10 +16,3 @@ The church has used different titles for church leaders. Some titles include ove
 
 ##### Should, may, must
 The ULT uses different words that indicate requirements or obligations. These verbs have different levels of force associated with them. The subtle differences may be difficult to translate. The UST translates these verbs in a more general way.
-
-## Links:
-
-* __[Titus 01:01 Notes](./01.md)__
-* __[Titus intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

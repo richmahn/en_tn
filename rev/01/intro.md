@@ -39,10 +39,3 @@ This refers to Jesus. You should translate the words "son of man" using the same
 ##### "The angels of the seven churches"
 
 The word "angels" here can also mean "messengers." This might refer to heavenly beings, or to the messengers or leaders of these seven churches. John uses the same word "angel" (singular) in verse 1 and in many other places throughout the book. Your translation should also use the same word.
-
-## Links:
-
-* __[Revelation 01:01 Notes](./01.md)__
-* __[Revelation intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

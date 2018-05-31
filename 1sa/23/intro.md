@@ -9,9 +9,3 @@ Saul wants to  kill David, but David trusts in God who keeps rescuing him. David
 
 ##### Synecdoche
 Jonathan strengthens David with a synecdoche: "For the hand of Saul my father will not find you." This helps to strengthen David's faith. (See: [[rc://en/ta/man/translate/figs-synecdoche]] and [[rc://en/tw/dict/bible/kt/faith]])
-
-## Links:
-
-* __[1 Samuel 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

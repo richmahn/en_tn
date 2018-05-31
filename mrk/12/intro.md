@@ -9,9 +9,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Hypothetical Situations
 
 Hypothetical situations are situations that have not actually happened. People describe these situations so they learn what their hearers think is good and bad or right and wrong. (See: [[rc://en/ta/man/translate/figs-hypo]])
-
-## Links:
-
-* __[Mark 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

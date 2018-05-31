@@ -13,9 +13,3 @@ Daniel told  the king's dream and what the dream meant. In the ancient Near East
 ##### How Daniel knew the dream
 
 Daniel gave Yahweh the honor for having told him the dream and its meaning in answer to the prayers of the four men.
-
-## Links:
-
-* __[Daniel 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

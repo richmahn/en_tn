@@ -11,9 +11,3 @@ David hides in the wilderness, and people in trouble come to him. Soon he has a 
 
 ##### Saul and the chief priest's family
 Doeg tells Saul that Ahimelech the priest gave David food and a sword and prayed for him. Saul accuses the priests of encouraging David to rebel. This is a serious accusation because the priests are God's representatives and are rebelling against God's king if the accusation is true. Saul has the priests and all their families killed except those who escape to David. (See: [[rc://en/tw/dict/bible/kt/highpriest]])
-
-## Links:
-
-* __[1 Samuel 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | [>>](../23/intro.md)__

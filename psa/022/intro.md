@@ -11,9 +11,3 @@ Christ was despised and taunted by his enemies; but finally people all over the 
 
 ##### New Testament usage
 This psalm is quoted in different places in the New Testament. Verse 1a is cited in Matthew 27:46 and Mark 15:34 as the words of Christ on the cross. Many of the events in the narratives of the crucifixion are mentioned in this psalm. (See: [[rc://en/tw/dict/bible/kt/cross]])
-
-## Links:
-
-* __[Psalms 22:1](../../psa/022/001.md)__
-
-__[<<](../021/intro.md) | [>>](../023/intro.md)__

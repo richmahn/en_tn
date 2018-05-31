@@ -7,9 +7,3 @@ The people of Canaan were to be punished by Yahweh. Yahweh used Israel to punish
 
 ##### Abrahamic Covenant
 This chapter references parts of the covenant Yahweh made with Abraham. It also emphasizes Yahweh's faithfulness to this covenant. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/tw/dict/bible/kt/faithful]])
-
-## Links:
-
-* __[Deuteronomy 07:01 Notes](./01.md)__
-
-__[<<](../06/intro.md) | [>>](../08/intro.md)__

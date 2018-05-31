@@ -12,9 +12,3 @@ He is in deep trouble and needs God to help him in his difficult situation. But 
 ##### First Person
 
 This psalm is written using first person making its perspective very personal. There are many uses of the first person in this Psalm.
-
-## Links:
-
-* __[Psalms 6:1](../../psa/006/001.md)__
-
-__[<<](../005/intro.md) | [>>](../007/intro.md)__

@@ -10,10 +10,3 @@ Talking to the dead was against the law of Moses. God or the Holy Spirit left Sa
 
 ##### Rhetorical question
 Samuel uses a rhetorical question to say it was useless to ask his advice since there was no way Saul could be successful with God against him: "What then do you ask me, since Yahweh has left you, and he has become your enemy?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 28:01 Notes](./01.md)__
-
-__[<<](../27/intro.md) | [>>](../29/intro.md)__
-

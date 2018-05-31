@@ -15,9 +15,3 @@ Jesus used these words to begin prophecies about times that could be shorter or 
 ##### Simile
 
 Jesus said that just as a woman is in pain as she gives birth to a baby and his followers would be sad when he died. But the woman is glad after the baby is born, and his followers would be happy when he became alive again. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[John 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

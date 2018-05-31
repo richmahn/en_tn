@@ -24,9 +24,3 @@ This is a metaphor for eternal life. Those possessing eternal life are said to h
 
 ##### Hades and the lake of fire
 These appear to be two distinct places. The translator may wish to do further research to determine how to translate these two places differently. They should not be made the same as each other in translation. (See: [[rc://en/tw/dict/bible/kt/hell]])
-
-## Links:
-
-* __[Revelation 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

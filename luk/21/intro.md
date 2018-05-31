@@ -19,9 +19,3 @@ The Jews spoke of the time between when the Babylonians forced their ancestors t
 ##### "Son of Man"
 
 Jesus refers to himself as the "Son of Man" in this chapter ([Luke 21:27](../../luk/21/27.md)). Your language may not allow people to speak of themselves as if they were speaking about someone else. (See: [[rc://en/tw/dict/bible/kt/sonofman]] and [[rc://en/ta/man/translate/figs-123person]])
-
-## Links:
-
-* __[Luke 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

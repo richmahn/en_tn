@@ -8,9 +8,3 @@ No one knows for sure if Ananias and Sapphira were truly Christians when they de
 
 When they lied to the believers, they also lied to the Holy Spirit. This is because the Holy Spirit lives inside believers.
 
-
-## Links:
-
-* __[Acts 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

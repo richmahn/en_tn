@@ -13,9 +13,3 @@ The chapter is where the second half of the Book of Acts begins. Luke writes mor
 ##### A light for the Gentiles
 
 The Bible often speaks of unrighteous people, people who do not do what pleases God, as if they were walking around in darkness. It speaks of light as if it were what enables those sinful people to become righteous, to understand what they are doing wrong and begin to obey God. The Jews considered all Gentiles as walking in darkness, but Paul and Barnabas spoke of telling the Gentiles about Jesus as if they were going to bring them physical light. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/kt/righteous]])
-
-## Links:
-
-* __[Acts 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

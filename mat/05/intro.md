@@ -13,8 +13,3 @@ Jesus spoke about many different subjects in this sermon, so you may wish to hel
 ##### "His disciples"
 
 It is possible to refer to anyone who followed Jesus as a follower or disciple. Jesus selected twelve of his followers to become his closest disciples, "the twelve disciples." They would later become known as the apostles.
-
-## Links:
-* __[Matthew 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

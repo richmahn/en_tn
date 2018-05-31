@@ -19,9 +19,3 @@ This refers to Jesus. In this chapter, it is also a title for Jesus. (See: [[rc:
 
 ##### Similes
 In verses 12-14, the author uses several similes to try to describe the images he sees in the vision. He compares the images to everyday things. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[Revelation 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

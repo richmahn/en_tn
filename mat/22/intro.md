@@ -19,9 +19,3 @@ Speakers usually do not say things that they think their hearers already underst
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. To the Jews, the ancestors were the masters of the descendants, but in one psalm David calls one of his descendants "Lord." Jesus tells the Jewish leaders that this is a paradox, saying, "If David then calls the Christ 'Lord,' how is he David's son?" ([Matthew 22:45](../../mat/22/45.md)).
-
-## Links:
-
-* __[Matthew 22:01 Notes](./01.md)__
-
-__[<<](../21/intro.md) | [>>](../23/intro.md)__

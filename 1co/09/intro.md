@@ -21,9 +21,3 @@ This passage is important because Paul "contextualizes" ministering the gospel t
 
 ##### Rhetorical questions
 Paul uses many rhetorical questions in this chapter. He uses them to emphasize various points as he teaches the Corinthians. (See: rc://en/ta/man/translate/figs-rquestion)
-
-## Links:
-
-* __[1 Corinthians 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

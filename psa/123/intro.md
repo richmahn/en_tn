@@ -8,9 +8,3 @@ Psalm 123 is a psalm asking for deliverance from the contempt of proud people. (
 
 ##### Trust
 Just as a servant trusts his master to protect him, so the author is trusting God to stop proud people from insulting him. (See: [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Psalms 123:1](../../psa/123/001.md)__
-
-__[<<](../122/intro.md) | [>>](../124/intro.md)__

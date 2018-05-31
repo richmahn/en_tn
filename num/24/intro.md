@@ -11,9 +11,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 ##### Cursing God's people
 
 God does not allow others to curse his people. Balaam blesses Israel again and the king is angry and sends him home.  This may be taken as humor or an ironic situation. (See: [[rc://en/tw/dict/bible/kt/curse]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
-
-## Links:
-
-* __[Numbers 24:01 Notes](./01.md)__
-
-__[<<](../23/intro.md) | [>>](../25/intro.md)__

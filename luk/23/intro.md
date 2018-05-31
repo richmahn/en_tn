@@ -23,9 +23,3 @@ The tomb in which Jesus was buried ([Luke 23:53](../../luk/23/53.md)) was the ki
 ##### "I find no fault in this man"
 
 Pilate was saying that he did not know of any reason why he should punish Jesus because Jesus had not broken any laws. Pilate was not saying that Jesus was perfect.
-
-## Links:
-
-* __[Luke 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

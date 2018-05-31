@@ -7,9 +7,3 @@ Psalm 145 is a worship psalm. This is the second in a series of worship psalms c
 #### Special concepts in this chapter
 ##### Praise
 God is worthy of all praise. This is in part because he does such wonderful things for all who worship him.
-
-## Links:
-
-* __[Psalms 145:1](../../psa/145/001.md)__
-
-__[<<](../144/intro.md) | [>>](../146/intro.md)__

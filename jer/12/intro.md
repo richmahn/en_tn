@@ -13,9 +13,3 @@ Jeremiah complains that evil men prosper. He questions Yahweh's justice. Yahweh'
 ##### Yahweh's grace to the other nations
 
 Yahweh gives a gracious offer to the Gentile nations. If the other nations who have been against Judah leave their idols and worship God, then God will allow them to return to their lands. (See: [[rc://en/tw/dict/bible/kt/grace]])
-
-## Links:
-
-* __[Jeremiah 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

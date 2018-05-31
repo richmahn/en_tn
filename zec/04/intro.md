@@ -8,9 +8,3 @@ This chapter is written mainly in prose about the fifth vision, which is about t
 
 ##### Visions
 This chapter shows a conversation between Zechariah and the angel of Yahweh. It is important for each of these visions to keep their meanings and not be interpreted to mean any specific thing.
-
-## Links:
-
-* __[Zechariah 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

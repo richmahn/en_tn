@@ -14,9 +14,3 @@ Scholars are divided over what Paul meant in verse 12: "And death spread to all 
 
 ##### The second Adam
 Adam was the first man and the first "son" of God. He was created by God. He brought sin and death into the world by eating the forbidden fruit. Paul describes Jesus as the "second Adam" in this chapter and the true son of God. He brings life and overcame sin and death by dying on the cross. (See: [[rc://en/tw/dict/bible/kt/sonofgod]] and [[rc://en/tw/dict/bible/other/death]])
-
-## Links:
-
-* __[Romans 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

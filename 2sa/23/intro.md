@@ -10,9 +10,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Everlasting covenant
 This is a reference to the covenant God previously made with David. (See: [2 Samuel 7](../07/01.md), [[rc://en/tw/dict/bible/kt/eternity]] and [[rc://en/tw/dict/bible/kt/covenant]]).
-
-## Links:
-
-* __[2 Samuel 23:01 Notes](./01.md)__
-
-__[<<](../22/intro.md) | [>>](../24/intro.md)__

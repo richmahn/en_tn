@@ -11,9 +11,3 @@ This chapter gives a series of disconnected pieces of advice. Translators should
 
 ##### Yahweh
 At the end of a very impressive life, Solomon looks back and sees that the only real lasting thing in this world is Yahweh. The purpose of his life was to honor Yahweh, something he should have done far more throughout his life. Therefore, he felt that his life was wasted. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Ecclesiastes 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | __

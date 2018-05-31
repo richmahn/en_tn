@@ -22,9 +22,3 @@ Paul does not refer here to physical life and death. Life represents the new lif
 
 ##### Hope
 Paul uses a repeated pattern in a purposeful way. He makes a statement. Then he denies a seemingly opposite or contradictory statement or gives an exception. Together these give the reader hope in difficult circumstances. (See: [[rc://en/tw/dict/bible/kt/hope]])
-
-## Links:
-
-* __[2 Corinthians 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

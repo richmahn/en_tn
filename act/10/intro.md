@@ -9,9 +9,3 @@ The Jews believed that they could become unclean in God's sight if they visited 
 ##### Baptism and the Holy Spirit
 
 The Holy Spirit "fell on" those who were listening to Peter. This showed the Jewish believers that Gentiles could receive the word of God and receive the Holy Spirit just as the Jewish believers had.  After that, the Gentiles were baptized.
-
-## Links:
-
-* __[Acts 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

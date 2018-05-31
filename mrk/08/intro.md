@@ -22,9 +22,3 @@ Jesus used many rhetorical questions as a way of both teaching the disciples ([M
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. Jesus uses a paradox when he says, "Whoever wants to save his life will lose it, and whoever loses his life for my sake will find it" ([Mark 8:35-37](./35.md)).
-
-## Links:
-
-* __[Mark 08:01 Notes](./01.md)__
-
-__[<<](../07/intro.md) | [>>](../09/intro.md)__

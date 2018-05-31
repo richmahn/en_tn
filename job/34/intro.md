@@ -10,9 +10,3 @@ The ULT sets the lines of this chapter farther to the right on the page than the
 
 ##### Yahweh's justice
 Elihu defends the justice of Yahweh after Job claimed that Yahweh was being unjust. (See: [[rc://en/tw/dict/bible/kt/justice]])
-
-## Links:
-
-* __[Job 34:01 Notes](./01.md)__
-
-__[<<](../33/intro.md) | [>>](../35/intro.md)__

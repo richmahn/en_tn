@@ -8,9 +8,3 @@ David's best adviser, Ahithophel, told Absalom to publicly seduce the concubines
 #### Important figures of speech in this chapter
 ##### Simile
 To show how seriously people took Ahithophel's advice, the author used a [[rc://en/ta/man/translate/figs-simile]] comparing his advice to God's advice. "Now the advice of Ahithophel that he gave in those days was as if a man heard from the mouth of God himself."
-
-## Links:
-
-* __[2 Samuel 16:01 Notes](./01.md)__
-
-__[<<](../15/intro.md) | [>>](../17/intro.md)__

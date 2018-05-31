@@ -26,9 +26,3 @@ Paul gives another hypothetical situation in verses 17-29. Here he explains that
 
 ##### "You who judge"
 At times, this could be translated in a simpler way. But it is translated in this relatively awkward way because when Paul refers to "people who judge" he is also saying that everyone judges. It is possible to translate this as "those who judge (and everyone judges)."
-
-## Links:
-
-* __[Romans 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

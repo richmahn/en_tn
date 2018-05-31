@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Materialism
 The author describes the pointlessness of pursuing material things. This is known as "materialism." Those who pursue after things will always want more. At the end of their life, they will not be able to use these things.
-
-## Links:
-
-* __[Ecclesiastes 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | [>>](../06/intro.md)__

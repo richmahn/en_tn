@@ -17,9 +17,3 @@ This chapter uses rhetorical questions to express different ideas: to state a fa
 ##### Idioms
 
 Samuel frequently uses idioms when prophesying: "going to God" means "going to worship God"; "take it from their hands" means "accept their gift"; "rush upon you" means "control you"; "hand finds to do" means "what you think you should do"; "God is with you" means "God is directing you"; "another heart" means "a different way of thinking"; "came to pass" means "happened"; "before Yahweh" means "to do work for Yahweh"; and "hearts God had touched" means "God had made them want to help Saul." (See: [[rc://en/ta/man/translate/figs-idiom]])
-
-## Links:
-
-* __[1 Samuel 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

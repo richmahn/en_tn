@@ -11,9 +11,3 @@ The believers in Jerusalem gave food every day to women whose husbands had died.
 ##### "His face was like the face of an angel"
 
 No one knows for sure what it was about Stephen's face that was like the face of an angel, because Luke does not tell us. It is best for the translation to say only what the ULT says about this.
-
-## Links:
-
-* __[Acts 06:01 Notes](./01.md)__
-
-__[<<](../05/intro.md) | [>>](../07/intro.md)__

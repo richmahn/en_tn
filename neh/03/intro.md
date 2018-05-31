@@ -7,9 +7,3 @@ The priests worked on rebuilding the city. Normally, the priests were exempt fro
 
 ##### Cooperation
 Everyone worked on this project. Many names are mentioned to emphasize the cooperation between the different families. Each was given a section of the wall to rebuild.
-
-## Links:
-
-* __[Nehemiah 03:01 Notes](./01.md)__
-
-__[<<](../02/intro.md) | [>>](../04/intro.md)__

@@ -19,9 +19,3 @@ The law of Moses commanded the priests to kill animals so that God would forgive
 ##### Hypothetical situation
 
 When Martha said, "If you had been here, my brother would not have died," she was speaking of a situation that could have happened but did not happen. Jesus had not come, and her brother had died.
-
-## Links:
-
-* __[John 11:01 Notes](./01.md)__
-
-__[<<](../10/intro.md) | [>>](../12/intro.md)__

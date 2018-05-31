@@ -11,9 +11,3 @@ In the ancient Near East, it was important for a married woman to have many chil
 
 ##### Speckled and spotted
 Speckled and spotted sheep were considered to be imperfect. Therefore, they were considered to be much less valuable than the spotless sheep. Despite Jacob's fair offer, Laban once again tried to cheat him out of something he deserved. Jacob anticipated Laban's cheating.
-
-## Links:
-
-* __[Genesis 30:01 Notes](./01.md)__
-
-__[<<](../29/intro.md) | [>>](../31/intro.md)__

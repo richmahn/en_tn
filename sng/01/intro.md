@@ -17,10 +17,3 @@ In the ancient Near East, it was common to describe a woman using metaphors invo
 
 ##### "I am dark"
 In the ancient Near East, rich people usually had lighter skin because they did not need to work outside in the sun. This young woman had to work out in the sun, and her skin became darker than it was when she was younger.
-
-## Links:
-
-* __[Song of Songs 01:01 Notes](./01.md)__
-* __[Song of Songs intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

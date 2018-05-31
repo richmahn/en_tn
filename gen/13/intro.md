@@ -13,9 +13,3 @@ God made a covenant with Abram. This covenant was not conditioned upon anything 
 
 ##### Built an altar
 Abram would have built an altar in order to offer sacrifices to Yahweh. There is an implicit understanding that building an altar was an act of worship. (See: [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[Genesis 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

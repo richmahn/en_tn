@@ -14,9 +14,3 @@ This chapter compiles a list of serious sins. The most serious sins are punished
 
 ##### Metaphor
 The phrase "you must carry your own guilt" is a metaphor. It is unknown what this means, but it is possible it indicates a penalty of death.
-
-## Links:
-
-* __[Leviticus 20:01 Notes](./01.md)__
-
-__[<<](../19/intro.md) | [>>](../21/intro.md)__

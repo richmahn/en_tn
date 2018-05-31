@@ -33,9 +33,3 @@ The Bible often speaks of unrighteous people, people who do not do what pleases 
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. A paradox occurs in 12:25: "He who loves his life will lose it; but he who hates his life in this world will keep it for eternal life." But in 12:26 Jesus explains what it means to keep one's life for eternal life. ([John 12:25-26](./25.md)).
-
-## Links:
-
-* __[John 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

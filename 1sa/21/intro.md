@@ -16,9 +16,3 @@ David flees to Gath. The advisers to the king tell him that David is almost the 
 
 ##### Rhetorical questions
 The king of Gath's advisers use two rhetorical questions to warn him about how dangerous David could be: "Is not this David the king of the land? Did they not sing to one another about him in dances, 'Saul has killed his thousands, and David his ten thousands?'" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 21:01 Notes](./01.md)__
-
-__[<<](../20/intro.md) | [>>](../22/intro.md)__

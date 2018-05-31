@@ -13,9 +13,3 @@ David determined to fulfill his vow to Jonathan to care for Jonathan's descendan
 
 ##### Rhetorical question and metaphor
 Jonathan's son expressed his surprise and feeling of unworthiness with a rhetorical question: "What is your servant, that you should look with favor on such a dead dog as I am?" and by a metaphor comparing himself  to "a dead dog." (See: [[rc://en/ta/man/translate/figs-rquestion]] and [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[2 Samuel 09:01 Notes](./01.md)__
-
-__[<<](../08/intro.md) | [>>](../10/intro.md)__

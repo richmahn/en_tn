@@ -33,9 +33,3 @@ Hannah used many military metaphors: "rock," representing protection; "the bows 
 ##### Rhetorical questions
 
 God used three rhetorical questions to correct and condemn Eli. "Did I not reveal myself to the house of your ancestor, when they were in Egypt in bondage to Pharaoh's house?" "Why then do you scorn my offerings that I required in the place where I live?" "Why do you honor your sons above me by making yourselves fat with the best of every offering of my people Israel?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

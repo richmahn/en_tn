@@ -29,9 +29,3 @@ God's glory is the great beauty and radiant majesty that God has because he is G
 ##### Difficult images
 
 Such things as bolts of lightning coming from the throne, lamps that are spirits, and a sea in front of the throne may be difficult to imagine, and so the words for them may be difficult to translate. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
-
-## Links:
-
-* __[Revelation 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

@@ -15,9 +15,3 @@ Trust is an important part of this chapter. Those who trust in human wisdom will
 ##### Simile
 
 The person who depends on the power of other people is compared to a bush in the desert which always has to struggle for life. But the person who trusts in God is like a tree growing by a stream and has all his needs supplied. (See: [[rc://en/ta/man/translate/figs-simile]])
-
-## Links:
-
-* __[Jeremiah 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

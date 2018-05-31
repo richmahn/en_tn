@@ -8,9 +8,3 @@ This chapter begins the story about the difficulties and killings in David's fam
 
 ##### Amnon raped Absalom's sister
 Amnon raped Absalom's sister, who was his own half-sister. David did nothing to punish him and David's lack of action caused significant problems in his family and in Israel. This eventually caused Solomon to become king, even though he was not the oldest son.
-
-## Links:
-
-* __[2 Samuel 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

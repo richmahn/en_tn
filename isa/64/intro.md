@@ -8,9 +8,3 @@ Some translations set each line of poetry farther to the right than the rest of 
 
 ##### Repentance
 This chapter records the repentance of the righteous remnant of Judah. (See: [[rc://en/tw/dict/bible/kt/repent]], [[rc://en/tw/dict/bible/kt/righteous]] and [[rc://en/tw/dict/bible/kt/remnant]] and [[rc://en/tw/dict/bible/kt/prophet]])
-
-## Links:
-
-* __[Isaiah 64:01 Notes](./01.md)__
-
-__[<<](../63/intro.md) | [>>](../65/intro.md)__

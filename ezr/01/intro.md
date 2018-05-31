@@ -12,10 +12,3 @@ King Cyrus allowed them to return because he wanted them to rebuild the temple. 
 #### Possible translation difficulties in this chapter
 ##### Jews
 Upon return to Judea, the focus of the rest of the Old Testament is on the Jewish people.
-
-## Links:
-
-* __[Ezra 01:01 Notes](./01.md)__
-* __[Ezra intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

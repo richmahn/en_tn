@@ -11,9 +11,3 @@ Why are confession and repentance even suggested here for a people that Yahweh h
 ##### Speaker
 The use of first and second person in this chapter often signifies a change in speaker. In this chapter, Hosea is speaking to the northern kingdom to tell them that Yahweh loves them.
 There are several places in this chapter where the writer switches from the third person to the second or the first person. This may cause some confusion about who is speaking.
-
-## Links:
-
-* __[Hosea 14:01 Notes](./01.md)__
-
-__[<<](../13/intro.md) | __

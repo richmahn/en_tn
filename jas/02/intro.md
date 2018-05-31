@@ -19,9 +19,3 @@ The words "Show me your faith without works, and I will show you my faith by my 
 ##### "You have ... I have"
 
 Some people think that the words "you" and "I" are metonyms for "some people" and "other people." If they are correct, verse 18 could be translated, "Someone may say, 'Some people have faith and other people have works. Not everyone has both.'" If the next sentence is also what "someone may say," it could be translated "Some people show their faith without works, and other people show their faith by their works. Both have faith." In both cases, the reader will understand only if you add the extra sentence. It is probably best to translate as the ULT does. (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-explicit]])
-
-## Links:
-
-* __[James 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

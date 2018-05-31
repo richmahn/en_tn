@@ -14,9 +14,3 @@ The king of Israel is upset when Elisha is dying. Elisha assures him that he wil
 ##### Metaphor
 
 The king compares the protection that Elisha had given Israel to "The chariot of Israel and the horsemen." (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[2 Kings 13:01 Notes](./01.md)__
-
-__[<<](../12/intro.md) | [>>](../14/intro.md)__

@@ -14,10 +14,3 @@ This probably refers to the day when Christ returns. Paul often connected the re
 ##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. This statement in verse 21 is a paradox: "to die is gain." In verse 23 Paul explains why this is true. ([Philippians 1:21](../../php/01/21.md))
-
-## Links:
-
-* __[Philippians 01:01 Notes](./01.md)__
-* __[Philippians intro](../front/intro.md)__
-
-__| [>>](../02/intro.md)__

@@ -7,9 +7,3 @@ Psalm 20 is a royal psalm. It is probably a prayer for the king, perhaps when he
 #### Special concepts in this chapter
 ##### Trust
 Trusting God is much better than trusting in military might. (See: [[rc://en/tw/dict/bible/kt/trust]])
-
-## Links:
-
-* __[Psalms 20:1](../../psa/020/001.md)__
-
-__[<<](../019/intro.md) | [>>](../021/intro.md)__

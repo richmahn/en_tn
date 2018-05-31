@@ -7,9 +7,3 @@ The account of Joseph focuses on the power of God. God is able to protect his pe
 
 ##### Joseph's character
 Genesis just recorded a period of time where Joseph's ancestors and brothers struggled with sin. Joseph's character in this chapter is upright. He chose to do what was right, even when it could cause him harm. (See: [[rc://en/tw/dict/bible/kt/sin]])
-
-## Links:
-
-* __[Genesis 39:01 Notes](./01.md)__
-
-__[<<](../38/intro.md) | [>>](../40/intro.md)__

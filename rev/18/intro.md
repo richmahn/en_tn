@@ -15,9 +15,3 @@ The angel prophesies about Babylon falling, which here means being destroyed. It
 ##### Metaphors
 
 Prophecy frequently uses metaphors. This chapter has a slightly different apocalyptic style than the Book of Revelation overall. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-
-## Links:
-
-* __[Revelation 18:01 Notes](./01.md)__
-
-__[<<](../17/intro.md) | [>>](../19/intro.md)__

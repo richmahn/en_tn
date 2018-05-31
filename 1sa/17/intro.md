@@ -21,9 +21,3 @@ David uses rhetorical questions to state his desire to fight the giant: "What wi
 His brother uses rhetorical questions to show his disdain for his younger brother, whom he thinks is pretending to be bigger than he really is:  "Why did you come down here? With whom have you left those few sheep in the wilderness?" David defends himself with some questions: "What have I done now? Was it not just a question?"
 
 Goliath also uses a rhetorical question to show his contempt for young David: "Am I a dog, that you come to me with sticks?"															 		
-
-## Links:
-
-* __[1 Samuel 17:01 Notes](./01.md)__
-
-__[<<](../16/intro.md) | [>>](../18/intro.md)__

@@ -10,9 +10,3 @@ Judah is willing to sacrifice himself in order to save Benjamin, the favored son
 ##### Joseph's test
 
 Joseph tests his brothers to see if they are good. They treat their brother Benjamin better than they treated Joseph and tried to protect him. (See: [[rc://en/tw/dict/bible/kt/test]])
-
-## Links:
-
-* __[Genesis 44:01 Notes](./01.md)__
-
-__[<<](../43/intro.md) | [>>](../45/intro.md)__

@@ -17,9 +17,3 @@ The Philistine army invaded Israel, and Israel's army went to fight them but was
 ##### Rhetorical Question
 
 The Philistines expressed their fear using a rhetorical question: "Who will protect us from the strength of this mighty God?" (See: [[rc://en/ta/man/translate/figs-rquestion]])
-
-## Links:
-
-* __[1 Samuel 04:01 Notes](./01.md)__
-
-__[<<](../03/intro.md) | [>>](../05/intro.md)__

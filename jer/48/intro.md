@@ -11,9 +11,3 @@ Jeremiah's prophesies about other nations continue in this chapter. (See: [[rc:/
 ##### Obeying Yahweh
 
 Moab worshiped and served other gods. Despite this, Yahweh expected every nation to worship and serve him and him alone. They were punished because of it. (See: [[rc://en/tw/dict/bible/kt/falsegod]])
-
-## Links:
-
-* __[Jeremiah 48:01 Notes](./01.md)__
-
-__[<<](../47/intro.md) | [>>](../49/intro.md)__

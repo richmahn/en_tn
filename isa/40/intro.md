@@ -18,9 +18,3 @@ The phrase "received double" indicates that Jerusalem was punished more severely
 
 ##### Reign of Yahweh
 This chapter appears to prophesy about a time of restoration when the Messiah will reign. It pictures a time of great peace and harmony in the world. The translator does not need to add an explanation, but should try to maintain the tense of the original text, as a future or uncompleted action. It does not appear that this prophecy was fulfilled in the days of Isaiah. (See: [[rc://en/tw/dict/bible/kt/restore]], [[rc://en/tw/dict/bible/kt/prophet]] and [[rc://en/tw/dict/bible/kt/christ]] and [[rc://en/tw/dict/bible/kt/fulfill]])
-
-## Links:
-
-* __[Isaiah 40:01 Notes](./01.md)__
-
-__[<<](../39/intro.md) | [>>](../41/intro.md)__

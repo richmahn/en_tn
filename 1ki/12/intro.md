@@ -17,9 +17,3 @@ Jeroboam made a terrible mistake. He was afraid that if the people continued to 
 
 ##### Metaphor
 The people used the metaphor of "yoke" for oppressive government:  "Your father made our yoke difficult. Now then, make your father's hard work easier, and lighten the heavy yoke that he put on us." But Rehoboam promised to increase their oppression with three metaphors: "My little finger is thicker than my father's waist. So now, although my father burdened you with a heavy yoke, I will add to your yoke. My father punished you with whips, but I will punish you with scorpions." (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/tw/dict/bible/other/oppress]] and [[rc://en/tw/dict/bible/kt/promise]])
-
-## Links:
-
-* __[1 Kings 12:01 Notes](./01.md)__
-
-__[<<](../11/intro.md) | [>>](../13/intro.md)__

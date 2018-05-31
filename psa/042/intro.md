@@ -13,9 +13,3 @@ Some scholars believe that these two psalms were originally written together as 
 
 ##### Superscription
 This psalm is called "a Maschil of the sons of Korah." The word "Maschil" in the original language has caused scholars to have various opinions about its meaning. Some say it means to instruct, while others say that the word is referring to the skill used in creating the psalm. Still others think it means that meditation should be used in reading this psalm.
-
-## Links:
-
-* __[Psalms 42:1](../../psa/042/001.md)__
-
-__[<<](../041/intro.md) | [>>](../043/intro.md)__

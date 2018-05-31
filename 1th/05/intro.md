@@ -11,9 +11,3 @@ The exact time of the coming day of the Lord will be a surprise to the world. Th
 
 ##### Quench the Spirit
 This means to ignore or work against the Holy Spirit's guidance and work.
-
-## Links:
-
-* __[1 Thessalonians 05:01 Notes](./01.md)__
-
-__[<<](../04/intro.md) | __

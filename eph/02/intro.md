@@ -25,9 +25,3 @@ Some scholars believe "it" here refers to being saved. Other scholars believe th
 ##### Flesh
 
 This is a complex issue. "Flesh" is possibly a metaphor for a person's sinful nature. The phrase "Gentiles in the flesh" indicates the Ephesians once lived without any concern for God. "Flesh" is also used in this verse to refer to the physical part of man. (See: [[rc://en/tw/dict/bible/kt/flesh]])
-
-## Links:
-
-* __[Ephesians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

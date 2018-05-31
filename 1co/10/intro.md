@@ -16,9 +16,3 @@ Paul discusses meat offered to idols. Christians are allowed to eat, but it may 
 
 ##### Rhetorical questions
 Paul uses many rhetorical questions in this chapter. He uses them to emphasize important points as he teaches the Corinthians. (See: rc://en/ta/man/translate/figs-rquestion)
-
-## Links:
-
-* __[1 Corinthians 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__

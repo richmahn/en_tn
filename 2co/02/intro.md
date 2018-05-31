@@ -9,9 +9,3 @@ In this chapter, Paul refers to a letter he previously wrote to the Corinthians.
 
 ##### Aroma
 A sweet aroma is a pleasing smell. Scripture often describes things that are pleasing to God as having a pleasing aroma.
-
-## Links:
-
-* __[2 Corinthians 02:01 Notes](./01.md)__
-
-__[<<](../01/intro.md) | [>>](../03/intro.md)__

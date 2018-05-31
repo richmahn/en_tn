@@ -19,9 +19,3 @@ A sheep pen was a space with a stone wall around it in which shepherds would kee
 ##### Laying down and taking up life
 
 Jesus speaks of his life as if it were a physical object that he could lay down on the ground, a metaphor for dying, or pick up again, a metaphor for becoming alive again.
-
-## Links:
-
-* __[John 10:01 Notes](./01.md)__
-
-__[<<](../09/intro.md) | [>>](../11/intro.md)__
