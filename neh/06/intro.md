@@ -1,18 +1,18 @@
-# Nehemiah 06 General Notes #
+# Nehemiah 06 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-The building of the wall is completed in this chapter. 
+The building of the wall is completed in this chapter.
 
 The ULT sets the lines in 6:6-7 farther to the right on the page than the rest of the text because they are part of a long quotation.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Miracle #####
+##### Miracle
 
-Completing this city wall in only fifty-two days was considered proof that God had helped the Jews, especially given the opposition that they had experienced from the people in surrounding areas. 
+Completing this city wall in only fifty-two days was considered proof that God had helped the Jews, especially given the opposition that they had experienced from the people in surrounding areas.
 
-## Links: ##
+## Links:
 
 * __[Nehemiah 06:01 Notes](./01.md)__
 

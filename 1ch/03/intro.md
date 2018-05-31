@@ -1,10 +1,10 @@
-# 1 Chronicles 03 General Notes #
+# 1 Chronicles 03 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-This chapter records the descendants of King David. 
+This chapter records the descendants of King David.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 03:01 Notes](./01.md)__
 

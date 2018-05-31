@@ -1,15 +1,15 @@
-# Psalm 111 General Notes #
+# Psalm 111 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 111 is a psalm of praise to God for his miracles and care. (See: [[rc://en/tw/dict/bible/kt/miracle]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's character #####
+##### Yahweh's character
 God is great. He has given his people food and a land always keeps his promises to his people. (See: [[rc://en/tw/dict/bible/kt/promise]] and [[rc://en/tw/dict/bible/kt/peopleofgod]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 111:1](../../psa/111/001.md)__
 

@@ -1,15 +1,15 @@
-# Psalm 093 General Notes #
+# Psalm 093 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 93 is a worship psalm about the power of Yahweh.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's power #####
+##### Yahweh's power
 Yahweh is all powerful; He even controls the ocean.
 
-## Links: ##
+## Links:
 
 * __[Psalms 93:1](../../psa/093/001.md)__
 

@@ -1,14 +1,14 @@
-# Psalm 046 General Notes #
+# Psalm 046 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 46 is a psalm of praise to God.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
 God is all-powerful, controls nature, and protects his people. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 46:1](../../psa/046/001.md)__
 

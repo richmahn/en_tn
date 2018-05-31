@@ -1,14 +1,14 @@
-# Psalm 020 General Notes #
+# Psalm 020 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
-Psalm 20 is a royal psalm. It is probably a prayer for the king, perhaps when he first became king. 
+Psalm 20 is a royal psalm. It is probably a prayer for the king, perhaps when he first became king.
 
-#### Special concepts in this chapter ####
-##### Trust #####
+#### Special concepts in this chapter
+##### Trust
 Trusting God is much better than trusting in military might. (See: [[rc://en/tw/dict/bible/kt/trust]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 20:1](../../psa/020/001.md)__
 

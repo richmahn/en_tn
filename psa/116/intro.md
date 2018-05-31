@@ -1,15 +1,15 @@
-# Psalm 116 General Notes #
+# Psalm 116 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 116 is a psalm of praise for saving the psalmist's life. (See: [[rc://en/tw/dict/bible/kt/save]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Healing #####
+##### Healing
 The author was very sick and expected to die but God healed him. So he will pay his vow and sacrifice an offering of thanks. (See: [[rc://en/tw/dict/bible/kt/vow]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 116:1](../../psa/116/001.md)__
 

@@ -1,10 +1,10 @@
-# 1 Chronicles 02 General Notes #
+# 1 Chronicles 02 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-This chapter records the descendants of Judah, son of Jacob. 
+This chapter records the descendants of Judah, son of Jacob.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 02:01 Notes](./01.md)__
 

@@ -1,15 +1,15 @@
-# Psalm 112 General Notes #
+# Psalm 112 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 112 is a wisdom psalm teaching the value of a righteous life. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/righteous]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Righteous people #####
+##### Righteous people
 The righteous people will be well-known for their generosity and they will not have to worry about bad news because God is taking care of them.
 
-## Links: ##
+## Links:
 
 * __[Psalms 112:1](../../psa/112/001.md)__
 

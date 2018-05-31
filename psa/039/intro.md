@@ -1,17 +1,17 @@
-# Psalm 039 General Notes #
+# Psalm 039 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
-Psalm 39 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible/other/deliverer]]) 
+Psalm 39 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Life #####
-Life on earth is short. The psalmist wanted God's healing so he can enjoy the rest of his life. (See: [[rc://en/tw/dict/bible/kt/life]]) 
+##### Life
+Life on earth is short. The psalmist wanted God's healing so he can enjoy the rest of his life. (See: [[rc://en/tw/dict/bible/kt/life]])
 
-This psalm shares some characteristics of another wisdom book called Ecclesiastes or Koheleth but is more positive. 
+This psalm shares some characteristics of another wisdom book called Ecclesiastes or Koheleth but is more positive.
 
-## Links: ##
+## Links:
 
 * __[Psalms 39:1](../../psa/039/001.md)__
 

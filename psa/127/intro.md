@@ -1,15 +1,15 @@
-# Psalm 127 General Notes #
+# Psalm 127 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 127 is a wisdom psalm. (See: [[rc://en/tw/dict/bible/kt/wise]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Blessings #####
+##### Blessings
 God wants his people to have rest. It is a blessing to have many children. (See: [[rc://en/tw/dict/bible/other/rest]] and [[rc://en/tw/dict/bible/kt/bless]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 127:1](../../psa/127/001.md)__
 

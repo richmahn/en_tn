@@ -1,24 +1,24 @@
-# Colossians 03 General Notes #
+# Colossians 03 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-The second part of this chapter parallels Ephesians 5 and 6. 
+The second part of this chapter parallels Ephesians 5 and 6.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Old and new self #####
+##### Old and new self
 The old and new self mean the same as the old and new man. The term "old man" probably refers to the sinful nature with which a person is born. The "new man" is the new nature or new life that God gives a person after they come to believe in Christ. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/faith]])
 
-#### Other possible translation difficulties in this chapter ####
+#### Other possible translation difficulties in this chapter
 
-##### Character #####
+##### Character
 Many of the things Paul encourages his readers to pursue or avoid are not actions but character qualities. Because of this, they may be difficult to translate. (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 
-##### "The things above" #####
+##### "The things above"
 
-Where God dwells is often pictured as being located "above." Paul says to "seek the things above" and to "think about the things above." He is implying Christians should seek and think about heavenly and godly things. 
+Where God dwells is often pictured as being located "above." Paul says to "seek the things above" and to "think about the things above." He is implying Christians should seek and think about heavenly and godly things.
 
-## Links: ##
+## Links:
 
 * __[Colossians 03:01 Notes](./01.md)__
 

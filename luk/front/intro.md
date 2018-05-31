@@ -1,8 +1,8 @@
-# Introduction to the Gospel of Luke #
+# Introduction to the Gospel of Luke
 
-## Part 1: General Introduction ##
+## Part 1: General Introduction
 
-#### Outline of the Book of Luke ####
+#### Outline of the Book of Luke
 
 1. Introduction and purpose for writing (1:1-4)
 1. Birth of Jesus and his preparation for his ministry (1:5-4:13)
@@ -17,47 +17,47 @@
 1. Jesus' teaching about his second coming (21:5–-36)
 1. Jesus' death, burial, and resurrection (22:1–-24:53)
 
-#### What is the Gospel of Luke about? ####
+#### What is the Gospel of Luke about?
 
 The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Luke wrote his gospel for a person named Theophilus. Luke wrote an accurate description of the life of Jesus so that Theophilus would be certain of what is true. However, Luke expected the gospel to encourage all believers, not just Theophilus.
 
-#### How should the title of this book be translated? ####
+#### How should the title of this book be translated?
 
 Translators may choose to call this book by its traditional title, "The Gospel of Luke" or "The Gospel according to Luke." Or they may choose a title that may be clearer, for example, "The Good News about Jesus that Luke wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of Luke? ####
+#### Who wrote the Book of Luke?
 
-This book does not give the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke was the author of both the Book of Luke and the Book of Acts. 
+This book does not give the name of the author. The same person who wrote this book also wrote the Book of Acts. In parts of the Book of Acts, the author uses the word "we." This indicates that the author traveled with Paul. Most scholars think that Luke was this person traveling with Paul. Therefore, since early Christian times, most Christians have thought Luke was the author of both the Book of Luke and the Book of Acts.
 
 Luke was a medical doctor. His way of writing shows that he was an educated man. He was probably a Gentile. Luke himself probably did not witness what Jesus said and did. But he said that he talked to many people who did.
 
-## Part 2: Important Religious and Cultural Concepts ##
+## Part 2: Important Religious and Cultural Concepts
 
-#### What are the roles of women in the Gospel of Luke? ####
+#### What are the roles of women in the Gospel of Luke?
 
 Luke described women in a very positive way in his gospel. For example, he often showed women being more faithful to God than most men. (See: [[rc://en/tw/dict/bible/kt/faithful]])
 
-#### Why does Luke write so much about the final week of Jesus' life? ####
+#### Why does Luke write so much about the final week of Jesus' life?
 
 Luke wrote much about Jesus' final week. He wanted his readers to think deeply about Jesus' final week and his death on the cross. He wanted people to understand that Jesus willingly died on the cross so that God could forgive them for sinning against him. (See: [[rc://en/tw/dict/bible/kt/sin]])
 
-## Part 3: Important Translation Issues ##
+## Part 3: Important Translation Issues
 
-#### What are the Synoptic Gospels? ####
+#### What are the Synoptic Gospels?
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they have many similar passages. The word "synoptic" means to "see together."
 
 The texts are considered "parallel" when they are the same or almost the same among two or three gospels. When translating parallel passages, translators should use the same wording and make them as similar as possible.
 
-#### Why does Jesus refer to himself as the "Son of Man"? ####
+#### Why does Jesus refer to himself as the "Son of Man"?
 
-In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people will worship him forever. 
+In the gospels, Jesus called himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people will worship him forever.
 
 Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
-#### What are the major issues in the text of the Book of Luke? ####
+#### What are the major issues in the text of the Book of Luke?
 
 The following verses are not in the earliest manuscripts. The ULT and UST include these verses, but some other versions do not.
 

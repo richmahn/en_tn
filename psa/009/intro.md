@@ -1,23 +1,23 @@
-# Psalm 009 General Notes #
+# Psalm 009 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
-Psalm 9 is a psalm of praise. 
+Psalm 9 is a psalm of praise.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's protection #####
-God is a protector. He is all-powerful and his enemies cannot withstand him. 
+##### Yahweh's protection
+God is a protector. He is all-powerful and his enemies cannot withstand him.
 
-##### Acrostic Psalm #####
+##### Acrostic Psalm
 
-This psalm along with Psalm 10 form an acrostic. Which means that each unit begins with a successive letter of the Hebrew alphabet. 
+This psalm along with Psalm 10 form an acrostic. Which means that each unit begins with a successive letter of the Hebrew alphabet.
 
-##### One Psalm or two #####
+##### One Psalm or two
 
-This psalm has a superscription but Psalm 10 doesn't. This fact and the acrostic nature of the two psalms has lead some scholars to believe these two psalms may have originally been written as one psalm. 
+This psalm has a superscription but Psalm 10 doesn't. This fact and the acrostic nature of the two psalms has lead some scholars to believe these two psalms may have originally been written as one psalm.
 
-## Links: ##
+## Links:
 
 * __[Psalms 9:1](../../psa/009/001.md)__
 

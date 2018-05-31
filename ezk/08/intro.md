@@ -1,12 +1,12 @@
-# Ezekiel 08 General Notes #
+# Ezekiel 08 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Judah's sin #####
+##### Judah's sin
 
-The people have contaminated the temple with their worship of other gods and through their sin. (See: [[rc://en/tw/dict/bible/kt/temple]] and [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/sin]]) 
+The people have contaminated the temple with their worship of other gods and through their sin. (See: [[rc://en/tw/dict/bible/kt/temple]] and [[rc://en/tw/dict/bible/kt/falsegod]] and [[rc://en/tw/dict/bible/kt/sin]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 08:01 Notes](./01.md)__
 

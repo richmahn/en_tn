@@ -1,15 +1,15 @@
-# 2 Chronicles 05 General Notes #
+# 2 Chronicles 05 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-The story of King Solomon continues in this chapter.  
+The story of King Solomon continues in this chapter. 
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Moving the contents of the tent #####
+##### Moving the contents of the tent
 Everything from the tent was moved into the new temple. This too was done in a special way. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-## Links: ##
+## Links:
 
 * __[2 Chronicles 05:01 Notes](./01.md)__
 

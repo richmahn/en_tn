@@ -1,15 +1,15 @@
-# Psalm 047 General Notes #
+# Psalm 047 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 47 is a psalm of praise to God.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's power #####
+##### Yahweh's power
 God is powerful over all the nations in the world.
 
-## Links: ##
+## Links:
 
 * __[Psalms 47:1](../../psa/047/001.md)__
 

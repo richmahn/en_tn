@@ -1,10 +1,10 @@
-# Joshua 18 General Notes #
+# Joshua 18 General Notes
 
-#### Other possible translation difficulties in this chapter ####
+#### Other possible translation difficulties in this chapter
 
 This chapter is about the land given to the tribes of Israel. It will be difficult to fully understand their locations without a map. Further research may be needed to understand the locations of their land. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
-## Links: ##
+## Links:
 
 * __[Joshua 18:01 Notes](./01.md)__
 

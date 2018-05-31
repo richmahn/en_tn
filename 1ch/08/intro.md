@@ -1,10 +1,10 @@
-# 1 Chronicles 08 General Notes #
+# 1 Chronicles 08 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter records the genealogy of Saul's family.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 08:01 Notes](./01.md)__
 

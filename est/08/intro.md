@@ -1,11 +1,11 @@
-# Esther 08 General Notes #
+# Esther 08 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### God's protection #####
+##### God's protection
 Yahweh is at work in this chapter preventing the Jews from possible destruction. God used Esther and Mordecai to protect their people.
 
-## Links: ##
+## Links:
 
 * __[Esther 08:01 Notes](./01.md)__
 

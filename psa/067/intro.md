@@ -1,15 +1,15 @@
-# Psalm 067 General Notes #
+# Psalm 067 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 67 is a worship psalm.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Praise #####
+##### Praise
 People all over the world should be praising God.
 
-## Links: ##
+## Links:
 
 * __[Psalms 67:1](../../psa/067/001.md)__
 

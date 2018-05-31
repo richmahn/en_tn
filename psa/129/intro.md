@@ -1,15 +1,15 @@
-# Psalm 129 General Notes #
+# Psalm 129 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 129 is a psalm of deliverance from Israel's many enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh saves #####
+##### Yahweh saves
 Israel's enemies have always persecuted them but God has saved them from their enemies. He prays that this enemy will be destroyed with no one to wish them well. (See: [[rc://en/tw/dict/bible/kt/save]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 129:1](../../psa/129/001.md)__
 

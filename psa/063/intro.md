@@ -1,15 +1,15 @@
-# Psalm 063 General Notes #
+# Psalm 063 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 63 is a psalm of praise.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Praise #####
+##### Praise
 The author praises God for who he is and for having protected him.
 
-## Links: ##
+## Links:
 
 * __[Psalms 63:1](../../psa/063/001.md)__
 

@@ -1,20 +1,20 @@
-# Isaiah 18 General Notes #
+# Isaiah 18 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in this chapter.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Cush #####
+##### Cush
 This chapter records prophecies against the nation of Cush. They are being punished by Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Metaphors #####
+##### Metaphors
 This chapter uses many metaphors to describe the destruction coming to the people of Cush. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
-## Links: ##
+## Links:
 
 * __[Isaiah 18:01 Notes](./01.md)__
 

@@ -1,15 +1,15 @@
-# Deuteronomy 33 General Notes #
+# Deuteronomy 33 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetic lines of Moses' blessings in 33:1-29.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Families #####
+##### Families
 Moses gives a series of prophecies or instructions for each of the tribes of Israel and Israel overall. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
-## Links: ##
+## Links:
 
 * __[Deuteronomy 33:01 Notes](./01.md)__
 

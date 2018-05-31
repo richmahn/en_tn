@@ -1,8 +1,8 @@
-# Introduction to the Gospel of Mark #
+# Introduction to the Gospel of Mark
 
-## Part 1: General Introduction ##
+## Part 1: General Introduction
 
-#### Outline of the Book of Mark ####
+#### Outline of the Book of Mark
 
 1. Introduction (1:1–13)
 1. The ministry of Jesus in Galilee
@@ -13,45 +13,45 @@
 1. Last days of ministry and preparation for final conflict in Jerusalem (11:1–13:37)
 1. The death of Christ and the empty tomb (14:1–16:8)
 
-#### What is the Book of Mark about? ####
+#### What is the Book of Mark about?
 
-The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote much about how Jesus suffered and died on the cross. He did this to encourage his readers who were being persecuted. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles. 
+The Gospel of Mark is one of four books in the New Testament that describe some of the life of Jesus Christ. The authors of the gospels wrote about different aspects of who Jesus was and what he did. Mark wrote much about how Jesus suffered and died on the cross. He did this to encourage his readers who were being persecuted. Mark also explained Jewish customs and some Aramaic words. This may indicate that Mark expected most of his first readers to be Gentiles.
 
-#### How should the title of this book be translated? ####
+#### How should the title of this book be translated?
 
 Translators may choose to call this book by its traditional title, "The Gospel of Mark," or "The Gospel according to Mark." They may also choose a title that may be clearer, such as, "The Good News about Jesus that Mark wrote." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of Mark? ####
+#### Who wrote the Book of Mark?
 
 The book does not give the name of the author. However, since early Christian times, most Christians have thought that the author was Mark. Mark was also known as John Mark. He was a close friend of Peter. Mark may not have witnessed what Jesus said and did. But many scholars think that Mark wrote in his gospel what Peter told him about Jesus.
 
-## Part 2: Important Religious and Cultural Concepts ##
+## Part 2: Important Religious and Cultural Concepts
 
-#### What were Jesus' teaching methods? ####
+#### What were Jesus' teaching methods?
 
 The people regarded Jesus as a rabbi. A rabbi is a teacher of God's law. Jesus taught in similar ways as other religious teachers in Israel. He had students who followed him wherever he went. These students were called disciples. He often told parables. Parables are stories that teach moral lessons. (See: [[rc://en/tw/dict/bible/kt/lawofmoses]] and [[rc://en/tw/dict/bible/kt/disciple]] and [[rc://en/tw/dict/bible/kt/parable]])
 
-## Part 3: Important Translation Issues ##
+## Part 3: Important Translation Issues
 
-#### What are the Synoptic Gospels? ####
+#### What are the Synoptic Gospels?
 
 The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they have many similar passages. The word "synoptic" means to "see together."
 
 The texts are considered "parallel" when they are the same or almost the same among two or three gospels. When translating parallel passages, translators should use the same wording and make them as similar as possible.
 
-#### Why does Jesus refer to himself as the "Son of Man"? ####
+#### Why does Jesus refer to himself as the "Son of Man"?
 
-In the gospels, Jesus calls himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people will worship him forever. 
+In the gospels, Jesus calls himself the "Son of Man." It is a reference to Daniel 7:13-14. In this passage there is a person described as a "son of man." That means the person was someone who looked like a human being. God gave authority to the son of man to rule over the nations forever. And all the people will worship him forever.
 
 Jews of Jesus' time did not use "Son of Man" as a title for anyone. Therefore, Jesus used it for himself to help them understand who he truly was. (See: [[rc://en/tw/dict/bible/kt/sonofman]])
 
 Translating the title "Son of Man" can be difficult in many languages. Readers may misunderstand a literal translation. Translators can consider alternatives, such as "The Human One." It may also be helpful to include a footnote to explain the title.
 
-#### Why does Mark frequently use terms indicating short periods of time? ####
+#### Why does Mark frequently use terms indicating short periods of time?
 
 The Gospel of Mark uses the word "immediately" forty-two times. Mark does this to make the events more exciting and vivid. It moves the reader quickly from one event to the next.
 
-#### What are the major issues in the text of the Book of Mark? ####
+#### What are the major issues in the text of the Book of Mark?
 
 The following verses are found in older versions of the Bible but are not included in most modern versions. Translators are advised not to include these verses. However, if in the translators' region, there are older versions of the Bible that include one or more of these verses, the translators can include them. If they are included, they should be put inside square brackets ([]) to indicate that they were probably not original to Mark's Gospel.
 

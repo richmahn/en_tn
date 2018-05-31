@@ -1,21 +1,21 @@
-# Philippians 01 General Notes #
+# Philippians 01 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-Paul includes a prayer in the beginning of this letter. At that time, religious leaders sometimes began informal letters with a prayer. 
+Paul includes a prayer in the beginning of this letter. At that time, religious leaders sometimes began informal letters with a prayer.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### The day of Christ #####
+##### The day of Christ
 This probably refers to the day when Christ returns. Paul often connected the return of Christ with motivating godly living. (See: [[rc://en/tw/dict/bible/kt/godly]])
 
-#### Other possible translation difficulties in this chapter ####
+#### Other possible translation difficulties in this chapter
 
-##### Paradox #####
+##### Paradox
 
 A paradox is a true statement that appears to describe something impossible. This statement in verse 21 is a paradox: "to die is gain." In verse 23 Paul explains why this is true. ([Philippians 1:21](../../php/01/21.md))
 
-## Links: ##
+## Links:
 
 * __[Philippians 01:01 Notes](./01.md)__
 * __[Philippians intro](../front/intro.md)__

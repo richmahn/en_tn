@@ -1,10 +1,10 @@
-# Ezekiel 41 General Notes #
+# Ezekiel 41 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 Instructions for the new temple and city continue in this chapter. This chapter focuses on the courtyard of the temple. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 41:01 Notes](./01.md)__
 

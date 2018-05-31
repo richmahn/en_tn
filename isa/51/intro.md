@@ -1,18 +1,18 @@
-# Isaiah 51 General Notes #
+# Isaiah 51 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in this chapter.
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Rhetorical Questions #####
+##### Rhetorical Questions
 There are many rhetorical questions in this chapter. These questions prove Yahweh's point and are intended to convince the readers. (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
-##### Awake #####
+##### Awake
 In this chapter the author uses sleeping as a metaphor for sin. The people are told to "awake," meaning they are to repent and return to Yahweh. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/repent]])
 
-## Links: ##
+## Links:
 
 * __[Isaiah 51:01 Notes](./01.md)__
 

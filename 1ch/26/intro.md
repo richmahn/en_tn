@@ -1,15 +1,15 @@
-# 1 Chronicles 26 General Notes #
+# 1 Chronicles 26 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The preparation for the temple continues in this chapter. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Casting lots #####
+##### Casting lots
 The gatekeepers cast lots to see which gate they would guard. Those who took care of the storage also cast lots.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 26:01 Notes](./01.md)__
 

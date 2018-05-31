@@ -1,15 +1,15 @@
-# Psalm 060 General Notes #
+# Psalm 060 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 60 is a psalm of war.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Protection #####
+##### Protection
 God has preserved the land of Israel, and now he will give them victory over the countries of Moab and Edom.
 
-## Links: ##
+## Links:
 
 * __[Psalms 60:1](../../psa/060/001.md)__
 

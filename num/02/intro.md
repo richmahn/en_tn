@@ -1,12 +1,12 @@
-# Numbers 02 General Notes #
+# Numbers 02 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-##### Camping #####
+##### Camping
 
 Moses told each tribe where to camp. They were each given a specific area in which to stay.
 
-## Links: ##
+## Links:
 
 * __[Numbers 02:01 Notes](./01.md)__
 

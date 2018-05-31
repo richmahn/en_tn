@@ -1,17 +1,17 @@
-# Psalm 070 General Notes #
+# Psalm 070 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 70 is a psalm of deliverance. The psalmist asks God to deliver him from his enemies.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Help #####
+##### Help
 The author needs help and needs it immediately.
 
-##### Psalm 40 #####
-This psalm is an almost exact duplicate of Psalm 40:13-17. 
-## Links: ##
+##### Psalm 40
+This psalm is an almost exact duplicate of Psalm 40:13-17.
+## Links:
 
 * __[Psalms 70:1](../../psa/070/001.md)__
 

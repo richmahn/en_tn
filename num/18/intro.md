@@ -1,12 +1,12 @@
-# Numbers 18 General Notes #
+# Numbers 18 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Tithes and offerings #####
+##### Tithes and offerings
 
 The tribes of Israel were required to bring a tithe to the Levites in order to free them to serve Yahweh as priests. There is a detailed description of what belonged to Yahweh in this chapter. (See: [[rc://en/tw/dict/bible/kt/priest]])
 
-## Links: ##
+## Links:
 
 * __[Numbers 18:01 Notes](./01.md)__
 

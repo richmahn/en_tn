@@ -1,10 +1,10 @@
-# 2 Kings 05 General Notes #
+# 2 Kings 05 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The stories of Elisha's miracles continue in this chapter. (See: [[rc://en/tw/dict/bible/kt/miracle]])
 
-## Links: ##
+## Links:
 
 * __[2 Kings 05:01 Notes](./01.md)__
 

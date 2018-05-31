@@ -1,14 +1,14 @@
-# Psalm 040 General Notes #
+# Psalm 040 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 Psalm 40 is a psalm of praise. Many also see it as a messianic psalm, a psalm about Christ. (See: [[rc://en/tw/dict/bible/kt/christ]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Sacrifices #####
+##### Sacrifices
 God is not interested in sacrifices but wants people to obey him and fulfill his plans for them.
 
-## Links: ##
+## Links:
 
 * __[Psalms 40:1](../../psa/040/001.md)__
 

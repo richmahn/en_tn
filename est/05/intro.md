@@ -1,15 +1,15 @@
-# Esther 05 General Notes #
+# Esther 05 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter begins a section about Haman's fall (Chapters 5-7).
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Esther's respect #####
+##### Esther's respect
 Esther approached the king with the utmost of respect. By doing this, her character became respected by the king. (See: [[rc://en/ta/man/translate/figs-explicit]])
 
-## Links: ##
+## Links:
 
 * __[Esther 05:01 Notes](./01.md)__
 

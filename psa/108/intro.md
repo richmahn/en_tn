@@ -1,15 +1,15 @@
-# Psalm 108 General Notes #
+# Psalm 108 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 108 is a psalm of war.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Victory #####
+##### Victory
 God promised success to the psalmist, but Yahweh failed to help him conquer the country of Edom. He needed God to give him victory over Edom.
 
-## Links: ##
+## Links:
 
 * __[Psalms 108:1](../../psa/108/001.md)__
 

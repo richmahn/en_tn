@@ -1,15 +1,15 @@
-# Psalm 102 General Notes #
+# Psalm 102 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 102 is a psalm of deliverance from sickness. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Salvation #####
+##### Salvation
 The author does not want to die young. He also wants to see Jerusalem saved. (See: [[rc://en/tw/dict/bible/kt/save]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 102:1](../../psa/102/001.md)__
 

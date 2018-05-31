@@ -1,15 +1,15 @@
-# Job 03 General Notes #
+# Job 03 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The ULT sets the lines of this chapter farther to the right on the page than the rest of the text because it is a poem.
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Rhetorical questions #####
+##### Rhetorical questions
 Job uses several rhetorical questions in this chapter. The purpose of these rhetorical questions is to show Job's earnest desire. (See: [[rc://en/ta/man/translate/figs-rquestion]])
 
-## Links: ##
+## Links:
 
 * __[Job 03:01 Notes](./01.md)__
 

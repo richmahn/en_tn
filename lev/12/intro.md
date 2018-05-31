@@ -1,12 +1,12 @@
-# Leviticus 12 General Notes #
+# Leviticus 12 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Menstruation #####
+##### Menstruation
 
 A woman was considered to be unclean after she began to bleed from her womb every month and after having a baby. This was because all blood was considered to be unclean. (See: [[rc://en/tw/dict/bible/kt/clean]] and [[rc://en/tw/dict/bible/kt/blood]])
 
-## Links: ##
+## Links:
 
 * __[Leviticus 12:01 Notes](./01.md)__
 

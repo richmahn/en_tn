@@ -1,15 +1,15 @@
-# Psalm 101 General Notes #
+# Psalm 101 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 101 is a psalm asking God's help in living as a person should.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Encouragement #####
+##### Encouragement
 The psalmist wanted to encourage all the good people in the land restrain all the evil people. (See: [[rc://en/tw/dict/bible/kt/evil]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 101:1](../../psa/101/001.md)__
 

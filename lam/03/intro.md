@@ -1,8 +1,8 @@
-# Lamentations 03 General Notes #
+# Lamentations 03 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Troubles #####
+##### Troubles
 
 Here the author speaks of the suffering experienced by the people of Jerusalem during the Babylonian siege and after the city's fall. He speaks of these sufferings as if they had been directed against him personally, as if God had personally attacked him. However, we should understand the writer's feelings as having been shared by everyone in the city.
 
@@ -12,7 +12,7 @@ In verse 43, the writer speaks again about the suffering that God has caused to 
 
 In verse 52, the writer begins to think about his personal enemies in Jerusalem, those who persecuted him for bringing Yahweh's messages to the city. He asks for God to show his enemies that he was doing right, and to take revenge on them for their crimes against him.
 
-## Links: ##
+## Links:
 
 * __[Lamentations 03:01 Notes](./01.md)__
 

@@ -1,12 +1,12 @@
-# Jeremiah 19 General Notes #
+# Jeremiah 19 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### People horrified #####
+##### People horrified
 
 The destruction of Jerusalem will be so complete that it will leave dead bodies everywhere and horrify people who see it.
 
-## Links: ##
+## Links:
 
 * __[Jeremiah 19:01 Notes](./01.md)__
 

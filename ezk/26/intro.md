@@ -1,9 +1,9 @@
-# Ezekiel 26 General Notes #
+# Ezekiel 26 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 This chapter begins a section of prophecy against Tyre. The Babylonians will destroy Tyre. (See: [[rc://en/tw/dict/bible/kt/prophet]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 26:01 Notes](./01.md)__
 

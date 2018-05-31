@@ -1,8 +1,8 @@
-# Introduction to Ephesians #
+# Introduction to Ephesians
 
-## Part 1: General Introduction ##
+## Part 1: General Introduction
 
-#### Outline of Ephesians ####
+#### Outline of Ephesians
 
 1. Greeting and prayer for the spiritual blessings in Christ (1:1-23)
 1. Sin and salvation (2:1-10)
@@ -16,41 +16,41 @@
 1. Armor of God (6:10-20)
 1. Final greeting (6:21-24)
 
-#### Who wrote the Book of Ephesians? ####
+#### Who wrote the Book of Ephesians?
 
 Paul wrote Ephesians. Paul was from the city of Tarsus. He had been known as Saul in his early life. Before becoming a Christian, Paul was a Pharisee. He persecuted Christians. After he became a Christian, he traveled several times throughout the Roman Empire telling people about Jesus.
 
 The Apostle Paul helped start the church in Ephesus on one of his trips. He also lived in Ephesus for a year and a half and helped the believers there. Paul probably wrote this letter while he was in prison in Rome.
 
-#### What is the Book of Ephesians about? ####
+#### What is the Book of Ephesians about?
 
 Paul wrote this letter to the Christians in Ephesus to explain God's love for them in Christ Jesus. He described the blessings that God was giving them because they were now united with Christ. He explained that all believers are united together, whether Jew or Gentile. Paul also wanted to encourage them to live in a way that pleases God.
- 
-#### How should the title of this book be translated? ####
+
+#### How should the title of this book be translated?
 
 Translators may choose to call this book by its traditional title, "Ephesians." Or they may choose a clearer title, such as "Paul's Letter to the Church in Ephesus" or "A Letter to the Christians in Ephesus." (See: [[rc://en/ta/man/translate/translate-names]])
 
-## Part 2: Important Religious and Cultural Concepts ##
+## Part 2: Important Religious and Cultural Concepts
 
-#### What was the "hidden truth" in the Book of Ephesians? ####
+#### What was the "hidden truth" in the Book of Ephesians?
 
-The expression translated in the ULT as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. Gentiles are now able to benefit from the promises of Christ as equals with the Jews. 
+The expression translated in the ULT as "hidden truth" or "hidden" occurs six times. By it Paul always meant something that God had to reveal to human beings because they could not know it on their own. It always referred to something about how God planned to save mankind. Sometimes it was about his plan to cause peace between himself and mankind. Sometimes it was about his plan to unite Jews and Gentiles through Christ. Gentiles are now able to benefit from the promises of Christ as equals with the Jews.
 
-#### What did Paul say about salvation and righteous living? ####
+#### What did Paul say about salvation and righteous living?
 
-Paul said much about salvation and righteous living in this letter and in many of his letters. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they become Christians, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]]) 
+Paul said much about salvation and righteous living in this letter and in many of his letters. He said that God has been very kind and saved Christians because they believe in Jesus. Therefore, after they become Christians, they should live in a righteous way to show that they have faith in Christ. (See: [[rc://en/tw/dict/bible/kt/righteous]])
 
-## Part 3: Important Translation Issues ##
+## Part 3: Important Translation Issues
 
-#### Singular and plural "you" ####
+#### Singular and plural "you"
 
 In this book, the word "I" refers to Paul. The word "you" is almost always plural and refers to the believers who may read this letter. The three exceptions to this are: 5:14, 6:2, and 6:3. (See: [[rc://en/ta/man/translate/figs-you]])
 
-#### What did Paul mean by the "new self" or the "new man"? ####
+#### What did Paul mean by the "new self" or the "new man"?
 
 When Paul spoke of the "new self" or the "new man," he meant the new nature that a believer receives from the Holy Spirit. This new nature was created in God's image (See: 4:24). The phrase "new man" is also used for God causing peace between Jews and Gentiles. God brought them together as one people that belong to him (See: 2:15).
 
-#### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULT? ####
+#### How are the ideas of "holy" and "sanctify" represented in Ephesians in the ULT?
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
 
@@ -60,14 +60,14 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 
 The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
-#### What did Paul mean by the expression "in Christ," "in the Lord," etc.? ####
+#### What did Paul mean by the expression "in Christ," "in the Lord," etc.?
 
 This kind of expression occurs in 1:1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 15, 20; 2:6, 7, 10, 13, 15, 16, 18, 21, 22; 3:5, 6, 9, 11, 12, 21; 4:1, 17, 21, 32; 5:8, 18, 19; 6:1, 10, 18, 21. Paul meant to express the idea of a very close union with Christ and the believers. Please see the introduction to the Book of Romans for more details about this kind of expression.
 
-#### What are the major issues in the text of the Book of Ephesians? ####
+#### What are the major issues in the text of the Book of Ephesians?
 
 
-* "in Ephesus" (1:1). Some early manuscripts do not include this expression, but it is probably in the original letter. The ULT, UST, and many modern versions include it. 
-* "because we are members of his body" (5:30). Most modern versions, including the ULT and UST, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians. 
+* "in Ephesus" (1:1). Some early manuscripts do not include this expression, but it is probably in the original letter. The ULT, UST, and many modern versions include it.
+* "because we are members of his body" (5:30). Most modern versions, including the ULT and UST, read in this way. Some older versions read, "because we are members of his body and of his bones." Translators might decide to choose the second reading if other versions in their area have it that way. If translators choose the second reading, they should put the additional words inside square brackets ([]) to indicate that they are probably not original to the Book of Ephesians.
 
 (See: [[rc://en/ta/man/translate/translate-textvariants]])

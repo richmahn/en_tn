@@ -1,15 +1,15 @@
-# Psalm 100 General Notes #
+# Psalm 100 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 100 is the last of six worship psalms (Psalms 95-100).
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's care for his creation #####
+##### Yahweh's care for his creation
 God made mankind and takes good care of people.
 
-## Links: ##
+## Links:
 
 * __[Psalms 100:1](../../psa/100/001.md)__
 

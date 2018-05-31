@@ -1,6 +1,6 @@
-# Luke 16 General Notes #
+# Luke 16 General Notes
 
-## Links: ##
+## Links:
 
 * __[Luke 16:01 Notes](./01.md)__
 

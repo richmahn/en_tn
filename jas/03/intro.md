@@ -1,12 +1,12 @@
-# James 03 General Notes #
+# James 03 General Notes
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Metaphors #####
+##### Metaphors
 
 James teaches his readers that they should live to please God by reminding them of things that they know from everyday life. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
-## Links: ##
+## Links:
 
 * __[James 03:01 Notes](./01.md)__
 

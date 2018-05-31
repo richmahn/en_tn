@@ -1,12 +1,12 @@
-# Ezekiel 35 General Notes #
+# Ezekiel 35 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Edom #####
+##### Edom
 
-Because the people of Edom rejoiced at the destruction of Israel, they too will be destroyed. 
+Because the people of Edom rejoiced at the destruction of Israel, they too will be destroyed.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 35:01 Notes](./01.md)__
 

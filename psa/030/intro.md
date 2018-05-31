@@ -1,15 +1,15 @@
-# Psalm 030 General Notes #
+# Psalm 030 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
-Psalm 30 is a psalm of praise and thanksgiving to God. The psalmist was near death but God rescued him. 
+Psalm 30 is a psalm of praise and thanksgiving to God. The psalmist was near death but God rescued him.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### The psalmist's death #####
+##### The psalmist's death
 If he had died, it would not have been a help to God. But since God rescued him he can praise God.
 
-## Links: ##
+## Links:
 
 * __[Psalms 30:1](../../psa/030/001.md)__
 

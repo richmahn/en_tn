@@ -1,15 +1,15 @@
-# Psalm 136 General Notes #
+# Psalm 136 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 136 is a worship psalm. It was written to be sung by two parts of the choir. One part would sing the first part of each of the lines and then the other part of the choir would sing the repeated refrain.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Israel blessed #####
+##### Israel blessed
 God has blessed Israel throughout its history and taken care of the needy people. (See: [[rc://en/tw/dict/bible/kt/bless]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 136:1](../../psa/136/001.md)__
 

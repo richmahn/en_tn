@@ -1,10 +1,10 @@
-# Ezekiel 39 General Notes #
+# Ezekiel 39 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-This chapter concludes the prophecy against Gog. God will destroy Gog and his army. 
+This chapter concludes the prophecy against Gog. God will destroy Gog and his army.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 39:01 Notes](./01.md)__
 

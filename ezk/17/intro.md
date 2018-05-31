@@ -1,18 +1,18 @@
-# Ezekiel 17 General Notes #
+# Ezekiel 17 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Breaking allegiance #####
+##### Breaking allegiance
 
 The king of Judah had vowed to obey Babylon but instead he followed Egypt. Therefore, God said he would not prosper. (See: [[rc://en/tw/dict/bible/kt/vow]])
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Metaphor #####
+##### Metaphor
 
 Judah is compared to a vine that grows one direction and then another. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 17:01 Notes](./01.md)__
 

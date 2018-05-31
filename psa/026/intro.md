@@ -1,15 +1,15 @@
-# Psalm 026 General Notes #
+# Psalm 026 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 26 is a teaching psalm; showing people how they should live by the example of the psalmsist.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Praise #####
+##### Praise
 The psalmist delights in praising God and doing good deeds. It is striking how this psalm uses the first person pronoun. This is an individual psalm of petition. Each of the four petitions are accompanied with various claims. (See: [[rc://en/tw/dict/bible/kt/good]] and [[rc://en/tw/dict/bible/kt/works]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 26:1](../../psa/026/001.md)__
 

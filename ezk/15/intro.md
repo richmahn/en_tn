@@ -1,12 +1,12 @@
-# Ezekiel 15 General Notes #
+# Ezekiel 15 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Useless #####
+##### Useless
 
 God said that the people of Jerusalem were useless to him. He uses a simile to show just how useless they were. (See: [[rc://en/ta/man/translate/figs-simile]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 15:01 Notes](./01.md)__
 

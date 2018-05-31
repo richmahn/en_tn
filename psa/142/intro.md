@@ -1,15 +1,15 @@
-# Psalm 142 General Notes #
+# Psalm 142 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 142 is a psalm of deliverance from his enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh's help #####
+##### Yahweh's help
 The psalmist is alone, and has many enemies surrounding him. Despite this, Yahweh will help him. Then, good people will join the author. (See: [[rc://en/tw/dict/bible/kt/good]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 142:1](../../psa/142/001.md)__
 

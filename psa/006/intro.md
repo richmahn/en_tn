@@ -1,19 +1,19 @@
-# Psalm 006 General Notes #
+# Psalm 006 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 6 is a deliverance psalm: a call to God for help. (See: [[rc://en/tw/dict/bible/other/deliverer]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Trouble #####
+##### Trouble
 He is in deep trouble and needs God to help him in his difficult situation. But then God hears his prayer and scatters his enemies.
 
-##### First Person #####
+##### First Person
 
-This psalm is written using first person making its perspective very personal. There are many uses of the first person in this Psalm. 
+This psalm is written using first person making its perspective very personal. There are many uses of the first person in this Psalm.
 
-## Links: ##
+## Links:
 
 * __[Psalms 6:1](../../psa/006/001.md)__
 

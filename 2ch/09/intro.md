@@ -1,15 +1,15 @@
-# 2 Chronicles 09 General Notes #
+# 2 Chronicles 09 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The story of King Solomon ends.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Solomon's fame #####
+##### Solomon's fame
 Solomon was famous outside of Israel because of his wisdom and tremendous wealth. (See: [[rc://en/tw/dict/bible/kt/wise]])
 
-## Links: ##
+## Links:
 
 * __[2 Chronicles 09:01 Notes](./01.md)__
 

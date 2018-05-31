@@ -1,11 +1,11 @@
-# 2 Chronicles 13 General Notes #
+# 2 Chronicles 13 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Trust #####
+##### Trust
 Trusting in God, King Abijah of Judah was able to overcome the army of Israel even though it was twice as big as his army. (See: [[rc://en/tw/dict/bible/kt/trust]])
 
-## Links: ##
+## Links:
 
 * __[2 Chronicles 13:01 Notes](./01.md)__
 

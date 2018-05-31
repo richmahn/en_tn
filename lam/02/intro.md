@@ -1,10 +1,10 @@
-# Lamentations 02 General Notes #
+# Lamentations 02 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 God has become Judah's enemy. He is determined to destroy them.
 
-## Links: ##
+## Links:
 
 * __[Lamentations 02:01 Notes](./01.md)__
 

@@ -1,15 +1,15 @@
-# 2 Kings 07 General Notes #
+# 2 Kings 07 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The stories of Elisha's miracles continue in this chapter. (See: [[rc://en/tw/dict/bible/kt/miracle]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Fear #####
-God caused the army of Aram to hear the sound of an enormous army approaching so they all ran away leaving all their food behind. 
+##### Fear
+God caused the army of Aram to hear the sound of an enormous army approaching so they all ran away leaving all their food behind.
 
-## Links: ##
+## Links:
 
 * __[2 Kings 07:01 Notes](./01.md)__
 

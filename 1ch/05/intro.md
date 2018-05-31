@@ -1,10 +1,10 @@
-# 1 Chronicles 05 General Notes #
+# 1 Chronicles 05 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter records the descendants of Jacob's sons who lived east of the Jordan River: Reuben, Gad and Manasseh.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 05:01 Notes](./01.md)__
 

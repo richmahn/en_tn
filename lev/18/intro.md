@@ -1,12 +1,12 @@
-# Leviticus 18 General Notes #
+# Leviticus 18 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Uncovering nakedness #####
+##### Uncovering nakedness
 
 To "uncover nakedness" is a euphemism for having sexual relations with someone. This chapter gives many examples of people with whom Israelites were not to have sexual relations.
 
-## Links: ##
+## Links:
 
 * __[Leviticus 18:01 Notes](./01.md)__
 

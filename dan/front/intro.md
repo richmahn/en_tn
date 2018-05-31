@@ -1,8 +1,8 @@
-# Introduction to Daniel #
+# Introduction to Daniel
 
-## Part 1: General Introduction ##
+## Part 1: General Introduction
 
-#### Outline of Daniel ####
+#### Outline of Daniel
 
 1. Daniel and his friends in the court of Nebuchadnezzar (1:1–21)
 1. Daniel interprets Nebuchadnezzar's first dream (2:1–49)
@@ -19,40 +19,40 @@
 1. An evil king exalts himself (11:21-39)
 1. The time of the end (11:40–12:13)
 
-#### What is the Book of Daniel about? ####
+#### What is the Book of Daniel about?
 
-The first part of the Book of Daniel (chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land serving a pagan king. And it tells how God rewarded them because they were faithful. 
+The first part of the Book of Daniel (chapters 1–6) is a narrative about Daniel and his friends. They were young men from Jerusalem who were taken to Babylon as prisoners. These chapters tell how they were faithful to Yahweh while living in a pagan land serving a pagan king. And it tells how God rewarded them because they were faithful.
 
 The rest of the Book of Daniel is a series of prophetic visions. Chapters 7 and 8 deal with images representing the kingdoms and kings of the major nations. Chapters 9–11 are prophecies and visions about wars and a type of the great enemy of God appearing. Chapter 12 is a vision that describes end times.
 
-#### How should the title of this book be translated? ####
+#### How should the title of this book be translated?
 
 The traditional title of this book is "The Book of Daniel" or just "Daniel." Translators may call it "The Book About Daniel" or "The Book About the Deeds and Visions of Daniel." (See: [[rc://en/ta/man/translate/translate-names]])
 
-#### Who wrote the Book of Daniel? ####
+#### Who wrote the Book of Daniel?
 
 Daniel was a Jew who became a Babylonian government official during the exile. He may have written the book himself. Or he may have written the parts of the book and someone else put the parts together at a later time.
 
-## Part 2: Important Religious and Cultural Concepts ##
+## Part 2: Important Religious and Cultural Concepts
 
-#### Is there a missing week in Daniel's prophecy? ####
+#### Is there a missing week in Daniel's prophecy?
 
 Scholars disagree about what may appear to be a missing week in 9:24-27. It is best for translators to allow apparent mysteries such as this to remain in the text. (See: [[rc://en/ta/man/translate/writing-apocalypticwriting]])
 
-#### When did the seventy weeks begin? ####
+#### When did the seventy weeks begin?
 
 The seventy weeks in 9:24-27 began when a decree was issued to rebuild the city of Jerusalem. But there were several decrees that allowed this to happen. Translators do not need to understand how prophecies were or will be fulfilled to translate the text.
 
-#### Who was Darius the Mede? ####
+#### Who was Darius the Mede?
 
 Darius the Mede was a Babylonian king who sent Daniel into a den of lions. People have not found his name in history outside of the Book of Daniel. Scholars have tried to explain who Darius was, but they are not certain.
 
-## Part 3: Important Translation Issues ##
+## Part 3: Important Translation Issues
 
-#### How does Daniel use the word "king"? ####
+#### How does Daniel use the word "king"?
 
 Many kings are in the Book of Daniel, but not all of the kings ruled over all of Babylon or Persia. Some of the kings may have ruled over regions or cities.
 
-#### How many chapters does Daniel have? ####
+#### How many chapters does Daniel have?
 
 Daniel has twelve chapters. Some Bible versions include stories called "Bel and the Dragon" and "The Prayer of Azariah." However, few people think that these stories have the same authority as the rest of scripture. Therefore, there is no need to translate them.

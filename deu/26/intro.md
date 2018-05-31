@@ -1,10 +1,10 @@
-# Deuteronomy 26 General Notes #
+# Deuteronomy 26 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter recalls the great events of Israel's history when Yahweh brought them out of Egypt.
 
-## Links: ##
+## Links:
 
 * __[Deuteronomy 26:01 Notes](./01.md)__
 

@@ -1,10 +1,10 @@
-# Ezekiel 38 General Notes #
+# Ezekiel 38 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter begins a section prophesying against Gog. Later Gog will try to conquer Israel.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 38:01 Notes](./01.md)__
 

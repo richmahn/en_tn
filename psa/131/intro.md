@@ -1,15 +1,15 @@
-# Psalm 131 General Notes #
+# Psalm 131 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 131 is a wisdom psalm teaching trust in Yahweh. (See: [[rc://en/tw/dict/bible/kt/wise]] and [[rc://en/tw/dict/bible/kt/trust]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Trust #####
+##### Trust
 This psalm focuses on the concept of trust. A quiet trust in Yahweh is best.
 
-## Links: ##
+## Links:
 
 * __[Psalms 131:1](../../psa/131/001.md)__
 

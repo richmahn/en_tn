@@ -1,12 +1,12 @@
-# Ezekiel 21 General Notes #
+# Ezekiel 21 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Refusing to learn #####
+##### Refusing to learn
 
-Judah has refused to learn from their punishment, so God is about to destroy the nation in war. 
+Judah has refused to learn from their punishment, so God is about to destroy the nation in war.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 21:01 Notes](./01.md)__
 

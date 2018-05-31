@@ -1,16 +1,16 @@
-# Esther 09 General Notes #
+# Esther 09 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Purim #####
+##### Purim
 The events of this chapter were so significant, the Jews celebrated these events every year after this. It is known as "Purim."
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Ironic Situation #####
-The day that was supposed to bring great victory to the enemies of the Jews became a day of great victory for the Jews. This is a type of irony. 
+##### Ironic Situation
+The day that was supposed to bring great victory to the enemies of the Jews became a day of great victory for the Jews. This is a type of irony.
 
-## Links: ##
+## Links:
 
 * __[Esther 09:01 Notes](./01.md)__
 

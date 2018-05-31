@@ -1,12 +1,12 @@
-# Ezekiel 12 General Notes #
+# Ezekiel 12 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Exile #####
+##### Exile
 
-God warned that very soon the people in Jerusalem would be exiled to Babylon. 
+God warned that very soon the people in Jerusalem would be exiled to Babylon.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 12:01 Notes](./01.md)__
 

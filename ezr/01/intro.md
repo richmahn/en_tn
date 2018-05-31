@@ -1,19 +1,19 @@
-# Ezra 01 General Notes #
+# Ezra 01 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The chapter records the story of the first Jews as they return from Persia to Judea.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### King Cyrus #####
+##### King Cyrus
 King Cyrus allowed them to return because he wanted them to rebuild the temple. Those who stayed behind gave gifts to those who left to help them on their journey and resettlement. This practice was common under the reign of Cyrus and was used as a way to maintain peace throughout his kingdom. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-#### Possible translation difficulties in this chapter ####
-##### Jews #####
-Upon return to Judea, the focus of the rest of the Old Testament is on the Jewish people. 
+#### Possible translation difficulties in this chapter
+##### Jews
+Upon return to Judea, the focus of the rest of the Old Testament is on the Jewish people.
 
-## Links: ##
+## Links:
 
 * __[Ezra 01:01 Notes](./01.md)__
 * __[Ezra intro](../front/intro.md)__

@@ -1,15 +1,15 @@
-# Psalm 150 General Notes #
+# Psalm 150 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 150 is a worship psalm. It is last in a series of worship psalms. (Psalms 144-150)
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Instruments #####
+##### Instruments
 People should praise Yahweh with every type of musical instrument.
 
-## Links: ##
+## Links:
 
 * __[Psalms 150:1](../../psa/150/001.md)__
 

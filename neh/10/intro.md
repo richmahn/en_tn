@@ -1,16 +1,16 @@
-# Nehemiah 10 General Notes #
+# Nehemiah 10 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter concludes the passage beginning in chapter 9.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### The vow #####
+##### The vow
 
 By signing this document, the people vowed or agreed to obey God, not to buy things on the Sabbath and to pay their temple tax. (See: [[rc://en/tw/dict/bible/kt/vow]] and [[rc://en/tw/dict/bible/kt/sabbath]] and [[rc://en/tw/dict/bible/kt/temple]])
 
-## Links: ##
+## Links:
 
 * __[Nehemiah 10:01 Notes](./01.md)__
 

@@ -1,15 +1,15 @@
-# Psalm 079 General Notes #
+# Psalm 079 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 79 is a deliverance psalm and a prayer for revenge against their enemies. (See: [[rc://en/tw/dict/bible/other/deliverer]] and [[rc://en/tw/dict/bible/other/avenge]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Destruction #####
+##### Destruction
 Jerusalem has been destroyed and its people killed. God should destroy these enemy nations who do not pray to him.
 
-## Links: ##
+## Links:
 
 * __[Psalms 79:1](../../psa/079/001.md)__
 

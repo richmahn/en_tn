@@ -1,9 +1,9 @@
-# Numbers 29 General Notes #
+# Numbers 29 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 This chapter continues the material from the previous chapter about offerings on specific days.
 
-## Links: ##
+## Links:
 
 * __[Numbers 29:01 Notes](./01.md)__
 

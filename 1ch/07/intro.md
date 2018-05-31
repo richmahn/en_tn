@@ -1,10 +1,10 @@
-# 1 Chronicles 07 General Notes #
+# 1 Chronicles 07 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 This chapter records the descendants of Issachar, Benjamin, Ephraim, Asher, and Manasseh living west of the Jordan River.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 07:01 Notes](./01.md)__
 

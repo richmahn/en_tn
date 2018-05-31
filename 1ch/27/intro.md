@@ -1,10 +1,10 @@
-# 1 Chronicles 27 General Notes #
+# 1 Chronicles 27 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The preparation for the temple continues in this chapter. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 27:01 Notes](./01.md)__
 

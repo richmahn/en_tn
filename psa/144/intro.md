@@ -1,14 +1,14 @@
-# Psalm 144 General Notes #
+# Psalm 144 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 144 is a worship psalm. It is the first worship psalm in a series consisting of the final seven psalms (Psalms 144-150).
 
-#### Special concepts in this chapter ####
-##### Safety #####
+#### Special concepts in this chapter
+##### Safety
 Psalm 144 is a prayer for safety and prosperity for the nation of Israel.
 
-## Links: ##
+## Links:
 
 * __[Psalms 144:1](../../psa/144/001.md)__
 

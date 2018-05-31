@@ -1,17 +1,17 @@
-# Psalm 085 General Notes #
+# Psalm 085 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 85 is a worship psalm.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Blessings #####
+##### Blessings
 God has given so many blessings. If the people stop their sinning, then the land will be filled by the glory of God and his blessings. (See: [[rc://en/tw/dict/bible/kt/bless]] and [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/glory]])
 
-##### Group Prayer #####
-Note how this psalm uses the plural to show that it is a group praying. 
-## Links: ##
+##### Group Prayer
+Note how this psalm uses the plural to show that it is a group praying.
+## Links:
 
 * __[Psalms 85:1](../../psa/085/001.md)__
 

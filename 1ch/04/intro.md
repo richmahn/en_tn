@@ -1,10 +1,10 @@
-# 1 Chronicles 04 General Notes #
+# 1 Chronicles 04 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-This chapter records the other descendants of Judah. 
+This chapter records the other descendants of Judah.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 04:01 Notes](./01.md)__
 

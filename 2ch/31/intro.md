@@ -1,16 +1,16 @@
-# 2 Chronicles 31 General Notes #
+# 2 Chronicles 31 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
-The story of King Hezekiah continues in this chapter. 
+The story of King Hezekiah continues in this chapter.
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Idiom #####
+##### Idiom
 
-To express Hezekiah's desire to please God, the author uses two idioms "to seek God" and "with all his heart." This means that he really wanted to do what God wanted. (See: [[rc://en/ta/man/translate/figs-idiom]]) 
+To express Hezekiah's desire to please God, the author uses two idioms "to seek God" and "with all his heart." This means that he really wanted to do what God wanted. (See: [[rc://en/ta/man/translate/figs-idiom]])
 
-## Links: ##
+## Links:
 
 * __[2 Chronicles 31:01 Notes](./01.md)__
 

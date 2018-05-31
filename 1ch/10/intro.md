@@ -1,12 +1,12 @@
-# 1 Chronicles 10 General Notes #
+# 1 Chronicles 10 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### The death of Saul #####
+##### The death of Saul
 
-Saul died because he disobeyed God. 
+Saul died because he disobeyed God.
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 10:01 Notes](./01.md)__
 

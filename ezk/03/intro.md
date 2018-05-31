@@ -1,10 +1,10 @@
-# Ezekiel 03 General Notes #
+# Ezekiel 03 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 Ezekiel's call concludes in this chapter. God told Ezekiel more about what he should say to the people and how he should say it. (See: [[rc://en/tw/dict/bible/kt/call]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 03:01 Notes](./01.md)__
 

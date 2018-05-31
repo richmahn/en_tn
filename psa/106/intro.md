@@ -1,15 +1,15 @@
-# Psalm 106 General Notes #
+# Psalm 106 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 106 is the fourth in a series of five psalms of praise to  God. (Psalm 103-107)
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Israel's sin #####
+##### Israel's sin
 Although Israel continually sinned in the desert, God still took them to the Promised Land. (See: [[rc://en/tw/dict/bible/kt/sin]] and [[rc://en/tw/dict/bible/kt/promisedland]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 106:1](../../psa/106/001.md)__
 

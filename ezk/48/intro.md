@@ -1,9 +1,9 @@
-# Ezekiel 48 General Notes #
+# Ezekiel 48 General Notes
 
-#### Structure and formatting ####
-Instructions for the new temple and city continue in this chapter. There is more dividing of the land between the tribes in this chapter as well. 
+#### Structure and formatting
+Instructions for the new temple and city continue in this chapter. There is more dividing of the land between the tribes in this chapter as well.
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 48:01 Notes](./01.md)__
 

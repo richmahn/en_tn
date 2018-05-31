@@ -1,15 +1,15 @@
-# 1 Chronicles 23 General Notes #
+# 1 Chronicles 23 General Notes
 
-#### Structure and formatting ####
+#### Structure and formatting
 
 The preparation for the construction of the temple continues in this chapter. (See: [[rc://en/tw/dict/bible/kt/temple]])
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Organizing the Levites #####
+##### Organizing the Levites
 As priests, the Levites had a significant role in the construction of the temple. David organized the Levites according to their families and explained what each group was to do. (See: [[rc://en/tw/dict/bible/kt/priest]])
 
-## Links: ##
+## Links:
 
 * __[1 Chronicles 23:01 Notes](./01.md)__
 

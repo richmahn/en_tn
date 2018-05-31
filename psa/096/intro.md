@@ -1,15 +1,15 @@
-# Psalm 096 General Notes #
+# Psalm 096 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 96 is one of six worship psalms (Psalms 95-100).
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Yahweh, the king #####
+##### Yahweh, the king
 Yahweh is king over all the earth and is worthy of all praise.
 
-## Links: ##
+## Links:
 
 * __[Psalms 96:1](../../psa/096/001.md)__
 

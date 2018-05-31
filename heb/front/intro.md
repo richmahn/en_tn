@@ -1,8 +1,8 @@
-# Introduction to Hebrews #
+# Introduction to Hebrews
 
-## Part 1: General Introduction ##
+## Part 1: General Introduction
 
-#### Outline of the Book of Hebrews ####
+#### Outline of the Book of Hebrews
 
 1. Jesus is superior to God's prophets and angels (1:1-4:13)
 1. Jesus is superior to the priests who serve in the temple in Jerusalem (4:14-7:28)
@@ -11,33 +11,33 @@
 1. Encouragement to be faithful to God (12:1-29)
 1. Concluding encouragements and greetings (13:1-25)
 
-#### Who wrote the Book of Hebrews? ####
+#### Who wrote the Book of Hebrews?
 
-No one knows who wrote Hebrews. Scholars have suggested several different people who could possibly be the author. Possible authors are Paul, Luke, and Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed. 
+No one knows who wrote Hebrews. Scholars have suggested several different people who could possibly be the author. Possible authors are Paul, Luke, and Barnabas. The date of writing is also not known. Most scholars think it was written before A.D. 70. Jerusalem was destroyed in A.D. 70, but the writer of this letter spoke about Jerusalem as if it had not yet been destroyed.
 
-#### What is the Book of Hebrews about? ####
+#### What is the Book of Hebrews about?
 
 In the Book of Hebrews, the author shows that Jesus fulfilled Old Testament prophecies. The author did this in order to encourage the Jewish Christians and to explain that Jesus is better than anything that the old covenant had to offer. Jesus is the perfect High Priest. Jesus was also the perfect sacrifice. Animal sacrifices became useless because Jesus' sacrifice was once and for all time. Therefore, Jesus is the one and only way for people to be accepted by God.
 
-#### How should the title of this book be translated? ####
+#### How should the title of this book be translated?
 
 Translators may choose to call this book by its traditional title, "Hebrews." Or they may choose a clearer title, such as "The Letter to the Hebrews" or "A Letter to the Jewish Christians." (See: [[rc://en/ta/man/translate/translate-names]])
 
-## Part 2: Important Religious and Cultural Concepts ##
+## Part 2: Important Religious and Cultural Concepts
 
-#### Can readers understand this book without knowing about the sacrifices and the work of the priests required in the Old Testament? ####
+#### Can readers understand this book without knowing about the sacrifices and the work of the priests required in the Old Testament?
 
 It would be very difficult for readers to understand this book without understanding these matters. Translators might consider explaining some of these Old Testament concepts in notes or in an introduction to this book.
 
-#### How is the idea of blood used in the Book of Hebrews? ####
+#### How is the idea of blood used in the Book of Hebrews?
 
 Beginning in [Hebrews 9:7](../../heb/09/07.md), the idea of blood is often used as metonymy to represent the death of any animal that was sacrificed according to God's covenant with Israel. The author also used blood to represent the death of Jesus Christ. Jesus became the perfect sacrifice so that God would forgive people for sinning against him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 
-Beginning in [Hebrews 9:19](../../heb/09/19.md), the author used the idea of sprinkling as a symbolic action. Old Testament priests sprinkled the blood of the animals sacrificed. This was a symbol of the benefits of the animal's death being applied to the people or to an object. This showed that the people or the object was acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]]) 
+Beginning in [Hebrews 9:19](../../heb/09/19.md), the author used the idea of sprinkling as a symbolic action. Old Testament priests sprinkled the blood of the animals sacrificed. This was a symbol of the benefits of the animal's death being applied to the people or to an object. This showed that the people or the object was acceptable to God. (See: [[rc://en/ta/man/translate/translate-symaction]])
 
-## Part 3: Important Translation Issues ##
+## Part 3: Important Translation Issues
 
-#### How are the ideas of "holy" and "sanctify" represented in Hebrews in the ULT? ####
+#### How are the ideas of "holy" and "sanctify" represented in Hebrews in the ULT?
 
 The scriptures use such words to indicate any one of various ideas. For this reason, it is often difficult for translators to represent them well in their versions. In translating into English, the ULT uses the following principles:
 
@@ -47,7 +47,7 @@ The scriptures use such words to indicate any one of various ideas. For this rea
 
 The UST will often be helpful as translators think about how to represent these ideas in their own versions.
 
-#### What are the major issues in the text of the Book of Hebrews? ####
+#### What are the major issues in the text of the Book of Hebrews?
 
 For the following verses, modern versions of the Bible differ from older versions. The ULT text has the modern reading and puts the older reading in a footnote. If a translation of the Bible exists in the general region, translators should consider using the reading found in those versions. If not, translators are advised to follow the modern reading.
 

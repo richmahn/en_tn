@@ -1,15 +1,15 @@
-# Psalm 139 General Notes #
+# Psalm 139 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 139 is a psalm of praise.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### God's care #####
+##### God's care
 God created the psalmist in his mother's womb and has taken care of him all of his life. No matter where he goes, God is always with him.
 
-## Links: ##
+## Links:
 
 * __[Psalms 139:1](../../psa/139/001.md)__
 

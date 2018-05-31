@@ -1,15 +1,15 @@
-# Psalm 117 General Notes #
+# Psalm 117 General Notes
 
-#### Type of psalm ####
+#### Type of psalm
 
 Psalm 117 is a psalm of praise.
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Praise #####
+##### Praise
 Everyone should praise God for his love and unending faithfulness. (See: [[rc://en/tw/dict/bible/kt/love]] and [[rc://en/tw/dict/bible/kt/faithful]])
 
-## Links: ##
+## Links:
 
 * __[Psalms 117:1](../../psa/117/001.md)__
 

@@ -1,12 +1,12 @@
-# Ezekiel 06 General Notes #
+# Ezekiel 06 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### Shrines on the hill tops #####
+##### Shrines on the hill tops
 
-God will destroy all those who have been worshiping idols at the hill top shrines.  
+God will destroy all those who have been worshiping idols at the hill top shrines. 
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 06:01 Notes](./01.md)__
 

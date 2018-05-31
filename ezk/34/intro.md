@@ -1,18 +1,18 @@
-# Ezekiel 34 General Notes #
+# Ezekiel 34 General Notes
 
-#### Special concepts in this chapter ####
+#### Special concepts in this chapter
 
-##### God protects the people #####
+##### God protects the people
 
-God is against those who exploit others. He will protect and take care of his people. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]]) 
+God is against those who exploit others. He will protect and take care of his people. (See: [[rc://en/tw/dict/bible/kt/peopleofgod]])
 
-#### Important figures of speech in this chapter ####
+#### Important figures of speech in this chapter
 
-##### Metaphor #####
+##### Metaphor
 
 The people of Israel are compared to sheep and God and the son of David as good shepherds. This is a common metaphor in scripture. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 
-## Links: ##
+## Links:
 
 * __[Ezekiel 34:01 Notes](./01.md)__
 
