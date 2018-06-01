@@ -5,7 +5,7 @@ JUD	01	01	npc3	translate-names		0	Jude, a servant of	Jude is the brother of Jame
 JUD	01	01	m3v1			0	brother of James	James and Jude were half brothers of Jesus.
 JUD	01	02	r5ae	figs-abstractnouns		0	May mercy and peace and love be multiplied to you	"may mercy, peace, and love be increased many times for you." These ideas are spoken of as if they were objects that could grow in size or number. This can be restate to remove the abstract nouns "mercy," "peace," and "love." Alternate translation: "May God continue to be merciful to you so that you live peacefully and love one another more and more (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 JUD	01	03	kjk6	figs-inclusive		0	General Information:	The word "our" in this letter includes both Jude and believers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
-JUD	01	03	yfa8	Connecting Statement:		0		Jude tells the believers his reason for writing this letter.
+JUD	01	03	yfa8			0	Connecting Statement:	Jude tells the believers his reason for writing this letter.
 JUD	01	03	mi3w			0	our common salvation	"the salvation we share"
 JUD	01	03	si1u			0	I had to write	"I felt a great need to write" or "I felt an urgent need to write"
 JUD	01	03	yyf4			0	to exhort you to struggle earnestly for the faith	"to encourage you to defend the true teaching"
@@ -14,7 +14,7 @@ JUD	01	04	v94i			0	For certain men have slipped in secretly among you	"For some 
 JUD	01	04	wwz3	figs-activepassive		0	men who were marked out for condemnation	This can also be put into the active voice. Alternate translation: "men whom God chose to condemn" (See: [[rc://en/ta/man/translate/figs-activepassive]])
 JUD	01	04	c642	figs-metaphor		0	who have changed the grace of our God into sensuality	God's grace is spoken of as if it were a thing that could be changed into something horrible. Alternate translation: "who teach that God's grace permits one to continue to live in sexual sin" (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	04	ws1b			0	deny our only Master and Lord, Jesus Christ	Possible meanings are 1) they teach that he is not God or 2) these men do not obey Jesus Christ.
-JUD	01	05	fa5e	Connecting Statement:		0		Jude gives examples from the past of those who did not follow the Lord.
+JUD	01	05	fa5e			0	Connecting Statement:	Jude gives examples from the past of those who did not follow the Lord.
 JUD	01	05	f4mm			0	the Lord saved a people out of the land of Egypt	"the Lord rescued the Israelites long ago from Egypt"
 JUD	01	05	xbq1			0	the Lord	Some texts read "Jesus."
 JUD	01	06	pt1k			0	their own position of authority	"the responsibilities God entrusted to them"
@@ -35,7 +35,7 @@ JUD	01	09	v9fh			0	bring a slanderous judgment against	"say evil, untrue things 
 JUD	01	10	h6sq			0	these people	the ungodly people
 JUD	01	10	fjm5			0	whatever they do not understand	"anything of which they do not know the meaning." Possible meanings are 1) "everything good that they do not understand" or 2) "the glorious ones, which they do not understand" ([Jude 1:8](../01/08.md)).
 JUD	01	11	j3g9	figs-metaphor		0	walked in the way of Cain	"Walked in the way" here is a metaphor for "lived in the same way as." Alternate translation: "lived the same way Cain lived" (See: [[rc://en/ta/man/translate/figs-metaphor]])
-JUD	01	12	s4az	Connecting Statement:		0		Jude uses a series of metaphors to describe the ungodly men. He tells the believers how to recognize these men when they are among them.
+JUD	01	12	s4az			0	Connecting Statement:	Jude uses a series of metaphors to describe the ungodly men. He tells the believers how to recognize these men when they are among them.
 JUD	01	12	r875			0	These are the ones	The word "These" refers to the "ungodly men" of [Jude 1:4](../01/04.md).
 JUD	01	12	e25d	figs-metaphor		0	hidden reefs	Reefs are large rocks that are very close to the surface of water in the sea. Because sailors cannot see them, they are very dangerous. Ships can easily be destroyed if they hit these rocks. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	12	zk57	figs-metaphor		0	twice dead, torn up by the roots	A tree that someone has uprooted is a metaphor for death. (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -55,7 +55,7 @@ JUD	01	18	j5m4	figs-metaphor		0	will follow their own ungodly desires	Ungodly de
 JUD	01	19	r28j			0	It is these	"It is these mockers" or "These mockers are the ones"
 JUD	01	19	ba6u	figs-metaphor		0	are worldly	think as other ungodly people think, they value the things that unbelievers value (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	19	qn4p			0	they do not have the Spirit	The Holy Spirit is spoken of as if he were something that people can possess. Alternate translation: "the Spirit is not within them"
-JUD	01	20	e3ga	Connecting Statement:		0		Jude tells the believers how they should live and how they should treat others.
+JUD	01	20	e3ga			0	Connecting Statement:	Jude tells the believers how they should live and how they should treat others.
 JUD	01	20	xm93			0	But you, beloved	"Do not be like them, beloved. Instead"
 JUD	01	20	cc68	figs-metaphor		0	build yourselves up	Becoming increasingly able to trust in God and obey him is spoken of as if it were the process of constructing a building. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	21	zd2c	figs-metaphor		0	Keep yourselves in God's love	Remaining able to receive God's love is spoken of as if one were keeping oneself in a certain place. (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -65,7 +65,7 @@ JUD	01	22	wbr5			0	those who doubt	"those who do not yet believe that Jesus is G
 JUD	01	23	wkj9	figs-metaphor		0	snatching them out of the fire	The picture is that of pulling people from a fire before they start to burn. Alternate translation: "doing for them whatever needs to be done to keep them from dying without Christ. This is like pulling them from the fire" (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	23	ign7			0	To others be merciful with fear	"Be kind to others, but be afraid of sinning the way they did"
 JUD	01	23	u4px	figs-hyperbole		0	Hate even the garment stained by the flesh	Jude exaggerates to warn his readers that they can become like those sinners. Alternate translation: "Treat them as though you could become guilty of sin just by touching their clothes" (See: [[rc://en/ta/man/translate/figs-hyperbole]])
-JUD	01	24	r3jx	Connecting Statement:		0		Jude closes with a blessing.
+JUD	01	24	r3jx			0	Connecting Statement:	Jude closes with a blessing.
 JUD	01	24	w1dc	figs-metaphor		0	to cause you to stand before his glorious presence	His glory is brilliant light that represents his greatness. Alternate translation: "and to allow you to enjoy and worship his glory" (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	24	gq9e	figs-metaphor		0	glorious presence without blemish and with	Here sin is spoken of as if it were dirt on one's body or a flaw on one's body. Alternate translation: "glorious presence, where you will be without sin and have" (See: [[rc://en/ta/man/translate/figs-metaphor]])
 JUD	01	25	a3ua			0	to the only God our Savior through Jesus Christ our Lord	"to the only God, who saved us because of what Jesus Christ did." This emphasizes that God the Father as well as the Son is the Savior.
