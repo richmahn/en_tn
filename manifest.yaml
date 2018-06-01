@@ -366,7 +366,7 @@ dublin_core:
   - 'Yvonne Tallent'
   creator: 'Door43 World Missions Community'
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
-  format: 'text/markdown'
+  format: 'text/tsv'
   identifier: 'tn'
   issued: '2017-11-29'
   language:
@@ -394,399 +394,530 @@ checking:
   checking_level: '3'
 
 projects:
-- categories: []
-  identifier: 2th
-  path: ./2th
-  sort: 0
-  title: 2 Thessalonians translationNotes
-  versification: ''
-- categories: []
-  identifier: 1jn
-  path: ./1jn
-  sort: 0
-  title: 1 John translationNotes
-  versification: ''
-- categories: []
-  identifier: sng
-  path: ./sng
-  sort: 0
-  title: Song of Songs translationNotes
-  versification: ''
-- categories: []
-  identifier: lev
-  path: ./lev
-  sort: 0
-  title: Leviticus translationNotes
-  versification: ''
-- categories: []
-  identifier: ezk
-  path: ./ezk
-  sort: 0
-  title: Ezekiel translationNotes
-  versification: ''
-- categories: []
-  identifier: gal
-  path: ./gal
-  sort: 0
-  title: Galatians translationNotes
-  versification: ''
-- categories: []
-  identifier: 1ti
-  path: ./1ti
-  sort: 0
-  title: 1 Timothy translationNotes
-  versification: ''
-- categories: []
-  identifier: 1ki
-  path: ./1ki
-  sort: 0
-  title: 1 Kings translationNotes
-  versification: ''
-- categories: []
-  identifier: 1pe
-  path: ./1pe
-  sort: 0
-  title: 1 Peter translationNotes
-  versification: ''
-- categories: []
-  identifier: mat
-  path: ./mat
-  sort: 0
-  title: Matthew translationNotes
-  versification: ''
-- categories: []
-  identifier: gen
-  path: ./gen
-  sort: 0
-  title: Genesis translationNotes
-  versification: ''
-- categories: []
-  identifier: isa
-  path: ./isa
-  sort: 0
-  title: Isaiah translationNotes
-  versification: ''
-- categories: []
-  identifier: 3jn
-  path: ./3jn
-  sort: 0
-  title: 3 John translationNotes
-  versification: ''
-- categories: []
-  identifier: psa
-  path: ./psa
-  sort: 0
-  title: Psalms translationNotes
-  versification: ''
-- categories: []
-  identifier: hos
-  path: ./hos
-  sort: 0
-  title: Hosea translationNotes
-  versification: ''
-- categories: []
-  identifier: rev
-  path: ./rev
-  sort: 0
-  title: Revelation translationNotes
-  versification: ''
-- categories: []
-  identifier: phm
-  path: ./phm
-  sort: 0
-  title: Philemon translationNotes
-  versification: ''
-- categories: []
-  identifier: est
-  path: ./est
-  sort: 0
-  title: Esther translationNotes
-  versification: ''
-- categories: []
-  identifier: job
-  path: ./job
-  sort: 0
-  title: Job translationNotes
-  versification: ''
-- categories: []
-  identifier: jol
-  path: ./jol
-  sort: 0
-  title: Joel translationNotes
-  versification: ''
-- categories: []
-  identifier: jud
-  path: ./jud
-  sort: 0
-  title: Jude translationNotes
-  versification: ''
-- categories: []
-  identifier: lam
-  path: ./lam
-  sort: 0
-  title: Lamentations translationNotes
-  versification: ''
-- categories: []
-  identifier: col
-  path: ./col
-  sort: 0
-  title: Colossians translationNotes
-  versification: ''
-- categories: []
-  identifier: 2co
-  path: ./2co
-  sort: 0
-  title: 2 Corinthians translationNotes
-  versification: ''
-- categories: []
-  identifier: jer
-  path: ./jer
-  sort: 0
-  title: Jeremiah translationNotes
-  versification: ''
-- categories: []
-  identifier: dan
-  path: ./dan
-  sort: 0
-  title: Daniel translationNotes
-  versification: ''
-- categories: []
-  identifier: num
-  path: ./num
-  sort: 0
-  title: Numbers translationNotes
-  versification: ''
-- categories: []
-  identifier: mic
-  path: ./mic
-  sort: 0
-  title: Micah translationNotes
-  versification: ''
-- categories: []
-  identifier: 1sa
-  path: ./1sa
-  sort: 0
-  title: 1 Samuel translationNotes
-  versification: ''
-- categories: []
-  identifier: php
-  path: ./php
-  sort: 0
-  title: Philippians translationNotes
-  versification: ''
-- categories: []
-  identifier: hag
-  path: ./hag
-  sort: 0
-  title: Haggai translationNotes
-  versification: ''
-- categories: []
-  identifier: jdg
-  path: ./jdg
-  sort: 0
-  title: Judges translationNotes
-  versification: ''
-- categories: []
-  identifier: eph
-  path: ./eph
-  sort: 0
-  title: Ephesians translationNotes
-  versification: ''
-- categories: []
-  identifier: 2pe
-  path: ./2pe
-  sort: 0
-  title: 2 Peter translationNotes
-  versification: ''
-- categories: []
-  identifier: 1ch
-  path: ./1ch
-  sort: 0
-  title: 1 Chronicles translationNotes
-  versification: ''
-- categories: []
-  identifier: 2jn
-  path: ./2jn
-  sort: 0
-  title: 2 John translationNotes
-  versification: ''
-- categories: []
-  identifier: 2ch
-  path: ./2ch
-  sort: 0
-  title: 2 Chronicles translationNotes
-  versification: ''
-- categories: []
-  identifier: zec
-  path: ./zec
-  sort: 0
-  title: Zechariah translationNotes
-  versification: ''
-- categories: []
-  identifier: act
-  path: ./act
-  sort: 0
-  title: Acts translationNotes
-  versification: ''
-- categories: []
-  identifier: heb
-  path: ./heb
-  sort: 0
-  title: Hebrews translationNotes
-  versification: ''
-- categories: []
-  identifier: pro
-  path: ./pro
-  sort: 0
-  title: Proverbs translationNotes
-  versification: ''
-- categories: []
-  identifier: ecc
-  path: ./ecc
-  sort: 0
-  title: Ecclesiastes translationNotes
-  versification: ''
-- categories: []
-  identifier: jon
-  path: ./jon
-  sort: 0
-  title: Jonah translationNotes
-  versification: ''
-- categories: []
-  identifier: ezr
-  path: ./ezr
-  sort: 0
-  title: Ezra translationNotes
-  versification: ''
-- categories: []
-  identifier: deu
-  path: ./deu
-  sort: 0
-  title: Deuteronomy translationNotes
-  versification: ''
-- categories: []
-  identifier: 2ki
-  path: ./2ki
-  sort: 0
-  title: 2 Kings translationNotes
-  versification: ''
-- categories: []
-  identifier: exo
-  path: ./exo
-  sort: 0
-  title: Exodus translationNotes
-  versification: ''
-- categories: []
-  identifier: 2sa
-  path: ./2sa
-  sort: 0
-  title: 2 Samuel translationNotes
-  versification: ''
-- categories: []
-  identifier: zep
-  path: ./zep
-  sort: 0
-  title: Zephaniah translationNotes
-  versification: ''
-- categories: []
-  identifier: 2ti
-  path: ./2ti
-  sort: 0
-  title: 2 Timothy translationNotes
-  versification: ''
-- categories: []
-  identifier: luk
-  path: ./luk
-  sort: 0
-  title: Luke translationNotes
-  versification: ''
-- categories: []
-  identifier: jos
-  path: ./jos
-  sort: 0
-  title: Joshua translationNotes
-  versification: ''
-- categories: []
-  identifier: tit
-  path: ./tit
-  sort: 0
-  title: Titus translationNotes
-  versification: ''
-- categories: []
-  identifier: nam
-  path: ./nam
-  sort: 0
-  title: Nahum translationNotes
-  versification: ''
-- categories: []
-  identifier: 1co
-  path: ./1co
-  sort: 0
-  title: 1 Corinthians translationNotes
-  versification: ''
-- categories: []
-  identifier: rom
-  path: ./rom
-  sort: 0
-  title: Romans translationNotes
-  versification: ''
-- categories: []
-  identifier: mrk
-  path: ./mrk
-  sort: 0
-  title: Mark translationNotes
-  versification: ''
-- categories: []
-  identifier: jas
-  path: ./jas
-  sort: 0
-  title: James translationNotes
-  versification: ''
-- categories: []
-  identifier: rut
-  path: ./rut
-  sort: 0
-  title: Ruth translationNotes
-  versification: ''
-- categories: []
-  identifier: 1th
-  path: ./1th
-  sort: 0
-  title: 1 Thessalonians translationNotes
-  versification: ''
-- categories: []
-  identifier: hab
-  path: ./hab
-  sort: 0
-  title: Habakkuk translationNotes
-  versification: ''
-- categories: []
-  identifier: mal
-  path: ./mal
-  sort: 0
-  title: Malachi translationNotes
-  versification: ''
-- categories: []
-  identifier: amo
-  path: ./amo
-  sort: 0
-  title: Amos translationNotes
-  versification: ''
-- categories: []
-  identifier: jhn
-  path: ./jhn
-  sort: 0
-  title: John translationNotes
-  versification: ''
-- categories: []
-  identifier: neh
-  path: ./neh
-  sort: 0
-  title: Nehemiah translationNotes
-  versification: ''
-- categories: []
-  identifier: oba
-  path: ./oba
-  sort: 0
-  title: Obadiah translationNotes
-  versification: ''
+  -
+    title: 'Genesis translationNotes'
+    versification: ''
+    identifier: 'gen'
+    sort: 1
+    path: './en_tn_01-GEN.tsv'
+    categories: [ 'bible-ot'  ]
+
+  -
+    title: 'Exodus translationNotes'
+    versification: ''
+    identifier: 'exo'
+    sort: 2
+    path: './en_tn_02-EXO.tsv'
+    categories: [ 'bible-ot'  ]
+
+  -
+    title: 'Leviticus translationNotes'
+    versification: ''
+    identifier: 'lev'
+    sort: 3
+    path: './en_tn_03-LEV.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Numbers translationNotes'
+    versification: ''
+    identifier: 'num'
+    sort: 4
+    path: './en_tn_04-NUM.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Deuteronomy translationNotes'
+    versification: ''
+    identifier: 'deu'
+    sort: 5
+    path: './en_tn_05-DEU.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Joshua translationNotes'
+    versification: ''
+    identifier: 'jos'
+    sort: 6
+    path: './en_tn_06-JOS.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Judges translationNotes'
+    versification: ''
+    identifier: 'jdg'
+    sort: 7
+    path: './en_tn_07-JDG.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ruth translationNotes'
+    versification: ''
+    identifier: 'rut'
+    sort: 8
+    path: './en_tn_08-RUT.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Samuel translationNotes'
+    versification: ''
+    identifier: '1sa'
+    sort: 9
+    path: './en_tn_09-1SA.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Samuel translationNotes'
+    versification: ''
+    identifier: '2sa'
+    sort: 10
+    path: './en_tn_10-2SA.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Kings translationNotes'
+    versification: ''
+    identifier: '1ki'
+    sort: 11
+    path: './en_tn_11-1KI.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Kings translationNotes'
+    versification: ''
+    identifier: '2ki'
+    sort: 12
+    path: './en_tn_12-2KI.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Chronicles translationNotes'
+    versification: ''
+    identifier: '1ch'
+    sort: 13
+    path: './en_tn_13-1CH.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Chronicles translationNotes'
+    versification: ''
+    identifier: '2ch'
+    sort: 14
+    path: './en_tn_14-2CH.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ezra translationNotes'
+    versification: ''
+    identifier: 'ezr'
+    sort: 15
+    path: './en_tn_15-EZR.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Nehemiah translationNotes'
+    versification: ''
+    identifier: 'neh'
+    sort: 16
+    path: './en_tn_16-NEH.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Esther translationNotes'
+    versification: ''
+    identifier: 'est'
+    sort: 17
+    path: './en_tn_17-EST.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Job translationNotes'
+    versification: ''
+    identifier: 'job'
+    sort: 18
+    path: './en_tn_18-JOB.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Psalms translationNotes'
+    versification: ''
+    identifier: 'psa'
+    sort: 19
+    path: './en_tn_19-PSA.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Proverbs translationNotes'
+    versification: ''
+    identifier: 'pro'
+    sort: 20
+    path: './en_tn_20-PRO.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ecclesiastes translationNotes'
+    versification: ''
+    identifier: 'ecc'
+    sort: 21
+    path: './en_tn_21-ECC.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Song of Solomon translationNotes'
+    versification: ''
+    identifier: 'sng'
+    sort: 22
+    path: './en_tn_22-SNG.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Isaiah translationNotes'
+    versification: ''
+    identifier: 'isa'
+    sort: 23
+    path: './en_tn_23-ISA.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Jeremiah translationNotes'
+    versification: ''
+    identifier: 'jer'
+    sort: 24
+    path: './en_tn_24-JER.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Lamentations translationNotes'
+    versification: ''
+    identifier: 'lam'
+    sort: 25
+    path: './en_tn_25-LAM.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ezekiel translationNotes'
+    versification: ''
+    identifier: 'ezk'
+    sort: 26
+    path: './en_tn_26-EZK.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Daniel translationNotes'
+    versification: ''
+    identifier: 'dan'
+    sort: 27
+    path: './en_tn_27-DAN.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Hosea translationNotes'
+    versification: ''
+    identifier: 'hos'
+    sort: 28
+    path: './en_tn_28-HOS.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Joel translationNotes'
+    versification: ''
+    identifier: 'jol'
+    sort: 29
+    path: './en_tn_29-JOL.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Amos translationNotes'
+    versification: ''
+    identifier: 'amo'
+    sort: 30
+    path: './en_tn_30-AMO.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Obadiah translationNotes'
+    versification: ''
+    identifier: 'oba'
+    sort: 31
+    path: './en_tn_31-OBA.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Jonah translationNotes'
+    versification: ''
+    identifier: 'jon'
+    sort: 32
+    path: './en_tn_32-JON.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Micah translationNotes'
+    versification: ''
+    identifier: 'mic'
+    sort: 33
+    path: './en_tn_33-MIC.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Nahum translationNotes'
+    versification: ''
+    identifier: 'nam'
+    sort: 34
+    path: './en_tn_34-NAM.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Habakkuk translationNotes'
+    versification: ''
+    identifier: 'hab'
+    sort: 35
+    path: './en_tn_35-HAB.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Zephaniah translationNotes'
+    versification: ''
+    identifier: 'zep'
+    sort: 36
+    path: './en_tn_36-ZEP.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Haggai translationNotes'
+    versification: ''
+    identifier: 'hag'
+    sort: 37
+    path: './en_tn_37-HAG.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Zechariah translationNotes'
+    versification: ''
+    identifier: 'zec'
+    sort: 38
+    path: './en_tn_38-ZEC.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Malachi translationNotes'
+    versification: ''
+    identifier: 'mal'
+    sort: 39
+    path: './en_tn_39-MAL.tsv'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Matthew translationNotes'
+    versification: ''
+    identifier: 'mat'
+    sort: 40
+    path: './en_tn_41-MAT.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Mark translationNotes'
+    versification: ''
+    identifier: 'mrk'
+    sort: 41
+    path: './en_tn_42-MRK.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Luke translationNotes'
+    versification: ''
+    identifier: 'luk'
+    sort: 42
+    path: './en_tn_43-LUK.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'John translationNotes'
+    versification: ''
+    identifier: 'jhn'
+    sort: 43
+    path: './en_tn_44-JHN.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Acts translationNotes'
+    versification: ''
+    identifier: 'act'
+    sort: 44
+    path: './en_tn_45-ACT.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Romans translationNotes'
+    versification: ''
+    identifier: 'rom'
+    sort: 45
+    path: './en_tn_46-ROM.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '1 Corinthians translationNotes'
+    versification: ''
+    identifier: '1co'
+    sort: 46
+    path: './en_tn_47-1CO.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '2 Corinthians translationNotes'
+    versification: ''
+    identifier: '2co'
+    sort: 47
+    path: './en_tn_48-2CO.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Galatians translationNotes'
+    versification: ''
+    identifier: 'gal'
+    sort: 48
+    path: './en_tn_49-GAL.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Ephesians translationNotes'
+    versification: ''
+    identifier: 'eph'
+    sort: 49
+    path: './en_tn_50-EPH.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Philippians translationNotes'
+    versification: ''
+    identifier: 'php'
+    sort: 50
+    path: './en_tn_51-PHP.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Colossians translationNotes'
+    versification: ''
+    identifier: 'col'
+    sort: 51
+    path: './en_tn_52-COL.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '1 Thessalonians translationNotes'
+    versification: ''
+    identifier: '1th'
+    sort: 52
+    path: './en_tn_53-1TH.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '2 Thessalonians translationNotes'
+    versification: ''
+    identifier: '2th'
+    sort: 53
+    path: './en_tn_54-2TH.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '1 Timothy translationNotes'
+    versification: ''
+    identifier: '1ti'
+    sort: 54
+    path: './en_tn_55-1TI.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '2 Timothy translationNotes'
+    versification: ''
+    identifier: '2ti'
+    sort: 55
+    path: './en_tn_56-2TI.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Titus translationNotes'
+    versification: ''
+    identifier: 'tit'
+    sort: 56
+    path: './en_tn_57-TIT.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Philemon translationNotes'
+    versification: ''
+    identifier: 'phm'
+    sort: 57
+    path: './en_tn_58-PHM.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Hebrews translationNotes'
+    versification: ''
+    identifier: 'heb'
+    sort: 58
+    path: './en_tn_59-HEB.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'James translationNotes'
+    versification: ''
+    identifier: 'jas'
+    sort: 59
+    path: './en_tn_60-JAS.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '1 Peter translationNotes'
+    versification: ''
+    identifier: '1pe'
+    sort: 60
+    path: './en_tn_61-1PE.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '2 Peter translationNotes'
+    versification: ''
+    identifier: '2pe'
+    sort: 61
+    path: './en_tn_62-2PE.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '1 John translationNotes'
+    versification: ''
+    identifier: '1jn'
+    sort: 62
+    path: './en_tn_63-1JN.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '2 John translationNotes'
+    versification: ''
+    identifier: '2jn'
+    sort: 63
+    path: './en_tn_64-2JN.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: '3 John translationNotes'
+    versification: ''
+    identifier: '3jn'
+    sort: 64
+    path: './en_tn_65-3JN.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Jude translationNotes'
+    versification: ''
+    identifier: 'jud'
+    sort: 65
+    path: './en_tn_66-JUD.tsv'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Revelation translationNotes'
+    versification: ''
+    identifier: 'rev'
+    sort: 66
+    path: './en_tn_67-REV.tsv'
+    categories: [ 'bible-nt' ]
