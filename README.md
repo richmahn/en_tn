@@ -11,18 +11,18 @@ unfoldingWord tN are open-licensed exegetical notes that provide historical, cul
 To edit the tN files there are three options:
 
 * Use LibreOffice (Recommended)
-* Use the online web editor in DCS
 * Use a text editor on your computer
+* Use the online web editor in DCS
 
 Each of these options and there caveats are described below.
 
+The first two options require you to clone the repository to your computer first. You may do this on the command line or using a program such as SmartGit. After making changes to the files you will need to commit and push your changes to the server and then create a Pull Request to merge them to the `master` branch.
+
 ### Editing in LibreOffice
 
-This is the recommended way to edit the TSV files.  You may [download LibreOffice](https://www.libreoffice.org/download/download/) for free.
+This is the recommended way to edit the TSV files. You may [download LibreOffice](https://www.libreoffice.org/download/download/) for free.
 
-First, clone this repository to your local system, either using the command line or a git client like SmartGit.
-
-After you have the file on your computer, you may open the respective TSV file with LibreOffice.  Follow these notes on the Text Import Screen:
+After you have the file on your computer, you may open the respective TSV file with LibreOffice. Follow these notes on the Text Import Screen:
 
 * Set "Separated by" to "Tab"
 * Set "Text Delimiter" to blank, you will need to highlight the character and use backspace or delete to remove it
@@ -36,27 +36,27 @@ When you are done editing, click Save and then select "Use Text CSV Format" on t
 
 **Note:** Other spreadsheet editors **should not** be used because they will add or remove quotation marks which will affect the notes negatively.
 
-### Editing in DCS
-
-If you only need to change a word or two, this may be the quickest way to make your change.  See the [protected branch workflow](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/46-protected-branch-workflow) document for step by step instructions.
-
-**Note:** You must be careful not to delete any tab characters when editing with this method.
-
 ### Editing in a Text Editor
 
 You may also use a regular text editor to make changes to the files.
 
 **Note:** You must be careful not to delete or add any tab characters when editing with this method.
 
+### Editing in DCS
+
+If you only need to change a word or two, this may be the quickest way to make your change. See the [protected branch workflow](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/46-protected-branch-workflow) document for step by step instructions.
+
+**Note:** You must be careful not to delete any tab characters when editing with this method.
+
 ## Structure
 
-The tN are structured as TSV files to simplify importing and exporting into various formats for translation and presentation.  This enables the tNs to be keyed to the original Greek and Hebrew text instead of only a Gateway Language translation.
+The tN are structured as TSV files to simplify importing and exporting into various formats for translation and presentation. This enables the tNs to be keyed to the original Greek and Hebrew text instead of only a Gateway Language translation.
 
 ### TSV Format Overview
 
-A Tab Separated Value (TSV) file is like a Comma Separated Value file except that the tab character is what divides the values instead of a comma.  This makes it easier to include prose text in the files because many languages require the use of commas, single quotes, and double quotes in their sentences and paragraphs.
+A Tab Separated Value (TSV) file is like a Comma Separated Value file except that the tab character is what divides the values instead of a comma. This makes it easier to include prose text in the files because many languages require the use of commas, single quotes, and double quotes in their sentences and paragraphs.
 
-The tNs are structured as one file per book of the bible and encoded in TSV format, for example, `01-GEN.tsv`.  The columns are `Book`, `Chapter`, `Verse`, `ID`, `SupportReference`, `OrigQuote`, `Occurrence`, `GLQuote`, and `OccurrenceNote`.
+The tNs are structured as one file per book of the bible and encoded in TSV format, for example, `01-GEN.tsv`. The columns are `Book`, `Chapter`, `Verse`, `ID`, `SupportReference`, `OrigQuote`, `Occurrence`, `GLQuote`, and `OccurrenceNote`.
 
 ### tN TSV Column Description
 
@@ -69,7 +69,7 @@ The following lists each column with a brief description and example.
 * `Verse` - Verse number (e.g. `3`)
 * `ID` - Four character **alphanumeric** string unique *within* the verse for the resource (e.g. `swi9`)
   * This will be helpful in identifing which notes are translations of the original English tNs and which notes have been added by GLs.
-  * The Universal ID (UID) of a note is the combination of the `Book`, `Chapter`, `Verse`, and `ID` fields.  For example, `tit/1/3/swi9`.
+  * The Universal ID (UID) of a note is the combination of the `Book`, `Chapter`, `Verse`, and `ID` fields. For example, `tit/1/3/swi9`.
     * This is a useful way to unambiguously refer to notes.
     * An [RC link]() can resolve to a specific note like this: `rc://en/tn/help/tit/01/01/swi9`.
 * `SupportReference`
@@ -87,7 +87,7 @@ The following lists each column with a brief description and example.
 * `GLQuote` (OPTIONAL) - Gateway language quote (e.g. `he revealed his word`)
   * Software (such as tC) should disregard this field.
   * This field is a reference text for GL translators
-  * For certain notes, this field represents the display text for notes that do not relate to a specific word or phrase in the text.  There are two such cases in the tN:
+  * For certain notes, this field represents the display text for notes that do not relate to a specific word or phrase in the text. There are two such cases in the tN:
     * "Connecting Statement:" and
     * "General Information:"
   * GL translations teams **should not translate* this column. They do need to provide a translation of the above 2 statements.
