@@ -60,8 +60,6 @@ The tNs are structured as one file per book of the bible and encoded in TSV form
 
 ### tN TSV Column Description
 
-TIT	1	3	swi9	figs-metaphor	ἐφανέρωσεν ... τὸν λόγον αὐτοῦ	0	he revealed his word	
-
 The following lists each column with a brief description and example.
 
 * `Book` - USFM book code name (e.g. `TIT`)
@@ -71,13 +69,13 @@ The following lists each column with a brief description and example.
   * This will be helpful in identifing which notes are translations of the original English tNs and which notes have been added by GLs.
   * The Universal ID (UID) of a note is the combination of the `Book`, `Chapter`, `Verse`, and `ID` fields. For example, `tit/1/3/swi9`.
     * This is a useful way to unambiguously refer to notes.
-    * An [RC link]() can resolve to a specific note like this: `rc://en/tn/help/tit/01/01/swi9`.
+    * An [RC link](http://resource-container.readthedocs.io/en/latest/linking.html) can resolve to a specific note like this: `rc://en/tn/help/tit/01/01/swi9`.
 * `SupportReference`
   * Normally a link to a supporting reference text or blank
-  * This will usually be a link to translationAcademy, like `rc://en/ta/man/translate/figs-metaphor`
+  * This will usually be a link to translationAcademy, like `rc://*/ta/man/translate/figs-metaphor`
 * `OrigQuote` - Original language quote (e.g. `ἐφανέρωσεν ... τὸν λόγον αὐτοῦ`)
   * Software (such as tC) should use this for highlighting terms rather than the `GLQuote`
-  * An elipsis (...) indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
+  * Three periods (...), forming an ellipsis, indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
 * `Occurrence` - Specifies which occurrence in the original language text the entry applies to.
   * `-1`: entry applies to every occurrence of OrigQuote in the verse
   * `0`: entry does not occur in original language (for example, "Connecting Statement:")
@@ -88,9 +86,9 @@ The following lists each column with a brief description and example.
   * Software (such as tC) should disregard this field.
   * This field is a reference text for GL translators
   * For certain notes, this field represents the display text for notes that do not relate to a specific word or phrase in the text. There are two such cases in the tN:
-    * "Connecting Statement:" and
-    * "General Information:"
-  * GL translations teams **should not translate* this column. They do need to provide a translation of the above 2 statements.
+      * "Connecting Statement:" and
+      * "General Information:"
+  * GL translations teams **should not translate** this column. They do need to provide a translation of the above 2 statements.
 * `OccurrenceNote` - The Markdown formatted note itself. For example, `Paul speaks of God's message as if it were an object that could be visibly shown to people. Alternate translation: "He caused me to understand his message" (See: [[rc://en/ta/man/translate/figs-metaphor]])`
   * The text should be Markdown formatted, which means the following are also acceptable:
     * Plaintext - if you have no need for extra markup, just use plain text in this column
