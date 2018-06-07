@@ -17,7 +17,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ### Under the following conditions:
 
  * **Attribution** — You must attribute the work as follows: "Original work of the unfoldingWord translationNotes in English available at https://unfoldingword.org/tn/". Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+ * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
