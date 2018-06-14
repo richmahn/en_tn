@@ -14,7 +14,7 @@ To edit the tN files there are three options:
 * Use a text editor on your computer
 * Use the online web editor in DCS
 
-Each of these options and there caveats are described below.
+Each of these options and their caveats are described below.
 
 The first two options require you to clone the repository to your computer first. You may do this on the command line or using a program such as SmartGit. After making changes to the files you will need to commit and push your changes to the server and then create a Pull Request to merge them to the `master` branch.
 
@@ -76,7 +76,7 @@ The following lists each column with a brief description and example.
   * Normally a link to a supporting reference text or blank
   * This will usually be a link to translationAcademy, like `rc://*/ta/man/translate/figs-metaphor`
 * `OrigQuote` - Original language quote (e.g. `ἐφανέρωσεν ... τὸν λόγον αὐτοῦ`)
-  * Software (such as tC) should use this for highlighting terms rather than the `GLQuote`
+  * Software (such as tC) should use this for determining what is highlighted rather than using the `GLQuote` field
   * Three periods (...), forming an ellipsis, indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
 * `Occurrence` - Specifies which occurrence in the original language text the entry applies to.
   * `-1`: entry applies to every occurrence of OrigQuote in the verse
@@ -98,7 +98,31 @@ The following lists each column with a brief description and example.
 
 ## GL Translators
 
-To learn how to translate these notes please see the [Translate the translationNotes](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#gltranslation-transtn) article in the [Gateway Languages Manual](http://gl-manual.readthedocs.io/).
+### tN Translation Philosophy
+
+To learn the philosophy of how to translate these notes please see the [Translate the translationNotes](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#gltranslation-transtn) article in the [Gateway Language Manual](http://gl-manual.readthedocs.io/).
+
+### tN Translation Notes
+
+Here are some important technical *notes* to keep in mind as you translate tN:
+
+* Only the `OccurrenceNote` column needs to be translated
+* You will also need to supply a translation of these 2 phrases which are repeated, "Connecting Statement:" and "General Information:".
+    * These phrases occur many times in the `GLQuote` column.
+    * You may want to use find and replace to update the English text with your GL text. If not, we can do this when preparing the text for publishing.
+* Remember: the `GLQuote` column *is not required*. Only use this field if it is helpful during the translation process. The software that processes the tNs will use alignment data to identify which words in your GL translation the individual notes refer to.
+
+The section above on [Editing the tNs](https://git.door43.org/unfoldingWord/en_tn#editing-the-tns) may give you ideas on what software to use. Of course, you can also convert the TSV files into another format, do the translation, and then convert them back to TSV files (just ensure the IDs are preserved if you do this). Follow [Translate Content Online](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/41-translate-content-online) to get a copy of this repository to begin your work.
+
+### Add Notes
+
+As a translator of tN into a GL, you may need to [add new notes](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#may-i-add-a-note-that-would-help-with-translation-in-my-language). Follow these steps to do this:
+
+1. Add a new row in the correct book, chapter, verse order.
+2. Fill out each field for the row according to the [tN TSV Column Description](https://git.door43.org/unfoldingWord/en_tn#tn-tsv-column-description) above, taking note of these instructions:
+
+    * Choose a new `ID` for this note, which must unique among the notes in the verse.
+    * If you don't know Greek, put the GL text that the note refers to in the `GLQuote` field. Have a reviewer who knows Greek and your GL come back and add the approprate text from the UGNT that the note refers to.
 
 ## License
 
