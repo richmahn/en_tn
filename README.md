@@ -107,10 +107,11 @@ To learn the philosophy of how to translate these notes please see the [Translat
 Here are some important technical *notes* to keep in mind as you translate tN:
 
 * Only the `OccurrenceNote` column needs to be translated
+* Do *not* remove any column in the TSV files
 * You will also need to supply a translation of these 2 phrases which are repeated, "Connecting Statement:" and "General Information:".
     * These phrases occur many times in the `GLQuote` column.
     * You may want to use find and replace to update the English text with your GL text. If not, we can do this when preparing the text for publishing.
-* Remember: the `GLQuote` column *is not required*. Only use this field if it is helpful during the translation process. The software that processes the tNs will use alignment data to identify which words in your GL translation the individual notes refer to.
+* Remember: the `GLQuote` column *is not required* to be filled out. Only use this field if it is helpful during the translation process. The software that processes the tNs will use alignment data to identify which words in your GL translation the individual notes refer to.
 
 The section above on [Editing the tNs](https://git.door43.org/unfoldingWord/en_tn#editing-the-tns) may give you ideas on what software to use. Of course, you can also convert the TSV files into another format, do the translation, and then convert them back to TSV files (just ensure the IDs are preserved if you do this). Follow [Translate Content Online](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/41-translate-content-online) to get a copy of this repository to begin your work.
 
