@@ -376,14 +376,14 @@ dublin_core:
   modified: '2018-06-25'
   publisher: 'unfoldingWord'
   relation:
-  - 'en/ulb'
-  - 'en/udb'
+  - 'en/ult'
+  - 'en/ust'
   rights: 'CC BY-SA 4.0'
   source:
   - identifier: 'tn'
     language: 'en'
-    version: '11'
-  subject: 'Translator Notes'
+    version: '13'
+  subject: 'Translation Notes'
   title: 'translationNotes'
   type: 'help'
   version: '13'
