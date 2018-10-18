@@ -4,7 +4,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 3JN	1	1	w99t	figs-explicit	ὁ πρεσβύτερος	1	The elder	This refers to John, the apostle and disciple of Jesus. He refers to himself as "elder" either because of his old age or because he is a leader in the church. The name of the author can be made explicit: "I, John the elder, am writing." (See: [[rc://en/ta/man/translate/figs-explicit]])
 3JN	1	1	lls6	translate-names	Γαΐῳ	1	Gaius	This is a fellow believer to whom John is writing this letter. (See: [[rc://en/ta/man/translate/translate-names]])
 3JN	1	1	mp9w		ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ	1	whom I love in truth	"whom I truly love"
-3JN	1	2	v6dv		περὶ πάντων σε εὐοδοῦσθαι καὶ ὑγιαίνειν	1	all may go well with you and that you may be healthy	"you may do well in all things and be healthy"
+3JN	1	2	v6dv		περὶ πάντων ... σε εὐοδοῦσθαι καὶ ὑγιαίνειν	1	all may go well with you and that you may be healthy	"you may do well in all things and be healthy"
 3JN	1	2	i269		καθὼς εὐοδοῦταί σου ἡ ψυχή	1	just as it is well with your soul	"just as you are doing well spiritually"
 3JN	1	3	b4zh		ἐρχομένων ἀδελφῶν	1	brothers came	"fellow believers came." These people were probably all male.
 3JN	1	3	y7q3	figs-metaphor	σὺ ἐν ἀληθείᾳ περιπατεῖς	1	you walk in truth	Walking on a path is a metaphor for how a person lives his life. Alternate translation: "you are living your life according to God's truth" (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -13,9 +13,9 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 3JN	1	5	vl13			0	Connecting Statement:	John's purpose in writing this letter is to compliment Gaius in the way he took care of traveling Bible teachers; then he talks about two people, one evil and one good.
 3JN	1	5	tmh1		ἀγαπητέ	1	Beloved	Here this is used as a term of endearment for fellow believers.
 3JN	1	5	gs6x		πιστὸν ποιεῖς	1	you practice faithfulness	"you are doing what is faithful to God" or "you are being loyal to God"
-3JN	1	5	g4gz		ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους	1	work for the brothers and for strangers	"help fellow believers and those you do not know"
+3JN	1	5	g4gz		ὃ, ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους	1	work for the brothers and for strangers	"help fellow believers and those you do not know"
 3JN	1	6	wzf6		οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας	1	who have borne witness of your love in the presence of the church	These words describe the "strangers" (verse 5). "strangers who have told the believers in the church about how you have loved them"
-3JN	1	6	pb64		καλῶς ποιήσεις προπέμψας	1	You do well to send them	John is thanking Gaius for his normal practice of helping these believers.
+3JN	1	6	pb64		καλῶς ποιήσεις, προπέμψας	1	You do well to send them	John is thanking Gaius for his normal practice of helping these believers.
 3JN	1	7	d8y1	figs-metonymy		0	because it was for the sake of the name that they went out	Here "the name" refers to Jesus. Alternate translation: "for they have gone out to tell people about Jesus" (See: [[rc://en/ta/man/translate/figs-metonymy]])
 3JN	1	7	yzc8		μηδὲν λαμβάνοντες	1	taking nothing	receiving no gifts or help
 3JN	1	7	hk3p		τῶν ἐθνικῶν	1	the Gentiles	Here "Gentiles" does not just mean people who are not Jewish. It implies people who do not trust in Jesus.
@@ -36,8 +36,8 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 3JN	1	11	zan2		οὐχ ἑώρακεν τὸν Θεόν	1	has not seen God	"does not belong to God" or "does not believe in God"
 3JN	1	12	pl7i	figs-activepassive	Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων	1	Demetrius is borne witness to by all	This can be stated in active form. Alternate translation: "All who know Demetrius bear witness of him" or "Every believer who knows Demetrius speaks well of him" (See: [[rc://en/ta/man/translate/figs-activepassive]])
 3JN	1	12	m22h	translate-names	Δημητρίῳ	1	Demetrius	This is probably a man whom John wants Gaius and the congregation to welcome when he comes to visit. (See: [[rc://en/ta/man/translate/translate-names]])
-3JN	1	12	rad4	figs-personification	ὑπὸ αὐτῆς τῆς ἀληθείας	1	by the truth itself	"the truth itself speaks well of him." Here "truth" is described as a person speaking. Alternate translation: "everyone who knows the truth knows he is a good person" (See: [[rc://en/ta/man/translate/figs-personification]] and [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/ta/man/translate/figs-rpronouns]])
-3JN	1	12	s712	figs-ellipsis	καὶ ἡμεῖς μαρτυροῦμεν	1	We also bear witness	What John is confirming is implied and can be made specific here. Alternate translation: "We also speak well of Demetrius" (See: [[rc://en/ta/man/translate/figs-ellipsis]])
+3JN	1	12	rad4	figs-personification	ὑπὸ ... αὐτῆς τῆς ἀληθείας	1	by the truth itself	"the truth itself speaks well of him." Here "truth" is described as a person speaking. Alternate translation: "everyone who knows the truth knows he is a good person" (See: [[rc://en/ta/man/translate/figs-personification]] and [[rc://en/ta/man/translate/figs-explicit]] and [[rc://en/ta/man/translate/figs-rpronouns]])
+3JN	1	12	s712	figs-ellipsis	καὶ ... ἡμεῖς ... μαρτυροῦμεν	1	We also bear witness	What John is confirming is implied and can be made specific here. Alternate translation: "We also speak well of Demetrius" (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 3JN	1	13	v27c			0	General Information:	This is the end of John's letter to Gaius. He gives some final remarks and closes with a greeting.
 3JN	1	13	am6k			0	I do not wish to write them to you with pen and ink	John does not wish to write these other things at all. He is not saying that he would write them with something other than pen and ink.
 3JN	1	14	r8i4	figs-idiom	στόμα πρὸς στόμα	1	face to face	"Face to face" here is an idiom, meaning "in person." Alternate translation: "in person"  (See: [[rc://en/ta/man/translate/figs-idiom]])
