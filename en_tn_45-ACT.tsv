@@ -95,10 +95,8 @@ ACT	2	10	tmb4	translate-names		0	Phrygia ... Pamphylia ... Egypt ... Libya ... C
 ACT	2	11	jnp7	translate-names		0	Cretans ... Arabians	These are names of people groups. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	2	11	w8jy		προσήλυτοι	1	proselytes	converts to the Jewish religion
 ACT	2	12	el2f	figs-doublet	ἐξίσταντο ... καὶ διηποροῦντο	1	amazed and perplexed	These two words share similar meanings. Together they emphasize that the people could not understand what was happening. Alternate translation: "surprised and confused" (See: [[rc://en/ta/man/translate/figs-doublet]])
-ACT	2	13	fg59	figs-idiom	ὅτι			
-“ γλεύκους μεμεστωμένοι εἰσίν	1	They are full of new wine	Some people accuse the believers of having drunk too much wine. Alternate translation: "They are drunk" (See: [[rc://en/ta/man/translate/figs-idiom]])					
-ACT	2	13	jj1n		ὅτι			
-“ γλεύκους	1	new wine	This refers to wine that is in the process of fermentation.					
+ACT	2	13	fg59	figs-idiom	ὅτι" γλεύκους μεμεστωμένοι εἰσίν	1	They are full of new wine	Some people accuse the believers of having drunk too much wine. Alternate translation: "They are drunk" (See: [[rc://en/ta/man/translate/figs-idiom]])
+ACT	2	13	jj1n		ὅτι" γλεύκους	1	new wine	This refers to wine that is in the process of fermentation.
 ACT	2	14	k5hr			0	Connecting Statement:	Peter begins his speech to the Jews who were there on the Day of Pentecost.
 ACT	2	14	c919		σταθεὶς ... σὺν τοῖς ἕνδεκα	1	stood with the eleven	All the apostles stood up in support of Peter's statement.
 ACT	2	14	d9tb		ἐπῆρεν τὴν φωνὴν αὐτοῦ	1	raised his voice	This is an idiom for "spoke loudly." (See: rc://en/ta/man/translate/figs-idiom)
@@ -830,8 +828,7 @@ ACT	9	35	x9yw	figs-metaphor	οἵτινες ἐπέστρεψαν ἐπὶ τὸ
 ACT	9	36	gy8u	writing-background		0	General Information:	These verses give background information about the woman named Tabitha. (See: [[rc://en/ta/man/translate/writing-background]])
 ACT	9	36	du3s			0	Connecting Statement:	Luke continues the story with a new event about Peter.
 ACT	9	36	zgq5	writing-newevent	δέ ... ἦν	1	Now there was	This introduces a new part in the story. (See: [[rc://en/ta/man/translate/writing-newevent]])
-ACT	9	36	gwr4	translate-names	Ταβειθά, ἣ διερμηνευομένη λέγεται,			
-“ Δορκάς	1	Tabitha, which is translated as "Dorcas."	Tabitha is her name in the Aramaic language, and Dorcas is her name in the Greek language. Both names mean "gazelle." Alternate translation: "Her name in the Greek language was Dorcas" (See: [[rc://en/ta/man/translate/translate-names]])					
+ACT	9	36	gwr4	translate-names	Ταβειθά, ἣ διερμηνευομένη λέγεται," Δορκάς	1	Tabitha, which is translated as "Dorcas."	Tabitha is her name in the Aramaic language, and Dorcas is her name in the Greek language. Both names mean "gazelle." Alternate translation: "Her name in the Greek language was Dorcas" (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	9	36	q2rn		πλήρης ἔργων ἀγαθῶν	1	full of good works	"doing many good things"
 ACT	9	37	mg72	figs-explicit		0	It came about in those days	This refers to the time when Peter was in Joppa. This can be stated. Alternate translation: "It came about while Peter was nearby" (See: [[rc://en/ta/man/translate/figs-explicit]])
 ACT	9	37	y8sx		λούσαντες ... αὐτὴν	1	washed her	This was washing to prepare for her burial.
@@ -2331,8 +2328,7 @@ ACT	23	16	a5hx		εἰς τὴν παρεμβολὴν	1	the fortress	This fortre
 ACT	23	18	lzf3			0	Paul the prisoner called me to him	"Paul the prisoner asked me to come talk with him"
 ACT	23	18	ju2b		τοῦτον τὸν νεανίαν	1	this young man	Since the chief captain calls him a young man, this suggests Paul's nephew may have been 12 to 15 years old.
 ACT	23	19	yp12			0	chief captain took him by the hand	Since the chief captain took the young man by the hand and calls him a young man (verse 18), this suggests Paul's nephew may have been 12 to 15 years old.
-ACT	23	20	uv6r	figs-synecdoche	ὅτι			
-“ οἱ Ἰουδαῖοι συνέθεντο	1	The Jews have agreed	This does not mean all Jews, but all of the group that was there. Alternate translation: "Some of the Jews have agreed" (See: [[rc://en/ta/man/translate/figs-synecdoche]])					
+ACT	23	20	uv6r	figs-synecdoche	ὅτι" οἱ Ἰουδαῖοι συνέθεντο	1	The Jews have agreed	This does not mean all Jews, but all of the group that was there. Alternate translation: "Some of the Jews have agreed" (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 ACT	23	20	wp5d			0	to bring down Paul	"to bring Paul down from the fortress"
 ACT	23	20	fev5			0	they were going to ask more precisely about his case	"they want to learn more about what Paul has done"
 ACT	23	21	vdr5	translate-numbers		0	forty men	"40 men" (See: [[rc://en/ta/man/translate/translate-numbers]])
@@ -2493,8 +2489,7 @@ ACT	25	20	y9bv	figs-idiom		0	to stand trial there about these charges	To "stand 
 ACT	25	21	yli3			0	Connecting Statement:	Festus finishes explaining Paul's case to King Agrippa.
 ACT	25	21	ie7x	figs-activepassive	τοῦ δὲ Παύλου ἐπικαλεσαμένου τηρηθῆναι αὐτὸν εἰς τὴν τοῦ Σεβαστοῦ διάγνωσιν	1	But when Paul appealed to be kept in custody while awaiting the decision of the emperor	This can be stated in active form. Alternate translation: "But when Paul insisted that he stay under Roman guard until the time when the emperor could decide his case" (See: [[rc://en/ta/man/translate/figs-activepassive]])
 ACT	25	21	ceq2	figs-activepassive	ἐκέλευσα τηρεῖσθαι αὐτὸν	1	I ordered him to be held in custody	This can be stated in active form. Alternate translation: "I ordered the soldiers to keep him in custody" or "I told the soldiers to guard him" (See: [[rc://en/ta/man/translate/figs-activepassive]])
-ACT	25	22	t322	writing-quotations	αὔριον”, φησίν,			
-“ ἀκούσῃ αὐτοῦ	1	"Tomorrow," Festus said, "you will hear him."	The phrase "Festus said" can be moved to the beginning of the sentence. Alternate translation: "Festus said, 'I will arrange for you to listen to Paul tomorrow.'" (See: [[rc://en/ta/man/translate/writing-quotations]])					
+ACT	25	22	t322	writing-quotations	αὔριον”, φησίν," ἀκούσῃ αὐτοῦ	1	"Tomorrow," Festus said, "you will hear him."	The phrase "Festus said" can be moved to the beginning of the sentence. Alternate translation: "Festus said, 'I will arrange for you to listen to Paul tomorrow.'" (See: [[rc://en/ta/man/translate/writing-quotations]])
 ACT	25	23	y1yj			0	General Information:	Though he ruled over only a few territories, Agrippa was the current reigning king in Palestine. Bernice was his sister. See how you translated these names in [Acts 25:13](../25/13.md).
 ACT	25	23	qlm5			0	Connecting Statement:	Festus again gives information about Paul's case to King Agrippa.
 ACT	25	23	yw76		μετὰ πολλῆς φαντασίας	1	with much ceremony	"with a great ceremony to honor them"
@@ -2780,8 +2775,7 @@ ACT	28	25	t5dq			0	General Information:	Here the word "they" refers to the Jewis
 ACT	28	25	i5xz			0	Connecting Statement:	As the Jewish leaders were ready to leave, Paul quotes the Old Testament scriptures that were appropriate for this time.
 ACT	28	25	n7pm	figs-metonymy		0	after Paul had spoken this one word	Here "word" stands for a message or statement. Alternate translation: "after Paul had said one more thing" or "after Paul had made this statement" (See: [[rc://en/ta/man/translate/figs-metonymy]])
 ACT	28	25	b11n	figs-quotesinquotes	καλῶς τὸ Πνεῦμα τὸ Ἅγιον ἐλάλησεν διὰ Ἠσαΐου τοῦ προφήτου πρὸς τοὺς πατέρας ὑμῶν	1	The Holy Spirit spoke well through Isaiah the prophet to your fathers.	This sentence contains quotations within quotations. (See: [[rc://en/ta/man/translate/figs-quotesinquotes]])
-ACT	28	26	qj7q	figs-quotesinquotes	λέγων, πορεύθητι‘ πρὸς τὸν λαὸν τοῦτον ... εἰπόν,			
-“ ἀκοῇ ἀκούσετε, καὶ οὐ μὴ συνῆτε; καὶ βλέποντες βλέψετε, καὶ οὐ μὴ ἴδητε	1	He said, 'Go to this people and say, "By hearing you will hear, but not understand; and seeing you will see, but will not perceive	This is the end of the sentence that begins with the words "The Holy Spirit spoke" in verse 25 and that contains quotations within quotations. You can translate one of the inner quotations as an indirect quotation, or you can translate two of the inner quotations as indirect quotations. "The Holy Spirit spoke well through Isaiah the prophet to your forefathers when the Spirit told Isaiah to go tell them that they will hear but will not understand and they will see but they will not perceive" (See: [[rc://en/ta/man/translate/figs-quotesinquotes]])					
+ACT	28	26	qj7q	figs-quotesinquotes	λέγων, πορεύθητι‘ πρὸς τὸν λαὸν τοῦτον ... εἰπόν," ἀκοῇ ἀκούσετε, καὶ οὐ μὴ συνῆτε; καὶ βλέποντες βλέψετε, καὶ οὐ μὴ ἴδητε	1	He said, 'Go to this people and say, "By hearing you will hear, but not understand; and seeing you will see, but will not perceive	This is the end of the sentence that begins with the words "The Holy Spirit spoke" in verse 25 and that contains quotations within quotations. You can translate one of the inner quotations as an indirect quotation, or you can translate two of the inner quotations as indirect quotations. "The Holy Spirit spoke well through Isaiah the prophet to your forefathers when the Spirit told Isaiah to go tell them that they will hear but will not understand and they will see but they will not perceive" (See: [[rc://en/ta/man/translate/figs-quotesinquotes]])
 ACT	28	26	pax8			0	By hearing you will hear ... and seeing you will see	The words "hear" and "see" are repeated for emphasis. "You will listen carefully ... and you will look intently"
 ACT	28	26	s1ti	figs-parallelism		0	but not understand ... but will not perceive	Both of these phrases mean basically the same thing. They emphasize that the Jewish people will not understand God's plan. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 ACT	28	27	fz42			0	General Information:	Translate Paul's quotation of Isaiah as a direct quotation or indirect quotation according to how you translated it in [Acts 28:25-26](./25.md).
