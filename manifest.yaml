@@ -368,12 +368,12 @@ dublin_core:
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
   format: 'text/tsv'
   identifier: 'tn'
-  issued: '2018-06-25'
+  issued: '2019-02-07'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2018-06-25'
+  modified: '2018-02-07'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult'
@@ -382,11 +382,11 @@ dublin_core:
   source:
   - identifier: 'tn'
     language: 'en'
-    version: '13'
-  subject: 'Translation Notes'
+    version: '14'
+  subject: 'TSV Translation Notes'
   title: 'translationNotes'
   type: 'help'
-  version: '13'
+  version: '14'
 
 checking:
   checking_entity:

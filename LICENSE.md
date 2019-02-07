@@ -1,30 +1,11 @@
-# unfoldingWord translationNotes
+*unfoldingWord® translationNotes*
 
-# License
-## Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+*Copyright © 2019 by unfoldingWord*
 
-This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-### You are free to:
+unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the unfoldingWord® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the unfoldingWord® trademark.
 
-  * **Share** — copy and redistribute the material in any medium or format
-  * **Adapt** — remix, transform, and build upon the material 
+On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by unfoldingWord is available from [https://unfoldingword.bible/tn/](https://unfoldingword.bible/tn/)”. You must also make your derivative work available under the same license (CC BY-SA).
 
-for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-### Under the following conditions:
-
- * **Attribution** — You must attribute the work as follows: "Original work of the unfoldingWord translationNotes in English available at https://unfoldingword.org/tn/". Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
- * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-### Notices:
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-Use of trademarks: unfoldingWord is a trademark of Distant Shores Media and may not be included on any derivative works created from this content. Unaltered content from http://unfoldingword.org must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
+If you would like to notify unfoldingWord regarding your translation of this work, please contact us at [https://unfoldingword.bible/contact/](https://unfoldingword.bible/contact/).

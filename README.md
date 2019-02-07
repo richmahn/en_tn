@@ -1,10 +1,10 @@
-# unfoldingWord translationNotes
+# unfoldingWord® translationNotes
 
-This is the repository for the unfoldingWord translationNotes (tN) resource.
+This is the repository for the unfoldingWord® translationNotes (tN) resource.
 
 ## Description
 
-unfoldingWord tN are open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.
+unfoldingWord® tN are open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.
 
 ## Editing the tNs
 
