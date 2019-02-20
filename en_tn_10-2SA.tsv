@@ -1215,7 +1215,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2SA	21	18	zih5	translate-names		0	Sibbekai ... Saph	These are names of men. (See: [[rc://en/ta/man/translate/translate-names]])
 2SA	21	18	zz7e	translate-names		0	Hushathite ... Rephaim	These are names of people groups. (See: [[rc://en/ta/man/translate/translate-names]])
 2SA	21	18	g7p1	translate-names		0	Rephaim	This people group was known for its giant warriors. (See: [[rc://en/ta/man/translate/translate-names]])
-2SA	21	19	pv8s	translate:translate_textvariants		0	Elhanan son of Jair the Bethlehemite killed Goliath the Gittite	Some versions translate this as "Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite."  (See: [[rc://en/ta/man/translate:translate_textvariants]])
+2SA	21	19	pv8s	translate-textvariants		0	Elhanan son of Jair the Bethlehemite killed Goliath the Gittite	Some versions translate this as "Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite."  (See: [[rc://en/ta/man/translate/translate-textvariants]])
 2SA	21	19	xl44	translate-names		0	Elhanan son of Jair ... Goliath	These are names of men. (See: [[rc://en/ta/man/translate/translate-names]])
 2SA	21	19	x5yp	translate-names		0	Bethlehemite ... Gittite	These are names of people groups. (See: [[rc://en/ta/man/translate/translate-names]])
 2SA	21	19	b7w9	figs-simile		0	whose spear was like a weaver's beam	When a person was weaving a cloth he would run the threads through hooks attached to large sticks called a "weaver's beam." This means Goliath's spear was larger than a normal spear. (See: [[rc://en/ta/man/translate/figs-simile]])
