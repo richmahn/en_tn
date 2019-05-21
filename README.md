@@ -1,11 +1,15 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-utn-256.png" alt="drawing" width="100"/>
 # unfoldingWord® Translation Notes
 
-This is the repository for the unfoldingWord® Translation Notes (UTN) resource.
+This is the repository for the [unfoldingWord® Translation Notes (UTN)](https://www.unfoldingword.org/utn) resource.
 
 ## Description
 
 unfoldingWord® Translation Notes are open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.
+
+## Downloading
+
+If you want to download the UTN to use, go here: [https://www.unfoldingword.org/utn](https://www.unfoldingword.org/utn). UTN is also included in [tS](http://ufw.io/ts) and [tC](http://ufw.io/tc).
 
 ## Editing the UTN
 
