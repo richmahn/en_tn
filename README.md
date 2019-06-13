@@ -31,15 +31,15 @@ This is the recommended way to edit the TSV files. You may [download LibreOffice
 
 After you have the file on your computer, you may open the respective TSV file with LibreOffice. Follow these notes on the Text Import Screen:
 
-* Set "Separated by" to "Tab"
-* Set "Text Delimiter" to blank, you will need to highlight the character and use backspace or delete to remove it
+* Set “Separated by” to “Tab”
+* Set “Text Delimiter” to blank, you will need to highlight the character and use backspace or delete to remove it
 
 It should look like this:
 
 ![](https://cdn.door43.org/assets/img/tn/LibreOfficeTextImport.png)
 
 
-When you are done editing, click Save and then select "Use Text CSV Format" on the pop up dialogue. Note that even though it says CSV, it will use tab characters as the field separators.
+When you are done editing, click Save and then select “Use Text CSV Format” on the pop up dialogue. Note that even though it says CSV, it will use tab characters as the field separators.
 
 **Note:** Other spreadsheet editors **should not** be used because they will add or remove quotation marks which will affect the notes negatively.
 
@@ -85,7 +85,7 @@ The following lists each column with a brief description and example.
   * Three periods (...), forming an ellipsis, indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
 * `Occurrence` - Specifies which occurrence in the original language text the entry applies to.
   * `-1`: entry applies to every occurrence of OrigQuote in the verse
-  * `0`: entry does not occur in original language (for example, "Connecting Statement:")
+  * `0`: entry does not occur in original language (for example, “Connecting Statement:”)
   * `1`: entry applies to first occurrence of OrigQuote only
   * `2`: entry applies to second occurrence of OrigQuote only
   * etc.
@@ -93,10 +93,10 @@ The following lists each column with a brief description and example.
   * Software (such as tC) should disregard this field.
   * This field is a reference text for GL translators
   * For certain notes, this field represents the display text for notes that do not relate to a specific word or phrase in the text. There are two such cases in the tN:
-      * "Connecting Statement:" and
-      * "General Information:"
+      * “Connecting Statement:” and
+      * “General Information:”
   * GL translations teams **should not translate** this column. They do need to provide a translation of the above 2 statements.
-* `OccurrenceNote` - The Markdown formatted note itself. For example, `Paul speaks of God's message as if it were an object that could be visibly shown to people. Alternate translation: "He caused me to understand his message" (See: [[rc://en/ta/man/translate/figs-metaphor]])`
+* `OccurrenceNote` - The Markdown formatted note itself. For example, `Paul speaks of God’s message as if it were an object that could be visibly shown to people. Alternate translation: “He caused me to understand his message” (See: [[rc://en/ta/man/translate/figs-metaphor]])`
   * The text should be Markdown formatted, which means the following are also acceptable:
     * Plaintext - if you have no need for extra markup, just use plain text in this column
     * HTML - if you prefer to use inline HTML for markup, that works because it is supported in Markdown
@@ -113,7 +113,7 @@ Here are some important technical *notes* to keep in mind as you translate tN:
 
 * Only the `OccurrenceNote` column needs to be translated
 * Do *not* remove any column in the TSV files
-* You will also need to supply a translation of these 2 phrases which are repeated, "Connecting Statement:" and "General Information:".
+* You will also need to supply a translation of these 2 phrases which are repeated, “Connecting Statement:” and “General Information:”.
     * These phrases occur many times in the `GLQuote` column.
     * You may want to use find and replace to update the English text with your GL text. If not, we can do this when preparing the text for publishing.
 * Remember: the `GLQuote` column *is not required* to be filled out. Only use this field if it is helpful during the translation process. The software that processes the tNs will use alignment data to identify which words in your GL translation the individual notes refer to.
@@ -128,7 +128,7 @@ As a translator of UTN into a GL, you may need to [add new notes](http://gl-manu
 2. Fill out each field for the row according to the [UTN TSV Column Description](https://git.door43.org/unfoldingWord/en_tn#utn-tsv-column-description) above, taking note of these instructions:
 
     * Choose a new `ID` for this note, which must unique among the notes in the verse.
-    * If you don't know Greek, put the GL text that the note refers to in the `GLQuote` field. Have a reviewer who knows Greek and your GL come back and add the approprate text from the UGNT that the note refers to.
+    * If you don’t know Greek, put the GL text that the note refers to in the `GLQuote` field. Have a reviewer who knows Greek and your GL come back and add the approprate text from the UGNT that the note refers to.
 
 ## License
 
