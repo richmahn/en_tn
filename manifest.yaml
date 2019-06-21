@@ -373,12 +373,12 @@ dublin_core:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2019-06-19'
+  modified: '2019-06-21'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult'
   - 'el-x-koine/ugnt?v=0.8'
-  - 'hbo/uhb?v=2.1.6'
+  - 'hbo/uhb?v=2.1.7'
   rights: 'CC BY-SA 4.0'
   source:
   - identifier: 'tn'
