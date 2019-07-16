@@ -124,7 +124,7 @@ PHP	2	25	qsd6		ὑμῶν ... ἀπόστολον καὶ λειτουργὸν 
 PHP	2	26	gxn9		ἐπιποθῶν ἦν πάντας ὑμᾶς, καὶ ἀδημονῶν	1	he was very distressed, and he longed to be with you all	“he was very worried and wanted to be with you all”
 PHP	2	27	itx2	figs-explicit	λύπην ἐπὶ λύπην	1	sorrow upon sorrow	The cause of the sorrow can be made explicit. Alternate translation: “the sorrow of losing him added to the sorrow I already have from being in prison” (See: [[rc://en/ta/man/translate/figs-explicit]])
 PHP	2	28	y5gc		κἀγὼ ἀλυπότερος ὦ	1	I can be free from anxiety	“I will be less anxious” or “I will not worry as much as I have been”
-PHP	2	29	y95x		Προσδέχεσθε ... αὐτὸν	1	Welcome Epaphroditus	“Gladly receive Epaphroditus”
+PHP	2	29	y95x		προσδέχεσθε οὖν αὐτὸν	1	Welcome Epaphroditus	“Gladly receive Epaphroditus”
 PHP	2	29	qx14		ἐν Κυρίῳ μετὰ πάσης χαρᾶς	1	in the Lord with all joy	“as a fellow believer in the Lord with all joy” or “with the great joy we have because the Lord Jesus loves us”
 PHP	2	30	ns1y	figs-metaphor	μέχρι θανάτου ἤγγισεν	1	he came near death	Paul here speaks of death as if it were a place that one could go to. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PHP	2	30	g98z	figs-metaphor	ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα, τῆς πρός με λειτουργίας	1	fill up what you could not do in service to me	Paul speaks of his needs as if they were a container that Epaphroditus filled with good things for Paul. (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -153,7 +153,7 @@ PHP	3	6	ksr3		κατὰ ζῆλος διώκων τὴν ἐκκλησίαν	1	A
 PHP	3	6	n51b		διώκων τὴν ἐκκλησίαν	1	I persecuted the church	“I attacked Christians”
 PHP	3	6	hln8		κατὰ δικαιοσύνην τὴν ἐν νόμῳ γενόμενος ἄμεμπτος	1	as for righteousness under the law, I was blameless	“Righteousness under the law” refers to being righteous by obeying the law. Paul obeyed the law so carefully that he believed that no one could find any part of it that he disobeyed. Alternate Translation: “I was so righteous by obeying the law that I was blameless”
 PHP	3	7	n4lg	figs-metaphor	ἅτινα ἦν μοι κέρδη	1	whatever things were a profit for me	Paul is referring here to the praise he received for being an eager Pharisee. He speaks of this praise as if he had viewed it in the past as a businessman’s profit. Alternate translation: “anything that other Jews praised me for” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-PHP	3	7	lb8f		Κέρδη ... ζημίαν	1	profit ... loss	These are common business terms. If many people in your culture do not understand formal business terms, you could translate these terms as “things that made my life better” and “things that made my life worse.”
+PHP	3	7	lb8f		κέρδη ... ζημίαν	1	profit ... loss	These are common business terms. If many people in your culture do not understand formal business terms, you could translate these terms as “things that made my life better” and “things that made my life worse.”
 PHP	3	7	y1sg	figs-metaphor	ταῦτα ἥγημαι ... ζημίαν	1	I have considered them as loss	Paul speaks of that praise as if he were now viewing it as a business loss instead of a profit. In other words, Paul says that all his religious acts of righteousness are worthless before Christ. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PHP	3	8	zi6f		μενοῦνγε	1	In fact	“Really” or “Truly”
 PHP	3	8	qdh7	figs-explicit	καὶ ἡγοῦμαι	1	now I count	The word “now” emphasizes how Paul has changed since he quit being a Pharisee and became a believer in Christ. Alternate translation: “now that I have trusted in Christ, I count” (See: [[rc://en/ta/man/translate/figs-explicit]])
@@ -161,7 +161,7 @@ PHP	3	8	e1fp	figs-metaphor	ἡγοῦμαι πάντα ζημίαν εἶναι	
 PHP	3	8	cv55		διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ Κυρίου μου	1	because of the surpassing value of the knowledge of Christ Jesus my Lord	“because knowing Christ Jesus my Lord is worth so much more”
 PHP	3	8	afs4		ἵνα Χριστὸν κερδήσω	1	so that I may gain Christ	“so that I may have only Christ”
 PHP	3	9	iy4k	figs-idiom	εὑρεθῶ ἐν αὐτῷ	1	be found in him	The phrase “be found” is an idiom that emphasizes the idea of “to be.” Alternate translation: “be truly united with Christ” (See: [[rc://en/ta/man/translate/figs-idiom]])
-PHP	3	9	g9a9		μὴ ἔχων ἐμὴν δικαιοσύνην τὴν ἐκ νόμου	1	not having a righteousness of my own from the law	Paul knows that he cannot become righteous by obeying the law.
+PHP	3	9	g9a9		μὴ ἔχων ἐμὴν δικαιοσύνην, τὴν ἐκ νόμου	1	not having a righteousness of my own from the law	Paul knows that he cannot become righteous by obeying the law.
 PHP	3	9	qw6g		ἀλλὰ τὴν διὰ πίστεως Χριστοῦ	1	but that which is through faith in Christ	The word “that” refers to righteousness. Paul knows that he can become righteous only by believing in Christ. AT: “but having the righteousness that comes by believing in Christ”
 PHP	3	10	vj4s		τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ	1	the power of his resurrection	“his power that gives us life”
 PHP	3	10	xm68		κοινωνίαν παθημάτων αὐτοῦ	1	the fellowship of his sufferings	“what it is like to suffer as he suffered” or “what it is like to participate in suffering with him”
