@@ -377,8 +377,8 @@ dublin_core:
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult'
-  - 'el-x-koine/ugnt?v=0.8'
-  - 'hbo/uhb?v=2.1.7'
+  - 'el-x-koine/ugnt?v=0.9'
+  - 'hbo/uhb?v=2.1.8'
   rights: 'CC BY-SA 4.0'
   source:
   - identifier: 'tn'
