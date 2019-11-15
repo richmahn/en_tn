@@ -368,12 +368,12 @@ dublin_core:
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
   format: 'text/tsv'
   identifier: 'tn'
-  issued: '2019-07-26'
+  issued: '2019-11-15'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2019-07-26'
+  modified: '2019-11-15'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult'
@@ -383,11 +383,11 @@ dublin_core:
   source:
   - identifier: 'tn'
     language: 'en'
-    version: '17'
+    version: '18'
   subject: 'TSV Translation Notes'
   title: 'unfoldingWord® Translation Notes'
   type: 'help'
-  version: '17'
+  version: '18'
 
 checking:
   checking_entity:
@@ -396,7 +396,7 @@ checking:
 
 projects:
   -
-    title: 'Genesis unfoldingWord® Translation Notes'
+    title: 'Genesis'
     versification: ''
     identifier: 'gen'
     sort: 1
@@ -404,7 +404,7 @@ projects:
     categories: [ 'bible-ot'  ]
 
   -
-    title: 'Exodus unfoldingWord® Translation Notes'
+    title: 'Exodus'
     versification: ''
     identifier: 'exo'
     sort: 2
@@ -412,7 +412,7 @@ projects:
     categories: [ 'bible-ot'  ]
 
   -
-    title: 'Leviticus unfoldingWord® Translation Notes'
+    title: 'Leviticus'
     versification: ''
     identifier: 'lev'
     sort: 3
@@ -420,7 +420,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Numbers unfoldingWord® Translation Notes'
+    title: 'Numbers'
     versification: ''
     identifier: 'num'
     sort: 4
@@ -428,7 +428,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Deuteronomy unfoldingWord® Translation Notes'
+    title: 'Deuteronomy'
     versification: ''
     identifier: 'deu'
     sort: 5
@@ -436,7 +436,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Joshua unfoldingWord® Translation Notes'
+    title: 'Joshua'
     versification: ''
     identifier: 'jos'
     sort: 6
@@ -444,7 +444,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Judges unfoldingWord® Translation Notes'
+    title: 'Judges'
     versification: ''
     identifier: 'jdg'
     sort: 7
@@ -452,7 +452,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Ruth unfoldingWord® Translation Notes'
+    title: 'Ruth'
     versification: ''
     identifier: 'rut'
     sort: 8
@@ -460,7 +460,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '1 Samuel unfoldingWord® Translation Notes'
+    title: '1 Samuel'
     versification: ''
     identifier: '1sa'
     sort: 9
@@ -468,7 +468,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '2 Samuel unfoldingWord® Translation Notes'
+    title: '2 Samuel'
     versification: ''
     identifier: '2sa'
     sort: 10
@@ -476,7 +476,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '1 Kings unfoldingWord® Translation Notes'
+    title: '1 Kings'
     versification: ''
     identifier: '1ki'
     sort: 11
@@ -484,7 +484,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '2 Kings unfoldingWord® Translation Notes'
+    title: '2 Kings'
     versification: ''
     identifier: '2ki'
     sort: 12
@@ -492,7 +492,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '1 Chronicles unfoldingWord® Translation Notes'
+    title: '1 Chronicles'
     versification: ''
     identifier: '1ch'
     sort: 13
@@ -500,7 +500,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: '2 Chronicles unfoldingWord® Translation Notes'
+    title: '2 Chronicles'
     versification: ''
     identifier: '2ch'
     sort: 14
@@ -508,7 +508,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Ezra unfoldingWord® Translation Notes'
+    title: 'Ezra'
     versification: ''
     identifier: 'ezr'
     sort: 15
@@ -516,7 +516,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Nehemiah unfoldingWord® Translation Notes'
+    title: 'Nehemiah'
     versification: ''
     identifier: 'neh'
     sort: 16
@@ -524,7 +524,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Esther unfoldingWord® Translation Notes'
+    title: 'Esther'
     versification: ''
     identifier: 'est'
     sort: 17
@@ -532,7 +532,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Job unfoldingWord® Translation Notes'
+    title: 'Job'
     versification: ''
     identifier: 'job'
     sort: 18
@@ -540,7 +540,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Psalms unfoldingWord® Translation Notes'
+    title: 'Psalms'
     versification: ''
     identifier: 'psa'
     sort: 19
@@ -548,7 +548,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Proverbs unfoldingWord® Translation Notes'
+    title: 'Proverbs'
     versification: ''
     identifier: 'pro'
     sort: 20
@@ -556,7 +556,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Ecclesiastes unfoldingWord® Translation Notes'
+    title: 'Ecclesiastes'
     versification: ''
     identifier: 'ecc'
     sort: 21
@@ -564,7 +564,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Song of Solomon unfoldingWord® Translation Notes'
+    title: 'Song of Solomon'
     versification: ''
     identifier: 'sng'
     sort: 22
@@ -572,7 +572,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Isaiah unfoldingWord® Translation Notes'
+    title: 'Isaiah'
     versification: ''
     identifier: 'isa'
     sort: 23
@@ -580,7 +580,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Jeremiah unfoldingWord® Translation Notes'
+    title: 'Jeremiah'
     versification: ''
     identifier: 'jer'
     sort: 24
@@ -588,7 +588,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Lamentations unfoldingWord® Translation Notes'
+    title: 'Lamentations'
     versification: ''
     identifier: 'lam'
     sort: 25
@@ -596,7 +596,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Ezekiel unfoldingWord® Translation Notes'
+    title: 'Ezekiel'
     versification: ''
     identifier: 'ezk'
     sort: 26
@@ -604,7 +604,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Daniel unfoldingWord® Translation Notes'
+    title: 'Daniel'
     versification: ''
     identifier: 'dan'
     sort: 27
@@ -612,7 +612,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Hosea unfoldingWord® Translation Notes'
+    title: 'Hosea'
     versification: ''
     identifier: 'hos'
     sort: 28
@@ -620,7 +620,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Joel unfoldingWord® Translation Notes'
+    title: 'Joel'
     versification: ''
     identifier: 'jol'
     sort: 29
@@ -628,7 +628,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Amos unfoldingWord® Translation Notes'
+    title: 'Amos'
     versification: ''
     identifier: 'amo'
     sort: 30
@@ -636,7 +636,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Obadiah unfoldingWord® Translation Notes'
+    title: 'Obadiah'
     versification: ''
     identifier: 'oba'
     sort: 31
@@ -644,7 +644,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Jonah unfoldingWord® Translation Notes'
+    title: 'Jonah'
     versification: ''
     identifier: 'jon'
     sort: 32
@@ -652,7 +652,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Micah unfoldingWord® Translation Notes'
+    title: 'Micah'
     versification: ''
     identifier: 'mic'
     sort: 33
@@ -660,7 +660,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Nahum unfoldingWord® Translation Notes'
+    title: 'Nahum'
     versification: ''
     identifier: 'nam'
     sort: 34
@@ -668,7 +668,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Habakkuk unfoldingWord® Translation Notes'
+    title: 'Habakkuk'
     versification: ''
     identifier: 'hab'
     sort: 35
@@ -676,7 +676,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Zephaniah unfoldingWord® Translation Notes'
+    title: 'Zephaniah'
     versification: ''
     identifier: 'zep'
     sort: 36
@@ -684,7 +684,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Haggai unfoldingWord® Translation Notes'
+    title: 'Haggai'
     versification: ''
     identifier: 'hag'
     sort: 37
@@ -692,7 +692,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Zechariah unfoldingWord® Translation Notes'
+    title: 'Zechariah'
     versification: ''
     identifier: 'zec'
     sort: 38
@@ -700,7 +700,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Malachi unfoldingWord® Translation Notes'
+    title: 'Malachi'
     versification: ''
     identifier: 'mal'
     sort: 39
@@ -708,7 +708,7 @@ projects:
     categories: [ 'bible-ot' ]
 
   -
-    title: 'Matthew unfoldingWord® Translation Notes'
+    title: 'Matthew'
     versification: ''
     identifier: 'mat'
     sort: 40
@@ -716,7 +716,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Mark unfoldingWord® Translation Notes'
+    title: 'Mark'
     versification: ''
     identifier: 'mrk'
     sort: 41
@@ -724,7 +724,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Luke unfoldingWord® Translation Notes'
+    title: 'Luke'
     versification: ''
     identifier: 'luk'
     sort: 42
@@ -732,7 +732,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'John unfoldingWord® Translation Notes'
+    title: 'John'
     versification: ''
     identifier: 'jhn'
     sort: 43
@@ -740,7 +740,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Acts unfoldingWord® Translation Notes'
+    title: 'Acts'
     versification: ''
     identifier: 'act'
     sort: 44
@@ -748,7 +748,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Romans unfoldingWord® Translation Notes'
+    title: 'Romans'
     versification: ''
     identifier: 'rom'
     sort: 45
@@ -756,7 +756,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '1 Corinthians unfoldingWord® Translation Notes'
+    title: '1 Corinthians'
     versification: ''
     identifier: '1co'
     sort: 46
@@ -764,7 +764,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '2 Corinthians unfoldingWord® Translation Notes'
+    title: '2 Corinthians'
     versification: ''
     identifier: '2co'
     sort: 47
@@ -772,7 +772,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Galatians unfoldingWord® Translation Notes'
+    title: 'Galatians'
     versification: ''
     identifier: 'gal'
     sort: 48
@@ -780,7 +780,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Ephesians unfoldingWord® Translation Notes'
+    title: 'Ephesians'
     versification: ''
     identifier: 'eph'
     sort: 49
@@ -788,7 +788,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Philippians unfoldingWord® Translation Notes'
+    title: 'Philippians'
     versification: ''
     identifier: 'php'
     sort: 50
@@ -796,7 +796,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Colossians unfoldingWord® Translation Notes'
+    title: 'Colossians'
     versification: ''
     identifier: 'col'
     sort: 51
@@ -804,7 +804,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '1 Thessalonians unfoldingWord® Translation Notes'
+    title: '1 Thessalonians'
     versification: ''
     identifier: '1th'
     sort: 52
@@ -812,7 +812,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '2 Thessalonians unfoldingWord® Translation Notes'
+    title: '2 Thessalonians'
     versification: ''
     identifier: '2th'
     sort: 53
@@ -820,7 +820,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '1 Timothy unfoldingWord® Translation Notes'
+    title: '1 Timothy'
     versification: ''
     identifier: '1ti'
     sort: 54
@@ -828,7 +828,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '2 Timothy unfoldingWord® Translation Notes'
+    title: '2 Timothy'
     versification: ''
     identifier: '2ti'
     sort: 55
@@ -836,7 +836,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Titus unfoldingWord® Translation Notes'
+    title: 'Titus'
     versification: ''
     identifier: 'tit'
     sort: 56
@@ -844,7 +844,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Philemon unfoldingWord® Translation Notes'
+    title: 'Philemon'
     versification: ''
     identifier: 'phm'
     sort: 57
@@ -852,7 +852,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Hebrews unfoldingWord® Translation Notes'
+    title: 'Hebrews'
     versification: ''
     identifier: 'heb'
     sort: 58
@@ -860,7 +860,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'James unfoldingWord® Translation Notes'
+    title: 'James'
     versification: ''
     identifier: 'jas'
     sort: 59
@@ -868,7 +868,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '1 Peter unfoldingWord® Translation Notes'
+    title: '1 Peter'
     versification: ''
     identifier: '1pe'
     sort: 60
@@ -876,7 +876,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '2 Peter unfoldingWord® Translation Notes'
+    title: '2 Peter'
     versification: ''
     identifier: '2pe'
     sort: 61
@@ -884,7 +884,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '1 John unfoldingWord® Translation Notes'
+    title: '1 John'
     versification: ''
     identifier: '1jn'
     sort: 62
@@ -892,7 +892,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '2 John unfoldingWord® Translation Notes'
+    title: '2 John'
     versification: ''
     identifier: '2jn'
     sort: 63
@@ -900,7 +900,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: '3 John unfoldingWord® Translation Notes'
+    title: '3 John'
     versification: ''
     identifier: '3jn'
     sort: 64
@@ -908,7 +908,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Jude unfoldingWord® Translation Notes'
+    title: 'Jude'
     versification: ''
     identifier: 'jud'
     sort: 65
@@ -916,7 +916,7 @@ projects:
     categories: [ 'bible-nt' ]
 
   -
-    title: 'Revelation unfoldingWord® Translation Notes'
+    title: 'Revelation'
     versification: ''
     identifier: 'rev'
     sort: 66
