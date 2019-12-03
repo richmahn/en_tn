@@ -168,7 +168,7 @@ JOS	6	3	fu9e			0	Connecting Statement:	God continues telling Joshua what the peo
 JOS	6	3	eik2		כֹּ֥ה תַעֲשֶׂ֖ה שֵׁ֥שֶׁת יָמִֽים	1	You must do this for six days	“You must do this once each day for six days”
 JOS	6	4	b6ml		וְ⁠שִׁבְעָ֣ה כֹהֲנִ֡ים יִשְׂאוּ֩ שִׁבְעָ֨ה שׁוֹפְר֤וֹת הַ⁠יּֽוֹבְלִים֙ לִ⁠פְנֵ֣י הָ⁠אָר֔וֹן	1	Seven priests must carry seven trumpets of rams’ horns before the ark	The seven priests are to march in front of other priests who are carrying the ark and marching around the city.
 JOS	6	5	zdc7			0	Connecting Statement:	God continues telling Joshua what the people must do.
-JOS	6	5	d5rg		וְ⁠הָיָ֞ה בִּ⁠מְשֹׁ֣ךְ׀ בְּ⁠קֶ֣רֶן הַ⁠יּוֹבֵ֗ל ב⁠שמע⁠כם אֶת־ק֣וֹל הַ⁠שּׁוֹפָ֔ר	1	they must sound a long blast with the ram’s horn…of the trumpet	The word “they” refers to the seven priests. The “ram’s horn” and “trumpet” refer to the trumpets of rams’ horns that the priests were blowing in [Joshua 6:4](../06/04.md).
+JOS	6	5	d5rg		בִּ⁠מְשֹׁ֣ךְ׀ בְּ⁠קֶ֣רֶן הַ⁠יּוֹבֵ֗ל	1	they must sound a long blast with the ram’s horn…of the trumpet	The word “they” refers to the seven priests. The “ram’s horn” and “trumpet” refer to the trumpets of rams’ horns that the priests were blowing in [Joshua 6:4](../06/04.md).
 JOS	6	5	g97v		חוֹמַ֤ת הָ⁠עִיר֙	1	the wall of the city	“the outer wall of the city” or “the wall surrounding the city”
 JOS	6	6	h9cn	translate-names	נוּן֙	1	Nun	This is Joshua’s father. (See: [[rc://en/ta/man/translate/translate-names]])
 JOS	6	6	s5ne		שְׂא֖וּ אֶת־אֲר֣וֹן הַ⁠בְּרִ֑ית	1	Take up the ark of the covenant	“Pick up the ark of the covenant”
@@ -297,7 +297,7 @@ JOS	9	4	r5yb		בְּ⁠עָרְמָ֔ה	1	cunning plan	a crafty scheme intended 
 JOS	9	5	q9v6		יָבֵ֖שׁ הָיָ֥ה נִקֻּדִֽים	1	dry and moldy	“dry and filled with fungus” or “stale and ruined”
 JOS	9	6	rz8e	figs-synecdoche	אִ֣ישׁ יִשְׂרָאֵ֗ל	1	men of Israel	This refers to the entire nation of Israel. (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 JOS	9	7	w599	translate-names	הַ⁠חִוִּ֑י	1	the Hivites	This is another name for the Gibeonites. (See: [[rc://en/ta/man/translate/translate-names]])
-JOS	9	7	t1r4	figs-rquestion	אוּלַ֗י בְּ⁠קִרְבִּ⁠י֙ אַתָּ֣ה יוֹשֵׁ֔ב וְ⁠אֵ֖יךְ אכרות־לְ⁠ךָ֥ בְרִֽית	1	Perhaps you live near us. How can we make a covenant with you?	Joshua is emphasizing that the people of Israel have to follow the command of Yahweh above all else. Alternate translation: “If you do live near us, we cannot make a covenant with you.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
+JOS	9	7	t1r4	figs-rquestion	אוּלַ֗י בְּ⁠קִרְבִּ⁠י֙ אַתָּ֣ה יוֹשֵׁ֔ב וְ⁠אֵ֖יךְ אֶֽכְרָת־לְ⁠ךָ֥ בְרִֽית	1	Perhaps you live near us. How can we make a covenant with you?	Joshua is emphasizing that the people of Israel have to follow the command of Yahweh above all else. Alternate translation: “If you do live near us, we cannot make a covenant with you.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 JOS	9	10	kam4	translate-names	לְ⁠סִיחוֹן֙	1	Sihon	This is the name of the defeated Amorite king. (See: [[rc://en/ta/man/translate/translate-names]])
 JOS	9	10	s17h	translate-names	חֶשְׁבּ֔וֹן	1	Heshbon	This is the name of the royal city of the nation of Moab. (See: [[rc://en/ta/man/translate/translate-names]])
 JOS	9	10	pz6y	translate-names	וּ⁠לְ⁠ע֥וֹג	1	Og	This is the name of the defeated king of Bashan. (See: [[rc://en/ta/man/translate/translate-names]])
@@ -761,8 +761,7 @@ JOS	21	24	g4ma	translate-numbers	עָרִ֖ים אַרְבַּֽע	1	four cities
 JOS	21	25	e6cl	figs-activepassive	וּ⁠מִֽ⁠מַּחֲצִית֙ מַטֵּ֣ה מְנַשֶּׁ֔ה אֶת־תַּעְנַךְ֙	1	From the half tribe of Manasseh, the clan of Kohath was given Taanach	This can be stated in active form. Alternate translation: “The half tribe of Manasseh gave to the clan of Kohath Taanach” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 JOS	21	25	yn8h	translate-names	אֶת־תַּעְנַךְ֙…גַּת־רִמּ֖וֹן	1	Taanach…Gath Rimmon	These are names of cities. (See: [[rc://en/ta/man/translate/translate-names]])
 JOS	21	26	hn9j	translate-names	לְ⁠מִשְׁפְּח֥וֹת בְּנֵֽי־קְהָ֖ת	1	clans of the Kohathites	The priests in this group were descendants of Levi’s son Kohath. A portion of them were also descendants of Aaron, Kohath’s grandson. (See: [[rc://en/ta/man/translate/translate-names]])
-JOS	21	27	ws1t	figs-activepassive	וְ⁠לִ⁠בְנֵ֣י גֵרְשׁוֹן֮ מִ⁠מִּשְׁפְּחֹ֣ת הַ⁠לְוִיִּם֒ מֵ⁠חֲצִ֞י מַטֵּ֣ה מְנַשֶּׁ֗ה אֶת־עִיר֙ מִקְלַ֣ט הָ⁠רֹצֵ֔חַ אֶת־גלון	1	From the half tribe of Manasseh, to clans of Gershon, these were other Levite clans, and they gave Golan	This can be stated in active form. Alternate translation: “The half tribe of Manasseh, other Levite clans, received from the half tribe of Manasseh Golan” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-JOS	21	27	knk6	translate-names	אֶת־גלון…בְּעֶשְׁתְּרָ֖ה	1	Golan…Be Eshterah	names of cities (See: [[rc://en/ta/man/translate/translate-names]])
+JOS	21	27	knk6	translate-names	אֶת־גּוֹלָ֤ן…אֶֽת־בְּעֶשְׁתְּרָ֖ה	1	Golan…Be Eshterah	names of cities (See: [[rc://en/ta/man/translate/translate-names]])
 JOS	21	27	bmc9		הָ⁠רֹצֵ֔חַ	1	killed another unintentionally	This refers to a death resulting from an action not intended to harm a person.
 JOS	21	27	a1zs	translate-numbers	עָרִ֖ים שְׁתָּֽיִם	1	two cities	number of cities (See: [[rc://en/ta/man/translate/translate-numbers]])
 JOS	21	28	r9hc	translate-names	אֶת־קִשְׁי֖וֹן…אֶת־דָּֽבְרַ֖ת	1	Kishion…Daberath	names of cities (See: [[rc://en/ta/man/translate/translate-names]])
