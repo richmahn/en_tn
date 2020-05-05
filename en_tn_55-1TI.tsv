@@ -20,7 +20,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TI	1	4	qpv9	figs-hyperbole	γενεαλογίαις ἀπεράντοις	1	endless genealogies	With the word “endless” Paul uses exaggeration to emphasize that the genealogies are very long. (See: [[rc://en/ta/man/translate/figs-hyperbole]])
 1TI	1	4	ft33		γενεαλογίαις	1	genealogies	the written or verbal record of a person’s parents and ancestors
 1TI	1	4	qb9l		αἵτινες ἐκζητήσεις παρέχουσι	1	These cause arguments	“These make people angrily disagree.” The people debated about stories and genealogies about which no one could know the truth for certain.
-1TI	1	4	eu9f		μᾶλλον ἢ οἰκονομίαν Θεοῦ, τὴν ἐν πίστε	1	rather than helping the plan of God, which is by faith	Possible meanings are (1) “rather than helping us to understand God’s plan to save us, which we learn by faith” or (2) “rather than helping us to do God’s work, which we do by faith.”
+1TI	1	4	eu9f		μᾶλλον ἢ οἰκονομίαν Θεοῦ, τὴν ἐν πίστει	1	rather than helping the plan of God, which is by faith	Possible meanings are (1) “rather than helping us to understand God’s plan to save us, which we learn by faith” or (2) “rather than helping us to do God’s work, which we do by faith.”
 1TI	1	5	myi5		δὲ	1	Now	This word is used here to mark a break in the main teaching. Here Paul explains the purpose of what he is commanding Timothy.
 1TI	1	5	l7un		παραγγελίας	1	the commandment	Here this does not mean the Old Testament or the Ten Commandments but rather the instructions that Paul gives in [1 Timothy 1:3](../01/03.md) and [1 Timothy 1:4](../01/04.md).
 1TI	1	5	i9rs		ἐστὶν ἀγάπη	1	is love	Possible meanings are (1) “is to love God” or (2) “is to love people.”
@@ -140,7 +140,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TI	3	11	a12k		μὴ διαβόλους	1	They should not be slanderers	“They must not speak evil about other people”
 1TI	3	11	akm5		νηφαλίους	1	be moderate and	“not do anything to excess.” See how you translated this in [1 Timothy 3:2](../03/02.md).
 1TI	3	12	wji2		μιᾶς γυναικὸς ἄνδρες	1	husbands of one wife	A man must have only one wife. It is unclear if this excludes men who have been previously widowed, divorced, or never married. See how you translated this in [1 Timothy 3:2](../03/02.md).
-1TI	3	12	dv31		τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκω	1	manage well their children and household	“properly take care of and lead their children and others who live in their homes”
+1TI	3	12	dv31		τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων	1	manage well their children and household	“properly take care of and lead their children and others who live in their homes”
 1TI	3	13	rfq2		οἱ γὰρ	1	For those	“For those deacons” or “For these church leaders”
 1TI	3	13	s9si		ἑαυτοῖς…περιποιοῦνται	1	acquire for themselves	“receive for themselves” or “gain for themselves”
 1TI	3	13	cv34	figs-explicit	βαθμὸν…καλὸν	1	a good standing	The implied meaning may be stated explicitly. Alternate translation: “a good reputation among other believers” (See: [[rc://en/ta/man/translate/figs-explicit]])
@@ -201,7 +201,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TI	4	14	hdd9	figs-activepassive	μὴ ἀμέλει	1	Do not neglect	This can be stated in positive form. Alternate translation: “Be sure to use” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 1TI	4	14	xp1k	figs-activepassive	ὃ ἐδόθη σοι διὰ προφητείας	1	which was given to you through prophecy	This can be stated in active form. Alternate translation: “which you received when leaders of the church spoke God’s word” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 1TI	4	14	rr8f		ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου	1	laying on of the hands of the elders	This was a ceremony in which the church leaders put their hands on Timothy and prayed that God would enable him to do the work he had commanded him to do.
-1TI	4	15	m65m	figs-metaphor	αῦτα μελέτα, ἐν τούτοις ἴσθι	1	Care for these things. Be in them	Paul speaks of God’s gifts to Timothy as if he could physically be in them. Alternate translation: “Do all these things and live according to them” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+1TI	4	15	m65m	figs-metaphor	ταῦτα μελέτα, ἐν τούτοις ἴσθι	1	Care for these things. Be in them	Paul speaks of God’s gifts to Timothy as if he could physically be in them. Alternate translation: “Do all these things and live according to them” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TI	4	15	j8zi	figs-metaphor	ἵνα σου ἡ προκοπὴ φανερὰ ᾖ πᾶσιν	1	so that your progress may be evident to all people	Paul speaks of Timothy’s increasing ability to serve God as if it were a physical object that others could look at. Alternate translation: “so other people will know that you are serving God better and better” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TI	4	16	uq6c		ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ	1	Give careful attention to yourself and to the teaching	“Conduct yourself carefully and give attention to the teaching” or “Control your own behavior and give attention to the teaching”
 1TI	4	16	zxe7		ἐπίμενε αὐτοῖς	1	Continue in these things	“Continue to do these things”
@@ -325,7 +325,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TI	6	12	w21p	figs-metaphor	ἀγωνίζου τὸν καλὸν ἀγῶνα τῆς πίστεως	1	Fight the good fight of faith	Here Paul speaks about a person continuing in faith as if they are an athlete fighting to win a contest or a warrior fighting a battle. Alternate translation: “Try your hardest to obey Christ’s teachings with as much energy as an athlete uses in a contest” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TI	6	12	y6m8	figs-metaphor	ἐπιλαβοῦ τῆς αἰωνίου ζωῆς	1	Take hold of the everlasting life	This continues the metaphor. Paul speaks about a person receiving eternal life as if they are a victorious athlete or warrior taking their prize. Alternate translation: “Take eternal life as your reward as a victorious athlete takes his prize” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TI	6	12	usd1	figs-activepassive	εἰς ἣν ἐκλήθης	1	to which you were called	This can be stated in active form. Alternate translation: “to which God has called you” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-1TI	6	12	qw96		ὡμολόγησας τὴν καλὴν ὁμολογία	1	you gave the good confession	“you confessed what is good” or “you confessed the truth”
+1TI	6	12	qw96		ὡμολόγησας τὴν καλὴν ὁμολογίαν	1	you gave the good confession	“you confessed what is good” or “you confessed the truth”
 1TI	6	12	vm6q	figs-metonymy	ἐνώπιον πολλῶν μαρτύρων	1	before many witnesses	Paul expresses the idea of location in order to signal the idea of the people to whom Timothy was speaking. Alternate translation: “to many witnesses” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 1TI	6	13	aj8i			0	Connecting Statement:	Paul talks of Christ’s coming, gives specific instructions to the rich, and lastly closes with a special message to Timothy.
 1TI	6	13	t6dh		παραγγέλλω σοι	1	I give these orders to you	“This is what I command you”
