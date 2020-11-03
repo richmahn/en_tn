@@ -397,7 +397,7 @@ checking:
 projects:
   -
     title: 'Genesis'
-    versification: ''
+    versification: 'ufw'
     identifier: 'gen'
     sort: 1
     path: './en_tn_01-GEN.tsv'
@@ -405,7 +405,7 @@ projects:
 
   -
     title: 'Exodus'
-    versification: ''
+    versification: 'ufw'
     identifier: 'exo'
     sort: 2
     path: './en_tn_02-EXO.tsv'
@@ -413,7 +413,7 @@ projects:
 
   -
     title: 'Leviticus'
-    versification: ''
+    versification: 'ufw'
     identifier: 'lev'
     sort: 3
     path: './en_tn_03-LEV.tsv'
@@ -421,7 +421,7 @@ projects:
 
   -
     title: 'Numbers'
-    versification: ''
+    versification: 'ufw'
     identifier: 'num'
     sort: 4
     path: './en_tn_04-NUM.tsv'
@@ -429,7 +429,7 @@ projects:
 
   -
     title: 'Deuteronomy'
-    versification: ''
+    versification: 'ufw'
     identifier: 'deu'
     sort: 5
     path: './en_tn_05-DEU.tsv'
@@ -437,7 +437,7 @@ projects:
 
   -
     title: 'Joshua'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jos'
     sort: 6
     path: './en_tn_06-JOS.tsv'
@@ -445,7 +445,7 @@ projects:
 
   -
     title: 'Judges'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jdg'
     sort: 7
     path: './en_tn_07-JDG.tsv'
@@ -453,7 +453,7 @@ projects:
 
   -
     title: 'Ruth'
-    versification: ''
+    versification: 'ufw'
     identifier: 'rut'
     sort: 8
     path: './en_tn_08-RUT.tsv'
@@ -461,7 +461,7 @@ projects:
 
   -
     title: '1 Samuel'
-    versification: ''
+    versification: 'ufw'
     identifier: '1sa'
     sort: 9
     path: './en_tn_09-1SA.tsv'
@@ -469,7 +469,7 @@ projects:
 
   -
     title: '2 Samuel'
-    versification: ''
+    versification: 'ufw'
     identifier: '2sa'
     sort: 10
     path: './en_tn_10-2SA.tsv'
@@ -477,7 +477,7 @@ projects:
 
   -
     title: '1 Kings'
-    versification: ''
+    versification: 'ufw'
     identifier: '1ki'
     sort: 11
     path: './en_tn_11-1KI.tsv'
@@ -485,7 +485,7 @@ projects:
 
   -
     title: '2 Kings'
-    versification: ''
+    versification: 'ufw'
     identifier: '2ki'
     sort: 12
     path: './en_tn_12-2KI.tsv'
@@ -493,7 +493,7 @@ projects:
 
   -
     title: '1 Chronicles'
-    versification: ''
+    versification: 'ufw'
     identifier: '1ch'
     sort: 13
     path: './en_tn_13-1CH.tsv'
@@ -501,7 +501,7 @@ projects:
 
   -
     title: '2 Chronicles'
-    versification: ''
+    versification: 'ufw'
     identifier: '2ch'
     sort: 14
     path: './en_tn_14-2CH.tsv'
@@ -509,7 +509,7 @@ projects:
 
   -
     title: 'Ezra'
-    versification: ''
+    versification: 'ufw'
     identifier: 'ezr'
     sort: 15
     path: './en_tn_15-EZR.tsv'
@@ -517,7 +517,7 @@ projects:
 
   -
     title: 'Nehemiah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'neh'
     sort: 16
     path: './en_tn_16-NEH.tsv'
@@ -525,7 +525,7 @@ projects:
 
   -
     title: 'Esther'
-    versification: ''
+    versification: 'ufw'
     identifier: 'est'
     sort: 17
     path: './en_tn_17-EST.tsv'
@@ -533,7 +533,7 @@ projects:
 
   -
     title: 'Job'
-    versification: ''
+    versification: 'ufw'
     identifier: 'job'
     sort: 18
     path: './en_tn_18-JOB.tsv'
@@ -541,7 +541,7 @@ projects:
 
   -
     title: 'Psalms'
-    versification: ''
+    versification: 'ufw'
     identifier: 'psa'
     sort: 19
     path: './en_tn_19-PSA.tsv'
@@ -549,7 +549,7 @@ projects:
 
   -
     title: 'Proverbs'
-    versification: ''
+    versification: 'ufw'
     identifier: 'pro'
     sort: 20
     path: './en_tn_20-PRO.tsv'
@@ -557,7 +557,7 @@ projects:
 
   -
     title: 'Ecclesiastes'
-    versification: ''
+    versification: 'ufw'
     identifier: 'ecc'
     sort: 21
     path: './en_tn_21-ECC.tsv'
@@ -565,7 +565,7 @@ projects:
 
   -
     title: 'Song of Solomon'
-    versification: ''
+    versification: 'ufw'
     identifier: 'sng'
     sort: 22
     path: './en_tn_22-SNG.tsv'
@@ -573,7 +573,7 @@ projects:
 
   -
     title: 'Isaiah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'isa'
     sort: 23
     path: './en_tn_23-ISA.tsv'
@@ -581,7 +581,7 @@ projects:
 
   -
     title: 'Jeremiah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jer'
     sort: 24
     path: './en_tn_24-JER.tsv'
@@ -589,7 +589,7 @@ projects:
 
   -
     title: 'Lamentations'
-    versification: ''
+    versification: 'ufw'
     identifier: 'lam'
     sort: 25
     path: './en_tn_25-LAM.tsv'
@@ -597,7 +597,7 @@ projects:
 
   -
     title: 'Ezekiel'
-    versification: ''
+    versification: 'ufw'
     identifier: 'ezk'
     sort: 26
     path: './en_tn_26-EZK.tsv'
@@ -605,7 +605,7 @@ projects:
 
   -
     title: 'Daniel'
-    versification: ''
+    versification: 'ufw'
     identifier: 'dan'
     sort: 27
     path: './en_tn_27-DAN.tsv'
@@ -613,7 +613,7 @@ projects:
 
   -
     title: 'Hosea'
-    versification: ''
+    versification: 'ufw'
     identifier: 'hos'
     sort: 28
     path: './en_tn_28-HOS.tsv'
@@ -621,7 +621,7 @@ projects:
 
   -
     title: 'Joel'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jol'
     sort: 29
     path: './en_tn_29-JOL.tsv'
@@ -629,7 +629,7 @@ projects:
 
   -
     title: 'Amos'
-    versification: ''
+    versification: 'ufw'
     identifier: 'amo'
     sort: 30
     path: './en_tn_30-AMO.tsv'
@@ -637,7 +637,7 @@ projects:
 
   -
     title: 'Obadiah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'oba'
     sort: 31
     path: './en_tn_31-OBA.tsv'
@@ -645,7 +645,7 @@ projects:
 
   -
     title: 'Jonah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jon'
     sort: 32
     path: './en_tn_32-JON.tsv'
@@ -653,7 +653,7 @@ projects:
 
   -
     title: 'Micah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'mic'
     sort: 33
     path: './en_tn_33-MIC.tsv'
@@ -661,7 +661,7 @@ projects:
 
   -
     title: 'Nahum'
-    versification: ''
+    versification: 'ufw'
     identifier: 'nam'
     sort: 34
     path: './en_tn_34-NAM.tsv'
@@ -669,7 +669,7 @@ projects:
 
   -
     title: 'Habakkuk'
-    versification: ''
+    versification: 'ufw'
     identifier: 'hab'
     sort: 35
     path: './en_tn_35-HAB.tsv'
@@ -677,7 +677,7 @@ projects:
 
   -
     title: 'Zephaniah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'zep'
     sort: 36
     path: './en_tn_36-ZEP.tsv'
@@ -685,7 +685,7 @@ projects:
 
   -
     title: 'Haggai'
-    versification: ''
+    versification: 'ufw'
     identifier: 'hag'
     sort: 37
     path: './en_tn_37-HAG.tsv'
@@ -693,7 +693,7 @@ projects:
 
   -
     title: 'Zechariah'
-    versification: ''
+    versification: 'ufw'
     identifier: 'zec'
     sort: 38
     path: './en_tn_38-ZEC.tsv'
@@ -701,7 +701,7 @@ projects:
 
   -
     title: 'Malachi'
-    versification: ''
+    versification: 'ufw'
     identifier: 'mal'
     sort: 39
     path: './en_tn_39-MAL.tsv'
@@ -709,7 +709,7 @@ projects:
 
   -
     title: 'Matthew'
-    versification: ''
+    versification: 'ufw'
     identifier: 'mat'
     sort: 40
     path: './en_tn_41-MAT.tsv'
@@ -717,7 +717,7 @@ projects:
 
   -
     title: 'Mark'
-    versification: ''
+    versification: 'ufw'
     identifier: 'mrk'
     sort: 41
     path: './en_tn_42-MRK.tsv'
@@ -725,7 +725,7 @@ projects:
 
   -
     title: 'Luke'
-    versification: ''
+    versification: 'ufw'
     identifier: 'luk'
     sort: 42
     path: './en_tn_43-LUK.tsv'
@@ -733,7 +733,7 @@ projects:
 
   -
     title: 'John'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jhn'
     sort: 43
     path: './en_tn_44-JHN.tsv'
@@ -741,7 +741,7 @@ projects:
 
   -
     title: 'Acts'
-    versification: ''
+    versification: 'ufw'
     identifier: 'act'
     sort: 44
     path: './en_tn_45-ACT.tsv'
@@ -749,7 +749,7 @@ projects:
 
   -
     title: 'Romans'
-    versification: ''
+    versification: 'ufw'
     identifier: 'rom'
     sort: 45
     path: './en_tn_46-ROM.tsv'
@@ -757,7 +757,7 @@ projects:
 
   -
     title: '1 Corinthians'
-    versification: ''
+    versification: 'ufw'
     identifier: '1co'
     sort: 46
     path: './en_tn_47-1CO.tsv'
@@ -765,7 +765,7 @@ projects:
 
   -
     title: '2 Corinthians'
-    versification: ''
+    versification: 'ufw'
     identifier: '2co'
     sort: 47
     path: './en_tn_48-2CO.tsv'
@@ -773,7 +773,7 @@ projects:
 
   -
     title: 'Galatians'
-    versification: ''
+    versification: 'ufw'
     identifier: 'gal'
     sort: 48
     path: './en_tn_49-GAL.tsv'
@@ -781,7 +781,7 @@ projects:
 
   -
     title: 'Ephesians'
-    versification: ''
+    versification: 'ufw'
     identifier: 'eph'
     sort: 49
     path: './en_tn_50-EPH.tsv'
@@ -789,7 +789,7 @@ projects:
 
   -
     title: 'Philippians'
-    versification: ''
+    versification: 'ufw'
     identifier: 'php'
     sort: 50
     path: './en_tn_51-PHP.tsv'
@@ -797,7 +797,7 @@ projects:
 
   -
     title: 'Colossians'
-    versification: ''
+    versification: 'ufw'
     identifier: 'col'
     sort: 51
     path: './en_tn_52-COL.tsv'
@@ -805,7 +805,7 @@ projects:
 
   -
     title: '1 Thessalonians'
-    versification: ''
+    versification: 'ufw'
     identifier: '1th'
     sort: 52
     path: './en_tn_53-1TH.tsv'
@@ -813,7 +813,7 @@ projects:
 
   -
     title: '2 Thessalonians'
-    versification: ''
+    versification: 'ufw'
     identifier: '2th'
     sort: 53
     path: './en_tn_54-2TH.tsv'
@@ -821,7 +821,7 @@ projects:
 
   -
     title: '1 Timothy'
-    versification: ''
+    versification: 'ufw'
     identifier: '1ti'
     sort: 54
     path: './en_tn_55-1TI.tsv'
@@ -829,7 +829,7 @@ projects:
 
   -
     title: '2 Timothy'
-    versification: ''
+    versification: 'ufw'
     identifier: '2ti'
     sort: 55
     path: './en_tn_56-2TI.tsv'
@@ -837,7 +837,7 @@ projects:
 
   -
     title: 'Titus'
-    versification: ''
+    versification: 'ufw'
     identifier: 'tit'
     sort: 56
     path: './en_tn_57-TIT.tsv'
@@ -845,7 +845,7 @@ projects:
 
   -
     title: 'Philemon'
-    versification: ''
+    versification: 'ufw'
     identifier: 'phm'
     sort: 57
     path: './en_tn_58-PHM.tsv'
@@ -853,7 +853,7 @@ projects:
 
   -
     title: 'Hebrews'
-    versification: ''
+    versification: 'ufw'
     identifier: 'heb'
     sort: 58
     path: './en_tn_59-HEB.tsv'
@@ -861,7 +861,7 @@ projects:
 
   -
     title: 'James'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jas'
     sort: 59
     path: './en_tn_60-JAS.tsv'
@@ -869,7 +869,7 @@ projects:
 
   -
     title: '1 Peter'
-    versification: ''
+    versification: 'ufw'
     identifier: '1pe'
     sort: 60
     path: './en_tn_61-1PE.tsv'
@@ -877,7 +877,7 @@ projects:
 
   -
     title: '2 Peter'
-    versification: ''
+    versification: 'ufw'
     identifier: '2pe'
     sort: 61
     path: './en_tn_62-2PE.tsv'
@@ -885,7 +885,7 @@ projects:
 
   -
     title: '1 John'
-    versification: ''
+    versification: 'ufw'
     identifier: '1jn'
     sort: 62
     path: './en_tn_63-1JN.tsv'
@@ -893,7 +893,7 @@ projects:
 
   -
     title: '2 John'
-    versification: ''
+    versification: 'ufw'
     identifier: '2jn'
     sort: 63
     path: './en_tn_64-2JN.tsv'
@@ -901,7 +901,7 @@ projects:
 
   -
     title: '3 John'
-    versification: ''
+    versification: 'ufw'
     identifier: '3jn'
     sort: 64
     path: './en_tn_65-3JN.tsv'
@@ -909,7 +909,7 @@ projects:
 
   -
     title: 'Jude'
-    versification: ''
+    versification: 'ufw'
     identifier: 'jud'
     sort: 65
     path: './en_tn_66-JUD.tsv'
@@ -917,7 +917,7 @@ projects:
 
   -
     title: 'Revelation'
-    versification: ''
+    versification: 'ufw'
     identifier: 'rev'
     sort: 66
     path: './en_tn_67-REV.tsv'

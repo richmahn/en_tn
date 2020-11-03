@@ -80,9 +80,9 @@ The following lists each column with a brief description and example.
 * `SupportReference`
   * Normally a link to a supporting reference text or blank
   * This will usually be a link to translationAcademy, like `rc://*/ta/man/translate/figs-metaphor`
-* `OrigQuote` - Original language quote (e.g. `ἐφανέρωσεν ... τὸν λόγον αὐτοῦ`)
+* `OrigQuote` - Original language quote (e.g. `ἐφανέρωσεν…τὸν λόγον αὐτοῦ`)
   * Software (such as tC) should use this for determining what is highlighted rather than using the `GLQuote` field
-  * Three periods (...), forming an ellipsis, indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
+  * An ellipsis character (…) indicates that the quote is discontinuous, software should interpret this in a non-greedy manner
 * `Occurrence` - Specifies which occurrence in the original language text the entry applies to.
   * `-1`: entry applies to every occurrence of OrigQuote in the verse
   * `0`: entry does not occur in original language (for example, “Connecting Statement:”)
@@ -111,7 +111,7 @@ Below are a few formatting guidelines that govern the composition of transationN
 * It is not enough to enclose "for example" in commas mid sentence and follow it with an example, i.e., You can say this with an active form, for example, “Mordecai found out what they were planning.”  Corrected to: You can say this with an active form such as “Mordecai found out what they were planning.” Another example might include: You can say this with an active form, and you can say who did the action. For example, you can say, “Then the king's servants investigated Mordecai's report and found out that it was true.”
 * When beginning a tNotes with the word "Here," the term should be followed by a comma.  For instance: "Here, the **ULT term** means __________."
 * Do NOT include a period at the end of the "Alternate translation:" fragment at the end of a tNote. The "Alternate translation" should be formatted as a floating sentence fragment immediately followed by the translationAcademy hyperlink (if applicable), i.e., Alternation translation: "in the presence of Yahweh" (See: Metaphor)
-* When composing tNotes using tC Create, all hyperlinks should be typed in "Markdown" mode instead of "Preview" mode. Hyperlinks entered in Preview mode will not be saved in their proper format.  
+* When composing tNotes using tC Create, all hyperlinks should be typed in "Markdown" mode instead of "Preview" mode. Hyperlinks entered in Preview mode will not be saved in their proper format.
 * Scripture references within the same book should be referenced using both chapter and verse, separate by a colon, i.e. 3:16.  To use this same example, the proper hyperlink format places the hyperlink text in brackets [3:16] immediately followed by the link itself in parentheses (../03/16.md).  There should not be a space between the brackets and the parentheses.
 * The file name in the SupportReference field MUST be an exact match for the hyperlink at the close of the tNote.  If they do not match, the link will not work properly.
 
