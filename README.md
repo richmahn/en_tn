@@ -25,23 +25,14 @@ The first two options require you to clone the repository to your computer first
 
 Alternately, you may [download the master branch as a zip file](https://git.door43.org/unfoldingWord/en_tn/archive/master.zip) and extract that locally. After editing you would need to use the upload file feature in DCS to get your changes ready for a Pull Request.
 
-### Editing in LibreOffice
+### Editing in tC Create
 
-This is the recommended way to edit the TSV files. You may [download LibreOffice](https://www.libreoffice.org/download/download/) for free.
+This is the recommended way to edit the TSV files. tC Create is a web-based application that you can access [here](https://create.translationcore.com).  NOTE: you need to have a Door43 account in order to use tC Create.
 
-After you have the file on your computer, you may open the respective TSV file with LibreOffice. Follow these notes on the Text Import Screen:
+Once you log in, simply follow the prompts to open the file you wish to edit.  
 
-* Set “Separated by” to “Tab”
-* Set “Text Delimiter” to blank, you will need to highlight the character and use backspace or delete to remove it
+When you are done editing, click Save button at the top right corner of the screen.
 
-It should look like this:
-
-![](https://cdn.door43.org/assets/img/tn/LibreOfficeTextImport.png)
-
-
-When you are done editing, click Save and then select “Use Text CSV Format” on the pop up dialogue. Note that even though it says CSV, it will use tab characters as the field separators.
-
-**Note:** Other spreadsheet editors **should not** be used because they will add or remove quotation marks which will affect the notes negatively.
 
 ### Editing in a Text Editor
 
@@ -53,7 +44,7 @@ You may also use a regular text editor to make changes to the files.
 
 If you only need to change a word or two, this may be the quickest way to make your change. See the [protected branch workflow](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/46-protected-branch-workflow) document for step by step instructions.
 
-**Note:** You must be careful not to delete any tab characters when editing with this method.
+**Note:** You must be careful not to delete any tab characters when editing with this method.  Also, you CANNOT manually input the tab characters using the tab bar on your keyboard, because DCS will save them as spaces and not as tab separators.  The best way to insert tab separators is by copying and pasting tab characters from an existing tNote.
 
 ## Structure
 
