@@ -27,7 +27,7 @@ Alternately, you may [download the master branch as a zip file](https://git.door
 
 ### Editing in tC Create
 
-This is the recommended way to edit the TSV files. tC Create is a web-based application that you can access [here](https://create.translationcore.com).  NOTE: you need to have a Door43 account in order to use tC Create.
+This is the recommended way to edit the TSV files. tC Create is a web-based application that you can access [here](https://create.translationcore.com). NOTE: you need to have a Door43 account in order to use tC Create.
 
 Once you log in, simply follow the prompts to open the file you wish to edit.  
 
@@ -44,7 +44,7 @@ You may also use a regular text editor to make changes to the files.
 
 If you only need to change a word or two, this may be the quickest way to make your change. See the [protected branch workflow](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/46-protected-branch-workflow) document for step by step instructions.
 
-**Note:** You must be careful not to delete any tab characters when editing with this method.  Also, you CANNOT manually input the tab characters using the tab bar on your keyboard, because DCS will save them as spaces and not as tab separators.  The best way to insert tab separators is by copying and pasting tab characters from an existing tNote.
+**Note:** You must be careful not to delete any tab characters when editing with this method. Also, you CANNOT manually input the tab characters using the tab bar on your keyboard, because DCS will save them as spaces and not as tab separators. The best way to insert tab separators is by copying and pasting tab characters from an existing tNote.
 
 ## Structure
 
@@ -84,8 +84,8 @@ The following lists each column with a brief description and example.
   * Software (such as tC) should disregard this field.
   * This field is a reference text for GL translators
   * For certain notes, this field represents the display text for notes that do not relate to a specific word or phrase in the text. There are two such cases in the tN:
-      * “Connecting Statement:” and
-      * “General Information:”
+    * “Connecting Statement:” and
+    * “General Information:”
   * GL translations teams **should not translate** this column. They do need to provide a translation of the above 2 statements.
 * `OccurrenceNote` - The Markdown formatted note itself. For example, `Paul speaks of God’s message as if it were an object that could be visibly shown to people. Alternate translation: “He caused me to understand his message” (See: [[rc://en/ta/man/translate/figs-metaphor]])`
   * The text should be Markdown formatted, which means the following are also acceptable:
