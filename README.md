@@ -29,7 +29,7 @@ Alternately, you may [download the master branch as a zip file](https://git.door
 
 This is the recommended way to edit the TSV files. tC Create is a web-based application that you can access [here](https://create.translationcore.com). NOTE: you need to have a Door43 account in order to use tC Create.
 
-Once you log in, simply follow the prompts to open the file you wish to edit.  
+Once you log in, simply follow the prompts to open the file you wish to edit.
 
 When you are done editing, click Save button at the top right corner of the screen.
 
@@ -100,7 +100,7 @@ Below are a few formatting guidelines that govern the composition of transationN
 * The ULT term/concept being discussed in each Note should be in **bold type**, NOT in “quotation marks.”
 * Only use quotation marks to indicate suggested translations. Do not precede the suggestion with the word “that” (which turns them into indirect quotes) i.e., You could say that “they were planning to assassinate him.” Corrected to: You could say, “they were planning to assassinate him.”
 * It is not enough to enclose “for example” in commas mid sentence and follow it with an example, i.e., You can say this with an active form, for example, “Mordecai found out what they were planning.” Corrected to: You can say this with an active form such as “Mordecai found out what they were planning.” Another example might include: You can say this with an active form, and you can say who did the action. For example, you can say, “Then the king’s servants investigated Mordecai’s report and found out that it was true.”
-* When beginning a tNotes with the word “Here,” the term should be followed by a comma. For instance: “Here, the **ULT term** means __________.”
+* When beginning a tNotes with the word “Here,” the term should be followed by a comma. For instance: “Here, the **ULT term** means …”
 * Do NOT include a period at the end of the “Alternate translation:” fragment at the end of a tNote. The “Alternate translation” should be formatted as a floating sentence fragment immediately followed by the translationAcademy hyperlink (if applicable), i.e., Alternation translation: “in the presence of Yahweh” (See: Metaphor)
 * When composing tNotes using tC Create, all hyperlinks should be typed in “Markdown” mode instead of “Preview” mode. Hyperlinks entered in Preview mode will not be saved in their proper format.
 * Scripture references within the same book should be referenced using both chapter and verse, separate by a colon, i.e. 3:16. To use this same example, the proper hyperlink format places the hyperlink text in brackets [3:16] immediately followed by the link itself in parentheses (../03/16.md). There should not be a space between the brackets and the parentheses.
