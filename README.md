@@ -1,4 +1,5 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-utn-256.png" alt="drawing" width="100"/>
+
 # unfoldingWord® Translation Notes
 
 This is the repository for the [unfoldingWord® Translation Notes (UTN)](https://www.unfoldingword.org/utn) resource.
@@ -93,6 +94,7 @@ The following lists each column with a brief description and example.
     * HTML - if you prefer to use inline HTML for markup, that works because it is supported in Markdown
 
 ## Composing translationNotes
+
 Below are a few formatting guidelines that govern the composition of transationNotes.
 
 * All tNotes should reference ONLY a single translationAcademy article. If a second article needs to be referenced, an additional tNote should be added.
