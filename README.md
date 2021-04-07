@@ -10,7 +10,7 @@ unfoldingWord® Translation Notes are open-licensed exegetical notes that provid
 
 ## Downloading
 
-If you want to download the UTN to use, go here: [https://www.unfoldingword.org/utn](https://www.unfoldingword.org/utn). UTN is also included in [tS](http://ufw.io/ts) and [tC](http://ufw.io/tc).
+If you want to download the UTN to use, go here: [https://www.unfoldingword.org/utn](https://www.unfoldingword.org/utn). UTN is also included in [tS](https://ufw.io/ts) and [tC](https://ufw.io/tc).
 
 ## Editing the UTN
 
@@ -33,7 +33,6 @@ This is the recommended way to edit the TSV files. tC Create is a web-based appl
 Once you log in, simply follow the prompts to open the file you wish to edit.
 
 When you are done editing, click Save button at the top right corner of the screen.
-
 
 ### Editing in a Text Editor
 
@@ -68,7 +67,7 @@ The following lists each column with a brief description and example.
   * This will be helpful in identifing which notes are translations of the original English tNs and which notes have been added by GLs.
   * The Universal ID (UID) of a note is the combination of the `Book`, `Chapter`, `Verse`, and `ID` fields. For example, `tit/1/3/swi9`.
     * This is a useful way to unambiguously refer to notes.
-    * An [RC link](http://resource-container.readthedocs.io/en/latest/linking.html) can resolve to a specific note like this: `rc://en/tn/help/tit/01/01/swi9`.
+    * An [RC link](https://resource-container.readthedocs.io/en/latest/linking.html) can resolve to a specific note like this: `rc://en/tn/help/tit/01/01/swi9`.
 * `SupportReference`
   * Normally a link to a supporting reference text or blank
   * This will usually be a link to translationAcademy, like `rc://*/ta/man/translate/figs-metaphor`
@@ -112,7 +111,7 @@ Below are a few formatting guidelines that govern the composition of transationN
 
 ### tN Translation Philosophy
 
-To learn the philosophy of how to translate these notes please see the [Translate the translationNotes](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#gltranslation-transtn) article in the [Gateway Language Manual](http://gl-manual.readthedocs.io/).
+To learn the philosophy of how to translate these notes please see the [Translate the translationNotes](https://gl-manual.readthedocs.io/en/latest/gl_translation.html#gltranslation-transtn) article in the [Gateway Language Manual](https://gl-manual.readthedocs.io/).
 
 ### tN Translation Notes
 
@@ -121,15 +120,15 @@ Here are some important technical *notes* to keep in mind as you translate tN:
 * Only the `OccurrenceNote` column needs to be translated
 * Do *not* remove any column in the TSV files
 * You will also need to supply a translation of these 2 phrases which are repeated, “Connecting Statement:” and “General Information:”.
-    * These phrases occur many times in the `GLQuote` column.
-    * You may want to use find and replace to update the English text with your GL text. If not, we can do this when preparing the text for publishing.
+  * These phrases occur many times in the `GLQuote` column.
+  * You may want to use find and replace to update the English text with your GL text. If not, we can do this when preparing the text for publishing.
 * Remember: the `GLQuote` column *is not required* to be filled out. Only use this field if it is helpful during the translation process. The software that processes the tNs will use alignment data to identify which words in your GL translation the individual notes refer to.
 
 The section above on [Editing the tNs](https://git.door43.org/unfoldingWord/en_tn#editing-the-utn) may give you ideas on what software to use. Of course, you can also convert the TSV files into another format, do the translation, and then convert them back to TSV files (just ensure the IDs are preserved if you do this). Follow [Translate Content Online](https://help.door43.org/en/knowledgebase/15-door43-content-service/docs/41-translate-content-online) to get a copy of this repository to begin your work.
 
 ### Add Notes
 
-As a translator of UTN into a GL, you may need to [add new notes](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#may-i-add-a-note-that-would-help-with-translation-in-my-language). Follow these steps to do this:
+As a translator of UTN into a GL, you may need to [add new notes](https://gl-manual.readthedocs.io/en/latest/gl_translation.html#may-i-add-a-note-that-would-help-with-translation-in-my-language). Follow these steps to do this:
 
 1. Add a new row in the correct book, chapter, verse order.
 2. Fill out each field for the row according to the [UTN TSV Column Description](https://git.door43.org/unfoldingWord/en_tn#utn-tsv-column-description) above, taking note of these instructions:
