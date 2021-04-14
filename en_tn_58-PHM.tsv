@@ -11,9 +11,9 @@ PHM	1	2	zh5c	translate-names	Ἀπφίᾳ, τῇ ἀδελφῇ	1	Apphia our sis
 PHM	1	2	sq44	translate-names	Ἀρχίππῳ	1	Archippus	This is the name of a man in the church with Philemon. (See: [[rc://en/ta/man/translate/translate-names]])
 PHM	1	2	mnn5	figs-metaphor	τῷ συνστρατιώτῃ ἡμῶν	1	our fellow soldier	Paul speaks here of Archippus as if they were both soldiers in an army. He means that Archippus works hard, as Paul himself works hard, to spread the gospel. Alternate translation: “our fellow spiritual warrior” or “who also fights the spiritual battle with us” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PHM	1	3	r4nq		χάρις ὑμῖν καὶ εἰρήνη, ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ	1	May grace be to you and peace from God our Father and the Lord Jesus Christ	“May God our Father and the Lord Jesus Christ give you grace and peace.” This is a blessing.
-PHM	1	3	e5z8	figs-inclusive	Θεοῦ Πατρὸς ἡμῶν	1	God our Father	The word “our” here refers to Paul, those with him, and the reader. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PHM	1	3	e5z8	figs-exclusive	Θεοῦ Πατρὸς ἡμῶν	1	God our Father	The word “our” here refers to Paul, those with him, and the reader. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PHM	1	3	lh8a	guidelines-sonofgodprinciples	Πατρὸς ἡμῶν	1	our Father	This is an important title for God. (See: [[rc://en/ta/man/translate/guidelines-sonofgodprinciples]])
-PHM	1	4	kh5l	figs-inclusive		0	General Information:	The word “us” is plural and refers to Paul, those with him, and all Christians, including the readers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PHM	1	4	kh5l	figs-exclusive		0	General Information:	The word “us” is plural and refers to Paul, those with him, and all Christians, including the readers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PHM	1	6	t54l		ἡ κοινωνία τῆς πίστεώς σου	1	the fellowship of your faith	“your working together with us”
 PHM	1	6	pxw1		ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ	1	be effective for the knowledge of everything good	“result in knowing what is good”
 PHM	1	6	n25e		εἰς Χριστόν	1	in Christ	“because of Christ”

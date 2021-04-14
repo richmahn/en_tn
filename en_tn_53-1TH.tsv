@@ -29,7 +29,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	1	10	dg6a	guidelines-sonofgodprinciples	τὸν Υἱὸν αὐτοῦ	1	his Son	This is an important title for Jesus that describes his relationship to God. (See: [[rc://en/ta/man/translate/guidelines-sonofgodprinciples]])
 1TH	1	10	pmi8		ὃν ἤγειρεν	1	whom he raised	“whom God caused to live again”
 1TH	1	10	wba8		ἐκ τῶν νεκρῶν	1	from the dead	“so that he was no longer dead.” This expression describes all dead people together in the underworld. To come back from among them speaks of becoming alive again.
-1TH	1	10	pt1s	figs-inclusive	τὸν ῥυόμενον ἡμᾶς	1	who frees us	Here Paul includes the Thessalonian believers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	1	10	pt1s	figs-exclusive	τὸν ῥυόμενον ἡμᾶς	1	who frees us	Here Paul includes the Thessalonian believers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	2	intro	kt5l			0		# 1 Thessalonians 02 General Notes<br>## Special concepts in this chapter<br><br>### Christian witness<br>Paul values his “Christian witness” as evidence that the gospel is true. Paul says that being godly or holy bears witness to the non-Christian. Paul defends his character, so that his witness is not affected. (See: [[rc://en/tw/dict/bible/kt/testimony]] and [[rc://en/tw/dict/bible/kt/godly]] and [[rc://en/tw/dict/bible/kt/holy]])
 1TH	2	1	pt75			0	Connecting Statement:	Paul defines the believers’ service and reward.
 1TH	2	1	gpr4	figs-rpronouns	αὐτοὶ	1	you yourselves	The words “you” and “yourselves” refer to the Thessalonian believers. (See: [[rc://en/ta/man/translate/figs-rpronouns]])
@@ -104,7 +104,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	3	10	k71n		ὑπέρ ἐκ περισσοῦ	1	very hard	“fervently”
 1TH	3	10	eb26	figs-synecdoche	τὸ ἰδεῖν ὑμῶν τὸ πρόσωπον	1	see your face	The word “face” refers to their whole person. Alternate translation: “visit you” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 1TH	3	11	tet9			0	General Information:	In these verses, the word “our” does not always refer to the same group of people. Please see the translation notes for specifics.
-1TH	3	11	bql9	figs-inclusive	ὁ Θεὸς…Πατὴρ ἡμῶν	1	May our God…our Lord Jesus	Paul includes the Thessalonian believers with his ministry team. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	3	11	bql9	figs-exclusive	ὁ Θεὸς…Πατὴρ ἡμῶν	1	May our God…our Lord Jesus	Paul includes the Thessalonian believers with his ministry team. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	3	11	mc2m		ὁ Θεὸς…ἡμῶν	1	May our God	“We pray that our God”
 1TH	3	11	um1c	figs-metaphor	κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς	1	direct our way to you	Paul speaks as if he wants God to show him and his companions the route to take to visit the Thessalonian Christians. He means that he wants God to make it possible for them to do so. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	3	11	efl5	figs-exclusive	κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς	1	direct our way to you	The word “our” refers to Paul, Silvanus, and Timothy but not the Thessalonian believers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
@@ -127,7 +127,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	4	6	q7bf	figs-explicit	ἔκδικος Κύριος	1	the Lord is an avenger	This can be made explicit. Alternate translation: “the Lord will punish the one who transgressed and will defend the one who was wronged” (See: [[rc://en/ta/man/translate/figs-explicit]])
 1TH	4	6	d1ip		προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα	1	forewarned you and testified	“told you beforehand and strongly warned against”
 1TH	4	7	v3np	figs-doublenegatives	οὐ…ἐκάλεσεν ἡμᾶς ὁ Θεὸς ἐπὶ ἀκαθαρσίᾳ, ἀλλ’ ἐν ἁγιασμῷ	1	God did not call us to uncleanness, but to holiness	This can be stated in positive form. Alternate translation: “God called us to cleanness and holiness” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
-1TH	4	7	q4tj	figs-inclusive	οὐ…ἐκάλεσεν ἡμᾶς ὁ Θεὸς	1	God did not call us	The word “us” refers to all believers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	4	7	q4tj	figs-exclusive	οὐ…ἐκάλεσεν ἡμᾶς ὁ Θεὸς	1	God did not call us	The word “us” refers to all believers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	4	8	mn5y		ὁ ἀθετῶν	1	he who rejects this	“whoever disregards this teaching” or “whoever ignores this teaching”
 1TH	4	8	su51		ἀθετῶν, οὐκ ἄνθρωπον ἀθετεῖ, ἀλλὰ τὸν Θεὸν	1	rejects not people, but God	Paul stresses that this teaching is not from man, but from God.
 1TH	4	9	uxn8		τῆς φιλαδελφίας	1	brotherly love	“love for fellow believers”
@@ -147,7 +147,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	4	13	r9f8		ἵνα μὴ λυπῆσθε, καθὼς…οἱ λοιποὶ	1	so that you do not grieve like the rest	“because we do not want you grieve like the rest”
 1TH	4	13	qt5b		λυπῆσθε	1	grieve	mourn, be sad about something
 1TH	4	13	rl73	figs-explicit	καθὼς…οἱ λοιποὶ, οἱ μὴ ἔχοντες ἐλπίδα	1	like the rest who do not have hope	“like people who do not confidence in the future promise.” It can be stated clearly what those people do not have confidence about. Alternate translation: “like the people who are not sure that they will rise from the dead” (See: [[rc://en/ta/man/translate/figs-explicit]])
-1TH	4	14	ybz6	figs-inclusive	εἰ…πιστεύομεν	1	if we believe	Here “we” refers to Paul and his audience. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	4	14	ybz6	figs-exclusive	εἰ…πιστεύομεν	1	if we believe	Here “we” refers to Paul and his audience. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	4	14	kmk2		ἀνέστη	1	rose again	“rose to live again”
 1TH	4	14	bi9w	figs-euphemism	τοὺς κοιμηθέντας διὰ τοῦ Ἰησοῦ	1	those who have fallen asleep in him	Here “fallen asleep” is a polite way to refer to having died. (See: [[rc://en/ta/man/translate/figs-euphemism]])
 1TH	4	15	ni3m	figs-metonymy	ἐν λόγῳ Κυρίου	1	by the word of the Lord	“Word” here is a metonym for “message.” Alternate translation: “by means of understanding the teachings of the Lord” (See: [[rc://en/ta/man/translate/figs-metonymy]])
@@ -155,7 +155,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	4	16	ah7p		αὐτὸς ὁ Κύριος…καταβήσεται	1	the Lord himself will descend	“the Lord himself will come down”
 1TH	4	16	z9ka		ἀρχαγγέλου	1	the archangel	“the chief angel”
 1TH	4	16	dr89	figs-explicit	οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον	1	the dead in Christ will rise first	The “dead in Christ” are those believers who have passed away. Alternate translation: “those who believe in Jesus Christ, but who have already died, will rise first” (See: [[rc://en/ta/man/translate/figs-explicit]])
-1TH	4	17	l5l1	figs-inclusive	ἡμεῖς οἱ ζῶντες	1	we who are alive	Here “we” refers to all believers who have not died. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	4	17	l5l1	figs-exclusive	ἡμεῖς οἱ ζῶντες	1	we who are alive	Here “we” refers to all believers who have not died. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	4	17	wvi8		σὺν αὐτοῖς	1	with them	The word “them” refers to the dead believers who were made alive again.
 1TH	4	17	se1y		ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ Κυρίου εἰς ἀέρα	1	caught up in the clouds to meet the Lord in the air	“meet the Lord Jesus in the sky”
 1TH	5	intro	ay3d			0		# 1 Thessalonians 05 General Notes<br>## Structure and formatting<br><br>Paul concludes his letter in a way that was typical of letters in the ancient Near East.<br><br>## Special concepts in this chapter<br><br>### Day of the Lord<br>The exact time of the coming day of the Lord will be a surprise to the world. This is what the simile “like a thief in the night” means. Because of this, Christians are to live prepared for the coming of the Lord. (See: [[rc://en/tw/dict/bible/kt/dayofthelord]] and [[rc://en/ta/man/translate/figs-simile]])<br><br>### Quench the Spirit<br>This means to ignore or work against the Holy Spirit’s guidance and work.
@@ -174,11 +174,11 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1TH	5	5	zp3z	figs-metaphor	πάντες γὰρ ὑμεῖς υἱοὶ φωτός ἐστε, καὶ υἱοὶ ἡμέρας	1	For you are all sons of the light and sons of the day	Paul speaks of the truth as if it were light and day. Alternate translation: “For you know the truth, like people who live in the light, like people during the day” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	5	d6fm	figs-metaphor	οὐκ ἐσμὲν νυκτὸς οὐδὲ σκότους	1	We are not sons of the night or the darkness	Paul speaks of evil and ignorance about God as if they were darkness. Alternate translation: We are not unknowing, like people who live in the darkness, like people at night” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	6	us6s	figs-metaphor	μὴ καθεύδωμεν ὡς οἱ λοιποί	1	let us not sleep as the rest do	Paul speaks of spiritual unawareness as if it were sleep. Alternate translation: “let us not be like others who are not aware that Jesus is coming back” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-1TH	5	6	gu51	figs-inclusive	καθεύδωμεν	1	let us	The word “us” refers to all believers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	5	6	gu51	figs-exclusive	καθεύδωμεν	1	let us	The word “us” refers to all believers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	5	6	d2aj	figs-metaphor	γρηγορῶμεν καὶ νήφωμεν	1	keep watch and be sober	Paul describes spiritual awareness as the opposite of sleep and drunkenness. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	7	s253	figs-metaphor	οἱ γὰρ καθεύδοντες, νυκτὸς καθεύδουσιν	1	For those who sleep do so at night	Just as when people sleep and do not know what is happening, so the people of this world do not know that Christ will return. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	7	exa8	figs-metaphor	οἱ μεθυσκόμενοι, νυκτὸς μεθύουσιν	1	those who get drunk do so at night	Paul is stating that it is at night when people become drunk, so when people are unaware of Christ’s return they do not live a self-controlled life. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-1TH	5	8	zj9r	figs-inclusive		0	General Information:	In verses 8-10 the word “we” refers to all believers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+1TH	5	8	zj9r	figs-exclusive		0	General Information:	In verses 8-10 the word “we” refers to all believers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 1TH	5	8	wh3g	figs-metaphor	ἡμεῖς…ἡμέρας ὄντες	1	we belong to the day	Paul speaks of knowing the truth about God as belonging to the day. Alternate translation: “we know the truth” or “we have received the light of truth” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	8	i8j1	figs-metaphor	νήφωμεν	1	we must stay sober	Paul compares being sober to exercising self-control. Alternate translation: “let us exercise self-control” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1TH	5	8	ev6i	figs-metaphor	ἐνδυσάμενοι θώρακα πίστεως καὶ ἀγάπης	1	put on faith and love as a breastplate	As a soldier would put on a breastplate to protect his body, a believer who lives by faith and love will find protection. Alternate translation: “protect ourselves with faith and love” or “protect ourselves by trusting Christ and loving him” (See: [[rc://en/ta/man/translate/figs-metaphor]])

@@ -164,7 +164,7 @@ MAT	3	12	bdb7	figs-activepassive	ἀσβέστῳ	1	can never be put out	This ca
 MAT	3	13	vl93			0	Connecting Statement:	Here the scene shifts to a later time when John the Baptist baptizes Jesus.
 MAT	3	13	zbj9	figs-activepassive	βαπτισθῆναι ὑπ’ αὐτοῦ	1	to be baptized by him	This can be stated in active form. Alternate translation: “so John could baptize him” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	3	14	cl7t	figs-rquestion	ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρός με?	1	I need to be baptized by you, and yet you come to me?	John uses a question to show his surprise at Jesus’ request. Alternate translation: “You are more important than I am. I should not baptize you. You should baptize me.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
-MAT	3	15	h6ca	figs-inclusive	ἡμῖν	1	for us	Here “us” refers to Jesus and John. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+MAT	3	15	h6ca	figs-exclusive	ἡμῖν	1	for us	Here “us” refers to Jesus and John. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 MAT	3	16	n8bk			0	Connecting Statement:	This is the end of the part of the story about John the Baptist. It describes what happened after he baptized Jesus.
 MAT	3	16	inf6	figs-activepassive	βαπτισθεὶς δὲ	1	After he was baptized	This can be stated in active form. Alternate translation: “After John baptized Jesus” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	3	16	sf5w		ἰδοὺ	1	behold	The word “behold” here alerts us to pay attention to the surprising information that follows.
@@ -623,7 +623,7 @@ MAT	8	24	j55j		ἰδοὺ	1	Behold	This marks the beginning of another event in 
 MAT	8	24	x7k1	figs-activepassive	σεισμὸς μέγας ἐγένετο ἐν τῇ θαλάσσῃ	1	there arose a great storm on the sea	This can be stated in active form. Alternate translation: “a powerful storm arose on the sea” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	8	24	m6w8	figs-activepassive	ὥστε τὸ πλοῖον καλύπτεσθαι ὑπὸ τῶν κυμάτων	1	so that the boat was covered with the waves	This can be stated in active form. Alternate translation: “so that the waves covered the boat” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	8	25	k2hd		ἤγειραν αὐτὸν λέγοντες, Κύριε, σῶσον	1	woke him up, saying, “Save us, Lord	Possible meanings are (1) they first woke Jesus and then they said, “Save us” or (2) as they were waking Jesus up, they were saying “Save us.”
-MAT	8	25	b2wh	figs-inclusive	σῶσον…ἀπολλύμεθα	1	Save us…we are about to die	If you need to translate these words as inclusive or exclusive, then inclusive is best. The disciples probably meant they wanted Jesus to save the disciples and himself from drowning. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+MAT	8	25	b2wh	figs-exclusive	σῶσον…ἀπολλύμεθα	1	Save us…we are about to die	If you need to translate these words as inclusive or exclusive, then inclusive is best. The disciples probably meant they wanted Jesus to save the disciples and himself from drowning. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 MAT	8	25	xf5d		ἀπολλύμεθα	1	we are about to die	“we are going to die”
 MAT	8	26	jmt8		αὐτοῖς	1	to them	“to the disciples”
 MAT	8	26	g8p7	figs-rquestion	τί δειλοί ἐστε, ὀλιγόπιστοι	1	Why are you afraid, you of little faith?	Jesus was rebuking the disciples with this rhetorical question. Alternate translation: “You should not be afraid…faith!” or “There is nothing for you to be afraid of…faith!” (See: [[rc://en/ta/man/translate/figs-rquestion]])
@@ -1722,7 +1722,7 @@ MAT	17	3	axr5		ἰδοὺ	1	Behold	This word alerts us to pay attention to the s
 MAT	17	3	n63y		αὐτοῖς	1	to them	This refers to Peter, James, and John.
 MAT	17	3	sde3		μετ’ αὐτοῦ	1	with him	“with Jesus”
 MAT	17	4	r41c		ἀποκριθεὶς…εἶπεν	1	answered and said	“said.” Peter is not responding to a question.
-MAT	17	4	d231	figs-exclusive	καλόν ἐστιν ἡμᾶς ὧδε εἶναι	1	it is good for us to be here	It is not clear whether “us” refers only to Peter, James, and John, or if it refers to everyone there, including Jesus, Elijah, and Moses. If you can translate so that both options are possible, do so. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-inclusive]])
+MAT	17	4	d231	figs-exclusive	καλόν ἐστιν ἡμᾶς ὧδε εἶναι	1	it is good for us to be here	It is not clear whether “us” refers only to Peter, James, and John, or if it refers to everyone there, including Jesus, Elijah, and Moses. If you can translate so that both options are possible, do so. (See: [[rc://en/ta/man/translate/figs-exclusive]] and [[rc://en/ta/man/translate/figs-exclusive]])
 MAT	17	5	cek4		ἰδοὺ	1	behold	This alerts the reader to pay attention to the surprising information that follows.
 MAT	17	5	an8j		ἐπεσκίασεν αὐτούς	1	overshadowed them	“came over them”
 MAT	17	5	kc8t	figs-metonymy	φωνὴ ἐκ τῆς νεφέλης	1	there was a voice out of the cloud	Here “voice” refers to God speaking. Alternate translation: “God spoke to them from out of the cloud” (See: [[rc://en/ta/man/translate/figs-metonymy]])
@@ -1973,7 +1973,7 @@ MAT	20	16	bhr5		οὕτως ἔσονται οἱ ἔσχατοι πρῶτοι	
 MAT	20	17	iu9d			0	Connecting Statement:	Jesus foretells his death and resurrection a third time as he and his disciples travel to Jerusalem.
 MAT	20	17	b6ia		ἀναβαίνων ὁ Ἰησοῦς εἰς Ἱεροσόλυμα	1	going up to JerusalemAs Jesus was going up to Jerusalem	Jerusalem was on top of a hill, so people had to travel up to get there.
 MAT	20	18	d3ig		ἰδοὺ, ἀναβαίνομεν	1	See, we are going up	Jesus uses the word “See” to tell the disciples the must pay attention to what he is about to tell them.
-MAT	20	18	nf34	figs-inclusive	ἀναβαίνομεν	1	we are going up	Here “we” refers to Jesus and the disciples. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+MAT	20	18	nf34	figs-exclusive	ἀναβαίνομεν	1	we are going up	Here “we” refers to Jesus and the disciples. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 MAT	20	18	b2f2	figs-activepassive	ὁ Υἱὸς τοῦ Ἀνθρώπου παραδοθήσεται	1	the Son of Man will be delivered	This can be stated in active form. Alternate translation: “someone will deliver the Son of Man” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	20	18	rbl4	figs-123person	ὁ Υἱὸς τοῦ Ἀνθρώπου…αὐτὸν	1	Son of Man…him	Jesus is referring to himself in the third person. If necessary, you can translate these in the first person. (See: [[rc://en/ta/man/translate/figs-123person]])
 MAT	20	18	s8uh		κατακρινοῦσιν	1	They will condemn	The chief priests and scribes will condemn Jesus.
