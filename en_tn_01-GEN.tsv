@@ -2182,7 +2182,7 @@ GEN	31	30	f8iz	figs-metonymy		0	to your father’s house	Here “house” stands
 GEN	31	30	e3jc			0	my gods	“my idols”
 GEN	31	31	qd9f			0	Because I was afraid and thought that you would take your daughters from me by force I left secretly	“I left in secret because I was afraid that you would take your daughters from me by force”
 GEN	31	32	e35z	figs-litotes		0	Whoever has stolen your gods will not continue to live	This can be stated in positive form. Alternate translation: “We will kill whoever has stolen your gods” (See: [[rc://en/ta/man/translate/figs-litotes]])
-GEN	31	32	zh3x	figs-inclusive		0	In the presence of our relatives	The word “our” refers to Jacob’s relatives and includes Laban’s relatives. All the relatives will watch to make sure everything is fair and honest. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	31	32	zh3x	figs-exclusive		0	In the presence of our relatives	The word “our” refers to Jacob’s relatives and includes Laban’s relatives. All the relatives will watch to make sure everything is fair and honest. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	31	32	l4l6			0	identify whatever with me is yours and take it	“look for whatever we have that is yours and take it”
 GEN	31	32	mjz6	writing-background		0	For Jacob did not know that Rachel had stolen them	This changes from the story to background information about Jacob. (See: [[rc://en/ta/man/translate/writing-background]])
 GEN	31	33	rd4w			0	the two female servants	This refers to Zilpah and Bilhah.
@@ -2196,8 +2196,8 @@ GEN	31	36	ka2t			0	He said to him	“Jacob said to Laban”
 GEN	31	36	wcv8	figs-parallelism		0	What is my offense? What is my sin, that you have hotly pursued after me?	The phrases “What is my offense” and “What is my sin” mean basically the same thing. Jacob is asking Laban to tell him what he did wrong. Alternate translation: “What have I done wrong that you should pursue me like this?” (See: [[rc://en/ta/man/translate/figs-parallelism]])
 GEN	31	36	rd64	figs-idiom		0	hotly pursued after me	Here the word “hotly” means Laban urgently chased Jacob intending to capture him. (See: [[rc://en/ta/man/translate/figs-idiom]])
 GEN	31	37	lf9u			0	What have you found of all your household goods?	“What have you found that belongs to you?”
-GEN	31	37	jgu5	figs-inclusive		0	Set them here before our relatives	Here the word “our” refers to Jacob’s relatives and includes Laban’s relatives. Alternate translation: “Lay anything you have found in front of our relatives” (See: [[rc://en/ta/man/translate/figs-inclusive]])
-GEN	31	37	q8tg	figs-inclusive		0	they may judge between us two	Here “two of us” refers to Jacob and Laban. The phrase “to judge between” means to decide which person is right in a dispute. Alternate translation: “they may judge between the two of us” (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	31	37	jgu5	figs-exclusive		0	Set them here before our relatives	Here the word “our” refers to Jacob’s relatives and includes Laban’s relatives. Alternate translation: “Lay anything you have found in front of our relatives” (See: [[rc://en/ta/man/translate/figs-exclusive]])
+GEN	31	37	q8tg	figs-exclusive		0	they may judge between us two	Here “two of us” refers to Jacob and Laban. The phrase “to judge between” means to decide which person is right in a dispute. Alternate translation: “they may judge between the two of us” (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	31	38	l12d			0	General Information:	Jacob continues to speak to Laban.
 GEN	31	38	a2zw	translate-numbers		0	twenty years	“20 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 GEN	31	38	rum5			0	ewes	female sheep
@@ -2384,7 +2384,7 @@ GEN	34	19	vjf5			0	Jacob’s daughter	“Jacob’s daughter Dinah”
 GEN	34	19	ve5w	figs-explicit		0	because he was the most honored person in all his father’s household	This can be translated as a new sentence. It can be made explicit that Shechem knew the other men would agree to be circumcised because they greatly respected him. Alternate translation: “Shechem knew all the men in his father’s household would agree with him because he was the most honored among them” (See: [[rc://en/ta/man/translate/figs-explicit]])
 GEN	34	20	bl5k			0	the gate of their city	It was common for leaders to meet at the city gate to make official decisions.
 GEN	34	21	ub3p			0	These men	“Jacob, his sons, and the people of Israel”
-GEN	34	21	gg84	figs-inclusive		0	peace with us	Here “us” includes Hamor, his son and all the people they spoke with at the city gate. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	34	21	gg84	figs-exclusive		0	peace with us	Here “us” includes Hamor, his son and all the people they spoke with at the city gate. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	34	21	peg8			0	let them live in the land and trade in it	“let them live and trade in the land”
 GEN	34	21	qgk2			0	for, really, the land is large enough for them	Shechem uses the word “really” to add emphasis to his statement. “because, certainly, the land is large enough for them” or “because, indeed, there is plenty of land for them”
 GEN	34	21	i8u8			0	take their daughters…give them our daughters	This refers to marriages between the women of one group and the men of the other group. See how you translated similar phrases in [Genesis 34:9](../34/09.md).
@@ -2583,7 +2583,7 @@ GEN	37	5	req1			0	They hated him even more	“And Joseph’s brothers hated him 
 GEN	37	6	c6ln			0	Please listen to this dream which I dreamed	“Please listen to this dream that I had”
 GEN	37	7	hu4k			0	General Information:	Joseph tells his brothers about his dream.
 GEN	37	7	zk8j			0	Behold	The word “behold” here alerts us to pay attention to the surprising information that follows.
-GEN	37	7	v7ub	figs-inclusive		0	we were	The word “we” refers to Joseph and includes all of his brothers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	37	7	v7ub	figs-exclusive		0	we were	The word “we” refers to Joseph and includes all of his brothers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	37	7	lp7e			0	tying bundles of grain	When grain is reaped it is tied into bundles and stacked until it is time to separate the grain from the straw.
 GEN	37	7	p45z			0	behold	Here the word “behold” here shows that Joseph was surprised by what he saw.
 GEN	37	7	yu7f	figs-personification		0	my bundle rose and stood upright…your bundles came around and bowed down	Here the bundles of grain are standing and kneeling as if they were people. These bundle represent Joseph and his brothers. (See: [[rc://en/ta/man/translate/figs-personification]])
@@ -2781,7 +2781,7 @@ GEN	39	14	k9h6	figs-euphemism		0	He came in to me to lie with me	Here Potiphar�
 GEN	39	15	n1kg	writing-newevent		0	It came about when he heard me scream, that he	“When he heard me scream, he.” The phrase “it came about” is used here to mark the next event in the story. (See: [[rc://en/ta/man/translate/writing-newevent]])
 GEN	39	16	ma4z			0	his master	“Joseph’s master.” This refers to Potiphar.
 GEN	39	17	xu1x			0	She told him this explanation	“She explained it like this”
-GEN	39	17	qu1q	figs-inclusive		0	brought to us	The word “us” refers to Potiphar, his wife, and includes the rest of the household. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	39	17	qu1q	figs-exclusive		0	brought to us	The word “us” refers to Potiphar, his wife, and includes the rest of the household. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	39	17	s2dj	figs-euphemism		0	came in to mock me	“came in to make a fool of me.” Here, the word “mock” is a euphemism for “to seize and to sleep with.” Alternate translation: “came into where I was and tried to force me to sleep with him” (See: [[rc://en/ta/man/translate/figs-euphemism]])
 GEN	39	18	u1cu	writing-newevent		0	It came about that	“Then.” Potiphar’s wife uses this phrase to mark the next event in the account she is telling him about Joseph trying to sleep with her. (See: [[rc://en/ta/man/translate/writing-newevent]])
 GEN	39	18	r27a			0	fled outside	“ran quickly out of the house”
@@ -3091,7 +3091,7 @@ GEN	43	1	l7ym	figs-ellipsis		0	The famine was severe in the land	The word “Can
 GEN	43	2	af37	writing-newevent		0	It came about	This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[rc://en/ta/man/translate/writing-newevent]])
 GEN	43	2	j2pr			0	when they had eaten	“when Jacob and his family had eaten”
 GEN	43	2	y9y8			0	they had brought	“Jacob’s older sons had brought”
-GEN	43	2	cwa3	figs-inclusive		0	buy us	Here “us” refers to Jacob, his sons, and the rest of the family. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	43	2	cwa3	figs-exclusive		0	buy us	Here “us” refers to Jacob, his sons, and the rest of the family. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	43	3	a11c			0	Judah told him	“Judah told his father Jacob”
 GEN	43	3	xp8m			0	The man	This refers to Joseph, but the brothers did not know it was Joseph. They referred to him as “the man” or “the man, the lord of the land” as in [Genesis 42:30](../42/30.md).
 GEN	43	3	t3f5	figs-quotesinquotes		0	warned us, ‘You will not see my face unless your brother is with you.’	This has a quotation within a quotation. It can be stated as an indirect quotation. Alternate translation: “warned us that we would not see his face unless we brought our youngest brother with us” (See: [[rc://en/ta/man/translate/figs-quotesinquotes]] and [[rc://en/ta/man/translate/figs-quotations]])
@@ -3109,7 +3109,7 @@ GEN	43	7	wzh2	figs-quotesinquotes		0	he would say, ‘Bring your brother down?�
 GEN	43	7	v3xy			0	Bring your brother down	It was common to use the word “down” when speaking of traveling from Canaan to Egypt.
 GEN	43	8	l94l	figs-parallelism		0	We will rise and go that we may live and not die, both we, you, and also our children	The phrases “we may live” and “not die” mean the same thing. Judah is emphasizing that they have to buy food in Egypt in order to survive. Alternate translation: “We will go now to Egypt and get grain so our whole family will live” (See: [[rc://en/ta/man/translate/figs-parallelism]])
 GEN	43	8	mh3d	figs-exclusive		0	We will rise	Here “We” refers to the brothers who will travel to Egypt. (See: [[rc://en/ta/man/translate/figs-exclusive]])
-GEN	43	8	k6f4	figs-inclusive		0	we may live	Here “we” refers to the brothers, Israel, and the whole family. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+GEN	43	8	k6f4	figs-exclusive		0	we may live	Here “we” refers to the brothers, Israel, and the whole family. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	43	8	cpz3	figs-exclusive		0	both we	Here “we” refers to the brothers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 GEN	43	8	uy53	figs-you		0	we, you	Here “you” is singular and refers to Israel. (See: [[rc://en/ta/man/translate/figs-you]])
 GEN	43	8	tl69	figs-exclusive		0	also our children	Here “our” refers to the brothers. This refers to the small children who were most likely to die during a famine. (See: [[rc://en/ta/man/translate/figs-exclusive]])

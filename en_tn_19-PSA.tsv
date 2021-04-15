@@ -564,8 +564,8 @@ PSA	20	6	bd3g			0	from his holy heaven	God dwells in heaven as well as in the te
 PSA	20	6	xcm6	figs-metonymy		0	with the strength of his right hand that can rescue him	God’s right hand represents his power. Alternate translation: “with his great strength he will rescue him” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 PSA	20	7	f9cd	figs-metonymy		0	Some trust in chariots and others in horses	Here “chariots” and “horses” represent a king’s army. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 PSA	20	7	xr24	figs-ellipsis		0	others in horses	The word “trust” is understood. Alternate translation: “other trust in horses” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
-PSA	20	7	mwu6	figs-inclusive		0	we call	Here “we” refers to the writer and the readers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
-PSA	20	8	e7uq	figs-inclusive		0	we will rise	Here “we” refers to the writer and the readers. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PSA	20	7	mwu6	figs-exclusive		0	we call	Here “we” refers to the writer and the readers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
+PSA	20	8	e7uq	figs-exclusive		0	we will rise	Here “we” refers to the writer and the readers. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PSA	20	8	q1tp	figs-activepassive		0	They will be brought down and fall	The word “They” refers to the people who trust in chariots and horses. This can be stated in active form. Alternate translation: “God will bring them down and make them fall” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 PSA	20	8	g7uv	figs-doublet		0	brought down and fall	Both these verbs mean basically the same thing. Both of these stand for losing in battle. (See: [[rc://en/ta/man/translate/figs-doublet]])
 PSA	20	8	y7lr	figs-doublet		0	we will rise and stand upright	“we will get up and stand up straight.” These two phrases mean basically the same thing. Both of these stand for victory in battle. (See: [[rc://en/ta/man/translate/figs-doublet]])
@@ -2185,7 +2185,7 @@ PSA	62	6	fy6x	figs-metaphor		0	He alone is my rock and my salvation; he is my hi
 PSA	62	6	izy6	figs-activepassive		0	I will not be moved	This can be stated in active form. Alternate translation: “nothing can move me” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 PSA	62	7	c9fh	figs-metaphor		0	the rock of my strength and my refuge are in God	The writer speaks of God as if he were a rock that keeps one safe from his enemies. He also speaks of God as if he were a shelter that provides protection. Alternate translation: “God always gives me strength and protection” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PSA	62	8	yq3j	figs-idiom		0	pour out your heart	This refers to telling God your inner feelings as if you were pouring out a liquid. Alternate translation: “give your deepest concerns to God” (See: [[rc://en/ta/man/translate/figs-idiom]])
-PSA	62	8	ss3p	figs-inclusive		0	refuge for us	The word “us” refers to David and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PSA	62	8	ss3p	figs-exclusive		0	refuge for us	The word “us” refers to David and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PSA	62	9	zu93	figs-merism		0	men of low standing…men of high standing are a lie	This refers to men of all levels of wealth and importance. The phrases “are vanity” and “are a lie” have the same meaning. One cannot confidently trust in anyone. Alternate translation: “you cannot place your trust in men, no matter how important they are” (See: [[rc://en/ta/man/translate/figs-merism]] and [[rc://en/ta/man/translate/figs-parallelism]])
 PSA	62	9	ckm7			0	weighed together, they are lighter than nothing	If you put all of these kinds of men together on a scale, they would have no weight. This means that they have no real value to you.
 PSA	62	10	ubx1	figs-doublet		0	oppression or robbery	These two words have basically the same meaning. You cannot trust in money that you get by taking it from other people. (See: [[rc://en/ta/man/translate/figs-doublet]])
@@ -2293,12 +2293,12 @@ PSA	66	5	ebc3			0	the sons of mankind	“humanity”
 PSA	66	6	t4bb			0	He…him	These words refer to God.
 PSA	66	6	ipc9	figs-explicit		0	He turned the sea into dry land; they went through the river on foot	This refers to the crossing of the Red Sea. (See: [[rc://en/ta/man/translate/figs-explicit]])
 PSA	66	6	dbi6			0	they went	The word “they” refers to God’s people, the Israelites.
-PSA	66	6	c4mh	figs-inclusive		0	we rejoiced	The word “we” refers to the Israelites, their ancestors, David, and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PSA	66	6	c4mh	figs-exclusive		0	we rejoiced	The word “we” refers to the Israelites, their ancestors, David, and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PSA	66	7	fhu2			0	He…his	These words refer to God.
 PSA	66	7	v55x	figs-synecdoche		0	his eyes	These phrase “his eyes” refers to God himself. Alternate translation: “he sees” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 PSA	66	7	csw4			0	let not the rebellious exalt themselves	“let not the rebellious people exalt themselves” or “let not the rebellious people be proud”
 PSA	66	8	p33g	figs-parallelism		0	Give blessing to God…let the sound of his praise be heard	These two clauses have similar meanings. The idea is repeated to emphasize the importance of praising God. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-PSA	66	9	nub8	figs-inclusive		0	us…our	These words refer to David and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-inclusive]])
+PSA	66	9	nub8	figs-exclusive		0	us…our	These words refer to David and the people he is speaking to. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 PSA	66	9	qfj9	figs-metaphor		0	he does not permit our feet to slip	The writer speaks of God’s protection as preventing his people from slipping as they walk or falling off a cliff. Alternate translation: “he has not allowed us to fall into disaster” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PSA	66	11	eq4q	figs-metaphor		0	You brought us into a net	The writer speaks of God’s punishment as if God had captured his people in a net. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 PSA	66	11	wp2k			0	a net	a trap for a bird or an animal
