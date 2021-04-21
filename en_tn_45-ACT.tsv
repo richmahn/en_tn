@@ -424,7 +424,7 @@ ACT	5	31	mr1d	figs-abstractnouns	τοῦ δοῦναι μετάνοιαν τῷ 
 ACT	5	31	q1il	figs-metonymy	τῷ Ἰσραὴλ	1	Israel	The word “Israel” refers to the Jewish people. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 ACT	5	32	yml6		τοῖς πειθαρχοῦσιν αὐτῷ	1	those who obey him	“those who submit to God’s authority”
 ACT	5	33	ekh2			0	Connecting Statement:	Gamaliel addresses the council members.
-ACT	5	33	abc6		ἀνελεῖν αὐτούς	1	kill them	“kill the apostles”
+ACT	5	33	abx6		ἀνελεῖν αὐτούς	1	kill them	“kill the apostles”
 ACT	5	34	i2rr	writing-participants	Γαμαλιήλ, νομοδιδάσκαλος τίμιος παντὶ τῷ λαῷ	1	Gamaliel, a teacher of the law, who was honored by all the people	Luke introduces Gamaliel and provides background information about him. (See: [[rc://en/ta/man/translate/writing-participants]] and [[rc://en/ta/man/translate/writing-background]])
 ACT	5	34	fpr4	figs-activepassive	τίμιος παντὶ τῷ λαῷ	1	who was honored by all the people	This can be stated in active form. Alternate translation: “whom all the people honored” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 ACT	5	34	xk6g	figs-activepassive	ἐκέλευσεν ἔξω…τοὺς ἀνθρώπους ποιῆσαι	1	commanded the apostles to be taken outside	This can be stated in active form. Alternate translation: “commanded the guards to take the apostles outside” (See: [[rc://en/ta/man/translate/figs-activepassive]])
@@ -2037,7 +2037,7 @@ ACT	20	11	lih8			0	Connecting Statement:	This is the end of the part of the stor
 ACT	20	11	w5w8	figs-synecdoche	κλάσας τὸν ἄρτον	1	broke bread	Bread was a common food during meals. Here “break bread” probably means they shared a meal with more kinds of food than just bread. (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 ACT	20	11	t88c		οὕτως ἐξῆλθεν	1	he left	“he went away”
 ACT	20	12	jkj5		τὸν παῖδα	1	the boy	This refers to Eutychus ([Acts 20:9](../20/09.md)). Possible meanings are (1) he was a young man over 14 years old or (2) he was a boy between 9 and 14 years old or (3) the word “boy” implies that he was a servant or a slave.
-ACT	20	12	abc0	figs-litotes	οὐ μετρίως	1	not moderately	This is a way of saying that they were greatly comforted. Alternate translation: “greatly” (See: [[rc://en/ta/man/translate/figs-litotes]])
+ACT	20	12	abx0	figs-litotes	οὐ μετρίως	1	not moderately	This is a way of saying that they were greatly comforted. Alternate translation: “greatly” (See: [[rc://en/ta/man/translate/figs-litotes]])
 ACT	20	13	dja7	figs-exclusive		0	General Information:	The words “he,” “himself,” and “him” refer to Paul. Here the word “we” refers to the writer and those traveling with him, but not to the reader. (See: [[rc://en/ta/man/translate/figs-exclusive]])
 ACT	20	13	awt9			0	Connecting Statement:	The writer Luke, Paul, and his other companions continue their travels; however, Paul goes separately for part of the trip.
 ACT	20	13	w4ew	figs-rpronouns	ἡμεῖς…προελθόντες	1	We ourselves went	The word “ourselves” adds emphasis and separates Luke and his traveling companions from Paul, who did not travel by boat. (See: [[rc://en/ta/man/translate/figs-rpronouns]])
@@ -2392,7 +2392,7 @@ ACT	23	31	s9rf			0	Connecting Statement:	This ends Paul’s time under arrest in
 ACT	23	31	ny4k		οἱ…οὖν στρατιῶται κατὰ τὸ διατεταγμένον αὐτοῖς	1	So the soldiers obeyed their orders	The word “so” marks an event that happened because of something else that happened previously. In this case, the previous event is the chief captain’s commanding the soldiers to escort Paul.
 ACT	23	31	ptv4		ἀναλαβόντες τὸν Παῦλον, ἤγαγον διὰ νυκτὸς	1	They took Paul and brought him by night	Here “brought” can be translated as “took.” Alternate translation: “They got Paul and took him at night”
 ACT	23	32	abd1		ἐάσαντες…ὑπέστρεψαν	1	they allowed…but they returned	Here both instances of **they** refer to the foot soldiers who left the horsemen and returned to their fortress.
-ACT	23	33	abc1		εἰσελθόντες	1	they entered	Here **they** refers to the horsemen who took Paul all the way to Caesarea.
+ACT	23	33	abx1		εἰσελθόντες	1	they entered	Here **they** refers to the horsemen who took Paul all the way to Caesarea.
 ACT	23	34	u44w			0	General Information:	Here the first and second words “he” refer to Governor Felix, the third word “he” and the word “him” refer to Paul, and the last word “he” refers to Governor Felix. The words “you” and your” refer to Paul.
 ACT	23	34	abd2		ἀναγνοὺς…ἐπερωτήσας…πυθόμενος	1	reading…asking…learning	All of these actions are things the governor did.
 ACT	23	34	dtx1	figs-quotations	ἐπερωτήσας ἐκ ποίας ἐπαρχείας ἐστὶν	1	asking what province Paul was from	This can be stated as a direct quotation. Alternate translation: “he asked Paul, ‘What province are you from?’ When” (See: [[rc://en/ta/man/translate/figs-quotations]])
