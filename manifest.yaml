@@ -368,12 +368,12 @@ dublin_core:
   description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
   format: 'text/tsv'
   identifier: 'tn'
-  issued: '2021-06-28'
+  issued: '2021-07-23'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2021-06-28'
+  modified: '2021-07-23'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult'
@@ -383,11 +383,11 @@ dublin_core:
   source:
   - identifier: 'tn'
     language: 'en'
-    version: '48'
+    version: '49'
   subject: 'TSV Translation Notes'
   title: 'unfoldingWord® Translation Notes'
   type: 'help'
-  version: '49'
+  version: '50'
 
 checking:
   checking_entity:
