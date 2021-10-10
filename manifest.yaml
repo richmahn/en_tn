@@ -376,7 +376,7 @@ dublin_core:
   modified: '2021-09-17'
   publisher: 'unfoldingWord'
   relation:
-  - 'en/ult'
+  - 'en/ult?v=30'
   - 'hbo/uhb?v=2.1.23'
   - 'el-x-koine/ugnt?v=0.22'
   - 'en/ta?v=22'
