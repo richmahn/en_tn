@@ -379,6 +379,8 @@ dublin_core:
   - 'en/ult'
   - 'hbo/uhb?v=2.1.23'
   - 'el-x-koine/ugnt?v=0.22'
+  - 'en/ta?v=22'
+  - 'en/tw?v=25'
   rights: 'CC BY-SA 4.0'
   source:
   - identifier: 'tn'
