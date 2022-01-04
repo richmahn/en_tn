@@ -106,7 +106,7 @@ projects:
        identifier: 'pdf'
        version: '{latest}'
        contributor: []
-       url: 'https://cdn.door43.org/en/tn/v{latest}/pdf/en_tn_{latest}-1KI_v{latest}.pdf'
+       url: 'https://cdn.door43.org/en/tn/v{latest}/pdf/en_tn_11-1KI_v{latest}.pdf'
 
   -
     identifier: '2ki'
@@ -546,7 +546,7 @@ projects:
        identifier: 'pdf'
        version: '{latest}'
        contributor: []
-       url: 'https://cdn.door43.org/en/tn/v{latest}/pdf/en_tn_{latest}-2TI_v{latest}.pdf'
+       url: 'https://cdn.door43.org/en/tn/v{latest}/pdf/en_tn_56-2TI_v{latest}.pdf'
 
   -
     identifier: 'tit'
