@@ -5,51 +5,49 @@ MAT	1	1	ava1			0	General Information:	The author begins with Jesus’ genealogy 
 MAT	1	1	y31w		βίβλος γενέσεως Ἰησοῦ Χριστοῦ	1	The book of the genealogy of Jesus Christ	You could translate this as a complete sentence. Alternate translation: “This is the list of the ancestors of Jesus Christ”
 MAT	1	1	vpg1		Ἰησοῦ Χριστοῦ, υἱοῦ Δαυεὶδ, υἱοῦ Ἀβραάμ	1	of Jesus Christ, son of David, son of Abraham	There were many generations between Jesus, David, and Abraham. Here the word **son** means “descendant.” Alternate translation: “Jesus Christ, a descendant of David, who was a descendant of Abraham”
 MAT	1	1	tka3		υἱοῦ Δαυεὶδ	1	son of David	Sometimes the phrase **son of David** is used as a title, but here it seems to be used only to identify Jesus’ ancestry.
-MAT	1	2	ejp6		Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ	1	Abraham became the father of Isaac	“Abraham had a son Isaac” or “Abraham had a son named Isaac.” There are different ways you could translate this. Whichever way you translate it here, it would be best to translate it the same way throughout the list of Jesus’ ancestors.
+MAT	1	2	ejp6		Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ	1	Abraham became the father of Isaac	There are different ways you could translate this. Whichever way you translate it here, it would be best to translate it the same way throughout the list of Jesus’ ancestors. Alternate translation: “Abraham had a son Isaac” or “Abraham had a son named Isaac”
 MAT	1	3	g8y6	translate-names	Φαρὲς…Ζάρα…Ἑσρώμ…Ἀράμ	1	of Perez … Zerah … of Hezron … of Ram	These are names of men. (See: [[rc://en/ta/man/translate/translate-names]])
-MAT	1	5	q5bd		Βόες…ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ	2	Boaz became the father of Obed by Ruth	“Boaz was the father of Obed, and Obed’s mother was Ruth” or “Boaz and Ruth were the parents of Obed”
-MAT	1	6	bp35		τῆς τοῦ Οὐρίου	1	the wife of Uriah	“the widow of Uriah.” Solomon was born after Uriah died.
-MAT	1	10	bh7r		τὸν Ἀμώς	1	Amon	Sometimes this is translated “Amos.”
-MAT	1	11	dk1j		Ἰωσίας…ἐγέννησεν τὸν Ἰεχονίαν	1	Josiah became the father of Jechoniah	A more specific term for **father** can also be used, particularly if the word **father** would only be used for someone who lived before one’s grandparents. Alternate translation: “Josiah was a grandfather of Jechoniah”
-MAT	1	11	rj7p		ἐπὶ τῆς μετοικεσίας Βαβυλῶνος	1	at the deportation to Babylon	“when they were forced to move to Babylon” or “when the Babylonians conquered them and made them go live in Babylon.” If your language needs to specify who went to **Babylon**, you could say “the Israelites” or “the Israelites who lived in Judah.”
-MAT	1	11	v2im		Βαβυλῶνος	1	to Babylon	Here this means the country of **Babylon**, not just the city of Babylon.
+MAT	1	5	q5bd		Βόες…ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ	2	Boaz became the father of Obed by Ruth	Alternate translation: “Boaz was the father of Obed, and Obed’s mother was Ruth” or “Boaz and Ruth were the parents of Obed”
+MAT	1	6	bp35		τῆς τοῦ Οὐρίου	1	the wife of Uriah	Solomon was born after Uriah died. Alternate translation: “the widow of Uriah”
+MAT	1	10	bh7r		τὸν Ἀμώς	1	Amon	Sometimes **Amon** is translated as “Amos.”
+MAT	1	11	rj7p		ἐπὶ τῆς μετοικεσίας Βαβυλῶνος	1	at the deportation to Babylon	If your language needs to specify who went to **Babylon**, you could say “the Israelites” or “the Israelites who lived in Judah.” Alternate translation: “when they were forced to move to Babylon” or “when the Babylonians conquered them and made them go live in Babylon”
+MAT	1	11	v2im		Βαβυλῶνος	1	to Babylon	Here, **Babylonian** refers to the country of Babylon, not just the city of Babylon.
 MAT	1	12	y7cx		μετὰ…τὴν μετοικεσίαν Βαβυλῶνος	1	after the deportation to Babylon	Use the same wording you used in [Matthew 1:11](../01/11.md).
 MAT	1	12	tx6g		Σαλαθιὴλ…ἐγέννησεν τὸν Ζοροβαβέλ	1	Shealtiel became the father of Zerubbabel	**Shealtiel** was Zerubbabel’s grandfather.
 MAT	1	15	lqk9			0	Connecting Statement:	The author concludes Jesus’ genealogy, which began in [Matthew 1:1](../01/01.md).
 MAT	1	16	b3bm	figs-activepassive	Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς	1	of Mary, by whom Jesus was born	If your readers would misunderstand this passive phrase, you can state it in active form. Alternate translation: “Mary, who gave birth to Jesus” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	1	16	z2rg	figs-activepassive	ὁ λεγόμενος Χριστός	1	who is called Christ	If your readers would misunderstand this passive phrase, you can state it in active form. Alternate translation: “whom people call Christ” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-MAT	1	17	jzq4	translate-numbers	δεκατέσσαρες	1	were 14	“were fourteen” (See: [[rc://en/ta/man/translate/translate-numbers]])
 MAT	1	17	z5xw		τῆς μετοικεσίας Βαβυλῶνος	1	the deportation to Babylon	Use the same wording you used in [Matthew 1:11](../01/11.md).
 MAT	1	18	gnl6			0	General Information:	This begins a new part of the story in which the author describes the events leading up to the birth of Jesus.
-MAT	1	18	cqt1	figs-explicit	μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ	1	His mother, Mary, having been engaged to marry Joseph	“His mother, Mary, was going to marry Joseph.” Parents normally arranged the marriages of their children. Alternate translation: “The parents of Mary, the mother of Jesus, had promised her in marriage to Joseph” (See: [[rc://en/ta/man/translate/figs-explicit]])
+MAT	1	18	cqt1	figs-explicit	μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ	1	His mother, Mary, having been engaged to marry Joseph	Parents normally arranged the marriages of their children. Alternate translation: “The parents of Mary, the mother of Jesus, had promised her in marriage to Joseph” or “His mother, Mary, was going to marry Joseph” (See: [[rc://en/ta/man/translate/figs-explicit]])
 MAT	1	18	e4ur	figs-explicit	μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας	1	His mother, Mary, having been engaged	Translate in a way that makes it clear that Jesus was not already born when **Mary** was engaged to Joseph. Alternate translation: “Mary, who would be the mother of Jesus, was engaged” (See: [[rc://en/ta/man/translate/figs-explicit]])
-MAT	1	18	xvk1	figs-euphemism	πρὶν…συνελθεῖν αὐτοὺς	1	before they came together	“before they got married.” This may refer to Mary and Joseph sleeping together. Alternate translation: “before they had slept together” (See: [[rc://en/ta/man/translate/figs-euphemism]])
+MAT	1	18	xvk1	figs-euphemism	πρὶν…συνελθεῖν αὐτοὺς	1	before they came together	This may refer to Mary and Joseph sleeping together. Alternate translation: “before they had slept together” or “before they got married” (See: [[rc://en/ta/man/translate/figs-euphemism]])
 MAT	1	18	in4a	figs-activepassive	εὑρέθη ἐν γαστρὶ ἔχουσα	1	was found having in the womb	If your readers would misunderstand this passive phrase, you can state it in active form. Alternate translation: “they realized that she was going to have a baby” or “it happened that she was pregnant” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	1	18	a71d		ἐκ Πνεύματος Ἁγίου	1	by the Holy Spirit	The power of the **Holy Spirit** had enabled Mary to have a baby before she had slept with a man.
 MAT	1	19	j8eb	figs-explicit	Ἰωσὴφ…ὁ ἀνὴρ αὐτῆς	1	Joseph, her husband	**Joseph** had not married Mary yet, but when a man and woman promised to marry each other, Jews considered them **husband** and wife though they did not live together. Alternate translation: “Joseph, who was supposed to marry Mary” (See: [[rc://en/ta/man/translate/figs-explicit]])
-MAT	1	19	pu3p		ἀπολῦσαι αὐτήν	1	to divorce her	“to cancel their plans to get married”
-MAT	1	20	iip4		αὐτοῦ ἐνθυμηθέντος	1	when he had thought	“after Joseph thought”
-MAT	1	20	fb7e		κατ’ ὄναρ ἐφάνη αὐτῷ	1	appeared to him in a dream	“came to Joseph while he was dreaming”
+MAT	1	19	pu3p		ἀπολῦσαι αὐτήν	1	to divorce her	Alternate translation: “to cancel their plans to get married”
+MAT	1	20	iip4		αὐτοῦ ἐνθυμηθέντος	1	when he had thought	Alternate translation: “after Joseph thought”
+MAT	1	20	fb7e		κατ’ ὄναρ ἐφάνη αὐτῷ	1	appeared to him in a dream	Alternate translation: “came to Joseph while he was dreaming”
 MAT	1	20	lc8r		υἱὸς Δαυείδ	1	son of David	Here, **son** means “descendant.”
 MAT	1	20	va5e	figs-activepassive	τὸ…ἐν αὐτῇ γεννηθὲν ἐκ Πνεύματός ἐστιν Ἁγίου	1	the one who has been conceived in her is from the Holy Spirit	If your readers would misunderstand this passive phrase, you can state it in active form. Alternate translation: “the Holy Spirit caused Mary to become pregnant with this child” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MAT	1	21	j38f		τέξεται…υἱὸν	1	she will bear a son	Because God sent the angel, the angel knew the baby was a boy.
-MAT	1	21	glq8		καλέσεις τὸ ὄνομα αὐτοῦ	1	you will call his name	“you must name him” or “you must give him the name.” This is a command.
+MAT	1	21	glq8		καλέσεις τὸ ὄνομα αὐτοῦ	1	you will call his name	This is a command. Alternate translation: “you must name him” or “you must give him the name”
 MAT	1	21	bf5z		αὐτὸς γὰρ σώσει	1	for he will save	Translator may add a footnote that says “The name ‘Jesus’ means ‘the Lord saves.’”
-MAT	1	21	em9q		τὸν λαὸν αὐτοῦ	1	his people	This refers to the Jews.
+MAT	1	21	em9q		τὸν λαὸν αὐτοῦ	1	his people	Here, **his people** refers to the Jews.
 MAT	1	22	p47i	writing-background		0	General Information:	The author quotes the prophet Isaiah to show that Jesus’ birth was according to scripture. (See: [[rc://en/ta/man/translate/writing-background]])
 MAT	1	22	p9la		τοῦτο…ὅλον γέγονεν	1	all this happened	The angel is no longer speaking. Matthew is now explaining the importance of what the angel said.
 MAT	1	22	c1vw	figs-activepassive	τὸ ῥηθὲν ὑπὸ Κυρίου διὰ τοῦ προφήτου	1	what was spoken by the Lord through the prophet	If your readers would misunderstand this passive phrase, you can state it in active form. Alternate translation: “what the Lord told the prophet to write long ago” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-MAT	1	22	p39k	figs-explicit	τοῦ προφήτου	1	the prophet	There were many prophets. Matthew was speaking of Isaiah. Alternate translation: “the prophet Isaiah” (See: [[rc://en/ta/man/translate/figs-explicit]])
+MAT	1	22	p39k	figs-explicit	τοῦ προφήτου	1	the prophet	There were many prophets. Matthew was speaking specifically of Isaiah. Alternate translation: “the prophet Isaiah” (See: [[rc://en/ta/man/translate/figs-explicit]])
 MAT	1	23	q19h		ἰδοὺ, ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ	1	Behold, the virgin will have in her womb and bear a son, and they will call his name Immanuel	Here Matthew quotes the prophet Isaiah.
-MAT	1	23	dw7z		ἰδοὺ, ἡ παρθένος	1	Behold, the virgin	“Pay attention, because what I am about to say is both true and important: the virgin”
-MAT	1	23	sln1	translate-names	Ἐμμανουήλ	1	Immanuel	This is a male name. (See: [[rc://en/ta/man/translate/translate-names]])
+MAT	1	23	dw7z		ἰδοὺ, ἡ παρθένος	1	Behold, the virgin	Alternate translation: “Pay attention, because what I am about to say is both true and important: the virgin”
+MAT	1	23	sln1	translate-names	Ἐμμανουήλ	1	Immanuel	**Immanuel** is a male name. (See: [[rc://en/ta/man/translate/translate-names]])
 MAT	1	23	lm6t		ὅ ἐστιν μεθερμηνευόμενον, μεθ’ ἡμῶν ὁ Θεός	1	which is translated, “God with us.”	This is not in the book of Isaiah. Matthew is explaining the meaning of the name “Immanuel.” You could translate it as a separate sentence. Alternate translation: “This name means ‘God with us.’”
 MAT	1	24	iue3			0	Connecting Statement:	The author concludes his description of the events leading up to the birth of Jesus.
 MAT	1	24	iz4r		ὡς προσέταξεν…ὁ ἄγγελος Κυρίου	1	as the angel of the Lord commanded	The **angel** had told Joseph to take Mary as his wife and to name the child Jesus.
-MAT	1	24	nr5e		παρέλαβεν τὴν γυναῖκα αὐτοῦ	1	he took her as his wife	“he married Mary”
+MAT	1	24	nr5e		παρέλαβεν τὴν γυναῖκα αὐτοῦ	1	he took her as his wife	Alternate translation: “he married Mary”
 MAT	1	25	i7p5	figs-euphemism	οὐκ ἐγίνωσκεν αὐτὴν	1	he did not know her	This is a euphemism. Alternate translation: “he did not have sexual relations with her” (See: [[rc://en/ta/man/translate/figs-euphemism]])
-MAT	1	25	dlm9		υἱόν	1	a son	“a male baby” or “her son.” Make sure it is clear that Joseph is not portrayed as the actual father.
-MAT	1	25	jtz8		καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ, Ἰησοῦν	1	And he called his name Jesus	“And Joseph named the child Jesus”
+MAT	1	25	dlm9		υἱόν	1	a son	Make sure it is clear that Joseph is not portrayed as the actual father. Alternate translation: “a male baby” or “her son”
+MAT	1	25	jtz8		καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ, Ἰησοῦν	1	And he called his name Jesus	Alternate translation: “And Joseph named the child Jesus”
 MAT	2	intro	dz1c			0		# Matthew 2 General Notes<br><br>## Structure and formatting<br><br>Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in verses 6 and 18, which are words from the Old Testament.<br><br>## Special concepts in this chapter<br><br>### “His star”<br><br>These words probably refer to a star that the learned men believed to be the sign of a new king of Israel. (See: [[rc://en/tw/dict/bible/kt/sign]])<br><br>## Other possible translation difficulties in this chapter<br><br>### “Learned men”<br><br>English translations use many different words to translate this phrase. These words include “magi” and “wise men.” These men could have been scientists or astrologers. If you can, you should translate this with the general word “learned men.”
 MAT	2	1	j9yn			0	General Information:	A new part of the story begins here and continues through the end of the chapter. Matthew tells about Herod’s attempt to kill the new King of the Jews.
 MAT	2	1	k518		Βηθλέεμ τῆς Ἰουδαίας	1	Bethlehem of Judea	“the town of Bethlehem in the province of Judea”
