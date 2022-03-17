@@ -1799,7 +1799,9 @@ EXO	26	4	ghz8		תְּכֵ֗לֶת	1	one set	“blue yarn” or “blue cloth”
 EXO	26	4	wdum	translate-ordinal	הָ⁠אֶחָ֔ת … הַ⁠שֵּׁנִֽית	1	one set	(See: [[rc://en/ta/man/translate/translate-ordinal]])
 EXO	26	4	d0sl		בַּ⁠חֹבָ֑רֶת	1	one set	“in one set of five curtains”
 EXO	26	4	gjt1		בַּ⁠מַּחְבֶּ֖רֶת הַ⁠שֵּׁנִֽית	1	one set	“in the other set of five curtains”
+EXO	26	5	nkr7	figs-idiom	אִשָּׁ֖ה אֶל־אֲחֹתָֽ⁠הּ	1	one set	This is an idiom meaning “to each other.” Alternate translation: “one to the other” (See: [[rc://en/ta/man/translate/figs-idiom]])
 EXO	26	6	sns4		וְ⁠עָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְ⁠חִבַּרְתָּ֨ אֶת־הַ⁠יְרִיעֹ֜ת אִשָּׁ֤ה אֶל־אֲחֹתָ⁠הּ֙	1	clasps	The clasps fit into the loops (verses 4 and 5) to hold the curtains together.
+EXO	26	6	k12s	figs-idiom	אִשָּׁ֤ה אֶל־אֲחֹתָ⁠הּ֙	1	clasps	This is the same idiom as in the previous verse meaning together. Alternate translation: “to each other” (See: [[rc://en/ta/man/translate/figs-idiom]])
 EXO	26	6	b242		אֶחָֽד	1	clasps	“as though it were one piece”
 EXO	26	7	jeaz		לְ⁠אֹ֖הֶל	1	eleven	This refers to a outer tent over the sacred tent. Alternate translation: “for an outer tent”
 EXO	26	7	t7t3	translate-numbers	עַשְׁתֵּי־עֶשְׂרֵ֥ה	1	eleven	“eleven” (See: [[rc://en/ta/man/translate/translate-numbers]])
@@ -1819,6 +1821,7 @@ EXO	26	16	k4b7	translate-numbers	עֶ֥שֶׂר …וְ⁠אַמָּה֙ וַ⁠
 EXO	26	16	z2rv	translate-bdistance	עֶ֥שֶׂר אַמּ֖וֹת…וְ⁠אַמָּה֙ וַ⁠חֲצִ֣י הָֽ⁠אַמָּ֔ה	1	ten cubits…one and a half cubits	You can convert these lengths to a measurement system familiar to your people, if that is the style of translation that you are using. A **cubit** is approximately 46 centimeters. For your reference, a more precise conversion to metric is: 4.6 meters … 69 centimeters. (See: [[rc://en/ta/man/translate/translate-bdistance]])
 EXO	26	16	p3av	translate-fraction	וַ⁠חֲצִ֣י	1	ten cubits…one and a half cubits	The word **half** means one part out of two equal parts. (See: [[rc://en/ta/man/translate/translate-fraction]])
 EXO	26	17	zwfj	translate-unknown	יָד֗וֹת	1	ten cubits…one and a half cubits	This means a part of the wood sticking out from the rest of the frame so that it can be put into a hole in another object. (See: [[rc://en/ta/man/translate/translate-unknown]])
+EXO	26	17	xf6s	figs-idiom	אִשָּׁ֖ה אֶל־אֲחֹתָ֑⁠הּ	1	ten cubits…one and a half cubits	This is an idiom meaning “to each other.” See how you translated this in [26:5](../26/05.md). Alternate translation: “one to the other” (See: [[rc://en/ta/man/translate/figs-idiom]])
 EXO	26	19	c9id		אַדְנֵי־כֶ֔סֶף	1	silver bases	These were silver blocks that had a slot in them to keep the board in place and off the ground.
 EXO	26	19	o357	figs-explicit	שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַ⁠קֶּ֤רֶשׁ הָ⁠אֶחָד֙ לִ⁠שְׁתֵּ֣י יְדֹתָ֔י⁠ו וּ⁠שְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַ⁠קֶּ֥רֶשׁ הָ⁠אֶחָ֖ד לִ⁠שְׁתֵּ֥י יְדֹתָֽי⁠ו	1	silver bases	The effect of this is to start a list, and the hearer will assume it should be completed. Try to translate this in the way that a speaker of your language would give instructions that are meant to be carried out on a whole group of objects. This same phrasing occurs again in [verse 21](../26/21.md) and [verse 25](../26/25.md).  Alternate translation: “two bases under the first frame for its two tenons, and then two bases under the next frame for its two tenons, and so on for all the frames” (See: [[rc://en/ta/man/translate/figs-explicit]])
 EXO	26	21	rlcf	figs-explicit	שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַ⁠קֶּ֣רֶשׁ הָֽ⁠אֶחָ֔ד וּ⁠שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַ⁠קֶּ֥רֶשׁ הָ⁠אֶחָֽד	1	silver bases	The effect of this is to start a list, and the hearer will assume it should be completed. Try to translate this in the way that a speaker of your language would give instructions that are meant to be carried out on a whole group of objects. See how you translated this in [Exodus 26:19](../26/19.md).  Alternate translation: “two bases under the first frame, and then two bases under the next frame, and so on for all the frames” (See: [[rc://en/ta/man/translate/figs-explicit]])
@@ -2380,7 +2383,7 @@ EXO	34	30	yn9s	grammar-connect-logic-result	וַ⁠יִּֽירְא֖וּ	1	had 
 EXO	34	32	kt23		יְצַוֵּ֕⁠ם אֵת֩ כָּל־אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה אִתּ֖⁠וֹ בְּ⁠הַ֥ר סִינָֽי	1	all the commands that Yahweh had given him	This means that Moses commanded the Israelites to obey everything Yahweh had commanded Moses to command the Israelites to do.
 EXO	34	34	fzm1	grammar-connect-time-background		0	he would remove	This and the next verse give a general statement about Moses’s practice for an unstated amount of time (it was probably from this point until his death as he continued to talk to Yahweh). You should mark this with a form in your language that is used for on-going action like **would** and the UST’s “Whenever.” (See: [[rc://en/ta/man/translate/grammar-connect-time-background]])
 EXO	34	34	m1sv	figs-activepassive	יְצֻוֶּֽה	1	what he was commanded	This can be stated in active form. Alternate translation: “Yahweh had commanded him” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-EXO	35	intro	lew9			0		# Exodus 35 General Notes<br>## Special concepts in this chapter<br><br>### Sacrifice<br>All of the people offered sacrifices to Yahweh. This was a form of worship and a sign of repentance from making the golden calf idol. (See: [[rc://en/tw/dict/bible/kt/worship]] and [[rc://en/tw/dict/bible/kt/repent]])
+EXO	35	intro	lew9			0		# Exodus 35 General Notes<br>## Translation issues in this chapter<br><br><br>- In the last chapter some repetition of Yahweh’s instructions began, mostly around the covenant commands. Starting in this chapter and even more so in chapter 36, the commands regarding the construction of the tabernacle complex are repeated, often word for word, from chapters 25-31. In many verses the only difference will be a change of verb form from instruction to completion. As much as possible, these parallels will be pointed out for the translators with links to the previous verses. Translators should refer back to the previously translated verses for consistency and because notes in this section may not cover everything that was covered in the initial instruction section.<br>- Many items, materials, and processes for building the tabernacle may be unknown, but should have already been addressed in chapters 25-31.<br><br><br>## Structure<br>- v. 1-3: reiteration of Sabbath command<br>- v. 4-9: list of materials for donation (see [Exodus 25:1-7](../25/01.md))<br>- v. 10-19: things they need to make for the tabernacle complex<br>- v. 20-29: the people bring all the things listed<br>- v. 30-36:1: appointing of lead craftsmen to build these things
 EXO	35	2	hfaq			0		This verse is very similar to [Exodus 31:15](../31/15.md).<br>
 EXO	35	2	g6oe	translate-numbers	שֵׁ֣שֶׁת	1	the seventh day	“6” (See: [[rc://en/ta/man/translate/translate-numbers]])
 EXO	35	2	c559	translate-ordinal	הַ⁠שְּׁבִיעִ֗י	1	the seventh day	“day number seven” or “Saturday” (See: [[rc://en/ta/man/translate/translate-ordinal]])
@@ -2466,72 +2469,64 @@ EXO	35	34	ab2z	translate-names	וְ⁠אָֽהֳלִיאָ֥ב…אֲחִיסָ�
 EXO	35	35	ehu7			0	filled them with skill	This verse summarizes and pulls together many previously mentioned things. See [28:3](../28/03.md) (**skill of heart**), [25:4](../25/04.md) (for materials), [26:36](../26/36.md) (**embroiderer**), [28:32](../28/32.md) (**weaver**), [26:31](../26/31.md) (**skillful workman**), [31:3](../31/03.md) (**craftsman**), [28:6](../28/06.md) (**designer of designs**).
 EXO	35	35	rcv9	figs-metaphor	מִלֵּ֨א אֹתָ֜⁠ם חָכְמַת־לֵ֗ב	1	filled them with skill	Skill to create beautiful objects is spoken of as if it were something that could fill up a person. Alternate translation: “made them very skillful” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 EXO	35	35	jvtd	figs-synedoche	חָכְמַת־לֵ֗ב	1	filled them with skill	Here, **heart** refers to possessing something, in this case ability or skill. Some languages will use a different body part for this image. Alternate translation: “with ability” (See: [[rc://en/ta/man/translate/figs-synedoche]])
-EXO	36	intro	nz4n			0		# Exodus 36 General Notes<br>## Special concepts in this chapter<br><br>### Tent of meeting<br>The tent of meeting, or tabernacle, mentioned in previous chapters is constructed in this chapter. (See: [[rc://en/tw/dict/bible/kt/tabernacle]])
-EXO	36	1	ubk2			1	General Information:	Moses continues speaking to the people.
-EXO	36	1	ds99	translate-names		1	Bezalel	This is the name of a man. See how you translated this in [Exodus 31:2](../31/02.md). (See: [[rc://en/ta/man/translate/translate-names]])
-EXO	36	1	tl5b	translate-names		1	Oholiab	This is the name of a man. See how you translated this in [Exodus 31:6](../31/06.md). (See: [[rc://en/ta/man/translate/translate-names]])
-EXO	36	1	tr3p	figs-metaphor		1	to whom Yahweh has given skill and ability	Here skill and ability are spoken of as if they are something that Yahweh can place inside a person. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-EXO	36	1	mdi4			1	according to all that Yahweh has commanded	“just as Yahweh has commanded”
-EXO	36	2	tgn2	translate-names		1	Bezalel	This is the name of a man. See how you translated this in [Exodus 31:2](../31/02.md). (See: [[rc://en/ta/man/translate/translate-names]])
-EXO	36	2	wq6q	translate-names		1	Oholiab	This is the name of a man. See how you translated this in [Exodus 31:6](../31/06.md). (See: [[rc://en/ta/man/translate/translate-names]])
-EXO	36	2	tda7	figs-synecdoche		1	in whose mind Yahweh had given skill	Here “mind” refers to the person who was made skillful by Yahweh. Alternate translation: “to whom Yahweh had given skill” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-EXO	36	2	yuq8	figs-synecdoche		1	whose heart stirred within him	Here “heart” refers to the person. The heart that responded to God is spoken of as if it were water stirred up by a storm. Alternate translation: “who responded to God” (See: [[rc://en/ta/man/translate/figs-synecdoche]] and [[rc://en/ta/man/translate/figs-metaphor]])
-EXO	36	5	tni7	figs-quotations		1	The craftsmen told Moses…commanded us to do.”	The can be stated as an indirect quote. Alternate translation: “The craftsmen told Moses that the people were bringing much more than enough for doing the work that Yahweh has commanded them to do” (See: [[rc://en/ta/man/translate/figs-quotations]])
-EXO	36	5	pd95			1	The craftsmen told Moses	“The men working on the sanctuary told Moses”
-EXO	36	8	kw33			1	General Information:	See how you translated many of these words in [Exodus 26:1](../26/01.md).
-EXO	36	8	l7ub			1	ten curtains made from fine linen	These curtains are sheets of cloth woven and sewed together so that they can hang to form a wall or tent.
-EXO	36	8	s2hu	translate-names		1	Bezalel	This is the name of a man. See how you translated this in [Exodus 31:2](../31/02.md). (See: [[rc://en/ta/man/translate/translate-names]])
-EXO	36	9	p2mr			1	General Information:	See how you translated many of these words in [Exodus 26:2](../26/02.md).
-EXO	36	10	z6sq			1	General Information:	See how you translated many of these words in [Exodus 26:3](../26/03.md).
-EXO	36	11	yw91			1	General Information:	See how you translated many of these words in [Exodus 26:4](../26/04.md).
-EXO	36	11	qh6e			1	He made	Here “he” refers to Bezalel, but it includes all the men working on the sanctuary.
-EXO	36	11	y7vq			1	loops of blue	loops of blue cloth
-EXO	36	11	i4ba			1	curtain	These were large, heavy sections of woven cloth that were used to form the covering and dividing walls of the tabernacle. See how you translated this in [Exodus 26:1](../26/01.md).
-EXO	36	12	k1qq			1	General Information:	See how you translated many of these words in [Exodus 26:5](../26/05.md).
-EXO	36	13	z2zi			1	General Information	See how you translated many of these words in [Exodus 26:6](../26/06.md).
-EXO	36	13	j75x	translate-numbers		1	fifty gold clasps	“50 gold clasps” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	14	m2ac			1	General Information:	See how you translated many of these words in [Exodus 26:7](../26/07.md).
-EXO	36	14	us17	translate-numbers		1	made eleven	“made 11” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	15	fa6i			1	General Information:	See how you translated many of these words in [Exodus 26:8](../26/08.md).
-EXO	36	15	ret8	translate-numbers		1	thirty cubits	You can convert these lengths to a measurement system familiar to your people if that is the style of translation that you are using. A **cubit** is approximately 46cm. For your reference, a more precise conversion to metric is: 13.8m … 184cm (See: [[rc://en/ta/man/translate/translate-bdistance]])
-EXO	36	16	wwj6			1	General Information:	See how you translated many of these words in [Exodus 26:9](../26/09.md).
-EXO	36	17	qt9b			1	General Information:	See how you translated many of these words in [Exodus 26:10](../26/10.md).
-EXO	36	17	jm1l	translate-numbers		1	fifty loops	“50 loops” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	18	mq1j			1	General Information:	See how you translated many of these words in [Exodus 26:11](../26/11.md).
-EXO	36	18	a7mn	translate-numbers		1	fifty bronze clasps	“50 bronze clasps” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	19	p3ke			1	General Information:	See how you translated many of these words in [Exodus 26:14](../26/14.md).
-EXO	36	20	t739			1	General Information:	See how you translated many of these words in [Exodus 26:15](../26/15.md).
-EXO	36	21	prx5			1	General Information:	See how you translated many of these words in [Exodus 26:16](../26/16.md).
-EXO	36	21	gci3	translate-bdistance		1	ten cubits…one and a half cubits	You can convert these lengths to a measurement system familiar to your people if that is the style of translation that you are using. A **cubit** is approximately 46cm. For your reference, a more precise conversion to metric is: 4.6m … 69cm (See: [[rc://en/ta/man/translate/translate-bdistance]])
-EXO	36	22	l8yx			1	General Information:	See how you translated many of these words in [Exodus 26:17](../26/17.md).
-EXO	36	22	vq4m			1	two wooden pegs for joining	A wooden peg is a small piece of wood sticking out beyond the end of the board so it can be secured.
-EXO	36	23	ev65			1	General Information:	See how you translated many of these words in [Exodus 26:18](../26/18.md).
-EXO	36	24	ln2x			1	General Information:	See how you translated many of these words in [Exodus 26:19](../26/19.md).
-EXO	36	24	u5ue	translate-numbers		1	forty silver bases	“40 silver bases” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	24	yx4b	translate-numbers		1	twenty frames	“20 frames” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	25	w2wz			1	General Information:	See how you translated many of these words in [Exodus 26:20](../26/20.md).
-EXO	36	26	gbm9			1	General Information:	See how you translated many of these words in [Exodus 26:21](../26/21.md).
-EXO	36	26	b9dy			1	and so on	There will be two bases under each and every frame.
-EXO	36	27	a7js			1	General Information:	See how you translated many of these words in [Exodus 26:22](../26/22.md).
-EXO	36	27	m6ue			1	on the west	on the side that is on the west
-EXO	36	28	hw9c			1	General Information:	See how you translated many of these words in [Exodus 26:23](../26/23.md).
-EXO	36	28	ma1f			1	for the back corners	for the corners at the rear of the tabernacle
-EXO	36	29	u396			1	General Information:	See how you translated many of these words in [Exodus 26:24](../26/24.md).
-EXO	36	30	mu5n			1	General Information:	See how you translated many of these words in [Exodus 26:25](../26/25.md).
-EXO	36	30	zls4	translate-numbers		1	sixteen bases in all	“16 bases in all” (See: [[rc://en/ta/man/translate/translate-numbers]])
-EXO	36	30	r252			1	and so on	There will be two bases under each and every frame.
-EXO	36	31	cf2p			1	General Information:	See how you translated many of these words in [Exodus 26:26](../26/26.md).
-EXO	36	32	p4wd			1	General Information:	See how you translated many of these words in [Exodus 26:27](../26/27.md).
-EXO	36	32	tc6s			1	to the west	on the west side
-EXO	36	33	h94y			1	General Information:	See how you translated many of these words in [Exodus 26:28](../26/28.md).
-EXO	36	33	lk9f			1	from end to end	from one side of the tabernacle to the other side
-EXO	36	34	i17v			1	General Information:	See how you translated many of these words in [Exodus 26:29](../26/29.md).
-EXO	36	35	pfc5			1	General Information:	See how you translated many of these words in [Exodus 26:31](../26/31.md).
-EXO	36	36	hg2q			1	General Information:	See how you translated many of these words in [Exodus 26:32](../26/32.md).
-EXO	36	37	r5ya			1	General Information:	See how you translated many of these words in [Exodus 26:36](../26/36.md).
-EXO	36	37	vv61			1	He made	Here “he” refers to Bezalel and those working for him. “Bezalel and his men made”
-EXO	36	37	neu2			1	a hanging	a curtain
-EXO	36	38	pr67			1	General Information:	See how you translated many of these words in [Exodus 26:37](../26/37.md).
+EXO	36	intro	nz4n			0		# Exodus 36 General Notes<br>## Translation issues<br>- The first verse of this chapter goes with the last chapter.<br>- Most of this chapter exactly quotes chapter 26 with a shift from instruction to past narrative form on the verbs and a few other minor changes, some are Hebrew word order that will be invisible here. Be sure to consult your previous work for consistency.<br>- Throughout verses 8-38 the word **he** used. This is a generic noun referring to any of the team of skilled craftsmen. You could also change it to “they” if that would be understood better in your language. (See: [[rc://en/ta/man/translate/figs-genericnoun]] and [[rc://en/ta/man/translate/figs-123person]])<br><br>## Structure<br>- v. 1: finish Moses’ instruction<br>- v. 2-7: craftsmen collect materials from Moses, inform him the people should stop bringing things because they have too much already<br>-v. 8-38: construction of the tabernacle, verse-by-verse quotations marked below<br>    - v. 8-18: quote [Exodus 26:1-11](../26/01.md)<br>    - v. 19-34: quote [Exodus 26:14-29](../26/14.md)<br>    - v. 35-36: quote [26:31-32](../26/31.md)<br>    - v. 37-38: quote [26:36-37](../26/36.md)<br>
+EXO	36	1	ubk2			0	General Information:	This verse is the end of a quotation from Moses that begin in [35:30](../35/30.md). It should be connected as visually as possible to the previous verses as the chapter break here is poorly placed.
+EXO	36	1	ds99	translate-names	בְצַלְאֵ֨ל וְ⁠אָהֳלִיאָ֜ב	1	Bezalel	These are the names of men. See how you translated this in [Exodus 31:2](../31/02.md) and [31:6](../31/06.md) as well as in the end of [chapter 35](../35/30.md). (See: [[rc://en/ta/man/translate/translate-names]])
+EXO	36	1	y1h1	figs-gendernotations	אִ֣ישׁ	1	Bezalel	We know from [35:25](../35/25.md) that women were included in the skilled workers, so **man** here includes women. Alternate translation: “person” (See: [[rc://en/ta/man/translate/figs-gendernotations]])
+EXO	36	1	tr3p	figs-synedoche	חֲכַם־לֵ֗ב	1	to whom Yahweh has given skill and ability	Here, **heart** refers to innately possessing something, in this case ability or skill. Some languages will use a different body part for this image. Alternate translation: “who is skilled” (See: [[rc://en/ta/man/translate/figs-synedoche]])
+EXO	36	1	ah6j	figs-abstractnouns	חָכְמָ֤ה	1	to whom Yahweh has given skill and ability	If your language does not use an abstract noun for this idea, you could express the idea behind the abstract noun **skill** in another way. See [35:31](../35/31.md). Alternate translation: “the ability to work skillfully” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+EXO	36	1	d6os	figs-abstractnouns	וּ⁠תְבוּנָה֙	1	to whom Yahweh has given skill and ability	If your language does not use an abstract noun for this idea, you could express the idea behind the abstract noun **understanding** in another way. See [35:31](../35/31.md). Alternate translation: “and so he can understand his work” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+EXO	36	1	mdi4	figs-metonymy	מְלֶ֖אכֶת עֲבֹדַ֣ת הַ⁠קֹּ֑דֶשׁ	1	according to all that Yahweh has commanded	Here, **service** refers to worshiping Yahweh and the phrase **work of the service** refers to building the tabernacle (**holy place**) where the Israelites would worship Yahweh. See [35:24](../35/24.md). Alternate translation: “the building of the holy place for worship” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+EXO	36	2	tda7		אֶל־בְּצַלְאֵ֘ל וְ⁠אֶל־אָֽהֳלִיאָב֒ וְ⁠אֶל֙ כָּל־אִ֣ישׁ חֲכַם־לֵ֔ב אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה חָכְמָ֖ה בְּ⁠לִבּ֑⁠וֹ	1	in whose mind Yahweh had given skill	See how you translated this in the [previous verse](../36/01.md).
+EXO	36	2	vvtz	figs-abstractnouns	חָכְמָ֖ה	1	in whose mind Yahweh had given skill	See how you translated this abstract noun in the [previous verse](../36/01.md). (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+EXO	36	2	yuq8	figs-metaphor	כֹּ֚ל אֲשֶׁ֣ר נְשָׂא֣⁠וֹ לִבּ֔⁠וֹ	1	whose heart stirred within him	See how you translated this in [35:21](../35/21.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
+EXO	36	3	est0		וַ⁠יִּקְח֞וּ	1	whose heart stirred within him	Alternate translation: “and the craftsmen took”
+EXO	36	3	xkix	figs-metonymy	מִ⁠לִּ⁠פְנֵ֣י	1	whose heart stirred within him	Here, **before the face** means, with Moses. Moses had received and kept the building materials. Alternate translation: “from the custody of” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+EXO	36	3	mtkr	figs-metonymy	בַּ⁠בֹּ֥קֶר בַּ⁠בֹּֽקֶר	1	whose heart stirred within him	This is an idiom meaning every morning or every day. Use a similar expression or translate the meaning. Alternate translation: “morning by morning” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+EXO	36	4	b772	figs-nominaladj	הַ֣⁠חֲכָמִ֔ים	1	whose heart stirred within him	Here the adjective **skilled** is used as a noun in order to describe the group of craftsmen. Your language may use adjectives in the same way. If not, you could translate this with a noun phrase. Alternate translation: “the skilled workers” (See: [[rc://en/ta/man/translate/figs-nominaladj]])
+EXO	36	4	pz6u	figs-idiom	אִֽישׁ־אִ֥ישׁ	1	whose heart stirred within him	Here, **every single man** translates an idiom that cannot be rendered literally and sensibly in English. The original is ”a man a man.” If your language would use repetition to emphasize that each and every man came to see Moses you can follow the original, otherwise use a phrase or structure that emphasizes that they all came. Alternate translation: “every man without exception” (See: [[rc://en/ta/man/translate/figs-idiom]])
+EXO	36	4	gjrz	figs-gendernotations	אִֽישׁ־אִ֥ישׁ	1	whose heart stirred within him	As previously, noted, there were some women who contributed (particularly in the cloth crafts) so this use may include women. Alternate translation: “every single worker” (See: [[rc://en/ta/man/translate/figs-gendernotations]])
+EXO	36	5	tni7	figs-quotations	וַ⁠יֹּאמְרוּ֙ אֶל־מֹשֶׁ֣ה לֵּ⁠אמֹ֔ר מַרְבִּ֥ים הָ⁠עָ֖ם לְ⁠הָבִ֑יא מִ⁠דֵּ֤י הָֽ⁠עֲבֹדָה֙ לַ⁠מְּלָאכָ֔ה אֲשֶׁר־צִוָּ֥ה יְהוָ֖ה לַ⁠עֲשֹׂ֥ת אֹתָֽ⁠הּ	1	The craftsmen told Moses…commanded us to do.”	The can be stated as an indirect quote. Alternate translation: “The craftsmen told Moses that the people were bringing much more than enough for doing the work that Yahweh has commanded them to do” (See: [[rc://en/ta/man/translate/figs-quotations]])
+EXO	36	6	es1y	figs-quotations	אִ֣ישׁ וְ⁠אִשָּׁ֗ה אַל־יַעֲשׂוּ־ע֛וֹד מְלָאכָ֖ה לִ⁠תְרוּמַ֣ת הַ⁠קֹּ֑דֶשׁ	1	The craftsmen told Moses…commanded us to do.”	This could be translated as an indirect quotation if that would help your readers. Alternate translation: “that no one in should bring any more contributions for the work of the holy place” (See: [[rc://en/ta/man/translate/figs-quotations]])
+EXO	36	6	k3g1	figs-metonymy	וַ⁠יַּעֲבִ֨ירוּ ק֥וֹל	1	The craftsmen told Moses…commanded us to do.”	Here, **sound** refers to the message. This means they spread Moses’ message orally. Alternate translation: “everyone to share this message” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+EXO	36	6	ak26	figs-merisms	אִ֣ישׁ וְ⁠אִשָּׁ֗ה אַל־יַעֲשׂוּ	1	The craftsmen told Moses…commanded us to do.”	The listing of **man and woman** is intended to mean everyone, or in this case, no one. Alternate translation: “No one shall make” (See: [[rc://en/ta/man/translate/figs-merisms]])
+EXO	36	6	k1qm		מְלָאכָ֖ה	1	The craftsmen told Moses…commanded us to do.”	Here, **work** means the sorts of crafted items listed in the previous chapter.
+EXO	36	6	utcw	figs-ellipsis	מֵ⁠הָבִֽיא	1	The craftsmen told Moses…commanded us to do.”	In some languages you may need to provide an object for this sentence. Alternate translation: “from bringing contributions” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
+EXO	36	7	ipiu		וְ⁠הַ⁠מְּלָאכָ֗ה	1	The craftsmen told Moses…commanded us to do.”	Here, **work** means the sorts of crafted items listed in the previous chapter.
+EXO	36	8	kw33			0	General Information:	Except for tense and, **every skilled of heart among the doers of the work,** this verse is identical to [Exodus 26:1](../26/01.md).
+EXO	36	8	l7ub	figs-synecdoche	כָל־חֲכַם־לֵ֜ב	1	ten curtains made from fine linen	See how you translated this in [35:21](../35/21.md). (See: [[rc://en/ta/man/translate/figs-synecdoche]])
+EXO	36	8	zz0w	figs-genericnoun	עָשָׂ֥ה	1	ten curtains made from fine linen	Throughout verses 8-38 the word **he** used. This is a generic noun referring to any of the team of skilled craftsmen. Alternate translation: “they” or “a craftsman” (See: [[rc://en/ta/man/translate/figs-genericnoun]])
+EXO	36	9	p2mr			0	General Information:	This verse is identical to [Exodus 26:2](../26/02.md). Tense is implied.
+EXO	36	10	z6sq			0	General Information:	This verse is almost identical to [Exodus 26:3](../26/03.md).
+EXO	36	11	yw91			0	General Information:	This verse is almost identical to [Exodus 26:4](../26/04.md).
+EXO	36	12	k1qq			0	General Information:	This verse is almost identical to [Exodus 26:5](../26/05.md).
+EXO	36	13	z2zi			0	General Information	This verse is almost identical to [Exodus 26:6](../26/06.md).
+EXO	36	14	m2ac			0	General Information:	This verse is almost identical to [Exodus 26:7](../26/07.md).
+EXO	36	15	fa6i			0	General Information:	This verse is almost identical to [Exodus 26:8](../26/08.md).
+EXO	36	16	wwj6			0	General Information:	This verse is almost identical to the first sentence of [Exodus 26:9](../26/09.md).
+EXO	36	17	qt9b			0	General Information:	This verse is almost identical to [Exodus 26:10](../26/10.md).
+EXO	36	18	mq1j			0	General Information:	This verse is similar to [Exodus 26:11](../26/11.md). The difference is largely leaving out the middle clause from 26:11.
+EXO	36	19	p3ke			0	General Information:	This verse is almost identical to [Exodus 26:14](../26/14.md).
+EXO	36	20	t739			0	General Information:	This verse is almost identical to [Exodus 26:15](../26/15.md).
+EXO	36	21	prx5			0	General Information:	This verse is identical to [Exodus 26:16](../26/16.md).
+EXO	36	22	l8yx			0	General Information:	This verse is almost identical to [Exodus 26:17](../26/17.md).
+EXO	36	23	ev65			0	General Information:	This verse is almost identical to [Exodus 26:18](../26/18.md).
+EXO	36	24	ln2x			0	General Information:	This verse is almost identical to [Exodus 26:19](../26/19.md).
+EXO	36	25	w2wz			0	General Information:	This verse is almost identical to [Exodus 26:20](../26/20.md).
+EXO	36	26	gbm9			0	General Information:	This verse is identical to  [Exodus 26:21](../26/21.md).
+EXO	36	27	a7js			0	General Information:	This verse is almost identical to [Exodus 26:22](../26/22.md).
+EXO	36	28	hw9c			0	General Information:	This verse is almost identical to [Exodus 26:23](../26/23.md).
+EXO	36	29	u396			0	General Information:	This verse is very similar to [Exodus 26:24](../26/24.md).
+EXO	36	30	mu5n			0	General Information:	This verse is very similar to [Exodus 26:25](../26/25.md).
+EXO	36	30	r252	figs-explicit	שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַ⁠קֶּ֥רֶשׁ הָ⁠אֶחָֽד	1	and so on	The list formula from [26:25](../26/25.md) is strangely shortened here but has the same meaning. (See: [[rc://en/ta/man/translate/figs-explicit]])
+EXO	36	31	cf2p			0	General Information:	This verse is almost identical to [Exodus 26:26](../26/26.md).
+EXO	36	32	p4wd			0	General Information:	This verse is almost identical to [Exodus 26:27](../26/27.md).
+EXO	36	33	h94y			0	General Information:	This verse is very similar to [Exodus 26:28](../26/28.md).
+EXO	36	34	i17v			0	General Information:	This verse is almost identical to [Exodus 26:29](../26/29.md).
+EXO	36	35	pfc5			0	General Information:	This verse is almost identical to [Exodus 26:31](../26/31.md).
+EXO	36	36	hg2q			0	General Information:	Aside from some verbal differences, this verse is very similar to [Exodus 26:32](../26/32.md).
+EXO	36	37	r5ya			0	General Information:	This verse is almost identical to [Exodus 26:36](../26/36.md).
+EXO	36	38	pr67			0	General Information:	See how you translated many of these words in [Exodus 26:37](../26/37.md).
 EXO	37	intro	mt99			0		# Exodus 37 General Notes<br>## Special concepts in this chapter<br><br>### The ark of the covenant<br>The ark, mentioned in previous chapters, is constructed in this chapter. There are other furnishings of the tabernacle that are also produced in this chapter. (See: [[rc://en/tw/dict/bible/kt/tabernacle]])
 EXO	37	1	byr3			1	General Information:	See how you translated many of these words in [Exodus 25:10](../25/10.md).
 EXO	37	1	xz1t	translate-names		1	Bezalel	This is the name of a man. See how you translated this in [Exodus 31:2](../31/02.md). (See: [[rc://en/ta/man/translate/translate-names]])
