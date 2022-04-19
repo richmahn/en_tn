@@ -5,7 +5,7 @@ DEU	1	1	j9ty			0	beyond the Jordan	This refers to the land across the Jordan Riv
 DEU	1	1	bg65	translate-names		0	Suph … Paran … Tophel … Laban … Hazeroth … Dizahab	These are the names of places. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	1	2	p4gk			0	It is eleven days’ journey from Horeb … to Kadesh Barnea	Alternate translation: “It takes eleven days to walk from Horeb … to Kadesh Barnea”
 DEU	1	2	m2r5	translate-names		0	Mount Seir	This is a mountainous area south of the Dead Sea. The area is also called “Edom.” (See: [[rc://en/ta/man/translate/translate-names]])
-DEU	1	2	pp45	translate-numbers		0	eleven	“11” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	1	2	pp45	translate-numbers		0	eleven	Alternate translation: “11” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	1	3	pc9j	translate-ordinal		0	It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke	The ordinal numbers can be translated as cardinal numbers. Alternate translation: “They had lived in the wilderness for 40 years, 11 months, and 1 day, when Moses spoke” (See: [[rc://en/ta/man/translate/translate-ordinal]])
 DEU	1	3	j362	translate-numbers		0	fortieth	40th (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	1	3	zfn5	translate-hebrewmonths		0	in the eleventh month, on the first day of the month	This is the eleventh month of the Hebrew calendar. The first day is near the middle of January on Western calendars. (See: [[rc://en/ta/man/translate/translate-hebrewmonths]] and [[rc://en/ta/man/translate/translate-ordinal]])
@@ -38,8 +38,8 @@ DEU	1	12	l36d	figs-metaphor		0	carry your loads, your burdens	Moses speaks as if
 DEU	1	12	iss7			0	your disputes	Alternate translation: “your arguments” or “your disagreements”
 DEU	1	13	ue4a			0	men of good repute from each tribe	Alternate translation: “men from each tribe whom the people of Israel respect”
 DEU	1	15	f4vm			0	General Information:	Moses continues to speak to the people of Israel.
-DEU	1	15	u5jy			0	men of good repute	“men whom your people respected.” See how this is translated in [Deuteronomy 1:13](../01/13.md).
-DEU	1	15	t5iw	translate-numbers		0	of thousands … of hundreds … of fifties … of tens	“of groups of 1,000…of groups of 100…of groups of 50…and groups of 10” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	1	15	u5jy			0	men of good repute	Alternate translation: “men whom your people respected.” See how this is translated in [Deuteronomy 1:13](../01/13.md).
+DEU	1	15	t5iw	translate-numbers		0	of thousands … of hundreds … of fifties … of tens	Alternate translation: “of groups of 1,000…of groups of 100…of groups of 50…and groups of 10” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	1	15	s5h1			0	captains … officers	These are titles for different leaders in Israel’s government.
 DEU	1	15	s3vi			0	tribe by tribe	Alternate translation: “from each of your tribes”
 DEU	1	16	dq18			0	judge righteously between a man and his brother	Alternate translation: “make right and fair decisions about the disputes Israelites have with each other”
@@ -52,9 +52,9 @@ DEU	1	19	bf68			0	General Information:	Moses continues reminding the people of I
 DEU	1	19	s8zk			0	terrible wilderness that you saw	Alternate translation: “large and dangerous desert that you crossed through”
 DEU	1	20	lj3y			0	General Information:	Moses continues reminding the people of Israel what the previous generation of Israelites did.
 DEU	1	21	sel7	figs-pronouns		0	Look … your God … before you; go up, take possession … your fathers … to you; do not be afraid, neither be discouraged	Moses is speaking to the Israelites as if he were speaking to one man, so these forms should be singular, not plural. (See: [[rc://en/ta/man/translate/figs-pronouns]])
-DEU	1	21	xjd3			0	has set the land before you	“is now giving this land to you.” See how this is translated in [Deuteronomy 1:8](../01/08.md).
+DEU	1	21	xjd3			0	has set the land before you	Alternate translation: “is now giving this land to you.” See how this is translated in [Deuteronomy 1:8](../01/08.md).
 DEU	1	22	jr4u			0	General Information:	Moses continues reminding the people of Israel what the previous generation of Israelites did.
-DEU	1	23	cm5h	translate-numbers		0	twelve men	“12 men” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	1	23	cm5h	translate-numbers		0	twelve men	Alternate translation: “12 men” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	1	24	n7e4	figs-idiom		0	They turned and went	Turning is an idiom for beginning to obey a command. Alternate translation: “They left that place and went” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	1	24	m2qr	translate-names		0	Valley of Eshkol	This is a valley in the Hebron region, which is south of Jerusalem. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	1	24	h6p7			0	scouted it	Alternate translation: “looked for places they could attack”
@@ -120,7 +120,7 @@ DEU	2	6	ru4x			0	for money	If these words are not needed or make the translation
 DEU	2	7	st5n	figs-you		0	your God has blessed you … your hand … your walking … your God … with you, and you have lacked	Moses speaks to the Israelites as if they were one man, so all instances of “you” and “your” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	2	7	ief6	figs-synecdoche		0	you in all the work of your hand	The “work of your hand” refers to all the work they had done. Alternate translation: “all of your work” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	2	7	act3	figs-metonymy		0	he has known your walking	Here what happened to the people while they were walking is spoken of as their “walking.” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	2	7	u2px	translate-numbers		0	forty years	“40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	2	7	u2px	translate-numbers		0	forty years	Alternate translation: “40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	2	7	l4f1	figs-litotes		0	you have lacked nothing	This is a litotes for “you have had everything you needed.” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	2	8	t48a			0	General Information:	Moses continues to speak to the people of Israel.
 DEU	2	8	n8fq			0	by our brothers	Alternate translation: “by our relatives”
@@ -140,11 +140,11 @@ DEU	2	12	j8rr	writing-background		0	General Information:	This continues the back
 DEU	2	12	ye16	translate-names		0	Horites	This is the name of a people group. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	2	12	v8s2			0	destroyed them from before them	Alternate translation: “killed all of them so none of them were left living with them” or “removed them from their presence by killing all of them”
 DEU	2	13	tfp1			0	General Information:	Moses continues reminding the Israelites of what had happened to them in the wilderness.
-DEU	2	13	ruf4	figs-quotations		0	‘Now rise up … Zered.’ So	“‘Then Yahweh said, “Now rise up … Zered.’ So.” This can be translated as an indirect quote. Alternate translation: “Then Yahweh told us to rise up … Zered. So” (See: [[rc://en/ta/man/translate/figs-quotations]])
+DEU	2	13	ruf4	figs-quotations		0	‘Now rise up … Zered.’ So	Alternate translation: “‘Then Yahweh said, “Now rise up … Zered.’ So.” This can be translated as an indirect quote. Alternate translation: “Then Yahweh told us to rise up … Zered. So” (See: [[rc://en/ta/man/translate/figs-quotations]])
 DEU	2	13	va2q	figs-idiom		0	rise up	begin to do something (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	2	13	mn1h	translate-names		0	the brook Zered	This stream flows into the Dead Sea from the southeast and creates the border between Edom and Moab. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	2	14	h8wz	writing-background		0	Now the days	The word “now” marks a change from the story to background information about how long the people of Israel traveled and about God’s anger towards that generation. If your language has a way of showing that what follows is background information, you should use it here. (See: [[rc://en/ta/man/translate/writing-background]])
-DEU	2	14	s3qf	translate-numbers		0	thirty-eight years	“38 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	2	14	s3qf	translate-numbers		0	thirty-eight years	Alternate translation: “38 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	2	14	a2ue	figs-euphemism		0	were gone from the people	This is a polite way of saying “had died.” (See: [[rc://en/ta/man/translate/figs-euphemism]])
 DEU	2	15	q5m7	figs-synecdoche		0	the hand of Yahweh was against	Here “the hand of Yahweh” refers to Yahweh’s power. Alternate translation: “Yahweh used his power against” or “Yahweh punished” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	2	16	pv43			0	General Information:	Moses continues reminding the people of Israel of what happened in the past.
@@ -201,7 +201,7 @@ DEU	2	32	k97a	translate-names		0	Jahaz	This is the name of a city in Moab (See: 
 DEU	2	34	x76b			0	General Information:	Moses continues reminding the people about what happened in the past.
 DEU	2	34	ie9v			0	We took all his cities	Alternate translation: “We captured all of King Sihon’s cities”
 DEU	2	36	i479	translate-names		0	Aroer	This is the name of a city on the north bank of the Arnon River. (See: [[rc://en/ta/man/translate/translate-names]])
-DEU	2	36	pd7q	translate-names		0	Valley of the Arnon	“Arnon” is the name of a river. See how you translated this in [Deuteronomy 2:24](../02/24.md). (See: [[rc://en/ta/man/translate/translate-names]])
+DEU	2	36	pd7q	translate-names		0	Valley of the Arnon	Alternate translation: “Arnon” is the name of a river. See how you translated this in [Deuteronomy 2:24](../02/24.md). (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	2	36	snr1	figs-litotes		0	there was not a city too high for us	This negative statement is used to emphasize their success in battle. This can be stated in a positive form. Alternate translation: “we were able to defeat the people of every city even if the city had high walls around it” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	2	37	v1z7	figs-you		0	you did not go	Moses speaks to the Israelites as if they were one man, so “you” is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	2	37	vt6d	translate-names		0	Jabbok River	This is the name of a river that created the border between Sihon’s land and the land of the Ammonites. (See: [[rc://en/ta/man/translate/translate-names]])
@@ -218,7 +218,7 @@ DEU	3	2	pqq3	figs-synecdoche		0	You will do to him as you did to Sihon	The word 
 DEU	3	3	n4lw	figs-activepassive		0	all his people were put under our control	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Yahweh put all of Og’s people under our control” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	3	3	rm5e	figs-litotes		0	not one of his people remained	This is a litotes that is used to emphasize that the Israelites did not let anyone live. Alternate translation: “all of his people were dead” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	3	4	nwb3	figs-doublenegatives		0	There was not one of the sixty cities that we did not take	This is a double negative that emphasizes that they took all of the 60 cities. Alternate translation: “We took every one of the sixty cities” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
-DEU	3	4	n378	translate-numbers		0	sixty cities	“60 cities” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	3	4	n378	translate-numbers		0	sixty cities	Alternate translation: “60 cities” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	3	4	x9q1	translate-names		0	the region of Argob	This is the name of a region within Bashan. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	3	5	qup3			0	General Information:	Moses continues reminding the people of Israel of what happened in the past.
 DEU	3	5	p7qc			0	These were all cities fortified with	Alternate translation: “These were all cities protected by”
@@ -227,7 +227,7 @@ DEU	3	6	mm89	translate-names		0	Sihon	This is the name of a king. See how you tr
 DEU	3	6	zx6i	translate-names		0	Heshbon	This is the name of a city. See how you translated this in [Deuteronomy 1:4](../01/04.md). (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	3	8	w2ct			0	General Information:	Moses continues to speak to the people of Israel.
 DEU	3	8	e82d	figs-metonymy		0	out of the hand of the two kings	Here the metonym “out of the hand of” means “from the control of.” Alternate translation: “from the control of the two kings” or “from the two kings” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	3	8	kg66			0	Amorites	“Amorite people.” See how you translated the name of this people group in [Deuteronomy 1:4](../01/04.md).
+DEU	3	8	kg66			0	Amorites	Alternate translation: “Amorite people.” See how you translated the name of this people group in [Deuteronomy 1:4](../01/04.md).
 DEU	3	8	l9c4			0	beyond the Jordan	This refers to the land across the Jordan River, to the east of Israel. Moses was east of the Jordan when he said this. See how you translated this in [Deuteronomy 1:1](../01/01.md). Alternate translation: “east of the Jordan River”
 DEU	3	8	c8hd			0	the Valley of the Arnon	See how you translated these words in [Deuteronomy 2:24](../02/24.md).
 DEU	3	8	b5q8	translate-names		0	Mount Hermon	This is the name of a mountain at the northern border of Bashan. (See: [[rc://en/ta/man/translate/translate-names]])
@@ -276,7 +276,7 @@ DEU	3	24	z9tn			0	to show your servant	Here “your servant” is a polite way o
 DEU	3	24	idr1	figs-metonymy		0	your strong hand	Here the metonym “hand” means control or power. Alternate translation: “your power” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	3	24	qkn5	figs-rquestion		0	for what god is there … acts?	Moses uses a question to emphasize that Yahweh is the only God with the power to do the works he has done. If your readers would misunderstand this question, you can express it as a statement. Alternate translation: “for there is no god … acts.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	3	24	ls1e	figs-merism		0	in heaven or in earth	These two extremes together mean “anywhere.” (See: [[rc://en/ta/man/translate/figs-merism]])
-DEU	3	25	c8zq			0	beyond the Jordan	“west of the Jordan River.” When Moses spoke these words to Yahweh, he was east of the Jordan River in Moab.
+DEU	3	25	c8zq			0	beyond the Jordan	Alternate translation: “west of the Jordan River.” When Moses spoke these words to Yahweh, he was east of the Jordan River in Moab.
 DEU	3	26	xt4j			0	General Information:	Moses continues telling the people of Israel what happened in the past.
 DEU	3	26	p3zp	figs-explicit		0	Yahweh was angry with me because of you	This refers to when Moses disobeyed what Yahweh told him to do because Moses was angry with the people of Israel. See how you translated this in [Deuteronomy 1:37](../01/37.md). (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	3	27	qm9b			0	Pisgah	See how you translated this is in [Deuteronomy 3:17](../03/17.md).
@@ -322,7 +322,7 @@ DEU	4	16	f5bb			0	do not corrupt yourselves	Alternate translation: “do not do 
 DEU	4	18	xe6b			0	creeps on the ground	Alternate translation: “crawls on the ground”
 DEU	4	19	a5bt	figs-you		0	You shall not lift your eyes … and look … and be drawn … Yahweh your God	Moses speaks to the Israelites as if they were one man, so all instances of “you” and “your” and the words “lift,” “look,” and “be drawn” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	4	19	mg57	figs-activepassive		0	You shall not … and be drawn away to worship	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Do not … and do not let anyone make you want to worship” or “Do not … and do not allow yourself worship” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-DEU	4	19	r5pg			0	all the host of the heavens	“everything you can see in the sky.” This is another way of referring to the sun, moon, and stars.
+DEU	4	19	r5pg			0	all the host of the heavens	Alternate translation: “everything you can see in the sky.” This is another way of referring to the sun, moon, and stars.
 DEU	4	19	mpi9	figs-idiom		0	of which Yahweh your God has given a share all the peoples	This is an idiom. Moses speaks of the stars as if they were small objects like food that Yahweh was dividing and giving out to the people groups. Alternate translation: “that Yahweh your God has put there to help all people groups” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	4	20	uej2	figs-metaphor		0	brought you out of the iron furnace	Moses speaks of Egypt and the hard work the Israelites did there as if it were an oven in which iron is heated and the Israelites were the iron. Alternate translation: “brought you out of the land where people made you do hard work” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	4	20	c59d	figs-idiom		0	a people of his own inheritance	This is an idiom that can be translated “people who belong only to him.” (See: [[rc://en/ta/man/translate/figs-idiom]])
@@ -336,7 +336,7 @@ DEU	4	24	d51q	figs-you		0	Yahweh your God	Moses speaks to the Israelites as if t
 DEU	4	25	d5qj			0	General Information:	Moses continues to speak to the people of Israel.
 DEU	4	25	sw65			0	you beget … Yahweh your God	The words “you” and “your” are singular here.
 DEU	4	25	txa1			0	beget	become the father of, or become the ancestor of
-DEU	4	25	r6pb			0	if you corrupt yourselves	“if you do what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
+DEU	4	25	r6pb			0	if you corrupt yourselves	Alternate translation: “if you do what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
 DEU	4	25	v824	figs-idiom		0	do what is evil in the sight of Yahweh your God, to provoke him to anger	This is an idiom. Alternate translation: “you make Yahweh your God angry by doing what he says is evil” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	4	26	lbi9	figs-metonymy		0	I call heaven and earth to witness	This could mean: (1) Moses is calling on all those who live in heaven and earth to be witnesses to what he says or (2) Moses is speaking to heaven and earth as if they are people, and he is calling them to be witnesses to what he says. (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-personification]])
 DEU	4	26	tz2p	figs-metaphor		0	you will not prolong your days	Long days are a metaphor for a long life. Alternate translation: “you will not be able to live a long time” (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -374,7 +374,7 @@ DEU	4	41	bt78			0	General Information:	Moses’s speech, which began in [Deutero
 DEU	4	43	csf7	translate-names		0	Bezer … Ramoth … Golan	These are names of cities. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	4	44	j6tj			0	This is the law	This refers to the laws Moses will give in the following chapters.
 DEU	4	46	zf9l	translate-names		0	Beth Peor	This is the name of a town in Moab near Mount Pisgah. See how you translated this in [Deuteronomy 3:29](../03/29.md). (See: [[rc://en/ta/man/translate/translate-names]])
-DEU	4	46	c8za			0	Sihon … Amorites … Heshbon	“King Sihon … Amorite people … town of Heshbon.” See how you translated these names in [Deuteronomy 1:4](../01/04.md).
+DEU	4	46	c8za			0	Sihon … Amorites … Heshbon	Alternate translation: “King Sihon … Amorite people … town of Heshbon.” See how you translated these names in [Deuteronomy 1:4](../01/04.md).
 DEU	4	47	ya36			0	his land	King Sihon’s land
 DEU	4	47	h15l			0	beyond the Jordan toward the east	This refers to the land across the Jordan River, to the east of Israel. Moses was east of the Jordan when he said this. Alternate translation: “from the side of the Jordan River toward the east”
 DEU	4	48	kwj2			0	Aroer	This is the name of a city. See how you translated this in [Deuteronomy 2:36](../02/36.md).
@@ -409,7 +409,7 @@ DEU	5	11	in6b	figs-doublenegatives		0	Yahweh will not hold him guiltless	This ca
 DEU	5	12	vbs1	figs-you		0	General Information:	Moses continues to speak to the people of Israel as if they were one man, so all instances of “you” and “your” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	5	12	ybn9			0	to keep it holy	Alternate translation: “to dedicate it to God”
 DEU	5	13	p3yg			0	do all your work	Alternate translation: “do all your usual duties”
-DEU	5	14	cx31	translate-ordinal		0	seventh day	“day 7.” Here “seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DEU	5	14	cx31	translate-ordinal		0	seventh day	Alternate translation: “day 7.” Here “seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
 DEU	5	14	kbw8			0	On it you will not do	Alternate translation: “On that day never do”
 DEU	5	14	c3x8	figs-synecdoche		0	within your gates	Here “gates” is a reference to the city itself. Alternate translation: “within your community” or “inside your city” or “living with you” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	5	15	x69h	figs-you		0	General Information:	Moses continues to speak to the people of Israel as if they were one man, so all instances of “you” and “your” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -453,7 +453,7 @@ DEU	6	5	dc6b	figs-metonymy		0	with all your heart, with all your soul, and with 
 DEU	6	6	g3hf	figs-you		0	General Information:	Moses continues to tell the people of Israel Yahweh’s words as if the Israelites are one person. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	6	6	u7kf			0	I am commanding you	Moses is speaking God’s commandments to the people of Israel.
 DEU	6	6	a1y8	figs-idiom		0	will be in your heart	This is an idiom. Alternate translation: “you must always remember” (See: [[rc://en/ta/man/translate/figs-idiom]])
-DEU	6	7	ye1m			0	you will diligently teach … you will talk	“I command you to diligently teach … I command you to talk.” The reader should understand these as commands.
+DEU	6	7	ye1m			0	you will diligently teach … you will talk	Alternate translation: “I command you to diligently teach … I command you to talk.” The reader should understand these as commands.
 DEU	6	8	mh97	figs-you		0	General Information:	Moses continues to tell the people of Israel Yahweh’s words as if the Israelites are one person. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	6	8	x5c9	figs-metonymy		0	tie them	This is a metonym for “write these words on parchment, put the parchment in a pouch, and tie the pouch.” This metonym in turn may be a metaphor for “obey these words so that it is as if they were physically there.” Alternate translation: “tie these words” (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	6	8	zn5b			0	as a sign upon your hand	Alternate translation: “as something to make you remember my laws”
@@ -464,7 +464,7 @@ DEU	6	10	gu32	figs-you		0	General Information:	Moses continues to tell the peopl
 DEU	6	10	yge8			0	large and very good cities that you did not build	All these cities will belong to the people of Israel when they conquer the people in Canaan.
 DEU	6	12	kq91	figs-metonymy		0	out of the house of bondage	Here the metonym “house of bondage” refers to Egypt, the place where the people of Israel had been slaves. Alternate translation: “out of the place where you were slaves” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	6	13	i1uw	figs-you		0	General Information:	Moses continues to tell the people of Israel Yahweh’s words as if the Israelites are one person. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	6	13	b8cf			0	You will honor Yahweh your God; him you will worship, and you will swear by his name	“It is Yahweh your God and no one else whom you will honor; it is he alone whom you will worship, and it is by his name and only his name that you will swear.” Your language may have another way of emphasizing that Yahweh is telling the Israelites not to worship or serve any other god.
+DEU	6	13	b8cf			0	You will honor Yahweh your God; him you will worship, and you will swear by his name	Alternate translation: “It is Yahweh your God and no one else whom you will honor; it is he alone whom you will worship, and it is by his name and only his name that you will swear.” Your language may have another way of emphasizing that Yahweh is telling the Israelites not to worship or serve any other god.
 DEU	6	13	rn98	figs-metonymy		0	you will swear by his name	To swear by the name of Yahweh means to make Yahweh the basis or the power on which the oath is made. The metonym “his name” refers to Yahweh himself. Alternate translation: “you will swear and ask Yahweh to confirm it” or “when you swear you will speak his name” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	6	15	syl7			0	in the midst of you	Alternate translation: “who lives among you”
 DEU	6	15	hb7p	figs-activepassive		0	the anger of Yahweh your God will be kindled against you	Moses compares Yahweh’s anger to someone starting a fire to destroy things. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. To kindle anger is a metaphor for becoming very angry. Alternate translation: “Yahweh your God will kindle his anger” or “Yahweh your God will become very angry” (See: [[rc://en/ta/man/translate/figs-activepassive]] and [[rc://en/ta/man/translate/figs-metaphor]])
@@ -505,7 +505,7 @@ DEU	7	8	xtl5	figs-metaphor		0	redeemed you out of the house of bondage	Moses spe
 DEU	7	8	wdf1			0	house of bondage	Here the metonym “house of bondage” refers to Egypt, the place where the people of Israel had been slaves. See how you translated these words in [Deuteronomy 6:12](../06/12.md). Alternate translation: “out of the place where you were slaves”
 DEU	7	8	u9xe	figs-metonymy		0	hand of Pharaoh	Here “hand” means “the control of.” Alternate translation: “control of Pharaoh” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	7	9	wd9i	figs-you		0	General Information:	Moses continues to tell the people of Israel Yahweh’s words as if the Israelites are one person. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	7	9	ky8b	translate-numbers		0	for a thousand generations	“for 1,000 generations” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	7	9	ky8b	translate-numbers		0	for a thousand generations	Alternate translation: “for 1,000 generations” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	7	10	g32i	figs-idiom		0	repays those who hate him to their face	This idiom means “repays them quickly and openly so that they know God has punished them.” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	7	10	xk2p	figs-litotes		0	he will not be lenient on whoever hates him	The words “not be lenient” are an understatement to emphasize that Yahweh will severely punish. Alternate translation: “Yahweh will severely punish everyone who hates him” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	7	12	v1lv	figs-you		0	General Information:	Moses continues to tell the people of Israel Yahweh’s words. He speaks as if the Israelites are one person in verse 12 and to all of them as a group in verse 13. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -558,18 +558,18 @@ DEU	8	intro	w4zj			0		# Deuteronomy 8 General Notes<br>## Special concepts in th
 DEU	8	1	rbf2	figs-you		0	General Information:	Moses continues to speak to the Israelites as if they are one person. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	8	1	zvt4	figs-you		0	You must keep … you may live and multiply, and go in and possess … your fathers	All instances of “you” and “your” and the verbs are plural. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	8	2	t2tj	figs-idiom		0	You will call to mind	This is an idiom. Alternate translation: “You must remember” (See: [[rc://en/ta/man/translate/figs-idiom]])
-DEU	8	2	c56q	translate-numbers		0	forty years	“40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	8	2	c56q	translate-numbers		0	forty years	Alternate translation: “40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	8	2	a9m6			0	he might humble you	Alternate translation: “he might show you how weak and sinful you are”
 DEU	8	2	l3al			0	to know	Alternate translation: “to reveal” or “to show”
 DEU	8	2	y8fn	figs-metonymy		0	what was in your heart	The heart is a symbol of a person’s character. Alternate translation: “what kind of people you are” or “how you would behave” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	8	3	aiu7	figs-you		0	General Information:	Moses continues to speak to the Israelites as if they are one person. He continues to remind them of what they should “call to mind” ([Deuteronomy 8:2](../08/02.md)). (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	8	3	upj2			0	He humbled you	“Yahweh showed you how weak and sinful you are.” See how “he might humble you” is translated in [Deuteronomy 8:2](../08/02.md).
+DEU	8	3	upj2			0	He humbled you	Alternate translation: “Yahweh showed you how weak and sinful you are.” See how “he might humble you” is translated in [Deuteronomy 8:2](../08/02.md).
 DEU	8	3	ygr4			0	fed you with manna	Alternate translation: “gave you manna to eat”
 DEU	8	3	t9be	figs-synecdoche		0	it is not by bread alone that people live	Here “bread” represents all food. Alternate translation: “food is not the only thing people need so they can live” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	8	3	d9as	figs-metonymy		0	it is by everything that proceeds out of the mouth of Yahweh that people live	Here “the mouth of Yahweh” is a metonym for the words that Yahweh says. Alternate translation: “people must obey the commands of Yahweh so they can live” or “people must do what Yahweh tells them to do so they can live” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	8	4	b3h6	figs-you		0	General Information:	Moses continues to speak to the Israelites as if they are one person. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	8	4	pr86			0	Your clothing … forty years	This is the last item that they should “call to mind” ([Deuteronomy 8:2](../08/02.md)).
-DEU	8	4	d347	translate-numbers		0	forty years	“40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	8	4	d347	translate-numbers		0	forty years	Alternate translation: “40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	8	5	fty1			0	You will think … God disciplines you	This continues the list of commands that begins in [Deuteronomy 8:1](./01.md).
 DEU	8	5	fn6f	figs-metonymy		0	You will think about in your heart	Here the metonym “heart” represents the thoughts and understanding of a person. Alternate translation: “You will understand” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	8	6	j5yw			0	You will keep … honor him	This continues the list of commands that begins in [Deuteronomy 8:1](./01.md).
@@ -579,7 +579,7 @@ DEU	8	9	gx2v	figs-you		0	General Information:	Moses continues to speak to the Is
 DEU	8	9	s4ft	figs-litotes		0	a land in which you will eat bread without lack	This litotes can be translated positively. Alternate translation: “a land where there will be plenty of food for you” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	8	9	s966	figs-doublenegatives		0	where you will not go without anything	This can be stated in positive form. Alternate translation: “where you will have everything you need” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
 DEU	8	9	dyk2			0	stones are made of iron	The stones are full of iron ore. Iron is a very hard metal useful for swords and plows.
-DEU	8	9	q74l			0	dig copper	“mine copper.” Copper is a soft metal useful for making household utensils.
+DEU	8	9	q74l			0	dig copper	Alternate translation: “mine copper.” Copper is a soft metal useful for making household utensils.
 DEU	8	10	cat4			0	You will eat and be full	Alternate translation: “You will have enough food to eat until you are full”
 DEU	8	10	ac1j			0	you will bless	Alternate translation: “you will praise” or “you will give thanks to”
 DEU	8	11	i252	figs-you		0	General Information:	Moses continues to speak to the Israelites as if they are one person. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -647,23 +647,23 @@ DEU	9	7	kd2z			0	to this place	This refers to the Jordan River Valley.
 DEU	9	8	rwk3	figs-you		0	you provoked … with you to destroy you	These instances of “you” are plural. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	9	9	bu4r			0	General Information:	Moses is reminding the people of Israel what happened in the past.
 DEU	9	9	icg8	figs-parallelism		0	the tablets of stone, the tablets of the covenant that Yahweh made with you	Here the second phrase clarifies that “the tablets of stone” are the ones on which God wrote the Ten Commandments. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-DEU	9	9	z7w7	translate-numbers		0	forty days and forty nights	“40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	9	9	z7w7	translate-numbers		0	forty days and forty nights	Alternate translation: “40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	9	10	e2t6	figs-activepassive		0	on them was written everything just like all the words that Yahweh announced to you	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Yahweh wrote on them the same words he had said to you” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	9	10	cq6h			0	Yahweh announced … out of the middle of the fire	It was as if Yahweh were a person standing in the middle of a fire and speaking with a loud voice.
 DEU	9	10	v46n	figs-abstractnouns		0	on the day of the assembly	If your language does not use an abstract noun for the idea behind the word **assembly**, you could express the same idea with the verb “gather together.” Alternate translation: “on the day when you Israelites all came and met together in one place” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-DEU	9	11	a75b	translate-numbers		0	forty days and forty nights	“40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	9	11	a75b	translate-numbers		0	forty days and forty nights	Alternate translation: “40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	9	11	cq34	figs-parallelism		0	the two tablets of stone, the tablets of the covenant	The second phrase clarifies that “the two tablets of stone” are the ones on which God wrote the Ten Commandments. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-DEU	9	12	n8p5			0	your people … have corrupted themselves	“your people … are doing what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
+DEU	9	12	n8p5			0	your people … have corrupted themselves	Alternate translation: “your people … are doing what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
 DEU	9	12	ce69	figs-metaphor		0	They have quickly turned aside out of the path that I commanded them	Moses speaks as if obeying God’s commands were walking along a path. Alternate translation: “They have already disobeyed my commands” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-DEU	9	14	lkr5			0	blot out their name from under heaven	“make their name disappear completely” or “kill them all so no one will ever remember them.” See how you translated a similar phrase in [Deuteronomy 7:24](../07/24.md).
+DEU	9	14	lkr5			0	blot out their name from under heaven	Alternate translation: “make their name disappear completely” or “kill them all so no one will ever remember them.” See how you translated a similar phrase in [Deuteronomy 7:24](../07/24.md).
 DEU	9	15	d8yc			0	General Information:	Moses continues reminding the people of Israel what happened in the past.
 DEU	9	16	j8rb			0	behold	The word “behold” here shows that Moses was surprised by what he saw.
 DEU	9	16	ux9p	figs-explicit		0	molded for yourselves a calf	The Israelites of the earlier generation had asked Aaron to make a metal calf so they could worship it. The full meaning of this statement can be made explicit. (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	9	16	bf75			0	You had quickly turned aside out of the path that Yahweh had commanded you	Moses speaks as if obeying God’s commands were walking along a path. See how you translated these words in [Deuteronomy 9:12](../09/12.md). Alternate translation: “You had quickly disobeyed what Yahweh had commanded you”
 DEU	9	17	r2ah			0	General Information:	Moses continues reminding the people of Israel about what happened in the past.
 DEU	9	17	x4n5	figs-synecdoche		0	I broke them before your eyes	Here “your eyes” is a synecdoche for the people of Israel. Alternate translation: “I broke them right in front of you” or “I broke them where you could see them” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	9	18	xf6d			0	lay facedown	“lay with my face on the ground.” This is a way of showing that Yahweh was great and Moses was not.
-DEU	9	18	y3wm	translate-numbers		0	forty days and forty nights	“40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	9	18	xf6d			0	lay facedown	Alternate translation: “lay with my face on the ground.” This is a way of showing that Yahweh was great and Moses was not.
+DEU	9	18	y3wm	translate-numbers		0	forty days and forty nights	Alternate translation: “40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	9	19	li9n			0	General Information:	Moses continues reminding the people of Israel what happened in the past.
 DEU	9	19	vv3j			0	I was afraid of the anger and hot displeasure with which Yahweh was angry enough against you to destroy you	The words “anger and hot displeasure” are a metonym for what Yahweh would do because he was angry and displeased. Alternate translation: “Yahweh was angry at you—he was extremely displeased with you—he was angry enough to destroy you, and so I was afraid of what he would do”
 DEU	9	21	n7ea			0	General Information:	Moses continues reminding the people of Israel about what happened in the past.
@@ -674,10 +674,10 @@ DEU	9	22	n8jq	translate-names		0	Taberah … Massah … Kibroth Hattaavah	These 
 DEU	9	23	xz23			0	Go up	They were on low land, and the land Yahweh had told them to take was in the hills, so they had to go uphill to get to it.
 DEU	9	23	dxq9	figs-metonymy		0	rebelled against the commandment	The word “commandment” is a metonym for Yahweh himself. Alternate translation: “rebelled against Yahweh; you did not obey the commandment” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	9	23	bfb9	figs-metonymy		0	listen to his voice	Here “his voice” means what God had said. Alternate translation: “obey what he said” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	9	24	r243			0	from the day that I knew you	“from the time I began to lead you.” Some translations read “from the day that he knew you,” the day that Yahweh first knew them.
+DEU	9	24	r243			0	from the day that I knew you	Alternate translation: “from the time I began to lead you.” Some translations read “from the day that he knew you,” the day that Yahweh first knew them.
 DEU	9	25	fq4v			0	General Information:	Moses continues reminding the people of Israel about what happened in the past.
-DEU	9	25	tka1			0	lay facedown before Yahweh	“lay with my face on the ground.” See how you translated this in [Deuteronomy 9:18](../09/18.md).
-DEU	9	25	j7rs	translate-numbers		0	forty days and forty nights	“40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	9	25	tka1			0	lay facedown before Yahweh	Alternate translation: “lay with my face on the ground.” See how you translated this in [Deuteronomy 9:18](../09/18.md).
+DEU	9	25	j7rs	translate-numbers		0	forty days and forty nights	Alternate translation: “40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	9	26	ki6v	figs-metaphor		0	you have redeemed	Moses speaks as if Yahweh had rescued the Israelites by paying money to free them from slavery. Alternate translation: “you have rescued” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	9	26	mct6	figs-metonymy		0	through your greatness	The word “greatness” is a metonym for Yahweh’s great power. Alternate translation: “through your great power” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	9	26	ifw2	figs-metaphor		0	with a mighty hand	Here “a mighty hand” refers to Yahweh’s power. See how you translated similar words in [Deuteronomy 4:34](../04/34.md). Alternate translation: “with your mighty power” (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -717,8 +717,8 @@ DEU	10	9	v39n			0	Yahweh is his inheritance	Yahweh speaks of the special relatio
 DEU	10	9	knv8	figs-you		0	Yahweh your God	Moses speaks to the Israelites as if they were one man, so the word “your” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	10	9	z9a9			0	spoke to him	Alternate translation: “spoke to the tribe of Levi”
 DEU	10	10	hja2			0	General Information:	Moses resumes reminding the people of Israel about what happened in the past.
-DEU	10	10	c3iz	translate-ordinal		0	as at the first time	“first” is the ordinal number for one. Here it refers to the first time Moses went up Mount Sinai to receive the stone tablets from Yahweh. “as I did the first time” (See: [[rc://en/ta/man/translate/translate-ordinal]])
-DEU	10	10	kq11	translate-numbers		0	forty days and forty nights	“40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	10	10	c3iz	translate-ordinal		0	as at the first time	Alternate translation: “first” is the ordinal number for one. Here it refers to the first time Moses went up Mount Sinai to receive the stone tablets from Yahweh. “as I did the first time” (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DEU	10	10	kq11	translate-numbers		0	forty days and forty nights	Alternate translation: “40 days and 40 nights” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	10	10	n2kd	figs-you		0	destroy you	Moses speaks to the Israelites as if they were one man, so the word “you” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	10	11	ydj2			0	possess the land	Alternate translation: “take the land” or “take possession of the land”
 DEU	10	11	yxy1			0	their ancestors	This refers to Abraham, Isaac, and Jacob.
@@ -752,7 +752,7 @@ DEU	10	21	d1ih	figs-synecdoche		0	which your eyes have seen	Here “eyes” refe
 DEU	10	21	ltw9			0	He is your praise	This could mean: (1) “He is the one you must praise” or (2) “It is because you worship him that other peoples will praise you”
 DEU	10	22	es8i	figs-you		0	General Information:	Moses continues to speak to the people of Israel as if they are one man, so “you” and “your” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	10	22	p41a			0	went down into Egypt	Alternate translation: “traveled south to Egypt” or “went to Egypt”
-DEU	10	22	ap9n	translate-numbers		0	seventy persons	“70 persons” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	10	22	ap9n	translate-numbers		0	seventy persons	Alternate translation: “70 persons” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	10	22	hh5t	figs-simile		0	as many as the stars of the heavens	This emphasizes the large number of Israelites that were with Moses. Alternate translation: “more than you can count” (See: [[rc://en/ta/man/translate/figs-simile]])
 DEU	11	intro	ifg3			0		# Deuteronomy 11 General Notes<br>## Structure and formatting<br><br>### Therefore<br>This chapter begins with the word “therefore,” which looks back to the instructions Moses gave in the previous two chapters.<br><br>## Special concepts in this chapter<br><br>### Eyewitnesses<br>The instruction that Moses gives and the retelling of the great things Yahweh has done for Israel are very important. This is because the generation entering into the Promised Land did not witness many of these events. (See: [[rc://en/tw/dict/bible/kt/testimony]])<br><br>### Covenant<br>This chapter is included in the covenant God made with Moses, even though it is not explicitly said. (See: [[rc://en/tw/dict/bible/kt/covenant]] and [[rc://en/ta/man/translate/figs-explicit]])
 DEU	11	1	sgh5			0	General Information:	Moses continues speaking to the people of Israel.
@@ -799,9 +799,9 @@ DEU	11	17	a2a4	figs-metaphor		0	so that he does not shut up the heavens so that 
 DEU	11	18	q8ih	figs-metaphor		0	lay up these words of mine in your heart and soul	A person always thinking about and considering what Moses commands is spoken of as if the heart and soul were a container and Moses’s words were the content to fill the container. Alternate translation: “be very careful to remember these words that I am saying to you” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	11	18	h8da			0	these words of mine	Alternate translation: “these commands that I have given you”
 DEU	11	18	i4pl	figs-metonymy		0	your heart and soul	Here “heart” and “soul” represent a person’s mind or thoughts. (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	11	18	qb2s	figs-metonymy		0	bind them	“tie these words.” This is a metonym that represents a person writing the words on a parchment, putting the parchment in a pouch, and tying the pouch. This metonymy in turn may be a metaphor meaning the people must be careful to obey Moses’s commands. See how you translated similar phrases in [Deuteronomy 6:8](../06/08.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-metaphor]])
+DEU	11	18	qb2s	figs-metonymy		0	bind them	Alternate translation: “tie these words.” This is a metonym that represents a person writing the words on a parchment, putting the parchment in a pouch, and tying the pouch. This metonymy in turn may be a metaphor meaning the people must be careful to obey Moses’s commands. See how you translated similar phrases in [Deuteronomy 6:8](../06/08.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	11	18	y3rx			0	as a sign on your hand	Alternate translation: “as something to make you remember my laws”
-DEU	11	18	gj3r	figs-metonymy		0	let them be as frontlets between your eyes	“let my words be as frontlets between your eyes.” This is a metonym that represents a person writing Moses’ words on parchement, putting the parchement in a pouch, and tying the pouch so it sits between his eyes. This metonymy in turn may be a metaphor that means the person must be careful to obey all of Moses’ commands. See how you translated similar phrases in [Deuteronomy 6:8](../06/08.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-metaphor]])
+DEU	11	18	gj3r	figs-metonymy		0	let them be as frontlets between your eyes	Alternate translation: “let my words be as frontlets between your eyes.” This is a metonym that represents a person writing Moses’ words on parchement, putting the parchement in a pouch, and tying the pouch so it sits between his eyes. This metonymy in turn may be a metaphor that means the person must be careful to obey all of Moses’ commands. See how you translated similar phrases in [Deuteronomy 6:8](../06/08.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	11	18	d4s2			0	frontlets	ornaments a person wears on the forehead
 DEU	11	19	yv8n	figs-merism		0	when you sit in your house, when you walk on the road, when you lie down, and when you get up	Using the different places “in your house” and “on the road,” and the opposites “when you lie down” and “get up,” represent anywhere, anytime. The people of Israel were to discuss God’s commandments and teach them to their children anytime and anywhere. (See: [[rc://en/ta/man/translate/figs-merism]])
 DEU	11	20	d44d			0	General Information:	Moses continues speaking to the people of Israel.
@@ -834,7 +834,7 @@ DEU	11	29	t5wj	translate-names		0	Mount Gerizim … Mount Ebal	These are names o
 DEU	11	30	k2bv	figs-rquestion		0	Are they not beyond the Jordan … Moreh?	The Israelites are on the eastern side of the Jordan River. Moses uses a question to remind the people where these mountains are located. If your readers would misunderstand this question, you can express it as a statement. Alternate translation: “As you know, they are beyond the Jordan … Moreh.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	11	30	b5qt			0	beyond the Jordan	Alternate translation: “on the west side of the Jordan River”
 DEU	11	30	pgr7			0	west of the western road	Alternate translation: “in the west”
-DEU	11	30	rq9c	translate-names		0	over against Gilgal	“near Gilgal” This may not be the same place as the city near Jericho. Moses may be referring to a place that is near Shechem. (See: [[rc://en/ta/man/translate/translate-names]])
+DEU	11	30	rq9c	translate-names		0	over against Gilgal	Alternate translation: “near Gilgal” This may not be the same place as the city near Jericho. Moses may be referring to a place that is near Shechem. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	11	30	l23v	translate-names		0	oaks of Moreh	These are sacred trees near Gilgal. (See: [[rc://en/ta/man/translate/translate-names]])
 DEU	11	31	ke82			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	11	32	k55e			0	all the statutes and the decrees	These are the statutes and decrees Moses will give in Deuteronomy 12-26.
@@ -855,11 +855,11 @@ DEU	12	4	c44f			0	You will not worship Yahweh your God like that	Alternate trans
 DEU	12	5	h2cm	figs-metonymy		0	the place that Yahweh your God will choose out of all your tribes to put his name	Here “his name” refers to God himself. Yahweh will choose one location where he will live and people will come to worship him there. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	12	5	x9cv			0	it is there that you will go	They will go to worship where God decides.
 DEU	12	6	g357	figs-synecdoche		0	the offerings presented by your hand	Here “hand” represents the whole person. Alternate translation: “the offerings that you present” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	12	6	cdg4			0	your offerings for vows, your freewill offerings	“your offerings to fulfill a vow, your voluntary offerings.” These are types of offerings.
+DEU	12	6	cdg4			0	your offerings for vows, your freewill offerings	Alternate translation: “your offerings to fulfill a vow, your voluntary offerings.” These are types of offerings.
 DEU	12	6	n2pg			0	the firstborn of your herds and flocks	God requires that the people give him every firstborn male of their livestock.
 DEU	12	7	tvl1			0	It is there	This refers to the place that Yahweh will choose for the children of Israel to worship.
 DEU	12	7	a9rd	figs-synecdoche		0	rejoice about everything that you have put your hand to	Here “put your hand to” represents the whole person and work that he has done. Alternate translation: “rejoice about all the work you have done” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	12	8	jea6			0	You will not do all the things that we are doing here today	“You will not do as we are doing here today.” This means that they would worship in the promised land differently than the way they were worshiping at that moment.
+DEU	12	8	jea6			0	You will not do all the things that we are doing here today	Alternate translation: “You will not do as we are doing here today.” This means that they would worship in the promised land differently than the way they were worshiping at that moment.
 DEU	12	8	qri6	figs-metaphor		0	now everyone is doing whatever is right in his own eyes	The eyes represent seeing, and seeing represents thoughts or judgment. Alternate translation: “everyone is doing what he considers to be right” or “now everyone is doing what he judges to be right” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	12	9	b2t6	figs-abstractnouns		0	to the rest	If your language does not use an abstract noun for the idea behind the word **the rest**, you could express the same idea with a verbal form. Alternate translation: “to the land where you will rest” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 DEU	12	9	d8re	figs-metaphor		0	to the inheritance that Yahweh your God is giving you	The land that God is giving to the people of Israel is spoken of as if it were a possession that a father leaves as an inheritance for his children. Alternate translation: “to the land that Yahweh your God is giving to you as a permanent possession” (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -954,7 +954,7 @@ DEU	13	8	rg47	figs-synecdoche		0	you must not permit your eye to pity him	Here �
 DEU	13	8	k3lz			0	you must not spare him or conceal him	Alternate translation: “you must not show him mercy or hide from others what he has done”
 DEU	13	9	akr4	figs-synecdoche		0	your hand will be the first on him to put him to death	This means that he was to throw the first stone at the guilty person. The word “hand” represents the whole person. Alternate translation: “you must be the first to strike him to kill him” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	13	9	vu5l	figs-synecdoche		0	the hand of all the people	Here “hand” represents the whole person. Alternate translation: “the other people will join you” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	13	10	nt8a	figs-metaphor		0	he has tried to draw you away from Yahweh	“to turn you away from Yahweh.” A person trying to cause someone else to stop obeying Yahweh is spoken of as if the person were trying to cause someone to physically turn around and leave Yahweh. Alternate translation: “he has tried to make you disobey Yahweh” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+DEU	13	10	nt8a	figs-metaphor		0	he has tried to draw you away from Yahweh	Alternate translation: “to turn you away from Yahweh.” A person trying to cause someone else to stop obeying Yahweh is spoken of as if the person were trying to cause someone to physically turn around and leave Yahweh. Alternate translation: “he has tried to make you disobey Yahweh” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	13	10	cdm1	figs-metonymy		0	out of the house of bondage	Here “house of bondage” represents Egypt where the people of Yahweh had been slaves. Alternate translation: “out from the place where you were slaves” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	13	11	ns29	figs-explicit		0	All Israel will hear and fear	It is implied that when the people hear about the person who was executed, they will be afraid to act like he did. (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	13	12	j637			0	General Information:	Moses continues speaking to the people of Israel.
@@ -964,7 +964,7 @@ DEU	13	13	wb69	figs-metaphor		0	have drawn away the inhabitants of their city	A 
 DEU	13	14	mc5u	figs-doublet		0	examine the evidence, make search, and investigate it thoroughly	All of these phrases mean basically the same thing. Moses is emphasizing that they must carefully find out what truly happened at the city. (See: [[rc://en/ta/man/translate/figs-doublet]])
 DEU	13	14	jbu3	figs-activepassive		0	that such an abominable thing has been done among you	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “that the people of the city have done such a terrible thing” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	13	15	bq2m	figs-synecdoche		0	with the edge of the sword	Here “edge” represents the whole sword. Alternate translation: “with your swords” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	13	16	nsc2			0	all the spoil	“all the plunder.” This refers to the possessions and treasures that an army collects after winning a battle.
+DEU	13	16	nsc2			0	all the spoil	Alternate translation: “all the plunder.” This refers to the possessions and treasures that an army collects after winning a battle.
 DEU	13	16	cj8w			0	heap of ruins	Alternate translation: “pile of ruins”
 DEU	13	16	t2u6	figs-activepassive		0	it must never be built again	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “no one must ever rebuild the city” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	13	17	qe75	figs-metaphor		0	None of those things set apart for destruction must stick in your hand	Yahweh cursing something and promising to destroy it is spoken of as if Yahweh were setting the object apart from other things. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “You must not keep any of the things God has commanded you to destroy” (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-activepassive]])
@@ -990,7 +990,7 @@ DEU	14	5	gg4e			0	the gazelle	This is wild animal with long thin legs that can r
 DEU	14	5	jxa4	translate-unknown		0	the roebuck	a type of deer (See: [[rc://en/ta/man/translate/translate-unknown]])
 DEU	14	5	nud7			0	ibex, and the antelope	Both of these are types of antelope. If your language does not have a word for each animal it can be translated as “all kinds of antelope.”
 DEU	14	5	byk8	translate-unknown		0	ibex	a type of antelope (See: [[rc://en/ta/man/translate/translate-unknown]])
-DEU	14	6	tr2g			0	that parts the hoof	“that have split hooves.” This is a hoof that is split into two parts instead of being one whole.
+DEU	14	6	tr2g			0	that parts the hoof	Alternate translation: “that have split hooves.” This is a hoof that is split into two parts instead of being one whole.
 DEU	14	6	wwj1			0	chews the cud	This means the animal brings its food up from its stomach and chews it again.
 DEU	14	7	t8p3	translate-unknown		0	rabbit	This is a small animal with long ears that usually lives in holes in the ground. (See: [[rc://en/ta/man/translate/translate-unknown]])
 DEU	14	7	t6es	translate-unknown		0	rock badger	This is a small animal that lives in rocky places. (See: [[rc://en/ta/man/translate/translate-unknown]])
@@ -1034,7 +1034,7 @@ DEU	14	29	v7bc			0	widow	This is a woman whose husband has died and has no child
 DEU	14	29	zfp5	figs-synecdoche		0	in all the work of your hand that you do	Here “hand” represents the whole person. This refers to the work that someone does. Alternate translation: “in all the work you do” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	15	intro	n3mh			0		# Deuteronomy 15 General Notes<br>## Special concepts in this chapter<br><br>### Forgiveness of Debt<br>This chapter gives instructions about the necessity to regularly forgive debt among their fellow countryman. This prevented people from being trapped by their poverty.<br><br>### Justice<br>As Yahweh’s chosen nation, there must be justice in Israel. This chapter gives commands that encouraged justice by protecting the poor, servants and slaves. (See: [[rc://en/tw/dict/bible/kt/elect]] and [[rc://en/tw/dict/bible/kt/justice]])
 DEU	15	1	s315			0	General Information:	Moses continues speaking to the people of Israel.
-DEU	15	1	my7z	translate-numbers		0	seven years	“7 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	15	1	my7z	translate-numbers		0	seven years	Alternate translation: “7 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	15	1	ym2l			0	you must cancel debts	Alternate translation: “forgive every thing which people still owe you”
 DEU	15	2	u4xx			0	This is the manner of the release	Alternate translation: “This is how to cancel the debts”
 DEU	15	2	wti8			0	creditor	a person who lends money to other people
@@ -1072,8 +1072,8 @@ DEU	15	11	v4zq	figs-doublet		0	your brother, to your needy, and to your poor	The
 DEU	15	12	g1va			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	15	12	s6rs	figs-gendernotations		0	If your brother	Here “brother” means an Israelite in general, whether a male or female. Alternate translation: “If a fellow Israelite” or “If a fellow Hebrew” (See: [[rc://en/ta/man/translate/figs-gendernotations]])
 DEU	15	12	s9n7	figs-activepassive		0	is sold to you	If a person could not repay their debts, they sometimes sold themselves into slavery to pay what they owed. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “sell themselves to you” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-DEU	15	12	xs42	translate-numbers		0	six years	“6 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
-DEU	15	12	m72h	translate-ordinal		0	seventh year	“year 7.” This “seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DEU	15	12	xs42	translate-numbers		0	six years	Alternate translation: “6 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	15	12	m72h	translate-ordinal		0	seventh year	Alternate translation: “year 7.” This “seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
 DEU	15	13	f4yl	figs-metaphor		0	you must not let him go empty-handed	A person who has no possessions to provide for himself or his family is spoken of as if his hands were empty. Alternate translation: “you must not let him leave without having anything to provide for himself and his family” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	15	14	t5ik			0	liberally provide for him	Alternate translation: “generously give to him”
 DEU	15	15	hx9p	figs-you		0	remember that you were a slave	Here “you” includes their ancestors that were slaves for many years. Alternate translation: “remember that your people were once slaves” (See: [[rc://en/ta/man/translate/figs-you]])
@@ -1095,14 +1095,14 @@ DEU	15	22	qx8i	figs-synecdoche		0	within your gates	Here “gates” represents 
 DEU	15	22	rqw8	figs-metaphor		0	the unclean … persons	A person who is not acceptable for God’s purposes is spoken of as if the person were physically unclean. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	15	22	b1cn	figs-metaphor		0	the clean persons	A person who is acceptable for God’s purposes is spoken of as if the person were physically clean. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	15	22	lxt5			0	a gazelle or a deer	These are wild animals with long thin legs that can run quickly. See how you translated these in [Deuteronomy 12:15](../12/15.md).
-DEU	15	23	bw7p			0	you must not eat its blood	“you must not consume its blood.” Yahweh did not allow Israelites to consume blood because the blood represented life ([Deuteronomy 12:23](../12/23.md)).
+DEU	15	23	bw7p			0	you must not eat its blood	Alternate translation: “you must not consume its blood.” Yahweh did not allow Israelites to consume blood because the blood represented life ([Deuteronomy 12:23](../12/23.md)).
 DEU	16	intro	fgs7			0		# Deuteronomy 16 General Notes<br>## Special concepts in this chapter<br><br>### Festivals<br><br>This chapter retells the specific commands about how to celebrate the Passover. This recalled the Passover in Egypt, which was an important event in the formation of the nation of Israel. There are several other important festivals described in this chapter. (See: [[rc://en/tw/dict/bible/kt/passover]])<br><br>### Life in Israel<br><br>As Yahweh’s chosen nation, there must be justice in Israel. Also, Yahweh must be the only God in Israel. He alone is to be worshiped. (See: [[rc://en/tw/dict/bible/kt/elect]] and [[rc://en/tw/dict/bible/kt/justice]])
 DEU	16	1	v2as			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	16	1	q8mq	translate-hebrewmonths		0	month of Aviv	This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is during the last part of March and the first part April on Western calendars. (See: [[rc://en/ta/man/translate/translate-hebrewmonths]] and [[rc://en/ta/man/translate/translate-names]])
 DEU	16	1	l33g	figs-explicit		0	keep the Passover	It is implied by “keep the Passover” that they would celebrate and eat the Passover meal. Alternate translation: “celebrate the Passover meal” or “eat the Passover meal” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	16	2	f3xc	figs-metonymy		0	You will sacrifice the Passover	Here “Passover” represents the animal that is sacrificed for the Passover celebration. Alternate translation: For the Passover you will offer a sacrifice” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	16	3	fgj8			0	with it	Here “it” refers to the animal they will sacrifice and eat.
-DEU	16	3	du99	translate-numbers		0	seven days	“7 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	16	3	du99	translate-numbers		0	seven days	Alternate translation: “7 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	16	3	m6rj	figs-explicit		0	the bread of affliction	This was the name of the unleavened bread. The full meaning can be stated explicitly. Alternate translation: “this bread will remind you of how much you suffered while in Egypt” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	16	3	df5u	figs-explicit		0	out of the land of Egypt in haste	The people had to leave Egypt so quickly that they did not have enough time to make bread with yeast in it. The full meaning of this statement can be made explicit. Alternate translation: “out of the land of Egypt in such hurry you did not have time to make bread with yeast in it” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	16	3	zi9r			0	Do this all the days of your life	Alternate translation: “Do this as long as you live”
@@ -1114,15 +1114,15 @@ DEU	16	5	s93m	figs-metonymy		0	You may not sacrifice the Passover	Here “Passov
 DEU	16	5	x2av	figs-synecdoche		0	within any of your city gates	Here “gates” represents the cities or towns. Alternate translation: “within any of your towns” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	16	6	u7ep			0	at the going down of the sun	Alternate translation: “at sunset”
 DEU	16	7	f6n3			0	You must roast it	Alternate translation: “You must cook it”
-DEU	16	8	pjy1	translate-numbers		0	six days	“6 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
-DEU	16	8	sj92	translate-ordinal		0	seventh day	“seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DEU	16	8	pjy1	translate-numbers		0	six days	Alternate translation: “6 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	16	8	sj92	translate-ordinal		0	seventh day	Alternate translation: “seventh” is the ordinal number for seven. (See: [[rc://en/ta/man/translate/translate-ordinal]])
 DEU	16	8	xq7m			0	solemn assembly	Alternate translation: “special gathering”
 DEU	16	9	mq43			0	General Information:	Moses continues speaking to the people of Israel.
-DEU	16	9	y8w1	translate-numbers		0	count seven weeks	“count 7 weeks” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	16	9	y8w1	translate-numbers		0	count seven weeks	Alternate translation: “count 7 weeks” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	16	9	bxy9	figs-idiom		0	from the time you begin to put the sickle to the standing grain	The phrase “put the sickle to the standing grain” is a way of referring to the beginning of harvest time. Alternate translation: “from the time that you begin harvesting the grain” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	16	9	w3cl	translate-unknown		0	sickle	a tool with a curved blade used for cutting grass, grain, and vines (See: [[rc://en/ta/man/translate/translate-unknown]])
 DEU	16	10	pjc9	figs-synecdoche		0	with the contribution of a freewill offering from your hand that you will give	Here “hand” represents the whole person. Alternate translation: “and you will give your free will offering” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-DEU	16	10	n1v1			0	according as Yahweh your God has blessed you	“according to the harvest which Yahweh your God has given you” This means that the people will base how much they offer on how much they harvested that year.
+DEU	16	10	n1v1			0	according as Yahweh your God has blessed you	Alternate translation: “according to the harvest which Yahweh your God has given you” This means that the people will base how much they offer on how much they harvested that year.
 DEU	16	11	vju9	figs-genericnoun		0	your son, your daughter, your male servant, your female servant, the Levite	These do not refer to a specific person. It means these types of people in general. Alternate translation: “your sons, your daughters, your male servants, your females servants, any Levite” (See: [[rc://en/ta/man/translate/figs-genericnoun]])
 DEU	16	11	h2jm	figs-synecdoche		0	within your city gates	Here “gates” represents cities or towns. Alternate translation: “within your towns” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	16	11	g2r8	figs-genericnoun		0	the foreigner, the fatherless, and the widow	This refers to these types of people in general. Alternate translation: “all foreigners, orphans, and widows” (See: [[rc://en/ta/man/translate/figs-genericnoun]])
@@ -1130,13 +1130,13 @@ DEU	16	11	kg4w			0	fatherless	These are children whose parents have both died an
 DEU	16	11	i5b3			0	widow	This means a woman whose husband has died and has no children to care for her in her old age.
 DEU	16	12	ku33	figs-idiom		0	call to mind	This is an idiom. Alternate translation: “remember” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	16	13	fy5u			0	Festival of Shelters	Other names for this festival are “Feast of Tabernacles,” “Festival of Booths,” and “Feast of the Ingathering.” During harvest time, farmers would set up temporary shelters in the field. This festival took place after the last harvest of the year.
-DEU	16	13	s5xw	translate-numbers		0	seven days	“7 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	16	13	s5xw	translate-numbers		0	seven days	Alternate translation: “7 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	16	14	uv5f	figs-synecdoche		0	within your gates	Here the word “gates” represents cities or towns. Alternate translation: “within your towns” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	16	15	ec92			0	the festival	Alternate translation: “the Festival of Shelters”
 DEU	16	15	c3hy	figs-synecdoche		0	all the work of your hands	Here “hands” represents the whole person. Alternate translation: “all the work you do” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	16	16	g2xh			0	all your males must appear before Yahweh	Females were allowed, but Yahweh did not require that they come. The men could represent their whole families.
 DEU	16	16	cxc2			0	must appear before Yahweh	Alternate translation: “must come and stand in the presence of Yahweh”
-DEU	16	16	pku8	figs-litotes		0	No one will appear before Yahweh empty-handed	“They will not come before Yahweh without an offering” These two negative phrases together have a positive meaning. Alternate translation: “Every person who comes before Yahweh must bring an offering” (See: [[rc://en/ta/man/translate/figs-litotes]])
+DEU	16	16	pku8	figs-litotes		0	No one will appear before Yahweh empty-handed	Alternate translation: “They will not come before Yahweh without an offering” These two negative phrases together have a positive meaning. Alternate translation: “Every person who comes before Yahweh must bring an offering” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	16	18	g2as			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	16	18	dc3d			0	You must make judges	Alternate translation: “You must appoint judges” or “You must choose judges”
 DEU	16	18	vxu2	figs-synecdoche		0	within all your city gates	Here “gates” represents a city or town. Alternate translation: “within all your towns” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
@@ -1155,7 +1155,7 @@ DEU	16	22	mw2w	figs-distinguish		0	any sacred stone pillar, which Yahweh your Go
 DEU	16	22	s7sn			0	sacred stone pillar	This refers to pillars that are idols used to worship false gods.
 DEU	17	intro	a3z4			0		# Deuteronomy 17 General Notes<br>## Special concepts in this chapter<br><br>### Witnesses<br>In the ancient Near East, it was common for a person to be punished by the testimony of a single person, especially if this was an important person. The rules in this chapter give protection to people, especially the poor by requiring multiple witnesses. This allowed justice to be done. (See: [[rc://en/tw/dict/bible/kt/testimony]] and [[rc://en/tw/dict/bible/kt/justice]])<br><br>### King<br>Israel was not to have a king because Yahweh was their king. Knowing the sinfulness of the people, Yahweh anticipated that one day Israel would have a king. Therefore, this passage gives commands about their king prophetically. They were not allowed to collect chariots because they were a sign of earthly power and the king was to trust in Yahweh. (See: [[rc://en/tw/dict/bible/kt/prophet]], [[rc://en/tw/dict/bible/kt/sign]] and [[rc://en/tw/dict/bible/kt/trust]] and [[rc://en/ta/man/translate/figs-explicit]])
 DEU	17	1	a78k			0	General Information:	Moses is still speaking to the people of Israel.
-DEU	17	1	d6zp			0	in which is any blemish	“that has a blemish” or “that has something wrong with it.” The animal is to appear healthy without any deformity.
+DEU	17	1	d6zp			0	in which is any blemish	Alternate translation: “that has a blemish” or “that has something wrong with it.” The animal is to appear healthy without any deformity.
 DEU	17	1	y292			0	that would be an abomination to Yahweh	Alternate translation: “that would be disgusting to Yahweh”
 DEU	17	2	ljz8	figs-activepassive		0	If there is found	This may be stated in active form. Alternate translation: “If you find someone” or “If there is anyone” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	17	2	liy9	figs-synecdoche		0	within any of your city gates	Here “city gates” represents cities or towns. Alternate translation: “living in one of your cities” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
@@ -1232,14 +1232,14 @@ DEU	18	18	d8wb			0	from among their brothers	Alternate translation: “from amon
 DEU	18	18	p717	figs-metaphor		0	I will put my words in his mouth	Yahweh telling the prophet what to say is spoken of as if Yahweh would put words in the prophet’s mouth. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	18	18	xl1v			0	speak to them	Alternate translation: “speak to the people of Israel”
 DEU	18	19	pt28	figs-metonymy		0	does not listen to the words of mine that he speaks in my name	Here “my name” represents Yahweh and his authority. Alternate translation: “does not listen to him when he speaks my message” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	18	19	n8mr			0	require it of him	“I will hold him responsible” or “I will punish him.” Here “him” refers to the person who does not listen to the prophet.
+DEU	18	19	n8mr			0	require it of him	Alternate translation: “I will hold him responsible” or “I will punish him.” Here “him” refers to the person who does not listen to the prophet.
 DEU	18	20	y6dm			0	General Information:	Yahweh continues speaking.
 DEU	18	20	pl2e			0	who speaks a word arrogantly	Alternate translation: “who dares to speak a message” or “who is arrogant enough to speak a message”
 DEU	18	20	ip16	figs-metonymy		0	in my name	Here “my name” refers to Yahweh himself and his authority. Alternate translation: “for me” or “with my authority” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	18	20	x88t			0	a word	Alternate translation: “a message”
 DEU	18	20	f7vu	figs-metonymy		0	who speaks in the name of other gods	Here “name” represents the gods themselves or their authority. This means the prophet claims that false gods told him to speak a certain message. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	18	21	ryk5	figs-metonymy		0	This is what you must say in your heart	Here “heart” represents the thoughts of a person. Alternate translation: “You ask yourself” or “You must say to yourself” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	18	21	gbx1			0	How will we recognize a message that Yahweh has not spoken?	“How will we know if the message that the prophet speaks is from Yahweh?” Here “we” refers to the people of Israel.
+DEU	18	21	gbx1			0	How will we recognize a message that Yahweh has not spoken?	Alternate translation: “How will we know if the message that the prophet speaks is from Yahweh?” Here “we” refers to the people of Israel.
 DEU	18	22	law3			0	General Information:	Yahweh continues speaking.
 DEU	18	22	kzp4	figs-metonymy		0	a prophet speaks in the name of Yahweh	Here “name of Yahweh” refers to Yahweh himself and his authority. Alternate translation: “a prophet claims to speak for me” or “a prophet claims to speak with my authority” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	18	22	ys2k			0	the prophet has spoken it arrogantly	Alternate translation: “the prophet has spoken this message without my authority”
@@ -1249,7 +1249,7 @@ DEU	19	1	av28	figs-metaphor		0	When Yahweh your God cuts off the nations	Yahweh 
 DEU	19	1	jh1z	figs-metonymy		0	the nations	This represents the people groups that live in Canaan. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	19	1	y55w			0	those whose land Yahweh your God is giving you	Alternate translation: “those nations who were living in the land that Yahweh your God is giving you”
 DEU	19	1	kl51			0	come after them	Alternate translation: “take the land from those nations” or “possess the land after those nations are gone”
-DEU	19	2	l8je	translate-numbers		0	select three cities	“choose 3 cities” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	19	2	l8je	translate-numbers		0	select three cities	Alternate translation: “choose 3 cities” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	19	3	ty5v	figs-explicit		0	You must build a road	They were to build roads so that it would be easy for people to travel to these cities. (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	19	3	g91q	figs-explicit		0	divide the borders of your land into three parts	It is implied that one of the cities they choose must be in each part of the land. (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	19	3	psa1	figs-metaphor		0	the land that Yahweh your God is causing you to inherit	Yahweh giving the land to the people of Israel is spoken of as if the people are inheriting the land. (See: [[rc://en/ta/man/translate/figs-metaphor]])
@@ -1257,7 +1257,7 @@ DEU	19	4	inz6			0	This is the instruction	Alternate translation: “These are th
 DEU	19	4	v7rc	figs-ellipsis		0	concerning the one who kills another	The word “person” is understood. Alternate translation: “for a person who kills another person” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 DEU	19	4	cez8			0	and flees from there	Alternate translation: “and who escapes to one of these cities” or “who runs to one of these cities”
 DEU	19	4	k7eb			0	the one who unintentionally kills his neighbor	Here “neighbor” means any person in general. Alternate translation: “any person who kills another person by accident”
-DEU	19	4	uvu6	figs-explicit		0	without hating him at the time of the accident	“but did not hate his neighbor before he killed him.” This implies there was no cause for him to kill his neighbor purposely. (See: [[rc://en/ta/man/translate/figs-explicit]])
+DEU	19	4	uvu6	figs-explicit		0	without hating him at the time of the accident	Alternate translation: “but did not hate his neighbor before he killed him.” This implies there was no cause for him to kill his neighbor purposely. (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	19	5	qb1k	figs-hypo		0	For example, if a man goes into the forest … to cut wood	The author gives a hypothetical situation where a person accidentally kills another person. (See: [[rc://en/ta/man/translate/figs-hypo]])
 DEU	19	5	i3cb			0	the ax head slips off of the handle	The iron part of the ax comes off the wooden handle.
 DEU	19	5	wkv1			0	strikes his neighbor and kills him	This means the head of the ax hits and kills the neighbor.
@@ -1274,7 +1274,7 @@ DEU	19	8	d84s			0	as he has sworn to your ancestors to do	Alternate translation:
 DEU	19	9	a3eh			0	if you keep all these commandments to do them	Alternate translation: “if you obey all these commandments”
 DEU	19	9	jg6e	figs-metaphor		0	to always walk in his ways	How God wants a person to live or behave is spoken of as if it were Yahweh’s way or road. A person who obeys Yahweh is spoken of as if he were walking on Yahweh’s way or road. Alternate translation: “to always obey him” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	19	9	yw53	translate-numbers		0	then you must add three more cities for yourself	The full meaning of this statement can be made explicit. Alternate translation: “then you must choose three more cities for a person to escape to if he accidentally kills someone” (See: [[rc://en/ta/man/translate/translate-numbers]] and [[rc://en/ta/man/translate/figs-explicit]])
-DEU	19	9	v9ky	translate-numbers		0	besides these three	“in addition to the three cities you already established” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	19	9	v9ky	translate-numbers		0	besides these three	Alternate translation: “in addition to the three cities you already established” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	19	10	pz9n	figs-activepassive		0	Do this so that innocent blood is not shed	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Do this so that family members do not kill an innocent person” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	19	10	nw4x	figs-metonymy		0	innocent blood is not shed	Here “blood” represents a person’s life. To shed blood means to kill a person. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “no one kills an innocent person” (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	19	10	g3td			0	in the midst of the land	Alternate translation: “in the land” or “in the territory”
@@ -1359,7 +1359,7 @@ DEU	20	14	yev9			0	booty	These are the valuable things which people who win a ba
 DEU	20	15	yvw9	figs-metonymy		0	all the cities	Here “cities” represents the people. Alternate translation: “all the people who live in cities” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	20	16	n8lj			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	20	16	wi9a	figs-metaphor		0	In the cities of these peoples that Yahweh your God is giving you as an inheritance	The cities in Canaan that Yahweh is giving to the people is spoken of as if the cities were the people’s inheritance. (See: [[rc://en/ta/man/translate/figs-metaphor]])
-DEU	20	16	ql5j	figs-litotes		0	you must save alive nothing that breathes	“you must not let any living thing stay alive.” This can be stated in positive form. Alternate translation: “you must kill every living thing” (See: [[rc://en/ta/man/translate/figs-litotes]])
+DEU	20	16	ql5j	figs-litotes		0	you must save alive nothing that breathes	Alternate translation: “you must not let any living thing stay alive.” This can be stated in positive form. Alternate translation: “you must kill every living thing” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	20	17	v49s			0	you must completely destroy them	Alternate translation: “you must completely destroy these people groups”
 DEU	20	18	kl2b			0	Do this so that they	Alternate translation: “Destroy these nations so that they”
 DEU	20	18	ya8k			0	to act in any of their abominable ways … their gods	Alternate translation: “to act in abominable ways like the people in these nations have done with their gods”
@@ -1488,7 +1488,7 @@ DEU	22	17	bhe3	figs-abstractnouns		0	But here is the proof of my daughter’s vi
 DEU	22	17	sdd9	figs-explicit		0	Then they will spread the garment out before the elders of the city	The full meaning of this statement can be made explicit. Alternate translation: “And then the mother and father will show the clothing with the bloodstain to the elders as proof that she was a virgin” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	22	18	q13n			0	General Information:	Moses continues speaking to the people of Israel.
 DEU	22	19	c6dg			0	they must fine him	Alternate translation: “they must make him pay as a punishment”
-DEU	22	19	j3h6	translate-bmoney		0	one hundred shekels	“100 shekels” (See: [[rc://en/ta/man/translate/translate-bmoney]] and [[rc://en/ta/man/translate/translate-numbers]])
+DEU	22	19	j3h6	translate-bmoney		0	one hundred shekels	Alternate translation: “100 shekels” (See: [[rc://en/ta/man/translate/translate-bmoney]] and [[rc://en/ta/man/translate/translate-numbers]])
 DEU	22	19	njg8			0	give them to the father of the girl	Alternate translation: “give the money to the father of the girl”
 DEU	22	19	q46p	figs-abstractnouns		0	has caused a bad reputation for a virgin of Israel	If your language does not use an abstract noun for the idea behind the word **reputation**, you could express the same idea with a verbal form. Alternate translation: “has caused people to think that a virgin of Israel is a bad person” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 DEU	22	19	w6zh			0	he may not send her away	Alternate translation: “never allow him to divorce her”
@@ -1669,7 +1669,7 @@ DEU	25	2	m44y	figs-activepassive		0	If the guilty man deserves to be beaten	If y
 DEU	25	2	b3ki	figs-activepassive		0	be beaten in his presence	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “he will watch them beat him” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	25	2	iku9			0	with the ordered number of blows, as was his crime	Alternate translation: “the number of times he has ordered because of the bad deed he did”
 DEU	25	3	ytf3			0	General Information:	Moses continues speaking to the people of Israel.
-DEU	25	3	e1n2	translate-numbers		0	The judge may give him forty blows	“The judge may say that they should beat the guilty person 40 times” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	25	3	e1n2	translate-numbers		0	The judge may give him forty blows	Alternate translation: “The judge may say that they should beat the guilty person 40 times” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	25	3	p5e2			0	but he may not exceed that number	Alternate translation: “but the judge may not order them to beat him more than 40 times”
 DEU	25	3	n2km			0	for if he should exceed that number and beat him with many more blows	Alternate translation: “because if the judge orders them to beat him many more than 40 times”
 DEU	25	3	l8ju	figs-activepassive		0	then your fellow Israelite would be humiliated before your eyes	This may be stated in active form. Alternate translation: “then the judge would humiliate your fellow Israelite in front of all of the people of Israel” (See: [[rc://en/ta/man/translate/figs-activepassive]])
@@ -1717,7 +1717,7 @@ DEU	25	18	ig25	figs-explicit		0	he did not honor God	The full meaning of this st
 DEU	25	19	gv8d			0	you must blot out the remembrance of Amalek from under heaven	Alternate translation: “you must kill all of the Amalekites so that nobody will remember them anymore”
 DEU	26	intro	t97p			0		# Deuteronomy 26 General Notes<br>## Structure and formatting<br><br>This chapter recalls the great events of Israel’s history when Yahweh brought them out of Egypt.
 DEU	26	1	yl9f	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	26	2	epa3	translate-ordinal		0	some of the first of all the harvest	“some of the first fruits of the harvest” or “some of the first crops of the harvest.” This “first” is the ordinal number for one. (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DEU	26	2	epa3	translate-ordinal		0	some of the first of all the harvest	Alternate translation: “some of the first fruits of the harvest” or “some of the first crops of the harvest.” This “first” is the ordinal number for one. (See: [[rc://en/ta/man/translate/translate-ordinal]])
 DEU	26	3	wq9z	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	26	5	u2nt	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	26	5	tpv8			0	My ancestor was a wandering Aramean	This is the beginning of the statement that the Israelite male should make when bringing his basket.
@@ -1769,7 +1769,7 @@ DEU	27	2	c7s3	figs-explicit		0	plaster them with plaster	Plaster is usually a mi
 DEU	27	3	yd13	figs-idiom		0	a land flowing with milk and honey	This is an idiom. See how you translated this in [Deuteronomy 6:3](../06/03.md). Alternate translation: “a land where plenty of milk and honey flow” or “a land that is excellent for cattle and farming” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	27	4	rjy8	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	27	4	l6gl	figs-you		0	you have passed … set up … I am commanding you	Moses is addressing the Israelites as a group, so the instances of “you” and the command “set up” are plural. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	27	4	gk8x			0	plaster them with plaster	“spread plaster on them” or “make them so you can write on them.” See how you translated this in [Deuteronomy 27:2](../27/02.md).
+DEU	27	4	gk8x			0	plaster them with plaster	Alternate translation: “spread plaster on them” or “make them so you can write on them.” See how you translated this in [Deuteronomy 27:2](../27/02.md).
 DEU	27	4	vvi2			0	Mount Ebal	This is a mountain near Shechem. See how you translated it in [Deuteronomy 11:29](../11/29.md).
 DEU	27	5	ebq3	figs-explicit		0	you must raise no iron tool to work the stones	This refers to the chisels that would make the stones smoother, in order that they might fit together better. The full meaning of this statement can be made explicit. Alternate translation: “you will not shape the altar stones with iron tools” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	27	6	c115	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -1860,7 +1860,7 @@ DEU	28	20	srg3	figs-activepassive		0	until you are destroyed	If your language do
 DEU	28	20	sy2b			0	forsaken me	Here “me” refers to Yahweh.
 DEU	28	21	sup8			0	cling to you	Alternate translation: “remain on you”
 DEU	28	22	tj8c	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	28	22	c1zz			0	infectious diseases, with fever, with inflammation	“diseases and burning fevers that will make you weak.” These all refer to diseases that cause people to grow weak and die.
+DEU	28	22	c1zz			0	infectious diseases, with fever, with inflammation	Alternate translation: “diseases and burning fevers that will make you weak.” These all refer to diseases that cause people to grow weak and die.
 DEU	28	22	su4y			0	with drought	Alternate translation: “with lack of rain”
 DEU	28	22	k5ew			0	mildew	mold that grows on crops and causes them to rot
 DEU	28	22	btm2	figs-personification		0	These will pursue you	Moses speaks of the bad things that would happen to the Israelites as if they were people or animals who would chase after the Israelites. Alternate translation: “You will suffer from them” (See: [[rc://en/ta/man/translate/figs-personification]])
@@ -1879,7 +1879,7 @@ DEU	28	27	wb3q	figs-you		0	General Information:	Moses speaks to the Israelites a
 DEU	28	27	q4ig			0	the boils of Egypt	Alternate translation: “the same skin disease with which I cursed the Egyptians”
 DEU	28	27	gf18			0	boils … ulcers, scurvy, and itch	These are different types of skin diseases.
 DEU	28	27	kvf6	figs-activepassive		0	from which you cannot be healed	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “from which no one will be able to heal you” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-DEU	28	29	we8c	figs-simile		0	You will grope about at noonday like the blind grope in the darkness	“You will be like blind people who grope in darkness even at noonday.” The Israelites will have a difficult life even when everyone else is enjoying life. (See: [[rc://en/ta/man/translate/figs-simile]])
+DEU	28	29	we8c	figs-simile		0	You will grope about at noonday like the blind grope in the darkness	Alternate translation: “You will be like blind people who grope in darkness even at noonday.” The Israelites will have a difficult life even when everyone else is enjoying life. (See: [[rc://en/ta/man/translate/figs-simile]])
 DEU	28	29	z6va			0	you will be always oppressed and robbed	Alternate translation: “stronger people will always oppress and rob you”
 DEU	28	30	zt5j	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	28	31	gh8u	figs-activepassive		0	Your ox will be slain before your eyes	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “You will watch as someone kills your ox” (See: [[rc://en/ta/man/translate/figs-activepassive]])
@@ -1925,10 +1925,10 @@ DEU	28	52	x2h9	figs-synecdoche		0	you in all your city gates	Here the phrase “
 DEU	28	53	vca7	figs-metaphor		0	the fruit of your own body, the flesh of your sons and of your daughters	Here “the flesh of your sons and of your daughters” explains the metaphor “the fruit of your own body.” The people will be so hungry after the enemy army surrounds their city that they will eat their own children. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-parallelism]])
 DEU	28	53	swr5	figs-metaphor		0	the fruit of your own body	This speaks of children as if they were fruit that was produced by the bodies of their parents. Alternate translation: “your own children” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	28	54	z4kd	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	28	54	g9qb			0	who is tender and very delicate among you—he	“who is tender and very delicate among you—even he.” Moses is saying that not only those one would expect to eat their children, but even the last person one would expect to eat his own children will eat his children.
+DEU	28	54	g9qb			0	who is tender and very delicate among you—he	Alternate translation: “who is tender and very delicate among you—even he.” Moses is saying that not only those one would expect to eat their children, but even the last person one would expect to eat his own children will eat his children.
 DEU	28	55	h7kb	figs-synecdoche		0	all your city gates	Here “city gates” represents the cities themselves. Alternate translation: “all your cities” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	28	56	x19d	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
-DEU	28	56	ayv7	figs-you		0	The tender and delicate woman among you … tenderness—she	“The tender and delicate woman among you … tenderness—even she.” Moses is saying that not only those one would expect to eat their children, but even women of noble birth and normally very gentle, whom one would never expect to eat their children, will eat their children. The word “you” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
+DEU	28	56	ayv7	figs-you		0	The tender and delicate woman among you … tenderness—she	Alternate translation: “The tender and delicate woman among you … tenderness—even she.” Moses is saying that not only those one would expect to eat their children, but even women of noble birth and normally very gentle, whom one would never expect to eat their children, will eat their children. The word “you” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	28	56	sw1r	figs-hyperbole		0	who would not venture to put the bottom of her foot on the ground for delicateness and tenderness	Moses is exaggerating. He is emphasizing that this noble woman is so rich and lives in such luxury that she would not allow herself to get dirty. (See: [[rc://en/ta/man/translate/figs-hyperbole]])
 DEU	28	56	u5mz	figs-abstractnouns		0	for delicateness and tenderness	The abstract nouns “delicateness” and “tenderness” can be stated as adjectives. Alternate translation: “because she is so delicate and tender” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 DEU	28	57	lnt8	figs-synecdoche		0	within your city gates	Here “city gates” represents the cities themselves. Alternate translation: “within your cities” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
@@ -1970,7 +1970,7 @@ DEU	29	3	tl81	figs-doublet		0	the signs, and those great wonders	The words “si
 DEU	29	4	mh61	figs-metonymy		0	Yahweh has not given you a heart to know, eyes to see, or ears to hear	The people do have hearts, eyes, and ears. This metonym says that Yahweh has not enabled them to understand from what they saw and heard who Yahweh is, and how and why they should obey him. (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	29	4	u59c	figs-idiom		0	given you a heart to know	This is an idiom. Alternate translation: “enabled you to understand” (See: [[rc://en/ta/man/translate/figs-idiom]])
 DEU	29	5	p5xi			0	I have led you	Yahweh is speaking to the people of Israel.
-DEU	29	5	rbp5	translate-numbers		0	forty years	“40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	29	5	rbp5	translate-numbers		0	forty years	Alternate translation: “40 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	29	5	g59z	figs-you		0	your sandals … your feet	Moses speaks to the Israelites as if they were one man, so the word “your” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	29	6	cv6m			0	other alcoholic drinks	Alcoholic drinks made probably from fermented grains. They were not distilled liquors.
 DEU	29	7	d31m			0	Sihon, the king of Heshbon, and Og, the king of Bashan	See how you translated these names in [Deuteronomy 1:4](../01/04.md).
@@ -2025,7 +2025,7 @@ DEU	30	1	qk91			0	among all the other nations	Alternate translation: “while yo
 DEU	30	1	ug75			0	has driven you	Alternate translation: “has forced you to go”
 DEU	30	2	edl2	figs-metonymy		0	obey his voice	Here “voice” is referring to what Yahweh says. Alternate translation: “obey what he says” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	30	2	s239	figs-metonymy		0	with all your heart and with all your soul	Here “heart” and “soul” are metonyms for a person’s inner being. These two phrases are used together to mean “completely” or “earnestly.” See how you translated these words in [Deuteronomy 4:29](../04/29.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-doublet]])
-DEU	30	3	m7q5	figs-abstractnouns		0	reverse your captivity	“free you from your captivity.” If your language does not use an abstract noun for the idea behind the word **captivity**, you could express the same idea with a verbal clause. Alternate translation: “free you from those who had captured you” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+DEU	30	3	m7q5	figs-abstractnouns		0	reverse your captivity	Alternate translation: “free you from your captivity.” If your language does not use an abstract noun for the idea behind the word **captivity**, you could express the same idea with a verbal clause. Alternate translation: “free you from those who had captured you” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 DEU	30	4	icb7	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	30	4	g129			0	If any of your exiled people are in the farthest places	Alternate translation: “Even those of your exiled people who are in the farthest places”
 DEU	30	4	w6nm			0	under the heavens	Alternate translation: “under the sky” or “on the earth”
@@ -2062,7 +2062,7 @@ DEU	30	20	sbp2			0	to cling to him	Alternate translation: “to rely on him”
 DEU	30	20	x4gp	figs-doublet		0	For he is your life and the length of your days	These phrases have the same meaning and are metonyms for Yahweh, emphasizing that he is the one who gives life and determines the length of people’s lifetimes. Alternate translation: “Yahweh is the only one who can enable you to live a long life” (See: [[rc://en/ta/man/translate/figs-doublet]] and [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	30	20	qi8g	figs-ellipsis		0	swore to your ancestors	The ellipsis can be filled in. Alternate translation: “swore that he would give to your ancestors” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 DEU	31	intro	pki9			0		# Deuteronomy 31 General Notes<br>## Special concepts in this chapter<br><br>### Final instructions<br>In the Ancient Near East, it was common for an important leader to give instructions for his people to follow after his death. In this chapter, Moses begins his final words to the people of Israel. These are words that he wants them to remember long after he is gone. This section also helped to make a smooth transition to Joshua’s leadership.
-DEU	31	2	mb3i	translate-numbers		0	one hundred twenty years old	“120 years old” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	31	2	mb3i	translate-numbers		0	one hundred twenty years old	Alternate translation: “120 years old” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	31	2	bvw8	figs-merism		0	I can no more go out and come in	Here the extremes “go out” and “come in” used together mean that Moses can no longer do what a healthy person can do. Alternate translation: “I am no longer able to go everywhere that you need to go, so I cannot be your leader any longer” (See: [[rc://en/ta/man/translate/figs-merism]])
 DEU	31	3	ep95	figs-you		0	your God … before you … before you … you will dispossess … before you	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	31	3	cll7			0	you will dispossess them	Alternate translation: “you will take their land”
@@ -2075,10 +2075,10 @@ DEU	31	6	i5mi	figs-you		0	Yahweh your God … with you … fail you nor forsake 
 DEU	31	6	b7b9	figs-litotes		0	he will not fail you nor forsake you	This can be treated as litotes and translated positively. Alternate translation: “he will always fulfill his promise to you and will always be with you” (See: [[rc://en/ta/man/translate/figs-litotes]])
 DEU	31	7	s174	figs-you		0	General Information:	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	31	7	r36v	figs-metonymy		0	in the sight of all Israel	This means that all of the people of Israel were present. Alternate translation: “in the presence of all the Israelites” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DEU	31	7	ht4a			0	Be strong and of good courage	“Be strong and courageous.” See how you translated this in [Deuteronomy 31:5](../31/05.md).
+DEU	31	7	ht4a			0	Be strong and of good courage	Alternate translation: “Be strong and courageous.” See how you translated this in [Deuteronomy 31:5](../31/05.md).
 DEU	31	7	t7sv			0	you will cause them to inherit it	Alternate translation: “you will help them take the land”
 DEU	31	9	a6vj			0	gave it out to the priests, the sons of Levi	Alternate translation: “gave it out to the Levites, who are the priests”
-DEU	31	10	ani6	translate-numbers		0	seven years	“7 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	31	10	ani6	translate-numbers		0	seven years	Alternate translation: “7 years” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	31	10	sy4p			0	fixed for the cancellation of debts	Alternate translation: “for canceling debts”
 DEU	31	10	d2me			0	Festival of Shelters	Other names for this festival are “Feast of Tabernacles,” “Festival of Booths,” and “Feast of the Ingathering.” During harvest, farmers would set up temporary shelters in the field. This festival took place after the last harvest of the year. See how you translated this in [Deuteronomy 16:13](../16/13.md).
 DEU	31	11	pt7m	figs-you		0	Yahweh your God … you will read	- Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -2109,7 +2109,7 @@ DEU	31	21	s5je	figs-activepassive		0	it will not be forgotten from the mouths of
 DEU	31	21	fly7	figs-activepassive		0	it will not be forgotten from the mouths of their descendants	The idiom “forget it from the mouth” means to stop speaking about it. Alternate translation: “their descendants will not stop speaking about it to each other” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 DEU	31	21	th4p	figs-metaphor		0	the plans that they are forming	What people plan to do is spoken of as if it were a physical object. Alternate translation: “what they plan to do” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	31	21	y4kp	figs-explicit		0	the land that I promised	God’s promise of the land was to give it to the people of Israel. This can be stated clearly. Alternate translation: “the land that I promised I would give to them” (See: [[rc://en/ta/man/translate/figs-explicit]])
-DEU	31	23	g5sl			0	Be strong and of good courage	“Be strong and courageous.” See how you translated this in [Deuteronomy 31:5](../31/05.md).
+DEU	31	23	g5sl			0	Be strong and of good courage	Alternate translation: “Be strong and courageous.” See how you translated this in [Deuteronomy 31:5](../31/05.md).
 DEU	31	26	f3zd	figs-you		0	witness against you	Moses speaks to the Levites as if they were one man, so the word “you” is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	31	27	q9j8			0	General Information:	Moses continues speaking to the Levites about all the Israelite people.
 DEU	31	27	dc8v	figs-you		0	your rebellion and your stiff neck	Moses speaks to the Levites as if they were one man, so the word “your” is singular. (See: [[rc://en/ta/man/translate/figs-you]])
@@ -2117,8 +2117,8 @@ DEU	31	27	e3am			0	your stiff neck	See how you translated “stubborn” in [Deu
 DEU	31	27	yin7	figs-rquestion		0	how much more after my death?	This rhetorical question emphasizes how rebellious the people were. If your readers would misunderstand this question, you can express it as a statement. Alternate translation: “you will be even more rebellious after I die.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	31	28	ge9z	figs-synecdoche		0	so that I may speak these words in their ears	Here “in their ears” means the people themselves. Alternate translation: “so that I may speak the words of this song to them” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	31	28	rbf8	figs-metonymy		0	call heaven and earth to witness against them	This could mean: (1) Moses is calling on all those who live in heaven and earth to be witnesses to what he says or (2) Moses is speaking to heaven and earth as if they are people, and he is calling them to be witnesses to what he says. A similar phrase appears in [Deuteronomy 30:19](../30/19.md). (See: [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-personification]] and [[rc://en/ta/man/translate/figs-apostrophe]])
-DEU	31	29	h4je			0	you will utterly corrupt yourselves	“you will do what is completely wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
-DEU	31	29	w6b1			0	turn aside out of the path that I have commanded you	“stop following the instructions I have given to you.” See how you translated these words in [Deuteronomy 9:12](../09/12.md).
+DEU	31	29	h4je			0	you will utterly corrupt yourselves	Alternate translation: “you will do what is completely wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
+DEU	31	29	w6b1			0	turn aside out of the path that I have commanded you	Alternate translation: “stop following the instructions I have given to you.” See how you translated these words in [Deuteronomy 9:12](../09/12.md).
 DEU	31	29	yvi1	figs-metaphor		0	what is evil in the sight of Yahweh	The sight of Yahweh represents Yahweh’s judgment or evaluation. Alternate translation: “what is evil in Yahweh’s judgment” or “what Yahweh considers to be evil” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	31	29	i596	figs-synecdoche		0	through the work of your hands	Here “your hands” means the people themselves. Alternate translation: “because of what you have made” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	31	30	upf2	figs-synecdoche		0	Moses recited in the ears of all the assembly of Israel	Here “ears” refers to the whole person. Alternate translation: “Moses recited to all the people of Israel” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
@@ -2140,7 +2140,7 @@ DEU	32	4	vh3k			0	his work	Alternate translation: “everything he does”
 DEU	32	4	xtg1	figs-metaphor		0	all his paths are just	Walking on a path is a metaphor for how a person lives his life. Alternate translation: “he does everything in a just way” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	32	4	j65c	figs-doublet		0	He is just and upright	These two words mean basically the same thing and emphasize that Yahweh is fair and does what is right. (See: [[rc://en/ta/man/translate/figs-doublet]])
 DEU	32	5	ehu3	figs-parallelism		0	General Information:	Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-DEU	32	5	exs2			0	acted corruptly against him	“opposed him by doing what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
+DEU	32	5	exs2			0	acted corruptly against him	Alternate translation: “opposed him by doing what is wrong.” See how you translated these words in [Deuteronomy 4:16](../04/16.md).
 DEU	32	5	k81b	figs-doublet		0	a perverted and crooked generation	The words “perverted” and “crooked” mean basically the same thing. Moses uses them to emphasize how wicked the generation is. Alternate translation: “a completely wicked generation” (See: [[rc://en/ta/man/translate/figs-doublet]])
 DEU	32	6	tfw7	figs-rquestion		0	Do you reward Yahweh in this way … people?	Moses uses a question to scold the people. Alternate translation: “You should give Yahweh proper praise … people.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	32	6	bwz6	figs-doublet		0	you foolish and senseless people	The words “foolish” and “senseless” mean the same thing and emphasize how foolish the people are for disobeying Yahweh. Alternate translation: “you extremely foolish people” (See: [[rc://en/ta/man/translate/figs-doublet]])
@@ -2149,7 +2149,7 @@ DEU	32	6	aeq8	figs-rquestion		0	Is he not your father, the one who has created y
 DEU	32	7	ks26			0	General Information:	Moses speaks a poetic song to the people of Israel.
 DEU	32	7	ki4q	figs-you		0	Call to mind … think about … your father … show you … your elders … tell you	Moses speaks to the Israelites as if they were one man, so the words “you” and “your” here are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	32	7	a5hd	figs-idiom		0	Call to mind	This is an idiom. Alternate translation: “Remember” (See: [[rc://en/ta/man/translate/figs-idiom]])
-DEU	32	7	ksl4			0	days of ancient times	“days of long ago.” Moses refers to the time period when the ancestors of the people of Israel were alive.
+DEU	32	7	ksl4			0	days of ancient times	Alternate translation: “days of long ago.” Moses refers to the time period when the ancestors of the people of Israel were alive.
 DEU	32	7	aba7	figs-parallelism		0	think about the years of many ages past	This is a repetition of what Moses just said in the previous portion. Moses wants the people of Israel to focus on their history as a nation. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 DEU	32	7	p9u5			0	he will show you	Alternate translation: “he will make it clear to you” or “he will enable you to understand it”
 DEU	32	8	q59u	figs-idiom		0	gave the nations their inheritance	This is an idiom. “put the nations in the places where they would live.” Similar words, “giving to you as an inheritance,” appear in [Deuteronomy 4:21](../04/21.md). (See: [[rc://en/ta/man/translate/figs-idiom]])
@@ -2224,8 +2224,8 @@ DEU	32	30	u5ex	figs-parallelism		0	General Information:	Moses speaks a poetic so
 DEU	32	30	qr7h	figs-rquestion		0	How could one chase a thousand … Yahweh had given them up?	Moses uses a question to scold the people for not being wise enough to understand why their enemies are defeating them. If your readers would misunderstand this question, you can express it as a statement as in the UST. (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	32	30	vu9l	translate-numbers		0	How could one chase a thousand, and two put ten thousand to flight	You can make clear the understood information. Alternate translation: “How could 1 enemy soldier chase 1,000 of your men, and 2 enemy soldiers cause 10,000 of your men to run away” (See: [[rc://en/ta/man/translate/translate-numbers]] and [[rc://en/ta/man/translate/figs-ellipsis]])
 DEU	32	30	v82y	figs-metaphor		0	unless their Rock had sold them	The word “Rock” refers to Yahweh who is strong and able to protect his people. Alternate translation: “unless Yahweh, their Rock, had handed them over” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-DEU	32	30	tv28	figs-metaphor		0	their Rock	“The Rock” here is a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate “Rock” as in [Deuteronomy 32:4](../32/04.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
-DEU	32	31	d2ny	figs-metaphor		0	our Rock	“The Rock” here is a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate “Rock” as in [Deuteronomy 32:4](../32/04.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
+DEU	32	30	tv28	figs-metaphor		0	their Rock	Alternate translation: “The Rock” here is a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate “Rock” as in [Deuteronomy 32:4](../32/04.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
+DEU	32	31	d2ny	figs-metaphor		0	our Rock	Alternate translation: “The Rock” here is a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate “Rock” as in [Deuteronomy 32:4](../32/04.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	32	31	r1wx			0	our enemies’ rock is not like our Rock	The enemies’ idols and false gods are not powerful like Yahweh.
 DEU	32	31	lbx7			0	just as even our enemies admit	Alternate translation: “not only do we say so, but our enemies say so also”
 DEU	32	32	a5z3	figs-parallelism		0	General Information:	Moses speaks a poetic song to the people of Israel. He continues to quote Yahweh’s words. (See: [[rc://en/ta/man/translate/figs-parallelism]])
@@ -2249,11 +2249,11 @@ DEU	32	37	y7ls	figs-parallelism		0	General Information:	Moses speaks a poetic so
 DEU	32	38	en77	figs-rquestion		0	The gods who ate the fat of their sacrifices and drank the wine of their drink offerings?	Here Yahweh mocks the people of Israel for offering sacrifices to other gods. If your readers would misunderstand this question, you can express it as a statement. Alternate translation: “The gods to whom the Israelites offered meat and wine have not come to help them.” (See: [[rc://en/ta/man/translate/figs-rquestion]])
 DEU	32	38	vtv4	figs-irony		0	Let them rise up and help you; let them be your protection	Yahweh says this to mock the Israelites. He knows these gods cannot help them. Alternate translation: “These idols are not even able to get up and help or to protect you” (See: [[rc://en/ta/man/translate/figs-irony]])
 DEU	32	39	rkh6	figs-parallelism		0	General Information:	Moses speaks a poetic song to the people of Israel. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-DEU	32	39	kii3			0	I, even I	“I, I myself” or “I, I alone.” Yahweh repeats “I” to emphasize that only he is God.
-DEU	32	40	wwk7			0	I lift up my hand to heaven and say	“I lift up my hand to heaven and swear” or “I have taken an oath.” Lifting up the hand is a sign of making an oath.
-DEU	32	40	la6k			0	As I live forever	“As certainly as I live forever” or “I swear by my life which is never-ending.” This statement assures the people that what God says in [Deuteronomy 32:41](../32/41.md)-[Deuteronomy 32:42](./42.md) will happen.
+DEU	32	39	kii3			0	I, even I	Alternate translation: “I, I myself” or “I, I alone.” Yahweh repeats “I” to emphasize that only he is God.
+DEU	32	40	wwk7			0	I lift up my hand to heaven and say	Alternate translation: “I lift up my hand to heaven and swear” or “I have taken an oath.” Lifting up the hand is a sign of making an oath.
+DEU	32	40	la6k			0	As I live forever	Alternate translation: “As certainly as I live forever” or “I swear by my life which is never-ending.” This statement assures the people that what God says in [Deuteronomy 32:41](../32/41.md)-[Deuteronomy 32:42](./42.md) will happen.
 DEU	32	41	zb2k	figs-parallelism		0	General Information:	Moses speaks a poetic song to the people of Israel. (See: [[rc://en/ta/man/translate/figs-parallelism]])
-DEU	32	41	x382	figs-metonymy		0	When I sharpen my glittering sword	“When I sharpen my shining sword.” This means God is preparing to judge and punish his enemies. Alternate translation: “When I am ready to judge my enemies” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+DEU	32	41	x382	figs-metonymy		0	When I sharpen my glittering sword	Alternate translation: “When I sharpen my shining sword.” This means God is preparing to judge and punish his enemies. Alternate translation: “When I am ready to judge my enemies” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 DEU	32	41	yfw3	figs-synecdoche		0	when my hand begins to bring justice	Here “hand” represents the whole person. Alternate translation: “when I get ready to judge the wicked” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DEU	32	42	p1fx	figs-parallelism		0	General Information:	Moses speaks a poetic song to the people of Israel. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 DEU	32	42	mma7	figs-metaphor		0	I will make my arrows drunk with blood, and my sword will devour flesh with the blood	Yahweh speaks of arrows as if they were people to whom he could give alcohol and make them drunk, and of a sword as if it were a person who was so hungry that he would eat an animal before draining the blood out. These metaphors are metonyms for a soldier using arrows and a sword to kill many enemies. This in turn is a metaphor for Yahweh killing his enemies in war. (See: [[rc://en/ta/man/translate/figs-metaphor]] and [[rc://en/ta/man/translate/figs-metonymy]] and [[rc://en/ta/man/translate/figs-personification]])
@@ -2285,7 +2285,7 @@ DEU	33	intro	y2l8			0		# Deuteronomy 33 General Notes<br>## Structure and format
 DEU	33	1	p6db	figs-parallelism		0	General Information:	Moses begins to bless the tribes of Israel. Moses speaks the blessing in the form of short poems. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 DEU	33	2	b26n	figs-metaphor		0	Yahweh came from Sinai and rose from Seir upon them. He shined out from Mount Paran	Moses compares Yahweh to the rising sun. Alternate translation: “When Yahweh came from Sinai, he looked to them like the sun when it rises from Seir and shines out from Mount Paran” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	33	2	d9h2			0	upon them	Alternate translation: “upon the people of Israel”
-DEU	33	2	d89e	translate-numbers		0	ten thousands of holy ones	“10,000 angels” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	33	2	d89e	translate-numbers		0	ten thousands of holy ones	Alternate translation: “10,000 angels” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	33	2	v2fc			0	In his right hand were flashes of lightning	Other This could mean: (1) “In his right hand were flames of fire” or (2) “He gave them a law of fire” or (3) “He came from the south, down his mountain slopes.”
 DEU	33	3	dj5y	figs-parallelism		0	General Information:	These verses are difficult to understand. Moses continues to bless the tribes of Israel, which he began to do in [Deuteronomy 33:2](../33/02.md). Moses speaks the blessing in the form of short poems. (See: [[rc://en/ta/man/translate/figs-parallelism]])
 DEU	33	3	pjq4			0	the peoples	Alternate translation: “the people of Israel”
@@ -2371,7 +2371,7 @@ DEU	33	24	frq4	figs-explicit		0	dip his foot in olive oil	Olive oil was used for
 DEU	33	25	ht1b	figs-you		0	your city bars … your days … your security	Moses speaks to the tribe of Asher as if they are one man, so all instances of “your” are singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	33	25	eim5	figs-explicit		0	May your city bars be iron and bronze	Cities had large bars across their gates to keep enemies out. The meaning of this statement can be made clear. Alternate translation: “May you be safe from attacks by your enemies” (See: [[rc://en/ta/man/translate/figs-explicit]])
 DEU	33	26	wxb7	figs-metaphor		0	rides through the heavens … on the clouds	This is an image of Yahweh riding on clouds through the sky like a king on his chariot riding through a battlefield. Alternate translation: “rides through the heavens like a king rides through a battlefield … on the clouds like a king on his chariot” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-DEU	33	26	l9qh	figs-you		0	to your help	“to help you.” Moses speaks to the Israelites as if they were one man, so the word “you” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
+DEU	33	26	l9qh	figs-you		0	to your help	Alternate translation: “to help you.” Moses speaks to the Israelites as if they were one man, so the word “you” here is singular. (See: [[rc://en/ta/man/translate/figs-you]])
 DEU	33	27	if2j	figs-abstractnouns		0	The eternal God is a refuge	Here, **refuge** refers to a shelter or a place safe from danger. If your language does not use an abstract noun for the idea behind the word **refuge**, you could express the same idea with a verbal form. Alternate translation: “The eternal God will protect his people” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 DEU	33	27	bk5r	figs-metaphor		0	underneath are the everlasting arms	The words “everlasting arms” are a metaphor for Yahweh’s promise to protect his people forever. Alternate translation: “he will support and take care of his people forever” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	33	27	hrf2	figs-pastforfuture		0	He thrust out … he said	Moses speaks of the future as if it were the past to emphasize that what he is saying will come true. AT “He will thrust out … he will say” (See: [[rc://en/ta/man/translate/figs-pastforfuture]])
@@ -2394,9 +2394,9 @@ DEU	34	3	h1nc	translate-names		0	the City of Palms	This is another name for Jeri
 DEU	34	4	aj1d			0	look at it with your eyes	Alternate translation: “see it for yourself”
 DEU	34	6	z3y1			0	Beth Peor	This was a town in Moab. See how you translated this in [Deuteronomy 3:29](../03/29.md).
 DEU	34	6	i3kg			0	to this day	This refers to the time that this was written or edited, not to the present time in the twenty-first century.
-DEU	34	7	l52x	translate-numbers		0	one hundred twenty years old	“30 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	34	7	l52x	translate-numbers		0	one hundred twenty years old	Alternate translation: “30 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	34	7	gif3			0	his eye was not dim, nor his natural force abated	This means his eyes and body were still strong and healthy.
-DEU	34	8	uz65	translate-numbers		0	thirty days	“30 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
+DEU	34	8	uz65	translate-numbers		0	thirty days	Alternate translation: “30 days” (See: [[rc://en/ta/man/translate/translate-numbers]])
 DEU	34	9	znf5			0	son of Nun	See how you translated this in [Deuteronomy 1:38](../01/38.md).
 DEU	34	9	g774	figs-metaphor		0	Joshua … was full of the spirit of wisdom	The writer speaks as if Joshua were a container and the spirit were a physical object that could be put into a container. Alternate translation: “Yahweh enabled Joshua … to be very wise” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 DEU	34	9	yd83	figs-explicit		0	Moses had laid his hands on him	The full meaning of this statement can be made clear. Alternate translation: “Moses had laid his hands on him to set Joshua apart so Joshua would serve Yahweh” (See: [[rc://en/ta/man/translate/figs-explicit]])
