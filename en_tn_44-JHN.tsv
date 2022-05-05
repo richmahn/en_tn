@@ -2666,9 +2666,10 @@ JHN	21	19	ys3m	writing-background	τοῦτο δὲ εἶπεν σημαίνων
 JHN	21	19	kpf6	figs-pastforfuture	λέγει	1		Here John uses the present tense in past narration in order to call attention to a development in the story. (See: [[rc://en/ta/man/translate/figs-pastforfuture]])
 JHN	21	19	k8z1	figs-idiom	ἀκολούθει μοι	1	Follow me	See how you translated this sentence in [1:43](../01/43.md). (See: [[rc://en/ta/man/translate/figs-idiom]])
 JHN	21	20	eg23	figs-pastforfuture	βλέπει	1	the disciple whom Jesus loved	Here John uses the present tense in past narration in order to call attention to a development in the story. (See: [[rc://en/ta/man/translate/figs-pastforfuture]])
-JHN	21	20	wzm9		τὸν μαθητὴν ὃν ἠγάπα ὁ Ἰησοῦς	1	the disciple whom Jesus loved	John refers to himself in this way throughout the book, rather than mentioning his name.
-JHN	21	20	ikd4		ἠγάπα	1	loved	This is the kind of love that comes from God and always desires the good of others, even when it does not benefit oneself. This kind of love cares for others, no matter what they do.
-JHN	21	20	ys31		ἐν τῷ δείπνῳ	1	at the dinner	This is a reference to the Last Supper ([John 13](../13/01.md)).
+JHN	21	20	wzm9	figs-explicit	τὸν μαθητὴν ὃν ἠγάπα ὁ Ἰησοῦς	1	the disciple whom Jesus loved	This phrase refers to the apostle John who wrote this Gospel. See the discussion of this phrase in Part 1 of the Introduction to the Gospel of John and the General Notes for this chapter. See also how you translated similar phrases in [13:23](../13/23.md), [18:15](../18/15.md), [20:2](../20/02.md), and [21:7](../21/07.md). (See: [[rc://en/ta/man/translate/figs-explicit]])\n
+JHN	21	20	ikd4	writing-pronouns	ἀκολουθοῦντα	1	loved	If your language marks the dual form, then the pronoun **them** here would be in the dual form. (See: [[rc://en/ta/man/translate/writing-pronouns]])\n
+JHN	21	20	ys31	figs-explicit	ἐν τῷ δείπνῳ	1	at the dinner	John here refers to **the dinner** Jesus had with his disciples on the night before he was crucified. If this might confuse your readers, you could say the meaning explicitly. Alternate translation: “at the last dinner they had together before Jesus died” (See: [[rc://en/ta/man/translate/figs-explicit]])
+JHN	21	20	aba3		Κύριε, τίς ἐστιν, ὁ παραδιδούς σε	1		See how you translated the similar sentence in [13:25](../13/25).
 JHN	21	21	u5rr		τοῦτον…ἰδὼν, ὁ Πέτρος	1	Peter saw him	Here, **him** refers to “the disciple whom Jesus loved.”
 JHN	21	21	cf5h	figs-explicit	Κύριε, οὗτος δὲ τί	1	Lord, what will this man do?	Peter wants to know what will happen to John. Alternate translation: “Lord, what will happen to this man?” (See: [[rc://en/ta/man/translate/figs-explicit]])
 JHN	21	22	yc52		λέγει αὐτῷ ὁ Ἰησοῦς	1	Jesus said to him	Alternate translation: “Jesus said to Peter”
