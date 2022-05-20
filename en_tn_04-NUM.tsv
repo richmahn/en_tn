@@ -1167,7 +1167,8 @@ NUM	21	29	r97r			0	people of Chemosh	Alternate translation: “Chemosh” was th
 NUM	21	29	n57w			0	He has made his sons	Alternate translation: “He” and “his” refer to Chemosh.
 NUM	21	30	k6au			0	we have conquered	Here “we” refers to the Israelites who defeated Sihon.
 NUM	21	30	aiy9	figs-activepassive		0	Heshbon is devastated	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “We have devastated Heshbon” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-NUM	21	30	x525	translate-names		0	Heshbon … all the way to Dibon … all the way to Nophah … to Medeba	These are all places in Sihon’s kingdom. This means the Israelites destroyed Sihon’s entire nation. (See: [[rc://en/ta/man/translate/translate-names]] and [[rc://en/ta/man/translate/figs-merism]])
+NUM	21	30	x525	translate-names	אָבַ֥ד חֶשְׁבּ֖וֹן עַד־ דִּיב֑וֹן…עַד־ נֹ֔פַח אֲשֶׁ֖רׄ עַד־ מֵֽידְבָֽא	1	Heshbon has perished as far as Dibon … as far as Nophah, which is as far as Medeba	**Heshbon**, **Dibon**, **Nophah**, and **Medeba** are all places in Sihon’s kingdom. (See: [[rc://en/ta/man/translate/translate-names]])
+NUM	21	30	lwy9	figs-merism	אָבַ֥ד חֶשְׁבּ֖וֹן עַד־ דִּיב֑וֹן…עַד־ נֹ֔פַח אֲשֶׁ֖רׄ עַד־ מֵֽידְבָֽא	1	Heshbon has perished as far as Dibon … as far as Nophah, which is as far as Medeba	These places connected by **as far as** means the Israelites destroyed these places and everywhere in between—Sihon’s entire nation. (See: [[rc://en/ta/man/translate/figs-merism]])
 NUM	21	32	f8n9			0	drove out	Alternate translation: “chased away”
 NUM	21	33	jc4b			0	went out against them	Alternate translation: “attacked them”
 NUM	21	34	wk2t			0	Do to him as you did to Sihon king of the Amorites	The Israelites had completely destroyed Sihon. Alternate translation: “Destroy him like you destroyed Sihon king of the Amorites”
