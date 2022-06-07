@@ -1918,6 +1918,9 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1CO	14	21	up8a		ἐν τῷ νόμῳ	1	In the law it is written,	
 1CO	14	21	f5gp	figs-quotations	γέγραπται, ὅτι ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων, λαλήσω τῷ λαῷ τούτῳ καὶ οὐδ’ οὕτως εἰσακούσονταί μου, λέγει Κύριος	1	In the law it is written,	If you do not use this form in your language, you could translate these statements as indirect quotes instead of as direct quotes. Alternate translation: “it is written that by people of other tongues and by the lips of strangers God will speak to this people, but not even in this way will they hear him. So says the Lord” (See: [[rc://en/ta/man/translate/figs-quotations]])
 1CO	14	21	l9xz	figs-parallelism	ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων	1	By men of strange tongues and by the lips of strangers	(See: [[rc://en/ta/man/translate/figs-parallelism]])
+1CO	14	21	trh3	figs-metonymy	ἑτερογλώσσοις	1	By men of strange tongues and by the lips of strangers	
+1CO	14	21	q6ku	figs-metonymy	χείλεσιν ἑτέρων	1	By men of strange tongues and by the lips of strangers	
+1CO	14	21	s7uu	figs-explicit	τῷ λαῷ τούτῳ	1	By men of strange tongues and by the lips of strangers	
 1CO	14	21	sltb		λέγει Κύριος	1	By men of strange tongues and by the lips of strangers	
 1CO	14	22	bp4j			0	Connecting Statement:	Paul gives specific instructions on an orderly way to use gifts in the church.
 1CO	14	22	qj5f	figs-doublenegatives	οὐ τοῖς πιστεύουσιν, ἀλλὰ τοῖς ἀπίστοις	1	not for unbelievers, but for believers	This can be expressed positively and combined with the other positive statement. Alternate translation: “only for believers” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
