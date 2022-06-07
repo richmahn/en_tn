@@ -1876,7 +1876,8 @@ NUM	35	intro	rg3i			0		# Numbers 35 General Notes<br><br>## Structure and format
 NUM	35	1	z6sc			0	plains	a large area of flat land
 NUM	35	2	ww25			0	give some of their own shares of land to the Levites	Yahweh did not give the Levites their own land, so they had to live in cities that belonged to other tribes.
 NUM	35	2	hlb8			0	pastureland	an area of land where animals feed on grass
-NUM	35	4	fb2e	translate-numbers		0	one thousand cubits	Alternate translation: “1,000 cubits.” If it is necessary to use modern distance units, here is a way of doing it. Alternate translation: “457 meters” (See: [[rc://en/ta/man/translate/translate-numbers]] and [[rc://en/ta/man/translate/translate-bdistance]])
+NUM	35	4	fb2e	translate-numbers	אֶ֥לֶף אַמָּ֖ה	1	1,000 cubits	You can state this number in words. Alternate translation: “one thousand cubits” (See: [[rc://en/ta/man/translate/translate-numbers]])
+NUM	35	4	fzlt	translate-bdistance	אֶ֥לֶף אַמָּ֖ה	1	1,000 cubits	If it is necessary to use modern distance units, here is a way of doing it. Alternate translation: “457 meters” (See: [[rc://en/ta/man/translate/translate-bdistance]])
 NUM	35	5	cr3z	translate-bdistance		0	two thousand cubits	Alternate translation: “2,000 cubits.” A cubit is 46 centimeters. (See: [[rc://en/ta/man/translate/translate-bdistance]] and [[rc://en/ta/man/translate/translate-numbers]])
 NUM	35	6	g8wz			0	a person who has killed someone	This refers to people who have killed someone, but it had not yet been determined whether they killed the person intentionally or accidentally.
 NUM	35	6	q5lc	translate-numbers		0	forty-two	Alternate translation: “42” (See: [[rc://en/ta/man/translate/translate-numbers]])
