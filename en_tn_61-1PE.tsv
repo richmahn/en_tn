@@ -475,11 +475,11 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 1PE	5	9	uk06	figs-activepassive	τὰ αὐτὰ τῶν παθημάτων…ἐπιτελεῖσθαι	1		If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “the same kind of sufferings are occurring” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 1PE	5	9	v451	figs-metaphor	ὑμῶν ἀδελφότητι	1	your brotherhhood	See how you translated **brotherhood** in [2:17](../02/17.md). (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1PE	5	9	i4ur		ἐν τῷ κόσμῳ	1	in the world	Alternate translation: “in various places throughout the world”
-1PE	5	10	eex1			0	General Information:	This is the end of Peter’s letter. Here he gives his final remarks about his letter and his closing greetings.
-1PE	5	10	suu9		ὀλίγον	1	for a little while	Alternate translation: “for a short time”
-1PE	5	10	p648		ὁ…Θεὸς πάσης χάριτος	1	the God of all grace	Here the word **grace** may refer either to the things that **God** gives or to God’s character. This could mean: (1) This refers to the God who always gives us what we need. (2) This refers to the God who is always gracious.
+1PE	5	10	p648	figs-possession	ὁ…Θεὸς πάσης χάριτος	1	the God of all grace	**God of all grace** could mean: (1) God is always gracious. Alternate translation: “the God who gives is always gracious” (2) God always give gracious gifts, as mentioned in [4:10](../04/10.md). Alternate translation: “the God who gives all gracious gifts” (See: [[rc://en/ta/man/translate/figs-possession]])
 1PE	5	10	lwz6		ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν Χριστῷ	1	who has called you to his eternal glory in Christ	Alternate translation: “who has chose you to share his eternal glory in heaven because you are joined to Christ”
-1PE	5	10	qf2h		καταρτίσει	1	will perfect	Alternate translation: “make perfect” or “restore” or “make well again”
+1PE	5	10	wpzj	figs-abstractnouns	εἰς τὴν αἰώνιον αὐτοῦ δόξαν	1	the God of all grace	
+1PE	5	10	ns1v	figs-explicit	ἐν Χριστῷ	1	the God of all grace	
+1PE	5	10	suu9		ὀλίγον	1	for a little while	Alternate translation: “for a short time”
 1PE	5	10	j2nt	figs-metaphor	σθενώσει, θεμελιώσει	1	strengthen, and establish you	These two expressions have similar meanings, that is, that God will enable the believers to trust in him and to obey him regardless of any suffering they may experience. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 1PE	5	12	an6q		διὰ Σιλουανοῦ, ὑμῖν…δι’ ὀλίγων ἔγραψα	1	Through Silvanus … I wrote to you briefly	Silvanus wrote the words that Peter told him to write in the letter.
 1PE	5	12	g1t6	figs-metonymy	ταύτην εἶναι ἀληθῆ χάριν τοῦ Θεοῦ	1	this is the true grace of God	This refers back to what Paul has written. Here the word **grace** refers to the gospel message, which tells of the kind things that God has done for believers. Alternate translation: “I have written about the true grace of God” or “the gospel message I have written is God’s grace to you” (See: [[rc://en/ta/man/translate/figs-metonymy]])
