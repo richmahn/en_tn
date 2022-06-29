@@ -1372,7 +1372,7 @@ ACT	9	9	t8uc	figs-explicit	οὐκ ἔφαγεν οὐδὲ ἔπιεν	1	neithe
 ACT	9	10	j847	writing-participants	ἦν δέ τις μαθητὴς ἐν Δαμασκῷ ὀνόματι Ἁνανίας	1	Now there was	Luke uses this sentence to introduce a new character into the story. If your language has its own way of doing that, you can use it here in your translation. (See: [[rc://en/ta/man/translate/writing-participants]])
 ACT	9	10	kgn9	translate-names	Ἁνανίας	1		**Ananias** is the name of a man. This is not the same Ananias whom Luke described in [5:1](../05/01.md) (that man died), but you may translate the name here the same way you did there. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	9	10	vqh0		ὁ Κύριος 	1		Here and in [9:11](../09/11.md) and [9:15](../09/15.md), **the Lord** is a respectful title that Luke is using to refer to Jesus. Alternate translation: “the Lord Jesus”
-ACT	9	10	vl8k		ὁ…εἶπεν	3	he said	Alternate translation: “Ananias said”
+ACT	9	10	vl8k	figs-idiom	ἰδοὺ, ἐγώ, Κύριε	3	he said	**Behold, I** is a Hebrew idiom that Ananias is using to identify himself as the Ananias to whom the Lord is calling. Alternate translation: “Yes, Lord, this is Ananias” (See: [[rc://en/ta/man/translate/figs-idiom]])
 ACT	9	11	mn24		πορεύθητι ἐπὶ τὴν ῥύμην τὴν καλουμένην Εὐθεῖαν	1	go to the street which is called Straight	Alternate translation: “go to Straight Street”
 ACT	9	11	ie1l		οἰκίᾳ Ἰούδα	1	the house of Judas	This **Judas** is not the disciple who betrayed Jesus. This Judas was owner of a house in Damascus where Saul was staying.
 ACT	9	11	u5j8		Σαῦλον ὀνόματι Ταρσέα	1	a man named Saul, from Tarsus	Alternate translation: “a man from the city of Tarsus named Saul” or “Saul of Tarsus”
