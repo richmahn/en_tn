@@ -68,7 +68,13 @@ HEB	1	8	k4cf	figs-metonymy	ἡ ῥάβδος τῆς εὐθύτητος ῥάβ
 HEB	1	8	iprl	figs-abstractnouns	ἡ ῥάβδος τῆς εὐθύτητος	1		If your language does not use an abstract noun for the idea behind **righteousness**, you could express the idea by using an adjective such as “righteous.” Alternate translation: “a righteous scepter” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 HEB	1	8	vl1n	figs-123person	αὐτοῦ	1		Here the author refers to the **Son** in the third person instead of in the second person. He is still referring to the same person. If your readers would misunderstand **his** here, you could continue to use **you** instead. Alternate translation: “your” (See: [[rc://en/ta/man/translate/figs-123person]])
 HEB	1	9	pl80	figs-quotations	ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν; διὰ τοῦτο, ἔχρισέν σε ὁ Θεός, ὁ Θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου	1		
-HEB	1	9	t9yw	figs-metaphor	ἔχρισέν σε…ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου	1	has anointed you with the oil of joy more than your companions	Here, **oil of exultation** refers to the joy that the Son felt when God honored him. Alternate translation: “has honored you and made you more joyful than anyone else” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+HEB	1	9	p5va	figs-yousingular	ἠγάπησας…ἐμίσησας…σε…σου…σου	1		
+HEB	1	9	ollt	figs-abstractnouns	δικαιοσύνην…ἀνομίαν	1		
+HEB	1	9	lu3m	figs-doublet	ὁ Θεός, ὁ Θεός σου	1		“the God whom you serve”
+HEB	1	9	eyqe	figs-123person	ὁ Θεός, ὁ Θεός σου	1		
+HEB	1	9	t9yw	figs-metaphor	ἔχρισέν σε…ἔλαιον ἀγαλλιάσεως	1	has anointed you with the oil of joy more than your companions	Here, **oil of exultation** refers to the joy that the Son felt when God honored him. Alternate translation: “has honored you and made you more joyful than anyone else” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+HEB	1	9	w1l1	figs-possession	ἔλαιον ἀγαλλιάσεως	1		
+HEB	1	9	akn8	translate-unknown	τοὺς μετόχους σου	1		
 HEB	1	10	nsd4		καί, σὺ κατ’ ἀρχάς, Κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί	1		This quotation comes from another Psalm.
 HEB	1	10	tmu5		κατ’ ἀρχάς	1	In the beginning	Alternate translation: “before anything existed”
 HEB	1	10	j64k	figs-metaphor	τὴν γῆν ἐθεμελίωσας	1	you laid the earth’s foundation	The author speaks of God creating the earth as if he built a building on a **foundation**. Alternate translation: “you created the earth” (See: [[rc://en/ta/man/translate/figs-metaphor]])
