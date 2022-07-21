@@ -136,8 +136,10 @@ HEB	2	3	fv4q	figs-rquestion	πῶς ἡμεῖς ἐκφευξόμεθα τηλ�
 HEB	2	3	mrsy	figs-explicit	ἡμεῖς ἐκφευξόμεθα	1		
 HEB	2	3	vond	grammar-connect-condition-hypothetical	τηλικαύτης ἀμελήσαντες σωτηρίας	1		(See: [[rc://en/ta/man/translate/grammar-connect-condition-hypothetical]])
 HEB	2	3	i2zv	translate-unknown	ἀμελήσαντες	1	ignore	Alternate translation: “pay no attention to” or “consider unimportant”
-HEB	2	3	gm6v	figs-abstractnouns	τηλικαύτης…σωτηρίας	1	This is salvation that was first announced by the Lord and confirmed to us by those who heard it	The abstract noun **salvation** can be translated with a verbal phrase. Alternate translation: “the amazing way that God saves us” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-HEB	2	3	dyn1	figs-activepassive	ἥτις ἀρχὴν λαβοῦσα, λαλεῖσθαι διὰ τοῦ Κυρίου	1		(See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	2	3	gm6v	figs-abstractnouns	τηλικαύτης…σωτηρίας? ἥτις	1	This is salvation that was first announced by the Lord and confirmed to us by those who heard it	The abstract noun **salvation** can be translated with a verbal phrase. Alternate translation: “the amazing way that God saves us” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+HEB	2	3	dmsh	figs-metonymy	τηλικαύτης…σωτηρίας? ἥτις	1		
+HEB	2	3	dyn1	figs-activepassive	ἀρχὴν λαβοῦσα, λαλεῖσθαι διὰ τοῦ Κυρίου	1		(See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	2	3	le2l	figs-idiom	ἀρχὴν λαβοῦσα, λαλεῖσθαι	1		
 HEB	2	3	fpvx	figs-activepassive	ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη	1		
 HEB	2	4	m2p8		κατὰ τὴν αὐτοῦ θέλησιν	1	according to his will	Alternate translation: “in just the way he wanted to do it”
 HEB	2	5	i3bh		οὐ γὰρ ἀγγέλοις ὑπέταξεν	1	For it was not to the angels that God subjected	Alternate translation: “For God did not make the angels rulers over”
