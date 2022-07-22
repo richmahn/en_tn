@@ -1522,10 +1522,8 @@ ACT	10	6	hou9	figs-activepassive	ξενίζεται παρά	1		If your language
 ACT	10	6	bw0q	translate-unknown	βυρσεῖ	1		A **tanner** is a person who makes leather from animal skins. See how you translated the term in [9:43](../09/43.md).
 ACT	10	7	g6lq		ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν αὐτῷ	1	And when the angel who spoke to him had left	Alternate translation: “And when Cornelius’ vision of the angel had ended”
 ACT	10	7	yg7g		εὐσεβῆ	1	devout	The adjective **devout** describes a person who worships God and serves him. Alternate translation: “sincerely religious”
-ACT	10	8	pcg2		ἐξηγησάμενος ἅπαντα αὐτοῖς	1	having told them everything	Cornelius explained his vision to his two servants and to one of his soldiers.
-ACT	10	8	d2p3		ἀπέστειλεν αὐτοὺς εἰς τὴν Ἰόππην	1	he sent them to Joppa	Alternate translation: “he sent two of his two servants and the one soldier to Joppa”
-ACT	10	9	ey9n		ὁδοιπορούντων ἐκείνων	1		Here the word **they** refers to Cornelius’ two servants and the soldier under Cornelius’ command ([Acts 10:7](../10/07.md)).
-ACT	10	9	w3g4			0	Connecting Statement:	The story shifts away from Cornelius to tell us what God is doing with to Peter.
+ACT	10	8	pcg2	figs-hyperbole	ἅπαντα	1	having told them everything	By **everything**, Luke means the details of the vision that Cornelius had. Alternate translation: “how an angel had spoken to him in a vision and what the angel had said” (See: [[rc://en/ta/man/translate/figs-hyperbole]])
+ACT	10	9	ey9n	writing-pronouns	ὁδοιπορούντων ἐκείνων	1		The demonstrative pronoun **those** refers to Cornelius’ two servants and the soldier under Cornelius’ command. Alternate translation: “as the men whom Cornelius had sent were traveling” (See: [[rc://en/ta/man/translate/writing-pronouns]])
 ACT	10	9	tu7n		περὶ ὥραν ἕκτην	1	at about the sixth hour	Alternate translation: “at around noon”
 ACT	10	9	r6l8		ἀνέβη…ἐπὶ τὸ δῶμα	1	went up to the housetop	The roofs of the houses were flat, and people often did many different activities on them.
 ACT	10	10	slq7		παρασκευαζόντων…αὐτῶν	1	while they were preparing	Alternate translation: “before the people finished cooking the food”
