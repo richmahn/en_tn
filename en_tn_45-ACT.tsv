@@ -1501,7 +1501,8 @@ ACT	10	intro	ym7z			0		# Acts 10 General Notes\n\n## Structure and formatting\n\
 ACT	10	1	wtb9	writing-participants	ἀνὴρ δέ τις	1	Now there was a certain man	Luke uses this phrase to introduce a new character into the story. If your language has its own way of doing that, you can use it here in your translation. (See: [[rc://en/ta/man/translate/writing-participants]])
 ACT	10	1	h6zu	translate-names	Κορνήλιος	1		**Cornelius** is the name of a man. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	10	1	x476	translate-unknown	ἑκατοντάρχης	1	named Cornelius, a centurion from the regiment that was called ‘Italian.’	A **centurion** was an officer in the Roman army who was in charge of a group of 100 soldiers. Such a group was called a “century.” Alternate translation: “an army officer in charge of 100 soldiers” (See: [[rc://en/ta/man/translate/translate-unknown]])
-ACT	10	1	abcd		Σπείρης τῆς καλουμένης Ἰταλικῆς	1	the regiment that was called ‘Italian.’	Alternate translation: “the Italian Regiment”
+ACT	10	1	abcd		Σπείρης τῆς καλουμένης Ἰταλικῆς	1	the regiment that was called ‘Italian.’	If your language does not use this passive form, you could express the idea in active form or in another way that is natural in your language. Alternate translation: “the regiment people called Italian” or “the regiment whose name was Italian” or “the Italian Regiment” (See: [[rc://en/ta/man/translate/figs-activepassive]])
+ACT	10	1	h2a4	translate-unknown	Σπείρης 	1		A **regiment** was a military unit consisting of six centuries or 600 soldiers. You may have a term in your languge that you can use for a unit of about this size. (See: [[rc://en/ta/man/translate/translate-unknown]])
 ACT	10	2	s6rh		εὐσεβὴς καὶ φοβούμενος τὸν Θεὸν	1	devout and fearing God	Alternate translation: “believing in God and seeking to honor and worship God in his life”
 ACT	10	2	n8i3		φοβούμενος τὸν Θεὸν	1	fearing God	The word **fearing** here has the sense of deep respect and awe.
 ACT	10	2	abce		τῷ λαῷ	1	to the people	Here, **the people** refers to Jewish people who were in need.
@@ -3396,3 +3397,4 @@ ACT	28	28	e8hb	figs-activepassive	τοῖς ἔθνεσιν ἀπεστάλη τ
 ACT	28	28	d18n		αὐτοὶ καὶ ἀκούσονται	1	they also will listen	This response of the Gentiles is in contrast to the way the Jews of that time refused to listen to God. Alternate translation: “some of them also will listen”
 ACT	28	30	c56e	writing-endofstory		0	Connecting Statement:	In verses 30-31, Luke ends the story of Paul in the book of Acts. (See: [[rc://en/ta/man/translate/writing-endofstory]])
 ACT	28	31	wv1l	figs-metonymy	κηρύσσων τὴν Βασιλείαν τοῦ Θεοῦ	1	proclaiming the kingdom of God	Here, **kingdom of God** refers to God’s rule as king. Alternate translation: “preaching about God’s rule as king” or “preaching about how God will show himself as king” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+ACT	10	1	nfy5			0	Connecting Statement:	This is the beginning of the part of the story about Cornelius.
