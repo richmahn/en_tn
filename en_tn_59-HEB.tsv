@@ -196,13 +196,15 @@ HEB	2	10	scid	translate-kinship	πολλοὺς υἱοὺς	1		Here, **sons** r
 HEB	2	10	nkus	figs-abstractnouns	εἰς δόξαν	1		If your language does not use an abstract noun for the idea behind **glory**, you could express the idea by using an adjective such as “glorious.” Alternate translation: “into a glorious place” or “into glorious salvation” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 HEB	2	10	sw9t	figs-possession	τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν	1	the leader of their salvation	Here the author uses the possessive form to speak of Jesus, the **founding leader**, who establishes and leads his people to **salvation**. If your readers would misunderstand this form, you could use a verbal phrase that refers to what Jesus does as **founding leader**. Alternate translation: “the one who leads them to salvation” or “their leader, who establishes their salvation,” (See: [[rc://en/ta/man/translate/figs-possession]])
 HEB	2	10	l321	figs-abstractnouns	τῆς σωτηρίας αὐτῶν, διὰ παθημάτων 	1	complete	If your language does not use abstract nouns for the ideas behind **salvation** and **sufferings**, you could express the ideas by using verbs such as “save” and “suffer.” Alternate translation: “who saves them through what he suffered” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-HEB	2	11	jy9p			0	General Information:	This verse is a prophetic quotation that comes from a Psalm of King David.
-HEB	2	11	ky9v		ὅ…ἁγιάζων	1	the one who sanctifies	Alternate translation: “the one who makes others holy” or “the one who makes others pure from sin”
-HEB	2	11	jzw3	figs-activepassive	οἱ ἁγιαζόμενοι	1	those who are sanctified	If your language does not use this passive form, you can state this in active form. Alternate translation: “those whom he makes holy” or “those whom he makes pure from sin” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-HEB	2	11	bj7i	figs-explicit	ἐξ ἑνὸς	1	have one source	You can state clearly who that **one** is. Alternate translation: “have one source, God himself” or “have the same Father” (See: [[rc://en/ta/man/translate/figs-explicit]])
-HEB	2	11	ul23		οὐκ ἐπαισχύνεται	1	he is not ashamed	Alternate translation: “Jesus is not ashamed”
-HEB	2	11	k1q5	figs-doublenegatives	οὐκ ἐπαισχύνεται ἀδελφοὺς αὐτοὺς καλεῖν	1	is not ashamed to call them brothers	This double negative **not ashamed** means that he will claim them as his **brothers**. Alternate translation: “is pleased to call them his brothers” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
+HEB	2	11	ky9v	grammar-connect-logic-result	γὰρ	1	the one who sanctifies	
+HEB	2	11	jy9p	figs-explicit	ὅ…ἁγιάζων, καὶ οἱ ἁγιαζόμενοι	1	General Information:	
+HEB	2	11	jzw3	figs-activepassive	οἱ ἁγιαζόμενοι	1	those who are sanctified	Alternate translation: “those whom he makes holy” or “those whom he makes pure from sin” (See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	2	11	bj7i	figs-explicit	ἐξ ἑνὸς	1	have one source	Alternate translation: “have one source, God himself” or “have the same Father” (See: [[rc://en/ta/man/translate/figs-explicit]])
+HEB	2	11	ul23	writing-pronouns	οὐκ ἐπαισχύνεται	1	he is not ashamed	Alternate translation: “Jesus is not ashamed”
+HEB	2	11	k1q5	figs-litotes	οὐκ ἐπαισχύνεται	1	is not ashamed to call them brothers	Alternate translation: “he is proud” (See: [[rc://en/ta/man/translate/figs-litotes]])
+HEB	2	11	h8rz	figs-activepassive	οὐκ ἐπαισχύνεται	1		
 HEB	2	11	a8h9	figs-gendernotations	ἀδελφοὺς	1	brothers	Here, **brothers** refers to all who have believed in Jesus, including both men and women. (See: [[rc://en/ta/man/translate/figs-gendernotations]])
+HEB	2	11	gacv	translate-kinship	ἀδελφοὺς	1		
 HEB	2	12	e88p	figs-metonymy	ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου	1	I will proclaim your name to my brothers	Here, **name** refers to the person’s reputation and what they have done. Alternate translation: “I will proclaim to my brothers the great things you have done” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 HEB	2	12	tn8n		ἐν μέσῳ ἐκκλησίας	1	from inside the assembly	Alternate translation: “when believers come together to worship God”
 HEB	2	13	dx1q			0	General Information:	The prophet Isaiah wrote these quotations.
