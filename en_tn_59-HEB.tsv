@@ -519,10 +519,10 @@ HEB	5	4	cj9l	grammar-connect-logic-result	καλούμενος	1		Here, the phra
 HEB	5	4	p6hc	figs-activepassive	ἀλλὰ καλούμενος ὑπὸ τοῦ Θεοῦ, καθώσπερ καὶ Ἀαρών	1	he is called by God, just as Aaron was	If your language does not use the passive form in this way, you could express the idea in active form or in another way that is natural in your language. The author uses the passive form here to focus on those who are **called** rather than focusing on the person doing the “calling.” Alternate translation: “but {only} those whom God calls, just as he called Aaron” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 HEB	5	4	uz3k	figs-ellipsis	καθώσπερ καὶ Ἀαρών	1		This phrase leaves out some words that many languages might need to be complete. If your readers might misunderstand this, you could supply these words from the first half of the sentence. Alternate translation: “just as also Aaron was called by God” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 HEB	5	4	m937	translate-names	Ἀαρών	1		The word **Aaron** is the name of a man. He was the first person whom God chose to a be a high priest for his people. (See: [[rc://en/ta/man/translate/translate-names]])
-HEB	5	5	c45n		Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε	1		This quotation is from the Psalms in the Old Testament.
-HEB	5	5	pr3f		ὁ λαλήσας πρὸς αὐτόν	1	the one speaking to him said	Alternate translation: “God said to him”
-HEB	5	5	i694	figs-parallelism	Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε	1	You are my Son; today I have become your Father	Since the author repeats here the same words that he quoted in [1:5](../01/05.md), you should translate these words in exactly the same way as you did in that verse.
-HEB	5	5	mfa8	guidelines-sonofgodprinciples	Υἱός	1	Son … Father	**Son** is important title that describe the relationship between Jesus and God the Father. (See: [[rc://en/ta/man/translate/guidelines-sonofgodprinciples]])
+HEB	5	5	y2wk	writing-quotations	ὁ λαλήσας πρὸς αὐτόν	1		
+HEB	5	5	c45n	figs-quotations	πρὸς αὐτόν, Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε	1		
+HEB	5	5	pr3f	figs-ellipsis	ὁ λαλήσας πρὸς αὐτόν	1	the one speaking to him said	Alternate translation: “God made him a high priest when he said to him”
+HEB	5	5	i694		Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε	1	You are my Son; today I have become your Father	Since the author repeats here the same words that he quoted in [1:5](../01/05.md), you should translate these words in exactly the same way as you did in that verse.
 HEB	5	6	bce6			0	General Information:	This prophecy is from a Psalm of David.
 HEB	5	6	ds6v	figs-ellipsis	καὶ…λέγει	1	he also says	You can state clearly to whom God is speaking. Alternate translation: “he also says to Christ” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 HEB	5	6	k5uw		ἐν ἑτέρῳ	1	in another place	Alternate translation: “in another place in the scriptures”
