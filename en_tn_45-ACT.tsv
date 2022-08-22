@@ -1798,16 +1798,9 @@ ACT	12	12	c1ur	figs-nominaladj	ἱκανοὶ	1		Luke is using the adjective **m
 ACT	12	13	pfn7	translate-unknown	κρούσαντος…αὐτοῦ	1	when he knocked	To “knock” at a door means to hit it a few times to let a person inside the house know you are standing outside. You could translate this expression with the way people in your culture show that they have arrived at a house, such as “call out” or “cough” or “clap.” (See: [[rc://en/ta/man/translate/translate-unknown]])
 ACT	12	13	c634	translate-unknown	τὴν θύραν τοῦ πυλῶνος	1	at the door of the gate	Here, the word **gate** probably describes an entrance from the street to a courtyard in front of the house. If houses in your culture have a similar entrance, in your translation you could use the name in your language for it. If not, you could use a general expression. Alternate translation: “the door of the entrance from the street to the courtyard” (See: [[rc://en/ta/man/translate/translate-unknown]])
 ACT	12	13	vbjj	translate-names	Ῥόδη	1		The word **Rhoda** is the name of a woman. (See: [[rc://en/ta/man/translate/translate-names]])
-ACT	12	14	x5fg		ἐπιγνοῦσα…οὐκ ἤνοιξεν…ἀπήγγειλεν	1		Here the words **she** and **her** all refer to the servant girl Rhoda.
-ACT	12	14	y2ff		ἀπὸ τῆς χαρᾶς	1	from joy	Alternate translation: “because she was so joyful” or “being overly excited”
-ACT	12	14	m3m7		οὐκ ἤνοιξεν τὸν πυλῶνα	1	she did not open the gate	Alternate translation: “she did not open the door” or “she forgot to open the door”
-ACT	12	14	yq3r		ἀπήγγειλεν	1	she reported	Alternate translation: “she told them” or “she said”
-ACT	12	14	a19k		ἑστάναι…πρὸ τοῦ πυλῶνος	1	stands at the gate	Peter was still standing outside. Alternate translation: “is standing outside the door”
-ACT	12	15	j2kx		οἱ…οἱ	1		Here the word **they** refers to the people who were inside praying ([Acts 12:12](../12/12.md)).
-ACT	12	15	ybz7		μαίνῃ	1	You are insane	The people not only did not believe her, but rebuked her by saying she was crazy. Alternate translation: “You are crazy”
-ACT	12	15	xnm2		ἡ…διϊσχυρίζετο οὕτως ἔχειν	1	she insisted that it was thus	Alternate translation: “she insisted that what she said was true”
-ACT	12	15	en8b		οἱ…ἔλεγον	2	they said	Alternate translation: “they answered”
-ACT	12	15	qa8m		ὁ ἄγγελός ἐστιν αὐτοῦ	1	It is his angel	Some Jews believed in guardian angels and may have thought that Peter’s **angel** had come to them. Alternate translation: “What you have seen is Peter’s angel”
+ACT	12	14	y2ff	figs-abstractnouns	ἀπὸ τῆς χαρᾶς	1	from joy	If your language does not use an abstract noun for the idea of **joy**, you could express the same idea in another way. Alternate translation: “because she was so joyful” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+ACT	12	15	j2kx	writing-pronouns	οἱ…εἶπαν	1		The pronoun **they** refers to the people who were inside the house praying. Alternate translation: “the people who were inside the house praying said” (See: [[rc://en/ta/man/translate/writing-pronouns]])
+ACT	12	15	qa8m	figs-explicit	ὁ ἄγγελός ἐστιν αὐτοῦ	1	It is his angel	Some Jews believed in guardian angels, and the people inside thehouse may have thought that Peter’s **angel** had come to them. Alternate translation: “What you saw was Peter’s guardian angel” (See: [[rc://en/ta/man/translate/figs-explicit]])
 ACT	12	16	wwg1		εἶδαν	1		Here the word **they** refers to the people in the house.
 ACT	12	16	bi6l		ὁ δὲ Πέτρος ἐπέμενεν κρούων	1	But Peter continued knocking	The word **continued** means that Peter kept knocking the entire time those inside were talking.
 ACT	12	17	jx1a		ἀπαγγείλατε…ταῦτα	1	Report these things	Alternate translation: “Tell these things”
