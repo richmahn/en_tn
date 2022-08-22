@@ -1801,8 +1801,7 @@ ACT	12	13	vbjj	translate-names	Ῥόδη	1		The word **Rhoda** is the name of a 
 ACT	12	14	y2ff	figs-abstractnouns	ἀπὸ τῆς χαρᾶς	1	from joy	If your language does not use an abstract noun for the idea of **joy**, you could express the same idea in another way. Alternate translation: “because she was so joyful” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 ACT	12	15	j2kx	writing-pronouns	οἱ…εἶπαν	1		The pronoun **they** refers to the people who were inside the house praying. Alternate translation: “the people who were inside the house praying said” (See: [[rc://en/ta/man/translate/writing-pronouns]])
 ACT	12	15	qa8m	figs-explicit	ὁ ἄγγελός ἐστιν αὐτοῦ	1	It is his angel	Some Jews believed in guardian angels, and the people inside thehouse may have thought that Peter’s **angel** had come to them. Alternate translation: “What you saw was Peter’s guardian angel” (See: [[rc://en/ta/man/translate/figs-explicit]])
-ACT	12	16	wwg1		εἶδαν	1		Here the word **they** refers to the people in the house.
-ACT	12	16	bi6l		ὁ δὲ Πέτρος ἐπέμενεν κρούων	1	But Peter continued knocking	The word **continued** means that Peter kept knocking the entire time those inside were talking.
+ACT	12	16	wwg1	figs-synecdoche	ἀνοίξαντες δὲ εἶδαν αὐτὸν	1		While the word **they** refers to the people in the house as in the previous verse, it is likely that only some of them came to the door. Alternate translation: “so some of the people in the house came and opened the door, and they saw him” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 ACT	12	17	jx1a		ἀπαγγείλατε…ταῦτα	1	Report these things	Alternate translation: “Tell these things”
 ACT	12	17	jf16		τοῖς ἀδελφοῖς	1	the brothers	Alternate translation: “the other believers”
 ACT	12	18	ail9		δὲ	1	Now	The word **Now** is used to mark a break in the story-line. Time has passed; it is now the next day.
