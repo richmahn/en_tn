@@ -775,7 +775,10 @@ HEB	7	10	g26s	figs-idiom	ἔτι…ἐν τῇ ὀσφύϊ τοῦ πατρὸς
 HEB	7	10	bd2l	translate-kinship	τοῦ πατρὸς	1		Here the author uses the word **father** to refer in general to a male ancestor. Abraham was more specifically Levi’s great-grandfather on his father’s side. Use an appropriate word for this relationship in your culture. Alternate translation: “of his ancestor” (See: [[rc://en/ta/man/translate/translate-kinship]])
 HEB	7	10	p0zd	translate-names	Μελχισέδεκ	1		The word **Melchizedek** is the name of a man, the same man that the author has been discussing in this chapter. (See: [[rc://en/ta/man/translate/translate-names]])
 HEB	7	10	l5dd	writing-pronouns	αὐτῷ	1		Here, the word **him** refers to Abraham. If your readers would misunderstand to whom **him** refers, you could make it explicit. Alternate translation: “Abraham” (See: [[rc://en/ta/man/translate/writing-pronouns]])
-HEB	7	11	kdb8		μὲν οὖν	1	Now	Here, **So** is used to draw attention to the important point that follows.
+HEB	7	11	kdb8	grammar-connect-words-phrases	μὲν οὖν	1	Now	
+HEB	7	11	yvxw	figs-abstractnouns	τελείωσις…ἦν	1		
+HEB	7	11	nw53	translate-unknown	τῆς Λευειτικῆς ἱερωσύνης	1		
+HEB	7	11	eyek	figs-abstractnouns	τῆς Λευειτικῆς ἱερωσύνης	1		
 HEB	7	11	wgp5	figs-rquestion	τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ, ἕτερον ἀνίστασθαι ἱερέα, καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι?	1	what further need would there have been for another priest to arise after the manner of Melchizedek, and not be considered to be after the manner of Aaron?	
 HEB	7	11	jt8l	figs-abstractnouns	τίς ἔτι χρεία	1		Alternate translation: “why was it still necessary”
 HEB	7	11	kmfw	figs-explicit	κατὰ τὴν τάξιν Μελχισέδεκ, ἕτερον ἀνίστασθαι ἱερέα, καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι?	1		
