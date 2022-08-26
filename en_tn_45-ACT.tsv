@@ -1862,10 +1862,8 @@ ACT	13	4	abcj	writing-pronouns	αὐτοὶ…ἐκπεμφθέντες	1	they, 
 ACT	13	4	pisj	figs-activepassive	ἐκπεμφθέντες ὑπὸ τοῦ Ἁγίου Πνεύματος	1		If your language does not use this passive form, you could express the idea in active form or in another way that is natural in your language. Alternate translation: “because the Holy Spirit had sent them out” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 ACT	13	4	iyh8	figs-idiom	κατῆλθον	1	went down	Luke says that Barnabas and Saul **went down** to Caesarea because that city is lower in elevation than Judea. Alternate translation: “traveled” (See: [[rc://en/ta/man/translate/figs-idiom]])
 ACT	13	4	d1q5		Σελεύκιαν	1	Seleucia	The word **Seleucia** is the name of a city that is on the seacoast. (See: [[rc://en/ta/man/translate/translate-names]])
-ACT	13	5	at85		Σαλαμῖνι	1	Salamis	The city of Salamis was on Cyprus Island.
-ACT	13	5	ct8b	figs-synecdoche	κατήγγελλον τὸν λόγον τοῦ Θεοῦ	1	they were proclaiming the word of God	Here, **word of God** is a synecdoche for “message of God.” Alternate translation: “they proclaimed the message of God” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
-ACT	13	5	p5t3		συναγωγαῖς τῶν Ἰουδαίων	1	synagogues of the Jews	This could mean: (1) “there were multiple Jewish synagogues in the city of Salamis where Barnabas and Saul preached” or (2) “Barnabas and Saul started at the synagogue at Salamis and continued to preach in all the synagogues they found while they traveled around the Island of Cyprus.”
-ACT	13	5	sxw6		εἶχον δὲ καὶ Ἰωάννην, ὑπηρέτην	1	And they also had John as an assistant	Alternate translation: “And John Mark went with them and was helping them”
+ACT	13	5	at85	translate-names	Σαλαμῖνι	1	Salamis	The word **Salamis** is the name of a city on the island of Cyprus. (See: [[rc://en/ta/man/translate/translate-names]])
+ACT	13	5	ct8b	figs-metonymy	τὸν λόγον τοῦ Θεοῦ	1	they were proclaiming the word of God	Luke is using the term **word** figuratively to mean the message that the Holy Spirit wanted Barnabas and Saul to share by using words. Alternate translation: “the message from God” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 ACT	13	6	h9he		εὗρον	1		Here the word **they** refers to Paul, Silas, and John Mark.
 ACT	13	6	ja1i		ὅλην τὴν νῆσον	1	the whole island	They crossed from one side of the island to the other and shared the gospel message in each town they passed through.
 ACT	13	6	cl2z		Πάφου	1	Paphos	**Paphos** was a major city on Cyprus island where the proconsul lived.
