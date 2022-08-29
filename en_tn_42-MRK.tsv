@@ -1516,7 +1516,7 @@ MRK	15	34	qw71		ὅ ἐστιν μεθερμηνευόμενον	1	is translated
 MRK	15	35	apg3	figs-explicit	καί τινες τῶν παρεστηκότων, ἀκούσαντες ἔλεγον	1	And some of those who had been standing by, having heard him, were saying	If it would help your readers you could indicate explicitly that some of the people standing by misunderstood what Jesus said as modeled by the UST. (See: [[rc://en/ta/man/translate/figs-explicit]])
 MRK	15	35	awtf	translate-names	Ἠλείαν	1		See how you translated the name **Elijah** in [6:15](../06/15.md). (See: [[rc://en/ta/man/translate/translate-names]])
 MRK	15	36	pj44	translate-names	Ἠλείας	1		See how you translated the name **Elijah** in [6:15](../06/15.md). (See: [[rc://en/ta/man/translate/translate-names]])
-MRK	15	37	xkpk		ἀφεὶς φωνὴν μεγάλην	1		See how you translated the phrase **cried out with a loud voice** in [15:34](../15/34.md).
+MRK	15	37	xkpk	figs-idiom	ἀφεὶς φωνὴν μεγάλην	1		See how you translated the phrase **cried out with a loud voice** in [15:34](../15/34.md). (See: [[rc://en/ta/man/translate/figs-idiom]])
 MRK	15	37	puak	figs-explicit	ἐξέπνευσεν	1		The phrase **breathed his last** means that Jesus “died.” If it would be helpful to your readers, you could express that explicitly as modeled by the UST. (See: [[rc://en/ta/man/translate/figs-explicit]])
 MRK	15	38	ni8j	figs-activepassive	τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη εἰς δύο	1	the curtain of the temple was torn in two	Mark is showing that God himself split **the curtain of the temple**. You can translate this in active form. Alternate translation: “God split the curtain of the temple in two” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 MRK	15	39	lg4u		ὁ κεντυρίων	1	the centurion	This is **the centurion** who supervised the soldiers who crucified Jesus.
