@@ -1011,10 +1011,14 @@ HEB	9	1	av9i	grammar-connect-words-phrases	μὲν οὖν	1	Now	Here, the word 
 HEB	9	1	d3vs		ἡ πρώτη	1	first covenant	See how you translated **first covenant** in [Hebrews 8:7](../08/07.md).
 HEB	9	1	pw63	figs-abstractnouns	εἶχε…δικαιώματα…λατρείας…τε	1	had regulations	If your language does not use abstract nouns for the ideas behind **regulations** and **worship**, you could express the ideas by using verbs such as “regulate” and “worship.” Alternate translation: “regulated how people worshiped and included” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 HEB	9	1	af6x	figs-explicit	τό…ἅγιον κοσμικόν	1	Connecting Statement:	Here, the phrase **earthly holy {place}** refers to the entire earthly sanctuary, which the author will define as a “tabernacle” in the following verse ([9:2](../09/02.md)). If your readers would misunderstand **earthly holy {place}**, you could more clearly refer to the entire earthly sanctuary. Alternate translation: “the earthly holy sanctuary” (See: [[rc://en/ta/man/translate/figs-explicit]])
-HEB	9	2	e3em		γὰρ	1	For	The author is continuing the discussion from [Hebrews 8:7](../08/07.md).
-HEB	9	2	f6k7	figs-activepassive	σκηνὴ…κατεσκευάσθη	1	a tabernacle was prepared	A **tabernacle** was constructed and made ready for use. If your language does not use this passive form, you can state this in active form. Alternate translation: “the Israelites prepared a tabernacle” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-HEB	9	2	t13a		ἥ τε λυχνία καὶ ἡ τράπεζα, καὶ ἡ Πρόθεσις τῶν ἄρτων	1	the lampstand, the table, and the bread of the presence	These objects are all accompanied by the definite article **the**, because these are specific things that the author assumes that his readers already know about.
-HEB	9	2	gw3p	figs-abstractnouns	ἡ Πρόθεσις τῶν ἄρτων	1	bread of the presence	You can reworded the abstract noun **presentation** to express it with the verb “display” or “present.” Alternate translation: “the bread on display before God” or “the bread the priests presented to God” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
+HEB	9	2	e3em	grammar-connect-words-phrases	γὰρ	1	For	
+HEB	9	2	f6k7	figs-activepassive	σκηνὴ…κατεσκευάσθη	1	a tabernacle was prepared	
+HEB	9	2	p34j	figs-explicit	ἡ πρώτη	1	a tabernacle was prepared	
+HEB	9	2	t13a	translate-unknown	ἥ τε λυχνία καὶ ἡ τράπεζα, καὶ ἡ Πρόθεσις τῶν ἄρτων	1	the lampstand, the table, and the bread of the presence	
+HEB	9	2	gw3p	figs-abstractnouns	καὶ ἡ Πρόθεσις τῶν ἄρτων	1	bread of the presence	
+HEB	9	2	vee3	writing-pronouns	ἥτις	1	bread of the presence	
+HEB	9	2	i46y	figs-activepassive	λέγεται	1	bread of the presence	
+HEB	9	2	k2vg	figs-explicit	Ἅγια	1	bread of the presence	
 HEB	9	3	j7w3		μετὰ…τὸ δεύτερον καταπέτασμα	1	Behind the second curtain	The first curtain was the outer wall of the tabernacle, so the **second curtain** was the curtain between the “holy place” and the “most holy place.”
 HEB	9	3	ssr9	translate-ordinal	δεύτερον	1	second	The word **second** is the ordinal word for number two. (See: [[rc://en/ta/man/translate/translate-ordinal]])
 HEB	9	4	kt3u		ἐν ᾗ	1	Inside it	Alternate translation: “inside the ark of the covenant was”
