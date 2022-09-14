@@ -4,7 +4,7 @@ GAL	1	intro	f3n5			0		# Galatians 1 General Notes<br><br>## Structure and format
 GAL	1	1	o4ns		Παῦλος, ἀπόστολος	1		Here, Paul is introducing himself as the author of this letter. Your language may have a particular way of introducing the author of a letter. Use that here. Alternate Translation: “This letter is from me, Paul, an apostle”
 GAL	1	1	uhhp	figs-123person	Παῦλος	1		Paul is speaking of himself in the third person. If this is confusing in your language, you can use the first person. Alternate translations: “This letter is from me, Paul” or “I, Paul” (See: rc://en/ta/man/translate/figs-123person)
 GAL	1	1	m4ss	figs-doublenegatives	οὐκ ἀπ’ ἀνθρώπων, οὐδὲ δι’ ἀνθρώπου	1	General Information:	If your readers would misunderstand this double negative, you could translate this phrase using only one negative word. Alternate translation: “not from men or through man” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
-GAL	1	1	yqma		ἀνθρώπων…ἀνθρώπου	1		Although the terms **men** and **man** are masculine Paul uses them here in a generic sense to refer humans in general. Alternate translation: “humans … humans” (See: [[rc://en/ta/man/translate/figs-gendernotations]])
+GAL	1	1	yqma	figs-gendernotations	ἀνθρώπων…ἀνθρώπου	1		Although the terms **men** and **man** are masculine Paul uses them here in a generic sense to refer humans in general. Alternate translation: “humans … humans” (See: [[rc://en/ta/man/translate/figs-gendernotations]])
 GAL	1	1	rcnw			1		
 GAL	1	2	wmd2			1		
 GAL	1	1	d1kd		τοῦ ἐγείραντος αὐτὸν	1	who raised him	Alternate translation: “who caused him to live again”
