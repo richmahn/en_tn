@@ -2439,10 +2439,7 @@ ACT	17	1	e4w5	writing-newevent	δὲ	1	Now	Luke is using the word translated **N
 ACT	17	1	kll1	translate-names	τὴν Ἀμφίπολιν καὶ τὴν Ἀπολλωνίαν	1	Amphipolis and Apollonia	The words **Amphipolis** and **Apollonia** are the names of coastal cities in the Roman province of Macedonia. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	17	1	yj66	translate-names	Θεσσαλονίκην	1	they came to Thessalonica	The word **Thessalonica** is the name of another city on the coast of Macedonia. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	17	1	o19x	figs-explicitinfo	συναγωγὴ τῶν Ἰουδαίων	1		It might seem that the expression **a synagogue of the Jews** contains extra information that would be unnatural to express in your language. If so, you can shorten it. Alternate translation: “a synagogue” (See: [[rc://en/ta/man/translate/figs-explicitinfo]])
-ACT	17	2	vbf2		κατὰ…τὸ εἰωθὸς	1	according to his custom	Paul usually went to the synagogue on the Sabbath when Jews would be present. Alternate translation: “as his habit was” or “as his common practice was”
-ACT	17	2	bt5e		ἐπὶ Σάββατα τρία	1	for three Sabbaths	Alternate translation: “on each Sabbath day for three weeks”
-ACT	17	2	wp3k	figs-explicit	διελέξατο αὐτοῖς ἀπὸ τῶν Γραφῶν	1	reasoned with them from the scriptures	Paul explained what the **Scriptures** means in order to prove to the Jews that Jesus is the Messiah. (See: [[rc://en/ta/man/translate/figs-explicit]])
-ACT	17	2	qf4t		διελέξατο αὐτοῖς	1	reasoned with them	Alternate translation: “debated with them” or “discussed with them”
+ACT	17	2	mkn6	writing-pronouns	αὐτοὺς…αὐτοῖς	1		The pronoun **them** refers the Jews who attended the synagogue in Thessalonica. It may be helpful to clarify this for your readers. Alternate translation: “the Jews in the synagogue” (See: [[rc://en/ta/man/translate/writing-pronouns]])
 ACT	17	3	ir9q	figs-metaphor	διανοίγων	1	He is fully opening	This could mean: (1) to explain the scriptures in a way that people can understand is spoken of as if Paul were opening something so people can see what is inside of it, or (2) Paul was literally opening a book or scroll and reading from it. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 ACT	17	3	he78		ἔδει	1	it was necessary for	Alternate translation: “it was part of God’s plan for”
 ACT	17	3	ipb2		ἀναστῆναι	1	to rise	Alternate translation: “to come back to life”
