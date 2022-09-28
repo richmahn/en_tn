@@ -1039,11 +1039,8 @@ MAT	14	13	ia39	figs-explicit	ὁ Ἰησοῦς ἀνεχώρησεν	1	Jesus wi
 MAT	14	13	ipm9	figs-idiom	πεζῇ	1	on foot	Here, **on foot** is an idiom meaning “walked.” If your readers would not understand this, you could use an equivalent idiom or use plain language. Alternate translation: “walking” (See: [[rc://en/ta/man/translate/figs-idiom]])
 MAT	14	14	d8n3		καὶ ἐξελθὼν	1	And having come out	Alternate translation: “And when Jesus got off the boat”
 MAT	14	15	otp3	figs-idiom	ἡ ὥρα ἤδη παρῆλθεν	1		This phrase means it was late in the day. If your readers would not understand this, you could use an equivalent idiom or use plain language. Alternate translation: “it is already late in the day” (See: [[rc://en/ta/man/translate/figs-idiom]])
-MAT	14	16	qwk1		οὐ χρείαν ἔχουσιν	1	They have no need	Alternate translation: “It is not necessary for the people in the crowd”
 MAT	14	16	r5gd	figs-you	δότε αὐτοῖς ὑμεῖς	1	You give them	The word **You** is plural, referring to the disciples. (See: [[rc://en/ta/man/translate/figs-you]])
-MAT	14	17	tm5t		οἱ δὲ λέγουσιν αὐτῷ	1	But they say to him	Alternate translation: “But the disciples said to Jesus”
-MAT	14	17	ih48		πέντε ἄρτους	1	five loaves	A loaf of bread is a lump of dough that is shaped and baked.
-MAT	14	18	szx6		φέρετέ μοι ὧδε αὐτούς	1	Bring them here to me	Alternate translation: “Bring the loaves and fish to me”
+MAT	14	17	ih48	grammar-connect-exceptions	πέντε ἄρτους	1	five loaves	If it would appear in your language that the disciples are making a statement here and then contradicting it, you could reword this to avoid using an exception clause. Alternate translation: “we only have five loaves and two fish” (See: [[rc://en/ta/man/translate/grammar-connect-exceptions]])\n
 MAT	14	19	vp7r		ἀνακλιθῆναι	1	to recline	Use the verb for the position people in your culture usually are in when they eat. Alternate translation: “lie down” or “sit down”
 MAT	14	19	u613	figs-idiom	λαβὼν	1	he took	This does not mean that he stole them. Alternate translation: “he held in his hands” (See: [[rc://en/ta/man/translate/figs-idiom]])
 MAT	14	19	i34u		κλάσας, ἔδωκεν…τοὺς ἄρτους	1	having broken it, he gave the loaves	Alternate translation: “after tearing the loaves into pieces, he gave them”
