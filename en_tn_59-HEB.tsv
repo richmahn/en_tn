@@ -1466,11 +1466,11 @@ HEB	10	39	dv8y	figs-abstractnouns	πίστεως εἰς περιποίησιν 
 HEB	10	39	hm0m	figs-synecdoche	ψυχῆς	1		Here, the word **soul** is a way to refer to a person as a whole. If it would be helpful in your language, you could use a word or phrase that refers to the whole person. Alternate translation: “of ourselves” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 HEB	10	39	br6c	figs-genericnoun	ψυχῆς	1		Here the author is speaking of “souls” in general, not of one particular **soul**. If your readers would misunderstand this form, you could use a form that refers to “souls” in general. Alternate translation: “of the souls” or “each of our souls” (See: [[rc://en/ta/man/translate/figs-genericnoun]])
 HEB	11	intro	g4cc			0		# Hebrews 11 General Notes\n\n## Structure\n\n7. Faith and endurance (10:26–12:29)\n      * Exhortation: Examples of faith (11:1–40)\n\n## Important concepts in this chapter\n\n### Faith\n\nIn both the old and new covenants, God required faith. Some people with faith performed miracles and were very powerful. Other people with faith suffered greatly.
-HEB	11	1	a371			0	Connecting Statement:	The author tells three things about faith in this brief introduction.
-HEB	11	1	d95i		δὲ	1	Now	**Now** is used here to mark a break in the main teaching. Here the author starts to explain the meaning of “faith.”
-HEB	11	1	dne9		ἔστιν…πίστις ἐλπιζομένων ὑπόστασις	1	faith is being sure of the things hoped for	If your language does not use this passive form, you can state this in active form. Alternate translation: “when we have faith, we are sure of the things we hope for” or “faith is what allows a person to confidently expect certain things”
-HEB	11	1	hiq2		ἐλπιζομένων	1	hoped for	Here **things being hoped for** refers specifically to the sure promises of God, especially the certainty that all believers in Jesus will live with God forever in heaven.
-HEB	11	1	ybd8	figs-activepassive	πραγμάτων ἔλεγχος οὐ βλεπομένων	1	certain of things that are not seen	If your language does not use this passive form, you can state this in active form. Alternate translation: “proof of what we still have not seen” or “proof of what still have not happened” (See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	11	1	d95i		δὲ	1	Now	
+HEB	11	1	a371	figs-abstractnouns	πίστις ἐλπιζομένων ὑπόστασις	1	Connecting Statement:	
+HEB	11	1	dne9	figs-activepassive	ἐλπιζομένων…οὐ βλεπομένων	1	faith is being sure of the things hoped for	
+HEB	11	1	hiq2	figs-ellipsis	ἔλεγχος	1	hoped for	
+HEB	11	1	ybd8	figs-abstractnouns	πραγμάτων ἔλεγχος	1	certain of things that are not seen	
 HEB	11	2	smr4		ἐν ταύτῃ γὰρ	1	For because of this	Alternate translation: “Because they were certain about events that had not happened”
 HEB	11	2	kmq6	figs-activepassive	ἐμαρτυρήθησαν οἱ πρεσβύτεροι	1	the ancestors were approved	If your language does not use this passive form, you can state this in active form. Alternate translation: “God approved of our ancestors because they had faith” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 HEB	11	2	u66c	figs-explicit	οἱ πρεσβύτεροι	1	the ancestors	The author is speaking to the Hebrews about their Hebrew ancestors. Alternate translation: “our ancestors” (See: [[rc://en/ta/man/translate/figs-explicit]])
