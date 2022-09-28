@@ -1490,7 +1490,11 @@ HEB	11	3	rlc4	figs-explicit	μὴ ἐκ φαινομένων, τὸ βλεπόμ
 HEB	11	4	w5de	figs-abstractnouns	πίστει	1	Connecting Statement:	If your language does not use an abstract noun for the idea behind **faith**, you could express the idea by using a verb such as “believe” or “trust.” Alternate translation: “By believing,” or “Because he believed,” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 HEB	11	4	h5z6	translate-names	Ἂβελ…Κάϊν	1	Connecting Statement:	
 HEB	11	4	tfcq	figs-explicit	πλείονα θυσίαν, Ἂβελ παρὰ Κάϊν προσήνεγκεν τῷ Θεῷ	1	Connecting Statement:	
-HEB	11	4	r2m8	figs-activepassive	ἐμαρτυρήθη εἶναι δίκαιος	1	he was attested to be righteous	If your language does not use this passive form, you can state this in active form. Alternate translation: “God declared him to be righteous” or “God declared that Abel was righteous” (See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	11	4	dfct	writing-pronouns	ἧς	1	he was attested to be righteous	
+HEB	11	4	r2m8	figs-activepassive	ἐμαρτυρήθη εἶναι δίκαιος	1	he was attested to be righteous	Alternate translation: “God testified that he was righteous” (See: [[rc://en/ta/man/translate/figs-activepassive]])
+HEB	11	4	kxkb	figs-explicit	ἐπὶ τοῖς δώροις αὐτοῦ	1	he was attested to be righteous	
+HEB	11	4	khii	writing-pronouns	αὐτῆς	1	he was attested to be righteous	
+HEB	11	4	emh4	grammar-connect-logic-contrast	ἀποθανὼν	1	he was attested to be righteous	(See: [[rc://en/ta/man/translate/grammar-connect-logic-contrast]])
 HEB	11	4	g52j	figs-metaphor	ἔτι λαλεῖ	1	Abel still speaks	Reading the scriptures and learning about Abel’s faith is spoken of as if Abel himself were still speaking. Alternate translation: “we still learn from what Abel did” (See: [[rc://en/ta/man/translate/figs-metaphor]])
 HEB	11	5	r3yl	figs-activepassive	πίστει Ἑνὼχ μετετέθη, τοῦ μὴ ἰδεῖν θάνατον	1	It was by faith that Enoch was taken up so that he did not see death	If your language does not use this passive form, you can state this in active form. Alternate translation: “It was by faith that Enoch did not die because God took him” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 HEB	11	5	ki2t	figs-metaphor	ἰδεῖν θάνατον	1	see death	This speaks of **death** as if it were an object that people can see. It means to experience death. Alternate translation: “dying” (See: [[rc://en/ta/man/translate/figs-metaphor]])
