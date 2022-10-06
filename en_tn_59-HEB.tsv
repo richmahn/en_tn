@@ -1730,9 +1730,12 @@ HEB	11	36	clyd	figs-doublet	δεσμῶν καὶ φυλακῆς	1	Others had t
 HEB	11	36	azzs	figs-metonymy	δεσμῶν	1	Others had testing in mocking and whippings	Here, the word **chains** refers to being “chained.” If it would be helpful in your language, you could express the idea plainly. Alternate translation: “of being chained” or “of being tied up” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 HEB	11	37	fg8c	figs-activepassive	ἐλιθάσθησαν, ἐπρίσθησαν, ἐπειράσθησαν	1	They were stoned. They were sawn in two. They were killed with the sword	
 HEB	11	37	n5zo	figs-idiom	ἐν φόνῳ μαχαίρης ἀπέθανον	1	They were stoned. They were sawn in two. They were killed with the sword	Alternate translation: “they died violent deaths”
+HEB	11	37	bl90	figs-abstractnouns	ἐν φόνῳ μαχαίρης	1	They were stoned. They were sawn in two. They were killed with the sword	
 HEB	11	37	r3gx	figs-go	περιῆλθον	1	went about	Alternate translation: “they went from place to place” or “they traveled around”
-HEB	11	37	qf89		ἐν μηλωταῖς, ἐν αἰγίοις δέρμασιν	1	in sheepskins and goatskins	Alternate translation: “wearing only the skins of sheep and goats”
-HEB	11	37	x2jf		ὑστερούμενοι	1	destitute	Alternate translation: “having nothing” or “being very poor”
+HEB	11	37	qf89	figs-explicit	ἐν μηλωταῖς, ἐν αἰγίοις δέρμασιν	1	in sheepskins and goatskins	
+HEB	11	37	knra	figs-doublet	ἐν μηλωταῖς, ἐν αἰγίοις δέρμασιν	1	in sheepskins and goatskins	Alternate translation: “in skins from animals”
+HEB	11	37	x2jf	translate-unknown	ὑστερούμενοι	1	destitute	Alternate translation: “having nothing” or “being very poor”
+HEB	11	37	hh76	translate-unknown	κακουχούμενοι	1	destitute	
 HEB	11	38	a721	figs-metonymy	οὐκ ἦν ἄξιος ὁ κόσμος	1	The world was not worthy	Here, **the world** refers to the people who lived in the world. Alternate translation: “the people of this world were not worthy” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 HEB	11	38	j9lp		πλανώμενοι	1	They wandered about	They wandered about because they had no place to live.
 HEB	11	39	l5wd	figs-activepassive	οὗτοι πάντες μαρτυρηθέντες διὰ τῆς πίστεως, οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν	1	Although all these people were approved by God because of their faith, they did not receive the promise	If your language does not use this passive form, you can state this in active form. Alternate translation: “God honored all these because of their faith, but they did not themselves receive what God had promised” (See: [[rc://en/ta/man/translate/figs-activepassive]])
