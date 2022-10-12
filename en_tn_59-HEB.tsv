@@ -1881,9 +1881,11 @@ HEB	12	16	fbiw	figs-abstractnouns	τὰ πρωτοτόκια ἑαυτοῦ	1		I
 HEB	12	17	fot6			0	he was rejected	Here the author refers to a story about what happened to Esau after he sold his birthright. When Esau’s father Isaac was about to die, he wanted to give Esau a blessing. However, Esau’s brother Jacob tricked his father Isaac and took the blessing for himself. When Esau found out, he wept and asked his father to bless him. However, his father had already given the blessing to Jacob. You can read this story in [Genesis 27:1–41](../gen/27/01.md). You might want to include this information in a footnote.
 HEB	12	17	lxc8	grammar-connect-logic-result	γὰρ	1	he was rejected	
 HEB	12	17	jlb9	figs-abstractnouns	κληρονομῆσαι τὴν εὐλογίαν	1	he was rejected	If your language does not use an abstract noun for the idea behind **blessing**, you could express the idea by using a verb such as “bless.” Alternate translation: “to be blessed by his father” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-HEB	12	17	j6x8	figs-activepassive	ἀπεδοκιμάσθη	1	he was rejected	If your language does not use this passive form, you can state this in active form. Alternate translation: “his father, Isaac, refused to bless him” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-HEB	12	17	d6he	figs-abstractnouns	μετανοίας γὰρ τόπον οὐχ εὗρεν	1	because he found no opportunity for repentance	You can translate the abstract noun **repentance** with a verbal phrase. Alternate translation: “because it was not possible for him to repent” or “because it was not possible for him to change his decision” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-HEB	12	17	b7k3		καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν	1	even though he sought it with tears	Here, **he** refers to Esau.
+HEB	12	17	j6x8	figs-activepassive	ἀπεδοκιμάσθη	1	he was rejected	
+HEB	12	17	q447	figs-idiom	μετανοίας…τόπον οὐχ εὗρεν	1	he was rejected	
+HEB	12	17	d6he	figs-abstractnouns	μετανοίας	1	because he found no opportunity for repentance	
+HEB	12	17	uq4m	writing-pronouns	αὐτήν	1	because he found no opportunity for repentance	
+HEB	12	17	b7k3	figs-idiom	μετὰ δακρύων	1	even though he sought it with tears	
 HEB	12	18	xti4			0	Connecting Statement:	The author gives a contrast between what believers in Moses’ time had while living under the law and what present day believers have after coming to Jesus under the new covenant. He illustrates the experience of the Israelites by describing how God appeared to them at Mount Sinai.
 HEB	12	18	y1ed		οὐ…προσεληλύθατε	1		Here, **you** refers to the Hebrew believers to whom the author wrote.
 HEB	12	18	a43l	figs-explicit	οὐ γὰρ προσεληλύθατε, ψηλαφωμένῳ	1	For you have not come to a mountain that can be touched	You can state the implicit information explicitly. Alternate translation: “For you have not come, as the people of Israel came, to a mountain that can be touched” (See: [[rc://en/ta/man/translate/figs-explicit]])
