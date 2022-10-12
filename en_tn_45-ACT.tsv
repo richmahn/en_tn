@@ -2822,9 +2822,7 @@ ACT	20	15	ulk6	translate-names	Χίου	1	Chios	The word **Chios** is the name o
 ACT	20	15	b6c6	translate-names	Σάμον	1	Samos	The word **Samos** is the name of an island south of Chios in the Aegean Sea. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	20	15	s7g2	translate-names	Μίλητον	1	Miletus	The word **Miletus** is the name of a port city that was located in western Asia Minor. (See: [[rc://en/ta/man/translate/translate-names]])
 ACT	20	16	p61e	figs-metaphor	ὅπως μὴ γένηται αὐτῷ χρονοτριβῆσαι	1	so that he would not spend time	Luke is speaking figuratively about **time** as if it were a commodity that a person could **lose**. Alternate translation: “so that he would not have to remain for a time” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-ACT	20	17	nw52		μετεκαλέσατο	1		Here the word **he** refers to Paul.
-ACT	20	17	v9al			0	Connecting Statement:	Paul calls the elders of the church of Ephesus and begins to speak to them.
-ACT	20	17	l9aj	translate-names	τῆς Μιλήτου	1	Miletus	**Miletus** was a port city in western Asia Minor near the mouth of the Meander River. See how you translated this in [Acts 20:15](../20/15.md). (See: [[rc://en/ta/man/translate/translate-names]])
+ACT	20	17	nw52	writing-pronouns	μετεκαλέσατο	1		The pronoun **he** refers to Paul. It may be helpful to clarify this for your readers. Alternate translation: “Paul sent” (See: [[rc://en/ta/man/translate/writing-pronouns]])
 ACT	20	18	b6li	figs-rpronouns	ὑμεῖς ἐπίστασθε	1	You yourselves know	Here, **yourselves** is used for emphasis. (See: [[rc://en/ta/man/translate/figs-rpronouns]])
 ACT	20	18	vw6n	figs-synecdoche	ἐπέβην εἰς τὴν Ἀσίαν	1	I set foot in Asia	Here, **foot** stands for the entire person. Alternate translation: “I entered Asia” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 ACT	20	19	wh5m	figs-metonymy	δακρύων	1	tears	Here **tears** stands for feeling sad and crying. Alternate translation: “sadness” (See: [[rc://en/ta/man/translate/figs-metonymy]])
