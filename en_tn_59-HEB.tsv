@@ -1953,8 +1953,9 @@ HEB	12	25	kmmk	grammar-connect-condition-hypothetical	ἡμεῖς οἱ…ἀπ
 HEB	12	25	lnpe	writing-pronouns	τὸν	3	if we turn away from the one who is warning	Here, the phrase **the one** could refer to: (1) God generally. Alternate translation: “God” (2) Jesus specifically. Alternate translation: “Jesus” (See: [[rc://en/ta/man/translate/writing-pronouns]])
 HEB	12	26	rf4e	figs-metonymy	οὗ ἡ φωνὴ	1	his voice shook the earth	
 HEB	12	26	yxrb	figs-explicit	τότε; νῦν	1	his voice shook the earth	
-HEB	12	26	rspc		ἔτι ἅπαξ ἐγὼ σείσω, οὐ μόνον τὴν γῆν, ἀλλὰ καὶ τὸν οὐρανόν	1		This quotation is from the prophet Haggai in the Old Testament.
-HEB	12	26	i1c8		ἐσάλευσεν…σείσω	1	shook … shake	Translate **shook** and **shake** with words for what an earthquake does when it moves the ground. This refers back to [Hebrews 12:18-21](./18.md) and what happened when the people saw the mountain where Moses received the law from God.
+HEB	12	26	dr6r	writing-quotations	λέγων	1	his voice shook the earth	
+HEB	12	26	rspc	figs-quotations	λέγων, ἔτι ἅπαξ ἐγὼ σείσω, οὐ μόνον τὴν γῆν, ἀλλὰ καὶ τὸν οὐρανόν	1		
+HEB	12	26	i1c8	figs-idiom	ἔτι ἅπαξ	1	shook … shake	
 HEB	12	27	z6ys	figs-abstractnouns	δηλοῖ τῶν σαλευομένων μετάθεσιν	1	mean the removal of those things that can be shaken, that is, of the things	You can translate the abstract noun **removal** with the verbal phrase “take away.” Alternate translation: “to the taking away of the things that can be shaken” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 HEB	12	27	dnpi	figs-activepassive	δηλοῖ τῶν σαλευομένων μετάθεσιν, ὡς πεποιημένων	1		If your language does not use this passive form, you can state this in active form. Alternate translation: “means that God will remove the things that he can shake, that is, the things that he created” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 HEB	12	27	l29r		τῶν σαλευομένων	1	shaken	Translate **shaken** with the word for what an earthquake does when it moves the ground. This refers back to [Hebrews 12:18-21](./18.md) and what happened when the people saw the mountain where Moses received the law from God. See how you translated “shook” and “shake” in [Hebrews 12:26](../12/26.md).
