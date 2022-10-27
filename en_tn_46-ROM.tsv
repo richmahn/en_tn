@@ -2459,7 +2459,7 @@ ROM	16	15	n2rx	translate-names	Ἰουλίαν	1	Julia	**Julia** is the name of 
 ROM	16	16	g2z1		φιλήματι ἁγίῳ	1	a holy kiss	an expression of affection for fellow believers
 ROM	16	16	t1q4	figs-hyperbole	ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι πᾶσαι τοῦ Χριστοῦ	1	All the churches of Christ greet you	Here Paul speaks in a general manner concerning the **churches** of Christ. Alternate translation: “The believers in all the churches in this area send their greetings to you” (See: [[rc://en/ta/man/translate/figs-hyperbole]])
 ROM	16	17	u1m9			0	Connecting Statement:	Paul gives one last warning to the believers about unity and living for God.
-ROM	16	17	wx6r		ἀδελφοί	1	brothers	Here, **brothers** refers to fellow Christians, including both men and women.
+ROM	16	17	wx6r	figs-gendernotations	ἀδελφοί	1	brothers	See how you translated this word in [1:13](../01/13.md). (See: [[rc://en/ta/man/translate/figs-gendernotations]])
 ROM	16	17	ztv5		σκοπεῖν	1	to think about	Alternate translation: “to watch out for”
 ROM	16	17	n59l	figs-explicit	τὰς διχοστασίας καὶ τὰ σκάνδαλα…ποιοῦντας	1	who are causing the divisions and obstacles	This refers to those who argue and cause others to stop trusting in Jesus. Alternate translation: “who are causing believers to argue with one another and to stop having faith in God” (See: [[rc://en/ta/man/translate/figs-explicit]])
 ROM	16	17	j9x7		παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε	1	They are going beyond the teaching that you have learned	Alternate translation: “and teaching things that do not agree with the truth you have already learned”
