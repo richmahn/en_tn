@@ -80,9 +80,16 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	2	3	b6f9	figs-abstractnouns	πεποιθὼς	1		If your language does not use an abstract noun for the idea behind **confidence**, you could express the idea by using an adjective such as “confident.” Alternate translation: “being confident” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	2	3	i5r6		ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν	1	my joy is the same joy you all have	Here Paul could be stating that his **joy**: (1) leads to the Corinthians’ joy. Alternate translation: “my joy leads to your joy” (2) has the same source as the Corinthians’ joy. Alternate translation: “what gives me joy is what gives you joy” (3) comes from the Corinthians’ joy. Alternate translation: “my joy comes from your joy”
 2CO	2	3	gmyo	figs-abstractnouns	ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν	1		If your language does not use an abstract noun for the idea behind **joy**, you could express the idea by using a verb such as “rejoice” or an adjective such as “joyful.” Alternate translation: “I am joyful and so you are joyful” or “I rejoice and so you rejoice” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-2CO	2	4	uch7		ἐκ γὰρ πολλῆς θλίψεως	1	from great affliction	Here the word **affliction** refers to emotional pain.
-2CO	2	4	vs7m	figs-metonymy	συνοχῆς καρδίας	1	with anguish of heart	Here the word **heart** refers to the location of the emotions. Alternate translation: “with extreme sorrow” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-2CO	2	4	d5vf		διὰ πολλῶν δακρύων	1	with many tears	Alternate translation: “with much crying”
+2CO	2	4	p4n6	grammar-connect-words-phrases	γὰρ	1		
+2CO	2	4	tl4m	figs-explicit	ἔγραψα	1		
+2CO	2	4	uch7		ἐκ…ἔγραψα ὑμῖν	1	from great affliction	
+2CO	2	4	oz8a	figs-abstractnouns	ἐκ…πολλῆς θλίψεως καὶ συνοχῆς καρδίας	1		
+2CO	2	4	vs7m	figs-metonymy	συνοχῆς καρδίας	1	with anguish of heart	
+2CO	2	4	d5vf	figs-idiom	διὰ πολλῶν δακρύων	1	with many tears	Alternate translation: “with much crying”
+2CO	2	4	y0t3	figs-infostructure	οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε, ἣν ἔχω περισσοτέρως εἰς ὑμᾶς	1		If your language would not naturally put the negative statement before the positive statement, you could reverse the two clauses here. Alternate translation: “so that you might know the love that I have more abundantly for you, not so that you would be grieved” (See: [[rc://en/ta/man/translate/figs-infostructure]])
+2CO	2	4	uc77	figs-activepassive	λυπηθῆτε	1		
+2CO	2	4	g826	figs-abstractnouns	τὴν ἀγάπην…ἣν ἔχω περισσοτέρως εἰς ὑμᾶς	1		
+2CO	2	4	zw13		περισσοτέρως	1		Alternate translation: “most abundantly” or “very abundantly”
 2CO	2	6	iy4r	figs-activepassive	ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη, ἡ ὑπὸ τῶν πλειόνων	1	This punishment of that person by the majority is enough	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “The punishment that the majority gave that person is sufficient” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 2CO	2	6	wr3k	figs-abstractnouns	ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη, ἡ ὑπὸ τῶν πλειόνων	1		If your language does not use an abstract noun for the idea behind the word ** punishment**, you can express the same idea with a verbal form. Alternate translation: “The way that the majority has punished that person is enough” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	2	6	a7c4		ἱκανὸν	1	is enough	Alternate translation: “is sufficient”
