@@ -171,9 +171,9 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	2	16	pv6o	figs-infostructure	οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν	1		Here Paul refers to “the ones perishing” before he refers to “the ones being saved,” which is the opposite of the order he used in [2:15](../02/15.md). This was good style in his culture. If reversing the order from [2:15](../02/15.md) would be confusing for your readers, and if it would not be good style, you could reverse the order here to match that in [2:15](../02/15.md). Alternate translation: “to the ones indeed, an aroma from life to life, but to the others, an aroma from death to death” (See: [[rc://en/ta/man/translate/figs-infostructure]])
 2CO	2	16	t3vw	writing-pronouns	οἷς	-1		
 2CO	2	16	dwk6	figs-exmetaphor	ὀσμὴ	-1	an aroma	
-2CO	2	16	ud2u	figs-idiom	ἐκ θανάτου εἰς θάνατον…ἐκ ζωῆς εἰς ζωήν	1	an aroma from death to death	
+2CO	2	16	ud2u	figs-idiom	ἐκ θανάτου εἰς θάνατον…ἐκ ζωῆς εἰς ζωήν	1	an aroma from death to death	(1) **from** indicates the source of the **aroma**, and **to** indicates the effects of the **aroma**. (2) **from** and **to** together emphasize that the **aroma** is characterized completely by either **death** or **life**. 
 2CO	2	16	cdr3	writing-pronouns	πρὸς ταῦτα	1	a fragrance from life to life	
-2CO	2	16	be6x	figs-rquestion	πρὸς ταῦτα τίς ἱκανός?	1	who is worthy of these things?	(See: [[rc://en/ta/man/translate/figs-rquestion]])
+2CO	2	16	be6x	figs-rquestion	πρὸς ταῦτα τίς ἱκανός?	1	who is worthy of these things?	(1) no one is. (2) Paul and those with him are. (See: [[rc://en/ta/man/translate/figs-rquestion]])
 2CO	2	17	a5sa	figs-metonymy	καπηλεύοντες τὸν λόγον τοῦ Θεοῦ	1	who sell the word of God	Here, **word** is a metonym for “message.” Alternate translation: “who sell God’s message to make money” (See: [[rc://en/ta/man/translate/figs-metonymy]])
 2CO	2	17	x86y		εἰλικρινείας	1	sincerity	Alternate translation: “pure motives”
 2CO	2	17	u2zb		κατέναντι Θεοῦ ἐν Χριστῷ λαλοῦμεν	1	we speak in Christ	Alternate translation: “we speak as people who are joined to Christ” or “we speak with the authority of Christ”
