@@ -212,6 +212,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	3	3	hlap	figs-possession	ἐπιστολὴ Χριστοῦ	1		
 2CO	3	3	wrk4	figs-activepassive	διακονηθεῖσα ὑφ’ ἡμῶν	1	cared for by us	
 2CO	3	3	dsxa	translate-unknown	διακονηθεῖσα	1		
+2CO	3	3	akc6	figs-infostructure	ἐνγεγραμμένη οὐ μέλανι, ἀλλὰ Πνεύματι Θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις, ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις	1		
 2CO	3	3	vyuh	figs-ellipsis	ἐνγεγραμμένη οὐ μέλανι, ἀλλὰ Πνεύματι Θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις, ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις	1		The verb “written” is implied in the second phrase. Alternate translation: “not written with ink, but written with the Spirit of the living God” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 2CO	3	3	q96q	figs-activepassive	ἐνγεγραμμένη οὐ	1	It was written not with ink … on tablets of human hearts	
 2CO	3	3	qt5g	translate-unknown	μέλανι	1	It was written not with ink but by the Spirit of the living God	
@@ -219,6 +220,7 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	3	3	ana2	translate-unknown	ἐν πλαξὶν	-1		
 2CO	3	3	ih89	figs-possession	πλαξὶν λιθίναις	1		
 2CO	3	3	u959	figs-possession	πλαξὶν καρδίαις σαρκίναις	1	tablets of human hearts	
+2CO	3	3	no25	figs-metonymy	καρδίαις σαρκίναις	1		
 2CO	3	4	z7qx		πεποίθησιν δὲ τοιαύτην ἔχομεν	1	such confidence	This refers to what Paul has just said. His **confidence** comes from knowing that the Corinthians are the validation of his ministry before God.
 2CO	3	5	qye9		ἀφ’ ἑαυτῶν ἱκανοί	1	competent in ourselves	Alternate translation: “qualified in ourselves” or “sufficient in ourselves”
 2CO	3	5	e5e7	figs-explicit	λογίσασθαί τι ὡς ἐξ ἑαυτῶν	1	to consider anything as coming from us	Here the word **anything** refers to anything pertaining to Paul’s apostolic ministry. Alternate translation: “to claim that anything we have done in ministry comes from our own efforts” (See: [[rc://en/ta/man/translate/figs-explicit]])
