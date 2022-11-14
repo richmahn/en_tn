@@ -300,12 +300,18 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	3	13	p5u2	figs-explicit	τοῦ καταργουμένου	1	the end of that which was fading away	Here, the phrase **{what} was fading away** could refer to: (1) the “glory” that shone from the **face** of Moses. In this case, Paul could also be implying that the old covenant would also “fade.” Alternate translation: “of the glory that was fading from his face” (2) the old covenant, that would “fade away” when God instituted a new covenant. Alternate translation: “of the covenant that would fade away” (See: [[rc://en/ta/man/translate/figs-explicit]])
 2CO	3	13	mczg	figs-possession	τὸ τέλος τοῦ καταργουμένου	1		Here Paul uses the possessive form to describe how **{what} was fading away** completely ceased or “ended.” If it would be helpful in your language, you could express the idea in a more natural way. Alternate translation: “how what was fading away ended” (See: [[rc://en/ta/man/translate/figs-possession]])
 2CO	3	13	fe5r	figs-abstractnouns	τὸ τέλος τοῦ καταργουμένου	1		If your language does not use an abstract noun for the idea behind **end**, you could express the idea by using a verb such as “end” or “cease.” Alternate translation: “how what was fading away ended” or “what ceased after fading away” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
-2CO	3	14	zvf5	figs-metaphor	ἀλλὰ ἐπωρώθη τὰ νοήματα αὐτῶν	1	But their minds were hardened	Paul speaks of the **minds** of the Israelite people as objects that could be closed or made hard. This expression means that they were unable to understand what they saw. Alternate translation: “But the Israelites could not understand what they saw” (See: [[rc://en/ta/man/translate/figs-metaphor]])
-2CO	3	14	zm7j		ἄχρι γὰρ τῆς σήμερον ἡμέρας	1	For until this present day	Here, **the present day** refers to the time at which Paul was writing to the Corinthians.
-2CO	3	14	w68p	figs-metaphor	τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει, μὴ ἀνακαλυπτόμενον	1	when they read the old covenant, that same veil remains	Just as the Israelites could not see the glory on Moses’ face because he covered his face with a **veil**, there is a spiritual veil that prevents people from understanding when they read the **old covenant**. (See: [[rc://en/ta/man/translate/figs-metaphor]])
+2CO	3	14	kb8y	grammar-connect-logic-contrast	ἀλλὰ	1		
+2CO	3	14	csl1	writing-pronouns	αὐτῶν	1		
+2CO	3	14	khkq	figs-activepassive	ἐπωρώθη τὰ νοήματα αὐτῶν	1		
+2CO	3	14	zvf5	figs-metaphor	ἐπωρώθη τὰ νοήματα αὐτῶν	1	But their minds were hardened	Alternate translation: “But the Israelites could not understand what they saw” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+2CO	3	14	tzbd	grammar-connect-words-phrases	γὰρ	1		
+2CO	3	14	zm7j	figs-idiom	ἄχρι…τῆς σήμερον ἡμέρας	1	For until this present day	
+2CO	3	14	w68p	figs-metaphor	τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει, μὴ ἀνακαλυπτόμενον	1	when they read the old covenant, that same veil remains	(See: [[rc://en/ta/man/translate/figs-metaphor]])
+2CO	3	14	wymg	figs-explicit	τὸ αὐτὸ κάλυμμα	1		
 2CO	3	14	gg2d	figs-possession	ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης	1	when they read the old covenant	Alternate translation: “when they hear someone read the old covenant”
 2CO	3	14	orvo	figs-metonymy	τῆς παλαιᾶς διαθήκης	1		
 2CO	3	14	gl8l	figs-activepassive	μὴ ἀνακαλυπτόμενον	1	It has not been removed, because only in Christ is it taken away	
+2CO	3	14	vygf	grammar-connect-logic-result	ὅτι	1		
 2CO	3	14	m7lk	figs-metaphor	ἐν Χριστῷ	1		
 2CO	3	14	r1lt	figs-explicit	καταργεῖται	1		
 2CO	3	15	rjh5		ἀλλ’ ἕως σήμερον	1	But even today	Here the word **today** refers to the time at which Paul was writing to the Corinthians.
