@@ -356,13 +356,18 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	4	1	h1ud	figs-explicit	καθὼς ἠλεήθημεν	1	and just as we have received mercy	Here, this phrase could indicate: (1) the way that Paul and those with him received the **ministry**. Alternate translation: “which we received by God’s mercy” (2) what led to Paul and those with him receiving the ministry, which was their conversions. Alternate translation: “which we received after God had mercy on us” (See: [[rc://en/ta/man/translate/figs-explicit]])
 2CO	4	1	que0	figs-abstractnouns	ἠλεήθημεν	1		If your language does not use an abstract noun for the idea behind **mercy**, you could express the idea by using an adjective such as “merciful” or an adverb such as “mercifully.” Alternate translation: “God acted mercifully toward us” or “God was merciful to us” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	4	1	ix7n	translate-unknown	οὐκ ἐνκακοῦμεν	1	having this ministry	Here, the word **discouraged** could refer to: (1) losing motivation and confidence. Alternate translation: “we do not lose hope” (2) becoming tired or exhausted. Alternate translation: “we do not become tired” (See: [[rc://en/ta/man/translate/translate-unknown]])
-2CO	4	2	yp4g		ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης	1	we have rejected the shameful hidden things	This means that Paul and his coworkers refused to do secret and **shameful** things. It does not mean that they had done these things in the past.
-2CO	4	2	z4c2	figs-hendiadys	τὰ κρυπτὰ τῆς αἰσχύνης	1	the shameful hidden things	The word **hidden** describes the things that people do secretly. Things that are **shameful** should cause people who do them to feel ashamed. Alternate translation: “the things that people do secretly because they cause shame” (See: [[rc://en/ta/man/translate/figs-hendiadys]])
-2CO	4	2	ey75		περιπατοῦντες ἐν πανουργίᾳ	1	walking in craftiness	Alternate translation: “living by deception”
-2CO	4	2	gp3g	figs-metonymy	μηδὲ δολοῦντες τὸν λόγον τοῦ Θεοῦ	1	not distorting the word of God	Here, **word of God** is a metonym for the message from God. Alternate translation: “we do not mishandle God’s message” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-2CO	4	2	lzn0	figs-doublenegatives	μηδὲ δολοῦντες τὸν λόγον τοῦ Θεοῦ	1		If your readers would misunderstand the double-negative **nor distorting**, you could express it in positive form. Alternate translation: “we use the word of God correctly” (See: [[rc://en/ta/man/translate/figs-doublenegatives]])
-2CO	4	2	aj24		συνιστάνοντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων	1	commending ourselves to every person’s conscience	This means that they provide enough evidence for each person who hears them to decide whether they are right or wrong.
-2CO	4	2	f6n1	figs-metaphor	ἐνώπιον τοῦ Θεοῦ	1	before God	Here, **before God** refers to God’s presence. God’s understanding and approval of Paul’s truthfulness is referred to as God being able to see them. Alternate translation: “with God as witness” (See: [[rc://en/ta/man/translate/figs-metaphor]])
+2CO	4	2	yp4g	grammar-connect-logic-contrast	ἀλλὰ	1	we have rejected the shameful hidden things	
+2CO	4	2	z4c2	figs-explicit	τὰ κρυπτὰ τῆς αἰσχύνης	1	the shameful hidden things	
+2CO	4	2	ey75	figs-metaphor	περιπατοῦντες ἐν πανουργίᾳ	1	walking in craftiness	
+2CO	4	2	vvzc	figs-abstractnouns	ἐν πανουργίᾳ	1		
+2CO	4	2	lzn0	translate-unknown	δολοῦντες	1		
+2CO	4	2	gcqm	figs-possession	τὸν λόγον τοῦ Θεοῦ	1		
+2CO	4	2	gp3g	figs-metonymy	τὸν λόγον	1	not distorting the word of God	
+2CO	4	2	mrri	figs-possession	τῇ φανερώσει τῆς ἀληθείας	1		
+2CO	4	2	e7y7	figs-abstractnouns	τῇ φανερώσει τῆς ἀληθείας	1		
+2CO	4	2	rqin	translate-unknown	συνιστάνοντες	1		
+2CO	4	2	aj24	figs-gendernotations	ἀνθρώπων	1	commending ourselves to every person’s conscience	
+2CO	4	2	f6n1	figs-metaphor	ἐνώπιον τοῦ Θεοῦ	1	before God	
 2CO	4	3	mti5	figs-metaphor	εἰ δὲ καὶ ἔστιν κεκαλυμμένον τὸ εὐαγγέλιον ἡμῶν, ἐν τοῖς ἀπολλυμένοις ἐστὶν κεκαλυμμένον	1	But if our gospel is veiled, it is veiled only to those who are perishing	This refers back to what Paul said starting in [2 Corinthians 3:14](../03/14.md). There Paul explained that there is a spiritual **veil** that prevents people from understanding when they read the old covenant. In the same way, people are not able to understand the **gospel**. (See: [[rc://en/ta/man/translate/figs-metaphor]])
 2CO	4	3	hz2f	figs-activepassive	εἰ…ἔστιν κεκαλυμμένον τὸ εὐαγγέλιον ἡμῶν…ἐστὶν κεκαλυμμένον	1	if our gospel is veiled, it is veiled	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “if a veil covers our gospel, that veil covers it” (See: [[rc://en/ta/man/translate/figs-activepassive]])
 2CO	4	3	e5yu		τὸ εὐαγγέλιον ἡμῶν	1	our gospel	Alternate translation: “the gospel that we preach”
