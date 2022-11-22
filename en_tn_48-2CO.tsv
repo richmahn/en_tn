@@ -417,9 +417,11 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	4	10	k10l	figs-possession	ἡ ζωὴ τοῦ Ἰησοῦ	1		Here Paul uses the possessive form to describe **life** that could: (1) belong to **Jesus**. In other words, it is his resurrection life. Alternate translation: “the life that Jesus has” (2) come from **Jesus**. Alternate translation: “life from Jesus” (See: [[rc://en/ta/man/translate/figs-possession]])
 2CO	4	10	j23j	figs-abstractnouns	ἡ ζωὴ τοῦ Ἰησοῦ	1		If your language does not use an abstract noun for the idea behind **life**, you could express the idea by using a verb such as “live.” Alternate translation: “how Jesus lives” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	4	11	vivg	grammar-connect-words-phrases	γὰρ	1		
-2CO	4	11	ht74	figs-metaphor	ἀεὶ…εἰς θάνατον παραδιδόμεθα	1	For we who are alive are always being handed over to death for the sake of Jesus	
 2CO	4	11	l1xk	figs-activepassive	ἀεὶ…ἡμεῖς, οἱ ζῶντες…παραδιδόμεθα	1		
+2CO	4	11	ggb5	grammar-connect-logic-contrast	ἀεὶ…ἡμεῖς, οἱ ζῶντες…παραδιδόμεθα	1		
+2CO	4	11	ht74	figs-metaphor	ἀεὶ…εἰς θάνατον παραδιδόμεθα	1	For we who are alive are always being handed over to death for the sake of Jesus	
 2CO	4	11	admc	figs-abstractnouns	εἰς θάνατον	1		
+2CO	4	11	wt5i	figs-explicit	διὰ Ἰησοῦν	1		(1) to serve **Jesus**. (2) because of **Jesus**, particularly because they preach about him. 
 2CO	4	11	d1wm	figs-explicit	ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ ἐν τῇ θνητῇ σαρκὶ ἡμῶν	1	so that the life of Jesus may be shown in our mortal flesh	Here you should express the idea like you did in [4:10](../04/10.md).
 2CO	4	11	ww5r	figs-activepassive	καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ	1	so that the life of Jesus may be shown in our mortal flesh	
 2CO	4	11	r513	figs-abstractnouns	ἡ ζωὴ τοῦ Ἰησοῦ	1		
