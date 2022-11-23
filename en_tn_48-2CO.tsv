@@ -432,9 +432,14 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	4	12	n7or	figs-explicit	δὲ	1		Here Paul may be: (1) simply contrasting **death and **life**. Alternate translation: “but on the other hand,” (2) indicating that the **death** in them leads to the **life in you**. Alternate translation: “but so that” (See: [[rc://en/ta/man/translate/figs-explicit]])
 2CO	4	12	tvne	figs-ellipsis	ἡ…ζωὴ ἐν ὑμῖν	1		This clause leaves out some words that many languages might need to be complete. If it would be helpful in your language, you could supply these words from the first half of the verse. Alternate translation: “life works in you” (See: [[rc://en/ta/man/translate/figs-ellipsis]])
 2CO	4	12	albz	figs-explicit	ἡ…ζωὴ	1		Here, the word **life** could refer: (1) specifically to resurrection life, which the Corinthians will receive. Alternate translation: “eternal life” (2) generally to being alive and not experiencing suffering or dangerous things. Alternate translation: “the experience of life” (See: [[rc://en/ta/man/translate/figs-explicit]])
-2CO	4	13	ret6		τὸ αὐτὸ πνεῦμα τῆς πίστεως	1	the same spirit of faith	Here the word **spirit** refers a person’s attitude and temperament. Alternate translation: “the same attitude of faith”
-2CO	4	13	gzf4	figs-activepassive	κατὰ τὸ γεγραμμένον	1	according to that which was written	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “as the one who wrote these words” (See: [[rc://en/ta/man/translate/figs-activepassive]])
-2CO	4	13	il5h		ἐπίστευσα, διὸ ἐλάλησα	1	I believed, and so I spoke	This is a quote from the Psalms.
+2CO	4	13	jqmm	grammar-connect-words-phrases	δὲ	1		
+2CO	4	13	cckc	grammar-connect-logic-result	ἔχοντες	1		
+2CO	4	13	ret6	figs-possession	τὸ αὐτὸ πνεῦμα τῆς πίστεως	1	the same spirit of faith	
+2CO	4	13	wrr3		τὸ αὐτὸ πνεῦμα	1		
+2CO	4	13	qma7	figs-abstractnouns	τῆς πίστεως	1		
+2CO	4	13	gzf4	figs-activepassive	τὸ γεγραμμένον	1	according to that which was written	
+2CO	4	13	il5h	writing-quotations	κατὰ τὸ γεγραμμένον	1	I believed, and so I spoke	
+2CO	4	13	vshy	figs-quotations	τὸ γεγραμμένον, ἐπίστευσα, διὸ ἐλάλησα;	1		
 2CO	4	14	t2i8	figs-idiom	ὁ ἐγείρας τὸν Ἰησοῦν, καὶ…ἐγερεῖ	1	that the one who raised the Lord Jesus will … raise	Here to raise up is an idiom for causing someone who has died to become alive again. Alternate translation: “the one who caused the Lord Jesus to live again will also raise” or “God, who raised the Lord Jesus, will also raise” (See: [[rc://en/ta/man/translate/figs-idiom]])
 2CO	4	15	v7sj		τὰ γὰρ πάντα δι’ ὑμᾶς	1	For all these things are for your sake	Here, **all these things** refers to all of the sufferings that Paul has described in previous verses.
 2CO	4	15	l1mu	figs-activepassive	ἡ χάρις πλεονάσασα διὰ τῶν πλειόνων	1	the grace that is abounding to more and more people	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “as God spreads his grace to many more people, it” (See: [[rc://en/ta/man/translate/figs-activepassive]])
