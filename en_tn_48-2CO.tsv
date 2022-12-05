@@ -741,7 +741,8 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	7	1	h5xv		ἀγαπητοί	1	Beloved	Alternate translation: “you whom I love” or “dear friends”
 2CO	7	1	fv49		καθαρίσωμεν ἑαυτοὺς	1	let us cleanse ourselves	Here Paul is saying to stay away from any form of sin that would affect one’s relationship with God.
 2CO	7	1	c2xf		ἐπιτελοῦντες ἁγιωσύνην	1	perfecting holiness	Alternate translation: “striving to be holy”
-2CO	7	1	pt41		ἐν φόβῳ Θεοῦ	1	in the fear of God	Alternate translation: “out of deep respect for God”
+2CO	7	1	pt41	figs-possession	φόβῳ Θεοῦ	1	in the fear of God	Here Paul uses the possessive form to identify **fear** that is directed toward **God**. If it would be helpful in your language, you could express the idea in a more natural way. Alternate translation: “the fear that is directed to God” or “the fear that we experience for God” (See: [[rc://en/ta/man/translate/figs-possession]])
+2CO	7	1	xlet	figs-abstractnouns	ἐν φόβῳ Θεοῦ	1		If your language does not use an abstract noun for the idea behind fear, you could express the idea by using a verb such as “fear.” Alternate translation: “in how we fear God” or “as we fear God” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	7	2	v4nu			0	Connecting Statement:	Having already warned the people of Corinth about other leaders who were striving to get these Corinthian believers to follow them, Paul reminds the people of the way he feels about them.
 2CO	7	2	x3lg	figs-explicit	χωρήσατε ἡμᾶς	1	Make room for us	This refers back to what Paul said starting in [2 Corinthians 6:11](../06/11.md) about them opening their hearts to him. (See: [[rc://en/ta/man/translate/figs-explicit]])
 2CO	7	2	c2yz	figs-metaphor	χωρήσατε ἡμᾶς	1		Paul speaks of the Corinthians loving him as if they were opening their hearts to him. Alternate translation: “Make room for us in your hearts” or “Love us and accept us” (See: [[rc://en/ta/man/translate/figs-metaphor]])
