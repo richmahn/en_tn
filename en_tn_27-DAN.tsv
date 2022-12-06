@@ -39,14 +39,11 @@ DAN	1	19	e2m3		כְּ⁠דָנִיֵּ֣אל חֲנַנְיָ֔ה מִֽישָׁ
 DAN	1	20	f5x8	figs-hyperbole	עֶ֣שֶׂר יָד֗וֹת עַ֤ל	1	ten times better than	Here **ten times** is an exaggeration representing great quality. Alternate translation: “much better” (See: [[rc://en/ta/man/translate/figs-hyperbole]])
 DAN	1	21	jhp9		שְׁנַ֥ת אַחַ֖ת לְ⁠כ֥וֹרֶשׁ הַ⁠מֶּֽלֶךְ	1	the first year of King Cyrus	Alternate translation: “the first year that King Cyrus ruled Babylon”
 DAN	2	intro	epd5			0		# Daniel 2 General Notes<br><br>## Structure and formatting<br><br>Some translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetry in Daniel’s prayer in 2:20-23.<br><br>## Special concepts in this chapter<br><br>### The king’s dream<br><br>Daniel told the king’s dream and what the dream meant. In the ancient Near East, it was believed that only people in touch with the gods could interpret dreams. (See: [[rc://en/tw/dict/bible/kt/falsegod]])<br><br>### How Daniel knew the dream<br><br>Daniel gave Yahweh the honor for having told him the dream and its meaning in answer to the prayers of the four men.
-DAN	2	1	mns5	translate-ordinal		0	In the second year	“In year two” (See: [[rc://en/ta/man/translate/translate-ordinal]])
-DAN	2	1	xtc6			0	he had dreams	Alternate translation: “Nebuchadnezzar had dreams”
-DAN	2	1	xw34	figs-metonymy		0	His mind was troubled	Here “mind” refers to his thoughts. Alternate translation: “His thoughts disturbed him” (See: [[rc://en/ta/man/translate/figs-metonymy]])
-DAN	2	1	g67b			0	and he could not sleep	His troubled thoughts prevented him from sleeping. Alternate translation: “so that he could not sleep”
-DAN	2	2	zsv7			0	Then the king summoned the magicians	Alternate translation: “Then the king called the magicians”
-DAN	2	2	a7yh			0	the dead	Alternate translation: “people who had died”
-DAN	2	2	n5gn			0	they came in	Alternate translation: “they came into the palace”
-DAN	2	2	x5f6			0	stood before	Alternate translation: “stood in front of”
+DAN	2	1	mns5	translate-ordinal	וּ⁠בִ⁠שְׁנַ֣ת שְׁתַּ֗יִם	1	In the second year	“In year two” (See: [[rc://en/ta/man/translate/translate-ordinal]])
+DAN	2	1	xw34	figs-metonymy	וַ⁠תִּתְפָּ֣עֶם רוּח֔⁠וֹ	1	His spirit was troubled	Here **spirit** refers to his thoughts. Alternate translation: “His thoughts disturbed him” (See: [[rc://en/ta/man/translate/figs-metonymy]])
+DAN	2	1	g67b	figs-idiom	וּ⁠שְׁנָת֖⁠וֹ נִהְיְתָ֥ה עָלָֽי⁠ו	1	and his sleep left him	This is an idiom that means his troubled thoughts prevented him from sleeping. Alternate translation: “so that he could not sleep”  (See: [[rc://en/ta/man/translate/figs-idiom]])
+DAN	2	2	n5gn		וַ⁠יָּבֹ֕אוּ	1	So they came in	Alternate translation: “So they came into the palace”
+DAN	2	2	x5f6		וַ⁠יַּֽעַמְד֖וּ לִ⁠פְנֵ֥י	1	and stood before	Alternate translation: “and stood in front of”
 DAN	2	3	q4dv	figs-synecdoche		0	my mind is anxious	Here “mind” refers to the king himself. Alternate translation: “I am anxious” (See: [[rc://en/ta/man/translate/figs-synecdoche]])
 DAN	2	3	wvg5			0	anxious	Alternate translation: “troubled”
 DAN	2	4	k6f2	translate-names		0	Aramaic	This is the language that people in Babylon spoke. (See: [[rc://en/ta/man/translate/translate-names]])
