@@ -942,7 +942,9 @@ Book	Chapter	Verse	ID	SupportReference	OrigQuote	Occurrence	GLQuote	OccurrenceNo
 2CO	8	19	mkwm	figs-abstractnouns	σὺν τῇ χάριτι ταύτῃ	1	he also was selected by the churches	
 2CO	8	19	pgtn	figs-explicit	τῇ χάριτι ταύτῃ	1	he also was selected by the churches	
 2CO	8	19	k7dy	figs-activepassive	τῇ διακονουμένῃ ὑφ’ ἡμῶν	1	along with this act of grace which is being administered by us	
-2CO	8	19	v22x		προθυμίαν ἡμῶν	1	our readiness	Alternate translation: “our eagerness to help”
+2CO	8	19	iph0	figs-abstractnouns	πρὸς τὴν τοῦ Κυρίου δόξαν	1	along with this act of grace which is being administered by us	Alternate translation: “to glorify the Lord”
+2CO	8	19	lvyu	figs-explicit	καὶ προθυμίαν ἡμῶν	1	along with this act of grace which is being administered by us	
+2CO	8	19	v22x	figs-abstractnouns	καὶ προθυμίαν ἡμῶν	1	our readiness	
 2CO	8	20	a3ps	figs-abstractnouns	ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ’ ἡμῶν	1	concerning this generosity that we are carrying out	This refers to taking the offering to Jerusalem. If your language does not use an abstract noun for the idea behind the word **administration**, you can express the same idea with a verbal form. Alternate translation: “concerning the way we are handling this generous gift” (See: [[rc://en/ta/man/translate/figs-abstractnouns]])
 2CO	8	21	n4x1		προνοοῦμεν γὰρ καλὰ	1	For we considered beforehand what is right	Alternate translation: “We are careful to handle this gift in an honorable way”
 2CO	8	21	ey5n		ἐνώπιον Κυρίου…ἐνώπιον ἀνθρώπων	1	before the Lord … before people	Alternate translation: “in the Lord’s opinion … in people’s opinion”
