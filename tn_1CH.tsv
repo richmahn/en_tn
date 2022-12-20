@@ -11,7 +11,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 1:7	f92z		rc://*/ta/man/translate/translate-names	Elishah … Tarshish	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 1:7	vtm2		rc://*/ta/man/translate/translate-names	Kittites … Rodanites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
 1:7	pgx1		rc://*/ta/man/translate/translate-textvariants	Rodanites	0	This name is sometimes spelled “Dodanites.” (See: [[rc://*/ta/man/translate/translate-textvariants]])
-1:8	mj6x		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:8	mj6x		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 1:11	zc4f		rc://*/ta/man/translate/translate-names	Ludites … Anamites … Lehabites … Naphtuhites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
 1:12	p883		rc://*/ta/man/translate/translate-names	Pathrusites … Kasluhites … Philistines … Caphtorites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
 1:12	d1yt			from whom the Philistines came	0	Alternate translation: “the ancestors of the Philistines”
@@ -20,17 +20,17 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 1:14	v4fs		rc://*/ta/man/translate/translate-names	Jebusites … Amorites … Girgashites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
 1:15	hms5		rc://*/ta/man/translate/translate-names	Hivites … Arkites … Sinites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
 1:16	q29n		rc://*/ta/man/translate/translate-names	Arvadites … Zemarites … Hamathites	0	These are names of people groups. (See: [[rc://*/ta/man/translate/translate-names]])
-1:17	hqr6		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:20	s21f		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:24	ddm2		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:28	f3vm		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:32	a9vr		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except for Keturah are names of men. Keturah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-1:33	zv7h		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except for Keturah are names of men. Keturah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-1:34	iw6s		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:38	kew6		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names in this verse are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:39	y7pu		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men, execpt for Timna. Timna is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-1:40	k71t		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-1:41	bs83		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:17	hqr6		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:20	s21f		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:24	ddm2		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:28	f3vm		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:32	a9vr		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except for Keturah are names of men. Keturah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+1:33	zv7h		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except for Keturah are names of men. Keturah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+1:34	iw6s		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:38	kew6		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names in this verse are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:39	y7pu		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men, execpt for Timna. Timna is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+1:40	k71t		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+1:41	bs83		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 1:43	zdy6		rc://*/ta/man/translate/translate-names	Edom … Dinhabah	0	These are the names of places. (See: [[rc://*/ta/man/translate/translate-names]])
 1:43	h7hp		rc://*/ta/man/translate/translate-names	Bela … Beor	0	These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 1:44	vii1		rc://*/ta/man/translate/translate-names	Bela … Jobab … Zerah	0	These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -55,8 +55,8 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 1:54	ngb5		rc://*/ta/man/translate/translate-names	Magdiel … Iram	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 1:54	w9ln		rc://*/ta/man/translate/translate-names	Edom	0	This is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
 2:intro	ix6r				0	# 1 Chronicles 2 General Notes\n\n## Structure and formatting\n\nThis chapter records the descendants of Judah, son of Jacob.
-2:1	lm7q		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-2:2	l5ef		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+2:1	lm7q		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+2:2	l5ef		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:3	p67t		rc://*/ta/man/translate/translate-names	Er … Onan … Shelah … Shua … Judah	0	These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:3	y528		rc://*/ta/man/translate/figs-activepassive	who were born to him by Shua’s daughter, a Canaanite woman	0	This can be translated in active form. Alternate translation: “his sons whom Shua’s daughter, a Canaanite woman, bore” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 2:3	m91v			Yahweh	0	This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
@@ -76,13 +76,13 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 2:10	jaw9		rc://*/ta/man/translate/translate-names	Ram … Amminadab … Nahshon … Judah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:11	h85a		rc://*/ta/man/translate/translate-names	Nahshon … Salmon … Boaz	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:12	n5z6		rc://*/ta/man/translate/translate-names	Boaz … Obed … Jesse	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-2:13	zxk9		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+2:13	zxk9		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:13	f6gw		rc://*/ta/man/translate/figs-ellipsis	the second … the third	0	The word “son” is understood. Also, the numbers are in ordinal form. Alternate translation: “the second son … the third son” (See: [[rc://*/ta/man/translate/figs-ellipsis]] and [[rc://*/ta/man/translate/translate-ordinal]])
 2:14	qn1v		rc://*/ta/man/translate/translate-names	Nethanel … Raddai	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:14	pfx5		rc://*/ta/man/translate/figs-ellipsis	the fourth … the fifth	0	The word “son” is understood. Also, the numbers are in ordinal form. Alternate translation: “the fourth son … the fifth son” (See: [[rc://*/ta/man/translate/figs-ellipsis]] and [[rc://*/ta/man/translate/translate-ordinal]])
 2:15	te72		rc://*/ta/man/translate/translate-names	Ozem … David	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:15	g68w		rc://*/ta/man/translate/figs-ellipsis	the sixth … the seventh	0	The word “son” is understood. Also, the numbers are in ordinal form. Alternate translation: “the sixth son … the seventh son” (See: [[rc://*/ta/man/translate/figs-ellipsis]] and [[rc://*/ta/man/translate/translate-ordinal]])
-2:16	br54		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll names here except Zeruiah and Abigail are the names of men. Zeruiah and Abigail are the names of women. (See: [[rc://*/ta/man/translate/translate-names]])
+2:16	br54		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll names here except Zeruiah and Abigail are the names of men. Zeruiah and Abigail are the names of women. (See: [[rc://*/ta/man/translate/translate-names]])
 2:17	j7as		rc://*/ta/man/translate/translate-names	Amasa … Jether	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:17	av3d			Jether the Ishmaelite	0	Alternate translation: “Jether, a descendant of Ishmael”
 2:18	t4ug		rc://*/ta/man/translate/translate-names	Caleb … Hezron … Jesher … Shobab … Ardon	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -90,7 +90,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 2:19	h7yh		rc://*/ta/man/translate/translate-names	Caleb … Hur	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:19	uk7l		rc://*/ta/man/translate/translate-names	Azubah … Ephrath	0	These are names of women. (See: [[rc://*/ta/man/translate/translate-names]])
 2:20	wh68		rc://*/ta/man/translate/translate-names	Hur … Uri … Bezalel	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-2:21	pxj5		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+2:21	pxj5		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:21	g62n			bore him	0	Alternate translation: “gave birth to”
 2:22	e526		rc://*/ta/man/translate/translate-names	Segub … Jair	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:22	ip3l			land of Gilead	0	People gave the land the name of the man.
@@ -140,7 +140,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 2:50	ywm7		rc://*/ta/man/translate/translate-names	father of Kiriath Jearim	0	Kiriath Jearim is the name of a town. The name of the town is a metonym for the people who live in the town. Alternate translation: “founder of Kiriath Jearim” (See: [[rc://*/ta/man/translate/translate-names]])
 2:51	ymr5		rc://*/ta/man/translate/translate-names	Salma … Hareph	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 2:51	pb5m		rc://*/ta/man/translate/translate-names	father of Bethlehem … father of Beth Gader	0	Bethlehem and Beth Gader are the names of towns. The names of the towns are metonyms for the people who live in the towns. Alternate translation: “founder of Bethlehem … founder of Beth Gader” (See: [[rc://*/ta/man/translate/translate-names]])
-2:52	k5ua		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nSee: [[rc://*/ta/man/translate/translate-names]]
+2:52	k5ua		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nSee: [[rc://*/ta/man/translate/translate-names]]
 2:52	yg2l		rc://*/ta/man/translate/translate-names	Shobal the father of Kiriath Jearim	0	Shobal is the name of a man, and Kiriath Jearim is the name of a town. See how you translated this in [1 Chronicles 2:50](../02/50.md). (See: [[rc://*/ta/man/translate/translate-names]])
 2:52	ja97			Manahathites	0	This is the name of a clan.
 2:53	h9np			Ithrites, Puthites, Shumathites … Mishraites … Zorathites … Eshtaolites	0	These are the names of clans.
@@ -166,24 +166,24 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 3:7	h3xx		rc://*/ta/man/translate/translate-names	Nogah, Nepheg, Japhia	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 3:8	ymz8		rc://*/ta/man/translate/translate-names	Elishama … Eliada … Eliphelet	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 3:9	ff3s		rc://*/ta/man/translate/translate-names	Tamar	0	This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-3:10	d4df		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis is the beginning of the list of David’s descendants who became king. All of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:10	d4df		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis is the beginning of the list of David’s descendants who became king. All of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 3:10	xah2			Solomon’s son was Rehoboam. Rehoboam’s son was Abijah	0	Solomon had more than one son. The same is true of other men in the list. Alternate translation: “Solomon was the father of Rehoboam. Rehoboam was the father of Abijah”
 3:12	rv8z			Azariah	0	This was another name for Uzziah, the better-known name for this king. Translators may decide to use “Uzziah” everywhere for this king.
 3:17	kq1l		rc://*/ta/man/translate/translate-names	Jehoiachin … Shealtiel	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 3:17	ac1d			Jehoiachin	0	Some versions have “Jeconiah,” which is a variation of “Jehoiachin.”
 3:17	yx5z			the captive	0	This may be a title that was given to Jehoiachin because he was taken into captivity. However, some versions regard the word as “Assir,” the name of one of his sons.
-3:18	i7ch		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-3:19	tc5b		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names in this list except Shelomith are the names of men. Shelomith is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
-3:20	mx14		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-3:21	kkp2		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:18	i7ch		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:19	tc5b		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names in this list except Shelomith are the names of men. Shelomith is a woman’s name. (See: [[rc://*/ta/man/translate/translate-names]])
+3:20	mx14		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:21	kkp2		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 3:21	fy8z		rc://*/ta/man/translate/translate-names	Obadiah	0	This man has the same name as the prophet Obadiah but is a different person. (See: [[rc://*/ta/man/translate/translate-names]])
 3:21	di8y			further descendants were Arnan, Obadiah, and Shekaniah	0	Different versions put these people into different relationships with each other because the Hebrew is not very clear about them.
-3:22	wn1j		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-3:23	yi1a		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-3:24	j188		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:22	wn1j		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:23	yi1a		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+3:24	j188		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThese are all names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:intro	dq4h				0	# 1 Chronicles 4 General Notes\n\n## Structure and formatting\n\nThis chapter records the other descendants of Judah.
-4:1	w6gl		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-4:2	p39w		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names in this list except the Zorathites are the names of men. Zorathites is the name of a people group who took their name from the town of Zorah where they lived. (See: [[rc://*/ta/man/translate/translate-names]])
+4:1	w6gl		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names in this list are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+4:2	p39w		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names in this list except the Zorathites are the names of men. Zorathites is the name of a people group who took their name from the town of Zorah where they lived. (See: [[rc://*/ta/man/translate/translate-names]])
 4:3	v5yg		rc://*/ta/man/translate/translate-names	Jezreel … Ishma … Idbash	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:3	yct3		rc://*/ta/man/translate/translate-names	Hazzelelponi	0	This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
 4:4	zd4a		rc://*/ta/man/translate/translate-names	Gedor … Hushah	0	These are names of cities. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -206,14 +206,14 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 4:12	y95p		rc://*/ta/man/translate/translate-names	Eshton … Beth Rapha … Paseah … Tehinnah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:12	q6mf		rc://*/ta/man/translate/translate-names	Tehinnah, the father of Ir Nahash	0	It apprears that Ir Nahash may have been a city. Alternate translation: “Tehinnah, the founder of the city of Nahash” (See: [[rc://*/ta/man/translate/translate-names]])
 4:12	i63t		rc://*/ta/man/translate/translate-names	Nahash … Rekah	0	These are the names of places. (See: [[rc://*/ta/man/translate/translate-names]])
-4:13	pc8k		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nIt may be helpful to create a verse bridge and to put verse 15 together with verse 13 since Kenaz was a descendant of Jephunneh and Caleb. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+4:13	pc8k		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nIt may be helpful to create a verse bridge and to put verse 15 together with verse 13 since Kenaz was a descendant of Jephunneh and Caleb. (See: [[rc://*/ta/man/translate/translate-versebridge]])
 4:13	z4jt		rc://*/ta/man/translate/translate-names	Kenaz … Othniel … Seraiah … Hathath … Meonothai	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:14	hm3k		rc://*/ta/man/translate/translate-names	Meonothai … Ophrah … Joab	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:14	gb2m		rc://*/ta/man/translate/translate-names	Ge-Harashim, whose people were craftsmen	0	Ge-Harashim means “Valley of Craftsmen.” This can be made explicit with an explanation. Alternate translation: “Ge-Harashim, which means ‘Craftsmen’s Valley.’ It was called this because its people were craftsmen” (See: [[rc://*/ta/man/translate/translate-names]] and [[rc://*/ta/man/translate/figs-explicit]])
 4:14	zl11			craftsmen	0	people skilled at making or building things
 4:15	g38i		rc://*/ta/man/translate/translate-names	Jephunneh … Iru … Elah … Naam … Kenaz	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:16	xrb4		rc://*/ta/man/translate/translate-names	Jehallelel … Ziph … Ziphah … Tiria … Asarel	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-4:17	bv9f		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nYou may want to combine the information in 1 Chronicles 4:17-18 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+4:17	bv9f		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nYou may want to combine the information in 1 Chronicles 4:17-18 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
 4:17	b2ws		rc://*/ta/man/translate/translate-names	Ezrah … Jether … Mered … Epher … Jalon … Miriam … Shammai … Ishbah … Eshtemoa	0	These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 4:17	cg1z			These were the sons of Bithiah	0	The word “these” refers to Miriam, Shammai, and Ishbah. They were the sons Bithiah bore for her husband Mered.
 4:17	j2pg			Bithiah	0	This is the name of a woman.
@@ -264,7 +264,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 5:1	p3es		rc://*/ta/man/translate/figs-activepassive	but his birthright was given to the sons of Joseph son of Israel	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “but Israel gave Reuben’s birthright to the sons of Joseph, another of Israel’s sons” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 5:1	lbr7		rc://*/ta/man/translate/figs-euphemism	Reuben had defiled his father’s couch	0	This is a polite way to speak about Reuben sleeping with his father’s secondary wife. The couch is the place where a man and his wife would have slept together. (See: [[rc://*/ta/man/translate/figs-euphemism]] and [[rc://*/ta/man/translate/figs-metonymy]])
 5:1	dv2w		rc://*/ta/man/translate/figs-activepassive	So he is not recorded as being the oldest son	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “So the family history does not list Reuben as the oldest son” (See: [[rc://*/ta/man/translate/figs-activepassive]])
-5:2	bk4p		rc://*/ta/man/translate/writing-background	General Information:	0	# General Information:\n\nThis verse finishes the background information about Reuben. (See: [[rc://*/ta/man/translate/writing-background]])
+5:2	bk4p		rc://*/ta/man/translate/writing-background		0	# General Information:\n\nThis verse finishes the background information about Reuben. (See: [[rc://*/ta/man/translate/writing-background]])
 5:3	fy1l		rc://*/ta/man/translate/translate-names	Hanok … Pallu … Hezron … Karmi	0	These are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 5:4	k5gj		rc://*/ta/man/translate/translate-names	Joel … Shemaiah … Gog … Shimei	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 5:5	w2kv		rc://*/ta/man/translate/translate-names	Shimei … Micah … Reaiah … Baal	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -361,7 +361,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 6:41	p24i		rc://*/ta/man/translate/translate-names	Malkijah … Ethni … Zerah … Adaiah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 6:42	kq8s		rc://*/ta/man/translate/translate-names	Adaiah … Ethan … Zimmah … Shimei	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 6:43	ft8p		rc://*/ta/man/translate/translate-names	Shimei … Jahath … Gershon	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-6:44	ui4w		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nSee: [[rc://*/ta/man/translate/translate-names]]
+6:44	ui4w		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nSee: [[rc://*/ta/man/translate/translate-names]]
 6:44	p7te			At Heman’s left hand	0	Alternate translation: “Standing on Heman’s left side”
 6:44	vtr8			his colleagues	0	Alternate translation: “his fellow workers”
 6:44	vti5			Heman … Ethan	0	See how you translated these men’s names in [1 Chronicles 2:6](../02/06.md).
@@ -415,10 +415,10 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 6:77	abl1			Merari’s	0	Translate “Merari” as in [1 Chronicles 6:1](../06/01.md).
 6:77	asc6		rc://*/ta/man/translate/translate-names	Jokneam … Kartah … Rimmono … Tabor	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 6:77	bvr1			its pasturelands	0	the land with grass for animals to eat. See how you translated this in [1 Chronicles 5:16](../05/16.md).
-6:78	bn5u		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nThe information in 1 Chronicles 6:78-79 can be rearranged as in the UST so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+6:78	bn5u		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nThe information in 1 Chronicles 6:78-79 can be rearranged as in the UST so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
 6:78	u5c8		rc://*/ta/man/translate/figs-activepassive	from the tribe of Reuben, across … Jericho, they received	0	This can be translated in active form. Alternate translation: “the tribe of Reuben, across … Jericho, gave them” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 6:78	ne49		rc://*/ta/man/translate/translate-names	Bezer … Jahzah	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
-6:79	s66v		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nThe information in 1 Chronicles 6:78-79 can be rearranged as in the UST so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+6:79	s66v		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nThe information in 1 Chronicles 6:78-79 can be rearranged as in the UST so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
 6:79	b6af		rc://*/ta/man/translate/translate-names	Kedemoth … Mephaath	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 6:80	mzb3		rc://*/ta/man/translate/figs-activepassive	The Levites received from the tribe of Gad	0	This can be translated in active form. Alternate translation: “The tribe of Gad gave the Levites” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 6:80	d6jk		rc://*/ta/man/translate/translate-names	Ramoth … Mahanaim	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -426,21 +426,21 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 6:81	f9ky		rc://*/ta/man/translate/translate-names	Heshbon … Jazer	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 7:intro	kd8b				0	# 1 Chronicles 7 General Notes\n\n## Structure and formatting\n\nThis chapter records the descendants of Issachar, Benjamin, Ephraim, Asher, and Manasseh living west of the Jordan River.
 7:1	njl6		rc://*/ta/man/translate/translate-names	Issachar … Tola, Puah, Jashub … Shimron	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:2	pz27		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:2	pz27		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:2	hd81			heads of their fathers’ houses	0	The words “father’s houses” refers to extended families, people related to each other who usually lived in different houses, what the UST calls “clans.”
 7:2	pgy7		rc://*/ta/man/translate/translate-numbers	They numbered 22,600	0	“They numbered twenty-two thousand six hundred” or “There were 22,600 men” (See: [[rc://*/ta/man/translate/translate-numbers]])
 7:2	f232			in the days of David	0	Alternate translation: “during David’s life” or “while David was alive”
-7:3	t8ad		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:3	t8ad		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:4	z4yz			Along with them they had	0	Another possible meaning is “Among them were.”
 7:4	pr7s		rc://*/ta/man/translate/translate-numbers	thirty-six thousand troops for battle	0	“36,000 soldiers who were ready for battle” (See: [[rc://*/ta/man/translate/translate-numbers]])
 7:5	l4sm		rc://*/ta/man/translate/translate-numbers	eighty-seven thousand fighting men	0	“87,000 fighting men” (See: [[rc://*/ta/man/translate/translate-numbers]])
 7:6	ce17		rc://*/ta/man/translate/translate-names	Bela … Beker … Jediael	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:7	lhn4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:7	lhn4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are the names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:7	xdl7		rc://*/ta/man/translate/translate-numbers	22,034 fighting men	0	“twenty-two thousand and thirty-four” (See: [[rc://*/ta/man/translate/translate-numbers]])
 7:7	p2uy			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, what the UST calls “clans”
-7:8	cxw7		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:8	cxw7		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:9	qp1s		rc://*/ta/man/translate/translate-numbers	20,200 heads of their fathers’ houses	0	“twenty thousand two hundred family leaders” (See: [[rc://*/ta/man/translate/translate-numbers]])
-7:10	mm3d		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:10	mm3d		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:11	lg2k		rc://*/ta/man/translate/translate-names	Jediael	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 7:11	tm7d			Listed in their clan lists were 17,200	0	Alternate translation: “The clan lists contained 17,200”
 7:11	u7g4		rc://*/ta/man/translate/translate-numbers	17,200 heads of houses	0	“seventeen thousand two hundred heads of houses” (See: [[rc://*/ta/man/translate/translate-numbers]])
@@ -455,11 +455,11 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 7:15	a7wq			Huppites … Shuppites	0	See how you translated these names in [1 Chronicles 7:12](../07/12.md).
 7:15	t6wh		rc://*/ta/man/translate/translate-names	Maakah	0	This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
 7:16	krq1		rc://*/ta/man/translate/translate-names	Makir … Peresh … Sheresh … Ulam … Rakem	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:17	ut3g		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:18	ec9i		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except Hammoleketh are names of men. Hammoleketh is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-7:19	g6yh		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:20	hck7		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:21	p43k		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except Gath are names of men. Gath is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
+7:17	ut3g		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:18	ec9i		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except Hammoleketh are names of men. Hammoleketh is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+7:19	g6yh		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:20	hck7		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:21	p43k		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except Gath are names of men. Gath is the name of a place. (See: [[rc://*/ta/man/translate/translate-names]])
 7:21	b6vq		rc://*/ta/man/translate/figs-activepassive	Ezer and Elead were killed by men of Gath, natives in the land	0	This can be translated in active form. Alternate translation: “Men of Gath, the natives in the land, killed Ezer and Elead” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 7:21	xu5s			they went to steal their cattle	0	Alternate translation: “the brothers went to steal the cattle from the people of Gath”
 7:23	bp4h		rc://*/ta/man/translate/figs-euphemism	He went in to his wife	0	This is a euphemism. Alternate translation: “he had sexual relations with his wife” (See: [[rc://*/ta/man/translate/figs-euphemism]])
@@ -468,29 +468,29 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 7:23	s7zw			called him	0	Alternate translation: “named him”
 7:24	s35f		rc://*/ta/man/translate/translate-names	Sheerah	0	This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
 7:24	a9mu		rc://*/ta/man/translate/translate-names	Upper Beth Horon … Uzzen Sheerah	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
-7:25	i1lp		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:26	dv3v		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:25	i1lp		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:26	dv3v		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:27	hwe5		rc://*/ta/man/translate/translate-names	Elishama … Nun	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:28	a2hb		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names listed here are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
+7:28	a2hb		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names listed here are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 7:28	t4wr		rc://*/ta/man/translate/figs-abstractnouns	Their possessions and residences were Bethel … villages	0	The abstract nouns “possessions” and “residences” can be translated with verbal phrases. Alternate translation: “They possessed and resided in Bethel … villages” or “They owned and lived in Bethel … villages” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
 7:29	k6m4		rc://*/ta/man/translate/translate-names	Beth Shan … Taanach … Megiddo … Dor	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 7:29	zds1			In these towns the descendants of Joseph son of Israel lived	0	Alternate translation: “The descendants of Joseph, son of Israel, lived in these towns”
-7:30	en5p		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except Serah are names of men. Serah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-7:31	g3g9		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:32	g5tx		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except Shua are names of men. Shua is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-7:33	w3mq		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:34	m9th		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:35	q44e		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:36	j2m8		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:37	qjd7		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:38	gu5l		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-7:39	gen8		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:30	en5p		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except Serah are names of men. Serah is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+7:31	g3g9		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:32	g5tx		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except Shua are names of men. Shua is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
+7:33	w3mq		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:34	m9th		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:35	q44e		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:36	j2m8		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:37	qjd7		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:38	gu5l		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+7:39	gen8		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 7:40	bp7a		rc://*/ta/man/translate/translate-names	Asher	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 7:40	d65u			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, what the UST calls “clans”
 7:40	t3ep			distinguished men	0	Alternate translation: “important men”
 7:40	e5yi		rc://*/ta/man/translate/translate-numbers	There were twenty-six thousand men listed who were fit for military service, according to their numbered lists	0	“According to the clan records, there were 26,000 men who were able to serve in the military” (See: [[rc://*/ta/man/translate/translate-numbers]])
 8:intro	a4bn				0	# 1 Chronicles 8 General Notes\n\n## Structure and formatting\n\nThis chapter records the genealogy of Saul’s family.
-8:1	p5r1		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:1	p5r1		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:2	wp4y		rc://*/ta/man/translate/translate-names	Nohah … Rapha	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:3	gg1f		rc://*/ta/man/translate/translate-names	Bela … Addar, Gera, Abihud	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:4	kki2		rc://*/ta/man/translate/translate-names	Abishua, Naaman, Ahoah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -499,7 +499,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 8:6	zdj3			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, what the UST calls “clans”
 8:6	fz5k		rc://*/ta/man/translate/translate-names	Geba … Manahath	0	These are names of towns. (See: [[rc://*/ta/man/translate/translate-names]])
 8:6	c71s			were compelled to move	0	Alternate translation: “needed to move” or “had to move”
-8:7	web4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:7	web4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:8	x5s2		rc://*/ta/man/translate/translate-names	Shaharaim	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 8:8	gtb7		rc://*/ta/man/translate/translate-names	Hushim … Baara	0	These are names of women. (See: [[rc://*/ta/man/translate/translate-names]])
 8:9	n84a		rc://*/ta/man/translate/translate-names	Shaharaim … Jobab … Zibia … Mesha … Malkam	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -514,25 +514,25 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 8:13	r9bw		rc://*/ta/man/translate/translate-names	Beriah … Shema	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:13	cp7j			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, what the UST calls “clans”
 8:13	sb2q		rc://*/ta/man/translate/translate-names	Aijalon … Gath	0	These are names of places. (See: [[rc://*/ta/man/translate/translate-names]])
-8:14	c9vn		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:15	b589		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:16	i9zy		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:17	e474		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:17	z3de		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:17-18 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
-8:18	yu9c		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:19	z411		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:19	y4na		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:19-21 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
-8:20	x2wn		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:20	z3cm		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nThe information in 1 Chronicles 8:19-21 has been rearranged so its meaning can be more easily understood. All of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-versebridge]] and [[rc://*/ta/man/translate/translate-names]])
-8:21	tjr4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:22	tt3e		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:22	nd1k		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:22-25 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
-8:23	phb2		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:24	esi8		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:25	vb8p		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:26	ccw7		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:26	rpc7		rc://*/ta/man/translate/translate-versebridge	General Information:	0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:26-27 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
-8:27	dpm4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:14	c9vn		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:15	b589		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:16	i9zy		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:17	e474		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:17	z3de		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:17-18 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+8:18	yu9c		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:19	z411		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:19	y4na		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:19-21 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+8:20	x2wn		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:20	z3cm		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nThe information in 1 Chronicles 8:19-21 has been rearranged so its meaning can be more easily understood. All of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-versebridge]] and [[rc://*/ta/man/translate/translate-names]])
+8:21	tjr4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:22	tt3e		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:22	nd1k		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:22-25 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+8:23	phb2		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:24	esi8		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:25	vb8p		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:26	ccw7		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:26	rpc7		rc://*/ta/man/translate/translate-versebridge		0	# General Information:\n\nYou can combine the information in 1 Chronicles 8:26-27 into one verse so its meaning can be more easily understood. (See: [[rc://*/ta/man/translate/translate-versebridge]])
+8:27	dpm4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:28	exc7			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, what the UST calls “clans”
 8:29	z2b4		rc://*/ta/man/translate/figs-idiom	The father of Gibeon, Jeiel, whose wife’s name was Maakah, lived in Gibeon	0	Here “father of” refers to Jeiel’s status as the leading person in the city of Gibeon. Alternate translation: “Jeiel, the leader of Gibeon, lived in Gibeon. His wife’s name was Maakah” (See: [[rc://*/ta/man/translate/figs-idiom]])
 8:29	ixl1		rc://*/ta/man/translate/translate-names	Gibeon	0	This is the name of a town. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -542,13 +542,13 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 8:30	d786		rc://*/ta/man/translate/translate-names	Abdon … Zur … Kish … Baal … Nadab	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:31	y2ag		rc://*/ta/man/translate/translate-names	Gedor … Ahio … Zeker	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:32	lf9s		rc://*/ta/man/translate/translate-names	Jeiel … Mikloth … Shimeah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:33	pmy5		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:33	pmy5		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:34	xcj9		rc://*/ta/man/translate/translate-names	Jonathan … Merib-Baal … Micah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:35	ju1r		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:36	dm7i		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:37	z7f2		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:38	lx72		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-8:39	vpw6		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:35	ju1r		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:36	dm7i		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:37	z7f2		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:38	lx72		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+8:39	vpw6		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 8:39	h9lx		rc://*/ta/man/translate/translate-ordinal	Jeush the second, and Eliphelet the third	0	“Jeush, who was born after Ulam, and Eliphelet, who was born after Jeush” (See: [[rc://*/ta/man/translate/translate-ordinal]])
 8:40	mp4f		rc://*/ta/man/translate/translate-names	Ulam	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 8:40	s4sc		rc://*/ta/man/translate/translate-numbers	many sons and grandsons, a total of 150	0	“a total of one hundred fifty sons and grandsons” (See: [[rc://*/ta/man/translate/translate-numbers]])
@@ -558,27 +558,27 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 9:1	s5jc		rc://*/ta/man/translate/figs-activepassive	They were recorded in the book … Israel	0	This can be translated in active form. Alternate translation: “They wrote the names in the book … Israel” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 9:1	rv7g			the book of the kings of Israel	0	This refers to a book that no longer exists.
 9:1	wl8j		rc://*/ta/man/translate/figs-activepassive	they were carried away in exile	0	This can be translated in active form. Alternate translation: “The Babylonians carried them away in exile” (See: [[rc://*/ta/man/translate/figs-activepassive]])
-9:4	lqq3		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:4	lqq3		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:5	u2in		rc://*/ta/man/translate/translate-names	Shelanites	0	This is the name of a people group descended from Shelah. (See: [[rc://*/ta/man/translate/translate-names]])
 9:5	x26t		rc://*/ta/man/translate/translate-names	Asaiah	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 9:6	b9gs		rc://*/ta/man/translate/translate-names	Zerah … Jeuel	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:6	qzm7		rc://*/ta/man/translate/translate-numbers	numbered 690	0	“numbered six hundred ninety people” (See: [[rc://*/ta/man/translate/translate-numbers]] and [[rc://*/ta/man/translate/figs-ellipsis]])
-9:7	m7kr		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:8	a186		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:7	m7kr		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:8	a186		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:9	hg5q		rc://*/ta/man/translate/translate-numbers	numbered 956	0	“numbered nine hundred and fifty-six people” (See: [[rc://*/ta/man/translate/translate-numbers]] and [[rc://*/ta/man/translate/figs-ellipsis]])
 9:9	pa4m			heads of fathers’ houses for their fathers’ houses	0	Extended families are people related to each other who usually live in different houses, what the UST calls “clans.” Alternate translation: “leaders of their extended families”
-9:10	f7x9		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:11	epu5		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:10	f7x9		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:11	epu5		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:11	z1y7			the house of God	0	the second temple, which the people built after they returned from Babylon
-9:12	tx2y		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:12	tx2y		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:13	xzh9			They were very capable men in the work	0	Alternate translation: “These capable men worked”
 9:13	f75f			the house of God	0	the second temple, which the people built after they returned from Babylon
 9:13	d7sr			fathers’ houses	0	extended families, people related to each other who usually lived in different houses, clans
 9:13	jv9g		rc://*/ta/man/translate/translate-numbers	numbered 1,760	0	“numbered one thousand and sixty priests” or “numbered seventeen hundred and sixty priests” (See: [[rc://*/ta/man/translate/translate-numbers]] and [[rc://*/ta/man/translate/figs-ellipsis]])
-9:14	fx2p		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:14	fx2p		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:14	br7h			among the descendants	0	Alternate translation: “one of the descendants”
-9:15	d6y3		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:16	y7vf		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here except “Netophathites” are the names of men. The Netophathites were a people group. (See: [[rc://*/ta/man/translate/translate-names]])
+9:15	d6y3		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:16	y7vf		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here except “Netophathites” are the names of men. The Netophathites were a people group. (See: [[rc://*/ta/man/translate/translate-names]])
 9:17	v9db			The doorkeepers were	0	Alternate translation: “The guards were” or “The gatekeepers were”
 9:17	i2g9		rc://*/ta/man/translate/translate-names	Shallum … Akkub … Talmon … Ahiman	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:18	zyi1			they stood guard at the king’s gate on the east side for the camp of Levi’s descendants	0	Alternate translation: “Levi’s descendants guarded the king’s gate on the east side of their camp”
@@ -590,7 +590,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 9:20	tv4s			in charge of them	0	“in charge of the Korahites” ([1 Chronicles 9:19](../09/19.md))
 9:21	mi72		rc://*/ta/man/translate/translate-names	Meshelemiah	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 9:21	r1eb			the tent of meeting	0	The building where the Israelites prayed and offered sacrifices to God was sometimes called “the tent of meeting” in memory of the tent where Moses met with God when he and the Israelites were in the wilderness many years before this. Alternate translation: “the tent of meeting, that is, the temple”
-9:22	k6r1		rc://*/ta/man/translate/translate-numbers	General Information:	0	# General Information:\n\n(See: [[rc://*/ta/man/translate/translate-numbers]])
+9:22	k6r1		rc://*/ta/man/translate/translate-numbers		0	# General Information:\n\n(See: [[rc://*/ta/man/translate/translate-numbers]])
 9:22	as9c		rc://*/ta/man/translate/figs-activepassive	who were chosen as gatekeepers	0	It is not clear who chose these men, so if you have to translate in active form, use your language’s most general way of doing so. Alternate translation: “whom they had chosen to be gatekeepers” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 9:22	hx2f		rc://*/ta/man/translate/translate-numbers	numbered 212	0	“numbered two hundred and twelve” (See: [[rc://*/ta/man/translate/translate-numbers]])
 9:22	j3vy		rc://*/ta/man/translate/figs-activepassive	Their names were recorded in the people’s records in their villages	0	This can be translated in active form. Alternate translation: “The records in peoples’ villages included the names of these men” (See: [[rc://*/ta/man/translate/figs-activepassive]])
@@ -616,15 +616,15 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 9:35	b8av			Gibeon … Gibeon	0	Alternate translation: “the man Gibeon … the town of Gibeon”
 9:35	n9tn		rc://*/ta/man/translate/translate-names	Jeiel	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 9:35	wd5f		rc://*/ta/man/translate/translate-names	Maakah	0	This is the name of a woman. (See: [[rc://*/ta/man/translate/translate-names]])
-9:36	xif8		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:37	q1nz		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:36	xif8		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:37	q1nz		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 9:38	h4jx		rc://*/ta/man/translate/translate-names	Mikloth … Shimeam	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:39	y6mp		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:40	p677		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:41	kc4p		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:42	n1j7		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:43	r6ya		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
-9:44	tv24		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:39	y6mp		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:40	p677		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:41	kc4p		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:42	n1j7		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:43	r6ya		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
+9:44	tv24		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nAll of the names here are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 10:intro	abca				0	# 1 Chronicles 10 General Notes\n\n## Special concepts in this chapter\n\n### The death of Saul\n\nSaul died because he disobeyed God.
 10:1	ws2j		rc://*/ta/man/translate/figs-explicit	Every man of Israel fled from before the Philistines and fell down dead on Mount Gilboa	0	It is implied that these men were Israelite soldiers. Alternate translation: “The whole army of Israel ran away from the Philistines” (See: [[rc://*/ta/man/translate/figs-explicit]])
 10:1	fcs6		rc://*/ta/man/translate/figs-hyperbole	Every man of Israel … fell down dead	0	This is probably a generalization. It seems that while all the soldiers did run away, not all of them died. Alternate translation: “Every man of Israel … most of them died” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
@@ -733,13 +733,13 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 12:1	d1cb		rc://*/ta/man/translate/figs-activepassive	while he was still banished from the presence of	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “during the time when he could not be in the presence of” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 12:2	c47x			could use both the right hand and the left in slinging stones and in shooting arrows	0	Alternate translation: “could use either their right hands or their left hands to sling stones and shoot arrows”
 12:2	vl3q			slinging stones	0	The sling was a strip of leather that a person would use to throw a stone long distances.
-12:3	vtx4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis begins a list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
+12:3	vtx4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis begins a list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
 12:4	d5uh		rc://*/ta/man/translate/translate-names		0	This continues the list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
 12:4	p94z		rc://*/ta/man/translate/translate-numbers	the thirty	0	“the 30 soldiers” (See: [[rc://*/ta/man/translate/translate-numbers]])
 12:5	d8kx		rc://*/ta/man/translate/translate-names		0	This continues the list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
 12:6	dt9e		rc://*/ta/man/translate/translate-names		0	This continues the list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
 12:7	dxn6		rc://*/ta/man/translate/translate-names		0	This ends the list of the men from the tribe of Benjamin who joined David at Ziklag. (See: [[rc://*/ta/man/translate/translate-names]])
-12:8	wx6y		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis begins a list of the men from the tribe of Gad who joined David. (See: [[rc://*/ta/man/translate/translate-names]])
+12:8	wx6y		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis begins a list of the men from the tribe of Gad who joined David. (See: [[rc://*/ta/man/translate/translate-names]])
 12:8	mi41		rc://*/ta/man/translate/figs-synecdoche	whose faces were as fierce as the faces of lions	0	Here the word “faces” represents the men and the lions. Their faces express the fierceness with which they fight battles. Alternate translation: “who were as fierce in battle as lions hunting prey” (See: [[rc://*/ta/man/translate/figs-synecdoche]] and [[rc://*/ta/man/translate/figs-explicit]])
 12:8	wx5f		rc://*/ta/man/translate/figs-hyperbole	They were as swift as gazelles on the mountains	0	This hyperbole compares how swiftly these men were able to run with how swiftly gazelles are able to run over rugged mountain terrain. (See: [[rc://*/ta/man/translate/figs-hyperbole]])
 12:8	n6dn			gazelles	0	animals similar to deer that can run quickly over hills and rough ground
@@ -768,7 +768,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 12:21	yeh5			the roving bands	0	“the groups of robbers.” This refers to groups of people who robbed people traveling through the countryside.
 12:22	p43i			Day after day	0	Alternate translation: “Each day”
 12:22	emw8		rc://*/ta/man/translate/figs-idiom	a great army, like the army of God	0	This could mean: (1) the phrase “like the army of God” means “like an army that God assembled” or (2) the word “God” is used as an idiom that refers to the great size of the army. Alternate translation: “a very large army” (See: [[rc://*/ta/man/translate/figs-idiom]])
-12:23	p6pq		rc://*/ta/man/translate/translate-numbers	General Information:	0	# General Information:\n\nThis begins the list of the number of men who joined David from each tribe. (See: [[rc://*/ta/man/translate/translate-numbers]])
+12:23	p6pq		rc://*/ta/man/translate/translate-numbers		0	# General Information:\n\nThis begins the list of the number of men who joined David from each tribe. (See: [[rc://*/ta/man/translate/translate-numbers]])
 12:23	q3ud		rc://*/ta/man/translate/figs-metaphor	to turn the kingdom of Saul over to him	0	The men making David king in place of Saul is spoken of as if they gave possession of Saul’s kingdom to David. Alternate translation: “to make David king in place of Saul” (See: [[rc://*/ta/man/translate/figs-metaphor]])
 12:23	am4d			carried out Yahweh’s word	0	Alternate translation: “made Yahweh’s word true” or “fulfilled Yahweh’s word”
 12:24	b85q		rc://*/ta/man/translate/translate-numbers		0	This continues the list of the number of men who joined David from each tribe. (See: [[rc://*/ta/man/translate/translate-numbers]])
@@ -878,7 +878,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 15:1	bu8k		rc://*/ta/man/translate/figs-metonymy	David built houses for himself … He prepared	0	It might be best to translate this so that the reader understands that David had other people do this for him. Alternate translation: “David had workers build houses for him … He had them prepare” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 15:2	n56n		rc://*/ta/man/translate/figs-activepassive	they had been chosen by Yahweh	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Yahweh had chosen them” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 15:3	ew5y		rc://*/ta/man/translate/figs-hyperbole	David assembled all Israel at Jerusalem	0	Here the word “all” is a generalization. The phrase “all Israel” means that David assembled people from all over Israel, not that he assembled every person in Israel. Alternate translation: “David assembled at Jerusalem people from all over Israel” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
-15:4	lp7z		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis begins the list of the number of men whom David assembled from each of the Levite clans. (See: [[rc://*/ta/man/translate/translate-names]] and [[rc://*/ta/man/translate/translate-numbers]])
+15:4	lp7z		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis begins the list of the number of men whom David assembled from each of the Levite clans. (See: [[rc://*/ta/man/translate/translate-names]] and [[rc://*/ta/man/translate/translate-numbers]])
 15:5	adh7		rc://*/ta/man/translate/translate-numbers	120 men	0	“one hundred twenty men” (See: [[rc://*/ta/man/translate/translate-numbers]])
 15:6	pt6c		rc://*/ta/man/translate/translate-names		0	This continues the list of the number of men whom David assembled from each of the Levite clans. (See: [[rc://*/ta/man/translate/translate-names]] and [[rc://*/ta/man/translate/translate-numbers]])
 15:6	s16j		rc://*/ta/man/translate/translate-numbers	220 men	0	“two hundred twenty men” (See: [[rc://*/ta/man/translate/translate-numbers]])
@@ -893,7 +893,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 15:15	squ5		rc://*/ta/man/translate/figs-activepassive	the rules given by the word of Yahweh	0	The word “word” can be translated with a verb. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “the rules that the word of Yahweh had given” or “the rules that Yahweh had spoken” (See: [[rc://*/ta/man/translate/figs-activepassive]] and [[rc://*/ta/man/translate/figs-abstractnouns]])
 15:16	rc1f		rc://*/ta/man/translate/translate-unknown	cymbals	0	two thin, round metal plates that are hit together to make a loud sound. See how you translated this in [1 Chronicles 13:8](../13/08.md). (See: [[rc://*/ta/man/translate/translate-unknown]])
 15:16	em1v		rc://*/ta/man/translate/figs-idiom	lifting up their voices	0	This idiom means to sing loudly. Alternate translation: “singing loudly” (See: [[rc://*/ta/man/translate/figs-idiom]])
-15:17	b4vk		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis begins the list of men whom the Levites appointed to sing and play music as the people brought the ark to Jerusalem. (See: [[rc://*/ta/man/translate/translate-names]])
+15:17	b4vk		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis begins the list of men whom the Levites appointed to sing and play music as the people brought the ark to Jerusalem. (See: [[rc://*/ta/man/translate/translate-names]])
 15:18	x7bz		rc://*/ta/man/translate/translate-names		0	This continues the list of men whom the Levites appointed to sing and play music as the people brought the ark to Jerusalem. (See: [[rc://*/ta/man/translate/translate-names]])
 15:18	id5s		rc://*/ta/man/translate/translate-ordinal	With them were their kinsmen of second rank	0	This likely means that these men served in lower positions and were assistants to Heman, Asaph, and Ethan. Alternate translation: “With them were their kinsmen who were in a lower position of power” or “The following relatives would help them” (See: [[rc://*/ta/man/translate/translate-ordinal]])
 15:18	rrf8		rc://*/ta/man/translate/figs-explicit	Mikneiah, Obed Edom, and Jeiel, the gatekeepers	0	The word “gatekeepers” refers to people who guard gates or entryways. Here it refers to guarding access to the ark of the covenant and applies to Obed Edom and Jeiel. Alternate translation: “Mikneiah, and the gatekeepers, Obed Edom and Jeiel” (See: [[rc://*/ta/man/translate/figs-explicit]])
@@ -919,7 +919,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 15:29	vj56		rc://*/ta/man/translate/translate-names	Michal	0	This is the name of David’s wife. (See: [[rc://*/ta/man/translate/translate-names]])
 15:29	miz6		rc://*/ta/man/translate/figs-metonymy	she despised him in her heart	0	Here “heart” represents thoughts or emotions. Alternate translation: “she despised him” or “she hated him” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 16:intro	abcg				0	# 1 Chronicles 16 General Notes\n\n## Structure and formatting\n\nChapters 15 and 16 tell how David organized the priests and Levites. (See: [[rc://*/tw/dict/bible/kt/priest]])\n\nSome translations set each line of poetry farther to the right than the rest of the text to make it easier to read. The ULT does this with the poetic song in 16:8-36.\n\n## Special concepts in this chapter\n\n### David’s psalm\nAs David organized the priests in their work in the tent, he wrote a psalm of praise to Yahweh.
-16:1	p8df			General Information:	0	# General Information:\n\nThe word “they” in these verses refers to the priests and Levites.
+16:1	p8df				0	# General Information:\n\nThe word “they” in these verses refers to the priests and Levites.
 16:1	p6yr			before God	0	Alternate translation: “to God”
 16:2	jb7f		rc://*/ta/man/translate/figs-metonymy	When David had finished sacrificing the burnt offering and the fellowship offerings	0	This is a metonym for David directing the priests, who performed the actual sacrifices. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 16:2	ez3k		rc://*/ta/man/translate/figs-metonymy	he blessed the people in the name of Yahweh	0	To bless “in the name of Yahweh” means to bless with Yahweh’s power and authority or as his representative. (See: [[rc://*/ta/man/translate/figs-metonymy]])
@@ -948,16 +948,16 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 16:16	wc6k		rc://*/ta/man/translate/figs-idiom	He calls to mind	0	The phrase “calls to mind” means to remember something. Alternate translation: “He remembers” (See: [[rc://*/ta/man/translate/figs-idiom]])
 16:16	zn3z		rc://*/ta/man/translate/figs-parallelism	the covenant that he made with Abraham, and his oath to Isaac	0	Both “the covenant” and “the oath” refer to the same promise that Yahweh made to his people. (See: [[rc://*/ta/man/translate/figs-parallelism]])
 16:16	eh2r		rc://*/ta/man/translate/figs-ellipsis	his oath to Isaac	0	This refers to the oath that he had previously made to Issac. Alternate translation: “his oath that he made to Isaac” (See: [[rc://*/ta/man/translate/figs-ellipsis]])
-16:18	z85y			General Information:	0	# General Information:\n\nThe words “you” and “your” in this verse refers to Israel.
+16:18	z85y				0	# General Information:\n\nThe words “you” and “your” in this verse refers to Israel.
 16:18	w2gc			as your share	0	Alternate translation: “as your part”
-16:19	xxj7			General Information:	0	# General Information:\n\nThe word “they” in this verse refers to Israel.
+16:19	xxj7				0	# General Information:\n\nThe word “they” in this verse refers to Israel.
 16:19	d6wh		rc://*/ta/man/translate/figs-explicit	strangers in the land	0	It is implied that “the land” refers to Canaan. Alternate translation: “foreigners in the land of Canaan” (See: [[rc://*/ta/man/translate/figs-explicit]])
-16:20	swt6			General Information:	0	# General Information:\n\nThe word “they” in this verse refers to Israel.
+16:20	swt6				0	# General Information:\n\nThe word “they” in this verse refers to Israel.
 16:20	c9kj		rc://*/ta/man/translate/figs-parallelism	from nation to nation, from one kingdom to another	0	These two phrases have similar meanings and are used together for emphasis. (See: [[rc://*/ta/man/translate/figs-parallelism]])
-16:21	pef4			General Information:	0	# General Information:\n\nThe words “them” and “their” in this verse refers to Israel.
+16:21	pef4				0	# General Information:\n\nThe words “them” and “their” in this verse refers to Israel.
 16:21	bh4d			for their sakes	0	Alternate translation: “for their own well-being”
 16:22	l3gs		rc://*/ta/man/translate/figs-hyperbole	Do not touch my anointed ones	0	Here “touch” means to harm. It is an exaggeration Yahweh used to strengthen his warning to not harm his people. Alternate translation: “Do not harm the people I have anointed” (See: [[rc://*/ta/man/translate/figs-hyperbole]])
-16:23	ahj3		rc://*/ta/man/translate/writing-poetry	General Information:	0	# General Information:\n\nParallelism is common in Hebrew poetry. (See: [[rc://*/ta/man/translate/writing-poetry]] and [[rc://*/ta/man/translate/figs-parallelism]])
+16:23	ahj3		rc://*/ta/man/translate/writing-poetry		0	# General Information:\n\nParallelism is common in Hebrew poetry. (See: [[rc://*/ta/man/translate/writing-poetry]] and [[rc://*/ta/man/translate/figs-parallelism]])
 16:23	zh12		rc://*/ta/man/translate/figs-metonymy	all the earth	0	This refers to the people of the earth. Alternate translation: “all you people who live on the earth” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 16:23	fd6r		rc://*/ta/man/translate/figs-abstractnouns	announce his salvation	0	If your language does not use an abstract noun for the idea behind the word **salvation**, you can express the same idea with a verbal form such as “save.” Alternate translation: “announce that he has saved us” or “tell people that he is the one who saves” (See: [[rc://*/ta/man/translate/figs-abstractnouns]])
 16:23	cc7q			day after day	0	Alternate translation: “every day”
@@ -990,9 +990,9 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 16:38	zt8k		rc://*/ta/man/translate/translate-names	Obed Edom … Jeduthun … Hosah	0	These were names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 16:38	ib12		rc://*/ta/man/translate/translate-numbers	sixty-eight relatives	0	“68 relatives” (See: [[rc://*/ta/man/translate/translate-numbers]])
 16:39	z25u			to serve before the tabernacle	0	Alternate translation: “to serve at the tabernacle”
-16:40	l7aq			General Information:	0	# General Information:\n\nThe word “They” in this verse refers to the priests.
+16:40	l7aq				0	# General Information:\n\nThe word “They” in this verse refers to the priests.
 16:40	tg77			continually morning	0	Alternate translation: “every day, morning”
-16:41	n9yx			General Information:	0	# General Information:\n\nThe word “them” in this verse refers to the priests.
+16:41	n9yx				0	# General Information:\n\nThe word “them” in this verse refers to the priests.
 16:41	dc3e		rc://*/ta/man/translate/translate-names	Heman … Jeduthun	0	These were names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 16:42	tp6u		rc://*/ta/man/translate/translate-unknown	cymbals	0	These are two thin, round metal plates that are hit together to make a loud sound. See how you translated this in [1 Chronicles 13:8](../13/08.md). (See: [[rc://*/ta/man/translate/translate-unknown]])
 16:42	aw82		rc://*/ta/man/translate/figs-explicit	guarded the gate	0	The implied information is that they were to guard the entrance to the tabernacle. Alternate translation: “guarded the tabernacle gate” (See: [[rc://*/ta/man/translate/figs-explicit]])
@@ -1012,7 +1012,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 17:6	p7rb		rc://*/ta/man/translate/figs-rquestion	did I ever say anything to any of Israel’s leaders	0	Yahweh uses a question to emphasize that he never asked any of Israel’s leaders to build him a house. Alternate translation: “I never said anything to any of Israel’s leaders” (See: [[rc://*/ta/man/translate/figs-rquestion]])
 17:6	rm3d		rc://*/ta/man/translate/figs-metaphor	whom I appointed to shepherd my people	0	Those who are leaders of the people of Israel are spoken of as if they were shepherds and the people were sheep. (See: [[rc://*/ta/man/translate/figs-metaphor]])
 17:6	t1pm		rc://*/ta/man/translate/figs-rquestion	Why have you not built me a house of cedar?	0	If Yahweh had asked the leaders this question, he would have been using a question to scold them for not building him a house of cedar. But, Yahweh said previously that he did not ask them this question. Alternate translation: “You should have built me a house of cedar.” (See: [[rc://*/ta/man/translate/figs-rquestion]])
-17:7	a1mi			General Information:	0	# General Information:\n\nYahweh describes his promises to King David through the prophet Nathan.
+17:7	a1mi				0	# General Information:\n\nYahweh describes his promises to King David through the prophet Nathan.
 17:7	w1hc			Now	0	This does not mean “at this moment,” but is used to draw attention to the important point that follows.
 17:7	fx8w			tell my servant David	0	Yahweh is still telling the prophet Nathan what he should tell David.
 17:7	dv1x		rc://*/ta/man/translate/figs-metonymy	I took you from the pasture	0	David’s job as a shepherd is referred to by the place he watched his sheep. Alternate translation: “I took you from your job as a shepherd” (See: [[rc://*/ta/man/translate/figs-metonymy]])
@@ -1026,7 +1026,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 17:9	r1v3			I will appoint a place	0	Alternate translation: “I will choose a place”
 17:9	s4hu		rc://*/ta/man/translate/figs-metaphor	will plant them there	0	God causing the people to live in the land permanently and securely is spoken of as if he would plant them in the land. Alternate translation: “I will settle them there” (See: [[rc://*/ta/man/translate/figs-metaphor]])
 17:9	sam6		rc://*/ta/man/translate/figs-activepassive	be troubled no more	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “no one will ever trouble them” (See: [[rc://*/ta/man/translate/figs-activepassive]])
-17:10	n664			General Information:	0	# General Information:\n\nThe words “your” and “you” in this verse refers to David.
+17:10	n664				0	# General Information:\n\nThe words “your” and “you” in this verse refers to David.
 17:10	wp9a			Connecting Statement:	0	# Connecting Statement:\n\nYahweh continues describing his promises to King David through the prophet Nathan.
 17:10	bpr4		rc://*/ta/man/translate/figs-metonymy	from the days	0	Here “days” represents a longer period of time. Alternate translation: “from the time” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 17:10	t58a			I commanded judges	0	After the people of Israel entered the land of Canaan and before they had kings to rule them, God appointed leaders called “judges” to lead them in times of trouble.
@@ -1163,7 +1163,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 19:13	u3hv		rc://*/ta/man/translate/figs-metaphor	what is good in his eyes	0	Here sight represents judgment or evaluation. Alternate translation: “what he considers to be good” (See: [[rc://*/ta/man/translate/figs-metaphor]])
 19:14	eel3			advanced to the battle	0	Alternate translation: “moved forward to the battle” or “approached the enemy soldiers in the battle”
 19:15	y1w8			Then Joab returned … and went back to Jerusalem	0	It does not appear that Joab and his soldiers continued to attack the Ammonites in their city. When the Ammonites went into their city, the battle ended and the Israelites returned home.
-19:16	cmb9			General Information:	0	# General Information:\n\nVerses 16-19 describes a second battle when the Arameans who fled from Joab in [1 Chronicles 19:15](../19/15.md) were reinforced by other Arameans and attacked Israel again.
+19:16	cmb9				0	# General Information:\n\nVerses 16-19 describes a second battle when the Arameans who fled from Joab in [1 Chronicles 19:15](../19/15.md) were reinforced by other Arameans and attacked Israel again.
 19:16	t16k		rc://*/ta/man/translate/figs-metonymy	the Arameans saw	0	What the Arameans understood is spoken of as what they saw. Alternate translation: “the Arameans understood” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 19:16	jj4u			sent for reinforcements	0	Alternate translation: “requested more soliders”
 19:16	c1n9		rc://*/ta/man/translate/translate-names	Shophak … Hadadezer	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -1332,7 +1332,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 22:19	qhu2		rc://*/ta/man/translate/figs-metonymy	Get up and build the holy place	0	It is understood that Solomon will not do the work personally, but he will direct others to do it. Alternate translation: “Get up and direct the workers as they build the holy place” (See: [[rc://*/ta/man/translate/figs-metonymy]])
 22:19	jia8		rc://*/ta/man/translate/figs-metonymy	the house built for Yahweh’s name	0	Here “name” refers to honor. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “the temple you will build to honor Yahweh” (See: [[rc://*/ta/man/translate/figs-metonymy]] and [[rc://*/ta/man/translate/figs-activepassive]])
 23:intro	abcn				0	# 1 Chronicles 23 General Notes\n\n## Structure and formatting\n\nThe preparation for the construction of the temple continues in this chapter. (See: [[rc://*/tw/dict/bible/kt/temple]])\n\n## Special concepts in this chapter\n\n### Organizing the Levites\n\nAs priests, the Levites had a significant role in the construction of the temple. David organized the Levites according to their families and explained what each group was to do. (See: [[rc://*/tw/dict/bible/kt/priest]])
-23:1	adi9			General Information:	0	# General Information:\n\nDavid appoints Solomon as his successor and organizes Levitical priests and staff for temple service.
+23:1	adi9				0	# General Information:\n\nDavid appoints Solomon as his successor and organizes Levitical priests and staff for temple service.
 23:3	g6et		rc://*/ta/man/translate/figs-activepassive	The Levites who were thirty years old and older were counted	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Some of David’s men counted the Levites who were 30 years old and older” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 23:3	f7mf		rc://*/ta/man/translate/translate-numbers	They numbered thirty-eight thousand	0	“There were 38,000 of them” (See: [[rc://*/ta/man/translate/translate-numbers]])
 23:4	hd8u		rc://*/ta/man/translate/translate-numbers	Of these, twenty-four thousand	0	“Of these Levities, 24,000” (See: [[rc://*/ta/man/translate/translate-numbers]])
@@ -1342,7 +1342,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 23:5	fm6w			gatekeepers	0	These Levites guarded the temple entrance so no person who was ceremonially unclean entered.
 23:6	v8nc			that corresponded to	0	Alternate translation: “based on” or “according to the descendants of”
 23:6	dy8m		rc://*/ta/man/translate/translate-names	Gershon, Kohath, and Merari	0	These are names of Levi’s sons. (See: [[rc://*/ta/man/translate/translate-names]])
-23:7	aha4		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis is the list of Levites according to their clans. (See: [[rc://*/ta/man/translate/translate-names]])
+23:7	aha4		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis is the list of Levites according to their clans. (See: [[rc://*/ta/man/translate/translate-names]])
 23:8	nl9v		rc://*/ta/man/translate/translate-names		0	This continues the list of Levites according to their clans. (See: [[rc://*/ta/man/translate/translate-names]])
 23:9	f9dk		rc://*/ta/man/translate/translate-names		0	This continues the list of Levites according to their clans. (See: [[rc://*/ta/man/translate/translate-names]])
 23:10	gsa3		rc://*/ta/man/translate/translate-names		0	This continues the list of Levites according to their clans. (See: [[rc://*/ta/man/translate/translate-names]])
@@ -1381,7 +1381,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 23:31	pa7b			A fixed number, assigned by decree, always had to be present before Yahweh	0	Alternate translation: “A specific number of the Levites were always assigned to be present at the temple to make offerings to Yahweh”
 23:32	pkq6			They were in charge of	0	Alternate translation: “The Levites were responsible for”
 24:intro	abco				0	# 1 Chronicles 24 General Notes\n\n## Structure and formatting\n\nThe preparation for the temple continues in this chapter. (See: [[rc://*/tw/dict/bible/kt/temple]])\n\n## Special concepts in this chapter\n\n### Arranging the priests\n\nDavid arranged for the order in which priests would be on duty. (See: [[rc://*/tw/dict/bible/kt/priest]])
-24:1	hmi6			General Information:	0	# General Information:\n\nThis chapter describes how the Levites in the previous chapter were divided into work groups with different assignments.
+24:1	hmi6				0	# General Information:\n\nThis chapter describes how the Levites in the previous chapter were divided into work groups with different assignments.
 24:1	swd6			Nadab, Abihu, Eleazar and Ithamar	0	Translate the names of these men as in [1 Chronicles 6:3](../06/03.md).
 24:3	blw1		rc://*/ta/man/translate/translate-names	Ahimelech	0	This is the name of a man. (See: [[rc://*/ta/man/translate/translate-names]])
 24:3	wgl9			divided them into groups	0	Alternate translation: “divided the descendants of Eleazar and Ithamar into groups”
@@ -1394,7 +1394,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 24:6	r9vm			Nethanel	0	See how you translated this man’s name in [1 Chronicles 15:24](../15/24.md).
 24:6	wg42			Ahimelech	0	See how you translated this man’s name in [1 Chronicles 18:16](../18/16.md).
 24:6	g8k6		rc://*/ta/man/translate/figs-activepassive	One clan was drawn by lot from Eleazar’s descendants, and then the next would be drawn from Ithamar’s descendants	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “They chose one by lot from Eleazar’s descendants, then they would choose by lot one from Ithamar’s descendants” (See: [[rc://*/ta/man/translate/figs-activepassive]])
-24:7	prk5			General Information:	0	# General Information:\n\nThis begins a list of 24 lots that were cast to decide how the descendants of Eleazar and Ithamar would be divided into groups for their work as priests. This list ends in [1 Chronicles 24:18](../24/18.md).
+24:7	prk5				0	# General Information:\n\nThis begins a list of 24 lots that were cast to decide how the descendants of Eleazar and Ithamar would be divided into groups for their work as priests. This list ends in [1 Chronicles 24:18](../24/18.md).
 24:7	kw78		rc://*/ta/man/translate/translate-ordinal	The first lot … the second	0	“Lot number 1 … lot number 2.” This shows the order in which the families were chosen by lots. If this is unnatural in your language you may use “The initial” for “The first” and “the next” for all of the following ones. (See: [[rc://*/ta/man/translate/translate-ordinal]])
 24:7	e85c		rc://*/ta/man/translate/translate-names	Jehoiarib … Jedaiah	0	See how you translated the names of these men in [1 Chronicles 9:10](../09/10.md). (See: [[rc://*/ta/man/translate/translate-names]])
 24:7	s29d		rc://*/ta/man/translate/translate-ordinal	the second	0	This refers to the second lot. The word “lot” may be supplied here. Alternate translation: “the second lot” or “lot number 2” (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/figs-ellipsis]])
@@ -1432,7 +1432,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 24:18	eam7		rc://*/ta/man/translate/translate-ordinal	the twenty-third … the twenty-fourth	0	This refers to the twenty-third and twenty-fourth lots. The word “lot” may be supplied here. Alternate translation: “the twenty-third lot … the twenty-fourth lot” or “lot number 23 … lot number 24” (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/figs-ellipsis]])
 24:18	kys6		rc://*/ta/man/translate/translate-names	Delaiah … Maaziah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 24:19	qau6		rc://*/ta/man/translate/figs-activepassive	following the procedure given to them by Aaron their ancestor	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “following the rules that Aaron their ancestor gave them” (See: [[rc://*/ta/man/translate/figs-activepassive]])
-24:20	vz7g		rc://*/ta/man/translate/translate-names	General Information:	0	# General Information:\n\nThis begins the list of names of the other sons of Levi. This list will end in [1 Chronicles 24:30](../24/30.md). (See: [[rc://*/ta/man/translate/translate-names]])
+24:20	vz7g		rc://*/ta/man/translate/translate-names		0	# General Information:\n\nThis begins the list of names of the other sons of Levi. This list will end in [1 Chronicles 24:30](../24/30.md). (See: [[rc://*/ta/man/translate/translate-names]])
 24:20	y1hr			Amram	0	See how you translated this man’s name in [1 Chronicles 6:3](../06/03.md).
 24:20	zu73			Shubael	0	See how you translated this man’s name in [1 Chronicles 23:16](../23/16.md).
 24:23	s2rv			Hebron … Jeriah … Amariah … Jahaziel … Jekameam	0	Translate the names of these men as in [1 Chronicles 23:19](../23/19.md).
@@ -1457,7 +1457,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 25:1	x5mj			this service	0	Alternate translation: “the work done at the tabernacle”
 25:1	xnr2		rc://*/ta/man/translate/translate-unknown	cymbals	0	This refers to two thin, round metal plates that are hit together to make a loud sound. See how you translated this in [1 Chronicles 13:8](../13/08.md). (See: [[rc://*/ta/man/translate/translate-unknown]])
 25:1	lu1w		rc://*/ta/man/translate/translate-names	Heman … Jeduthun	0	Translate the names of these men the same as you did in [1 Chronicles 16:41](../16/41.md). (See: [[rc://*/ta/man/translate/translate-names]])
-25:2	v7d3			General Information:	0	# General Information:\n\nThis begins a list of leaders of the tabernacle service.
+25:2	v7d3				0	# General Information:\n\nThis begins a list of leaders of the tabernacle service.
 25:2	dwd8		rc://*/ta/man/translate/translate-names	Zaccur … Joseph … Nethaniah … Asharelah	0	These are names of men. (See: [[rc://*/ta/man/translate/translate-names]])
 25:2	ne8m			the sons of Asaph, under the direction of Asaph, who prophesied under the king’s supervision	0	Alternate translation: “these were the sons of Asaph, whom he supervised. Asaph prophesied under the king’s supervision”
 25:2	r73v			under the direction of	0	Alternate translation: “under the supervision of”
@@ -1473,7 +1473,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 25:6	vgs6		rc://*/ta/man/translate/translate-names	Jeduthun … Heman	0	Translate the names of these men the same as you did in [1 Chronicles 16:41](../16/41.md). (See: [[rc://*/ta/man/translate/translate-names]])
 25:7	t6ws		rc://*/ta/man/translate/translate-numbers	numbered 288	0	“were two hundred and eighty-eight men” (See: [[rc://*/ta/man/translate/translate-numbers]])
 25:8	n5bl		rc://*/ta/man/translate/figs-merism	all alike, the same for the young as well as the old, the teacher as well as the student	0	This refers to all of the men by describing the extremes. Alternate translation: “all of them, including the young men and the old men, the teachers and the students” (See: [[rc://*/ta/man/translate/figs-merism]])
-25:9	bhf9			General Information:	0	# General Information:\n\nThis begins the list of 24 lots that were cast to choose the order in which families would serve. This list ends in [1 Chronicles 25:31](../25/31.md).
+25:9	bhf9				0	# General Information:\n\nThis begins the list of 24 lots that were cast to choose the order in which families would serve. This list ends in [1 Chronicles 25:31](../25/31.md).
 25:9	yu6y		rc://*/ta/man/translate/translate-ordinal	The first lot … the second	0	“Lot number 1 … lot number 2.” This shows the order in which the families were chosen by lots. If this is unnatural in your language you may use “The initial” for “The first” and “the next” for all of the following ones. (See: [[rc://*/ta/man/translate/translate-ordinal]])
 25:9	b4ew		rc://*/ta/man/translate/figs-explicit	The first lot fell to Joseph’s family	0	For all of the other people in the list, the text specifies that there were “twelve persons in number.” Since this was likely true for Joseph’s family also, you may want to state it clearly. Alternate translation: “The first lot fell to Joseph’s family, twelve persons in number” (See: [[rc://*/ta/man/translate/figs-explicit]])
 25:9	g39x		rc://*/ta/man/translate/translate-ordinal	the second	0	This refers to the second lot. The word “lot” may be supplied here. Alternate translation: “the second lot” or “lot number 2” (See: [[rc://*/ta/man/translate/translate-ordinal]] and [[rc://*/ta/man/translate/figs-ellipsis]])
@@ -1568,7 +1568,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 25:31	vy25		rc://*/ta/man/translate/translate-names	Romamti-Ezer	0	Translate the name of this man the same as you did in [1 Chronicles 25:4](../25/04.md). (See: [[rc://*/ta/man/translate/translate-names]])
 25:31	ed4w		rc://*/ta/man/translate/translate-numbers	twelve persons in number	0	“12 people” (See: [[rc://*/ta/man/translate/translate-numbers]])
 26:intro	abcq				0	# 1 Chronicles 26 General Notes\n\n## Structure and formatting\n\nThe preparation for the temple continues in this chapter. (See: [[rc://*/tw/dict/bible/kt/temple]])\n\n## Special concepts in this chapter\n\n### Casting lots\n\nThe gatekeepers cast lots to see which gate they would guard. Those who took care of the storage also cast lots.
-26:1	w2xj			General Information:	0	# General Information:\n\nThis begins the list of the gatekeepers.
+26:1	w2xj				0	# General Information:\n\nThis begins the list of the gatekeepers.
 26:1	e9f7			divisions	0	groups
 26:1	g7cp		rc://*/ta/man/translate/translate-names	Korahites	0	See how you translated the name of this people group in [1 Chronicles 19:19](../19/19.md). (See: [[rc://*/ta/man/translate/translate-names]])
 26:1	q6yw		rc://*/ta/man/translate/translate-names	Meshelemiah	0	See how you translated the name of this man in [1 Chronicles 9:21](../09/21.md). (See: [[rc://*/ta/man/translate/translate-names]])
@@ -1840,7 +1840,7 @@ front:intro	fa9l				0	# Introduction to 1 Chronicles\n\n## Part 1: General Intro
 29:5	lf78			Connecting Statement:	0	# Connecting Statement:\n\nDavid finishes talking to the people about his provisions for the building of the temple.
 29:5	s62z		rc://*/ta/man/translate/figs-activepassive	gold for the things to be made of gold … work to be done by craftsmen	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “gold for the craftsmen to make the gold things, silver so they may make the silver things, and things of all kinds for their other work” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 29:5	b1xt			give himself to him	0	Alternate translation: “give himself to God”
-29:6	din9		rc://*/ta/man/translate/translate-numbers	General Information:	0	# General Information:\n\n(See: [[rc://*/ta/man/translate/translate-numbers]])
+29:6	din9		rc://*/ta/man/translate/translate-numbers		0	# General Information:\n\n(See: [[rc://*/ta/man/translate/translate-numbers]])
 29:6	d694		rc://*/ta/man/translate/figs-activepassive	Then freewill offerings were made by the leaders … and by the officials over the king’s work.	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “Then the leaders … and the officials over the king’s work made freewill offerings” (See: [[rc://*/ta/man/translate/figs-activepassive]])
 29:6	jr54		rc://*/ta/man/translate/translate-numbers	the commanders of thousands and hundreds	0	This could mean: (1) these numbers represent the exact amount of soldiers that these commanders led. Alternate translation: “the commanders of 1,000 soldiers and the commanders of 100 soldiers” or (2) the words translated as “thousands” and “hundreds” do not represent exact numbers, but are the names of larger and smaller military divisions. Alternate translation: “the commanders of large military divisions and the commanders of smaller military divisions” See how you translated this in [1 Chronicles 13:1](../13/01.md). (See: [[rc://*/ta/man/translate/translate-numbers]])
 29:6	m3hh		rc://*/ta/man/translate/figs-idiom	the officials over the king’s work	0	Here the word “over” is used as an idiom. Alternate translation: “the officials in charge of the king’s work” (See: [[rc://*/ta/man/translate/figs-idiom]])
