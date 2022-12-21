@@ -1164,8 +1164,9 @@ front:intro	ur4j				0	# Introduction to 2 Corinthians\n\n## Part 1: General Intr
 10:7	y2yb			τὰ κατὰ πρόσωπον βλέπετε	1	
 10:7	gsvr		rc://*/ta/man/translate/figs-abstractnouns	κατὰ πρόσωπον	1	
 10:7	iuqd		rc://*/ta/man/translate/grammar-connect-condition-hypothetical	εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι, τοῦτο λογιζέσθω	1	
+10:7	s1g7		rc://*/ta/man/translate/figs-gendernotations	τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι, τοῦτο λογιζέσθω πάλιν ἐφ’ ἑαυτοῦ, ὅτι καθὼς αὐτὸς Χριστοῦ	1	
 10:7	z1t5		rc://*/ta/man/translate/figs-imperative3p	λογιζέσθω	1	Here Paul uses a third-person imperative. If you have third-person imperatives in your language, you could use one here. If you do not have third-person imperatives, you could express the idea using a word such as “should.” Alternate translation: “he should consider” (See: [[rc://*/ta/man/translate/figs-imperative3p]])
-10:7	f3i9			καθὼς αὐτὸς Χριστοῦ, οὕτως καὶ ἡμεῖς	1	Alternate translation: “we belong to Christ just as much as he does”
+10:7	f3i9		rc://*/ta/man/translate/figs-ellipsis	οὕτως καὶ ἡμεῖς	1	
 10:8	d4zu		rc://*/ta/man/translate/figs-metaphor	εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν	1	Paul speaks of helping the Corinthians to know Christ better as if he were constructing a building. Alternate translation: “to help you become better followers of Christ and not to discourage you so you stop following him” (See: [[rc://*/ta/man/translate/figs-metaphor]])
 10:9	nw6e			ἂν ἐκφοβεῖν ὑμᾶς	1	Alternate translation: “I am trying to frighten you”
 10:11	m6m6			τοῦτο λογιζέσθω ὁ τοιοῦτος	1	Alternate translation: “I want such people to be aware”
