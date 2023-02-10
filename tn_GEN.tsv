@@ -1050,12 +1050,12 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 9:6	n8bs		rc://*/ta/man/translate/figs-idiom	שֹׁפֵךְ֙ דַּ֣ם	1	“spills the blood of” or “kills/murders” or “takes the life of”. The phrase “sheds the blood of” is an idiom that means to deliberately kill someone. Blood is an important concept in this passage and throughout the Bible, so if possible it is best to keep this term in a translation. If that is not possible, you should put the literal text in a footnote. (See: [[rc://*/ta/man/translate/figs-idiom]])
 9:6	tey3			הָֽ⁠אָדָ֔ם	1	“a person,” or “another human being,” or “someone,”
 9:6	xvtg		rc://*/ta/man/translate/figs-infostructure	בָּֽ⁠אָדָ֖ם דָּמ֣⁠וֹ יִשָּׁפֵ֑ךְ	1	“people/you must execute him,” or “people/you must put him to death,” or “he must be executed,” For some languages it is more natural to put this clause first in this verse and say, “{That’s right,} you must put to death anyone who murders a human being, because {I,} God, made human beings in my own image.” Do what is best in your language. (See: [[rc://*/ta/man/translate/figs-infostructure]])
-9:6	c56p			כִּ֚י בְּ⁠צֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת הָ⁠אָדָֽם	1	“because {I,} God made/created mankind/people in my {own} image.” or “because I created human beings to be like myself.” Make sure it is clear in your translation that God is referring to himself in this clause. See how you translated a similar clause in Gen 1:27.
+9:6	c56p		rc://*/ta/man/translate/figs-123person	כִּ֚י בְּ⁠צֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת הָ⁠אָדָֽם	1	“because {I,} God made/created mankind/people in my {own} image.” or “because I created human beings to be like myself.” Make sure it is clear in your translation that God is referring to himself in this clause. See how you translated a similar clause in Gen 1:27. (See: [[rc://*/ta/man/translate/figs-123person]])
 9:7	uion			וְ⁠אַתֶּ֖ם	1	“And/Now {as for} you,” or “As for you,” The pronoun “you” is an emphatic pronoun that is fronted here in the Hebrew text to introduce a new topic. Consider what is the best way in your language to begin a new paragraph like this.
 9:7	mt4l		rc://*/ta/man/translate/figs-idiom	פְּר֣וּ	1	“bear/have many children”. See how you translated “be fruitful and multiply” in verse 1. (See: [[rc://*/ta/man/translate/figs-idiom]])
 9:7	mi6k			וּ⁠רְב֑וּ	1	“so that you {and your descendants} become {very} numerous/many.” or “so that you have many descendants.”
 9:7	in4s			שִׁרְצ֥וּ בָ⁠אָ֖רֶץ	1	“Spread out all over the earth” or “Live all over the earth”
-9:7	s5nm			וּ⁠רְב֑וּ	1	“and multiply/increase {in numbers}” or “and become numerous”
+9:7	s5nm			וּ⁠רְבוּ	1	“and multiply/increase {in numbers}” or “and become numerous”
 9:7	jl94			בָֽ⁠הּ	1	“throughout it.” or “everywhere.”
 9:8	mp5r			וַ⁠יֹּ֤אמֶר אֱלֹהִים֙	1	“Then God continued speaking”
 9:8	bm0t		rc://*/ta/man/translate/writing-quotations	אֶל נֹ֔חַ וְ⁠אֶל בָּנָ֥י⁠ו אִתּ֖⁠וֹ לֵ⁠אמֹֽר	1	“to Noah and his sons {who were} with him, and said,” or “to Noah and his sons,” or “to them,” God is still speaking to the same people. This phrase emphasizes what he says next to them. (See: [[rc://*/ta/man/translate/writing-quotations]])
@@ -5702,7 +5702,7 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 41:33	j1ph			נָב֣וֹן וְ⁠חָכָ֑ם	1	“{who is} intelligent/insightful and knows what to do,” or “who is wise and can make good decisions,”
 41:33	wtra			וִ⁠ישִׁיתֵ֖⁠הוּ עַל	1	“and put him in charge of/over” or “and give him authority over”
 41:33	dg3a		rc://*/ta/man/translate/figs-metonymy	אֶ֥רֶץ מִצְרָֽיִם	1	“the country of Egypt {and its people}.” See how you translated “the land” in verse 30. (See: [[rc://*/ta/man/translate/figs-metonymy]])
-41:34	zhau		rc://*/ta/man/translate/figs-123-person	יַעֲשֶׂ֣ה פַרְעֹ֔ה וְ⁠יַפְקֵ֥ד	1	“Sir, you should {also}” or “{King} Pharaoh, I also recommend that you” (See: [[rc://*/ta/man/translate/figs-123-person]])
+41:34	zhau		rc://*/ta/man/translate/figs-123person	יַעֲשֶׂ֣ה פַרְעֹ֔ה וְ⁠יַפְקֵ֥ד	1	“Sir, you should {also}” or “{King} Pharaoh, I also recommend that you” (See: [[rc://*/ta/man/translate/figs-123person]])
 41:34	dgmk			וְ⁠יַפְקֵ֥ד פְּקִדִ֖ים	1	“appoint/assign {regional} administrators/overseers”
 41:34	pdqm			עַל הָ⁠אָ֑רֶץ	1	“to be in charge of/over {different regions/parts of} the country,” or “to supervise/manage {different regions/parts of} the country,”
 41:34	p2kn			וְ⁠חִמֵּשׁ֙	1	“and {have them}” or “Then {command/order them to}”. Consider whether or not it is more natural to begin a new sentence here in your language.
