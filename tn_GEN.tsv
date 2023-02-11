@@ -1258,14 +1258,14 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 11:1	r2b8		rc://*/ta/man/translate/grammar-connect-time-background	וַֽ⁠יְהִ֥י	1	“Now {at first,}” or “Now {for a while,}” The events in chapter 11:1-9 happened before the people listed in chapter 10 had their own languages and before they spread out over the earth (Gen 10:5, 19-20, 30-32). You could include some of that information in a footnote. (See: [[rc://*/ta/man/translate/grammar-connect-time-background]])
 11:1	nlun		rc://*/ta/man/translate/figs-metonymy	כָל הָ⁠אָ֖רֶץ	1	“all {the people on} the earth” or “everyone on the earth”. Make sure your translation of this phrase refers to the people who lived on the earth. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 11:1	j005			וַֽ⁠יְהִ֥י שָׂפָ֣ה אֶחָ֑ת	1	“spoke one language” or “spoke/shared the same language”
-11:1	l2n1		rc://*/ta/man/translate/figs-doublet	וּ⁠דְבָרִ֖ים אֲחָדִֽים	1	“and {spoke/shared} the same words/vocabulary.” or “and spoke words everyone knew/understood.” or “so everyone understood each other.” The phrases “one language” and “the same words” are very similar in meaning and emphasize the fact that everyone spoke the same language. Consider what is the best way to communicate that in your language. (See: [[rc://*/ta/man/translate/figs-doublet]])
-11:2	ufks		rc://*/ta/man/translate/writing-newevent	וַֽ⁠יְהִ֖י בְּ⁠נָסְעָ֣⁠ם	1	“After a while, as/when” or “As/When” or “As time passed,” The phrase “it happened that” introduces an important event and helps create suspense so that readers will wonder what the outcome will be. Some translations omit this phrase because it is not natural in their language. Do what is best in your language. (See: [[rc://*/ta/man/translate/writing-newevent]])
+11:1	l2n1		rc://*/ta/man/translate/figs-doublet	וּ⁠דְבָרִ֖ים אֲחָדִֽים	1	“and {spoke/shared} the same words/vocabulary.” or “and spoke words everyone knew/understood.” or “so that everyone understood each other.” The phrases “one language” and “the same words” are very similar in meaning and emphasize the fact that everyone spoke the same language. Consider what is the best way to communicate that in your language. (See: [[rc://*/ta/man/translate/figs-doublet]])
+11:2	ufks		rc://*/ta/man/translate/writing-newevent	וַֽ⁠יְהִ֖י	1	“After a while, as/when” or “As/When” or “As time passed,” The phrase “it happened that” introduces an important event and helps create suspense so that readers will wonder what the outcome will be. Some translations omit this phrase because it is not natural in their language. Do what is best in your language. (See: [[rc://*/ta/man/translate/writing-newevent]])
 11:2	phjs		rc://*/ta/man/translate/writing-pronouns	בְּ⁠נָסְעָ֣⁠ם	1	“they moved/traveled” or “the people migrated/moved”. Consider whether it is better in your language to use a pronoun (“they”) or a noun phrase (“the people”) here. (See: [[rc://*/ta/man/translate/writing-pronouns]])
 11:2	kqit			מִ⁠קֶּ֑דֶם	1	“from the eastern {regions},” or “{around} in the eastern {regions},” At first after the flood, people lived in the regions around the mountains of Ararat (where the ark had landed). As they began to migrate and spread out to different places (as God had told them to do), they must have headed south at some point, since they ended up at the plain of Shinar, which was south of where the Ararat Mountains were. The reference to “the east” probably reflects the viewpoint of the author (Moses), since the Ararat mountains and the plain of Shinar were both far to the east of where he was living.
 11:2	zdwp			וַֽ⁠יִּמְצְא֥וּ	1	“they discovered” or “they {eventually} came to” or “and {eventually} came to”. Make sure the way you translate this phrase fits with the way you translated the first half of this verse.
 11:2	vygx			בִקְעָ֛ה בְּ⁠אֶ֥רֶץ שִׁנְעָ֖ר	1	“a wide/spacious, flat valley/area in the land/region called Shinar”. This plain was a wide, flat area between mountains. Also be consistent here with how you translated “land of Shinar” in Gen 10:10.
 11:2	dxfo			וַ⁠יֵּ֥שְׁבוּ שָֽׁם	1	“and lived/stayed there.” or “and began to live there.”
-11:3	m2g2			וַ⁠יֹּאמְר֞וּ	1	“Then {one day} they urged each other,” The events that are described below probably did not happen immediately after they arrived at the plain. Consider what is the best way to begin these events in your language. (See: writing-new event)
+11:3	m2g2			וַ⁠יֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗⁠הוּ	1	“Then {one day} they urged each other,” The events that are described below probably did not happen immediately after they arrived at the plain. Consider what is the best way to begin these events in your language. (See: writing-new event)
 11:3	jfqv		rc://*/ta/man/translate/figs-idiom	הָ֚בָ⁠ה	1	“Come on,” Consider whether or not your language has an idiom like this that is used to urge or persuade someone to do something together. (See: [[rc://*/ta/man/translate/figs-idiom]])
 11:3	uwu2		rc://*/ta/man/translate/figs-exclusive	נִלְבְּנָ֣ה	1	“let us {work together and} make” or “we should {work together and} make”. The pronoun “us” is inclusive here and refers to the people who are talking to each other. (See: [[rc://*/ta/man/translate/figs-exclusive]])
 11:3	wprr		rc://*/ta/man/translate/figs-explicit	לְבֵנִ֔ים	1	“{some} {clay/mud} bricks/blocks” or “{some} bricks/blocks {from clay/mud}” (See: [[rc://*/ta/man/translate/figs-explicit]])
@@ -1278,21 +1278,19 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 11:4	igxx			הָ֣בָ⁠ה	1	“Come on,” See how you translated this idiom in verse 3.
 11:4	gfzh			נִבְנֶה	1	“let us {work together and} build” or “we should {work together and} build”. See how you translated a similar phrase in verse 3.
 11:4	dl1s			לָּ֣⁠נוּ עִ֗יר	1	“a city for us {to live in}”
-11:4	fabc			וּ⁠מִגְדָּל֙	1	“that includes/has” or “with”
-11:4	a5tp			וּ⁠מִגְדָּל֙	1	“a {high} tower” or “a {very} tall building”
+11:4	a5tp			וּ⁠מִגְדָּל֙	1	“that includes/has a {high} tower” or “with a {very} tall building”
 11:4	h80w			וְ⁠רֹאשׁ֣⁠וֹ בַ⁠שָּׁמַ֔יִם	1	“that reaches high into the heavens/sky,” or “that reaches up to heaven,”
 11:4	z87w		rc://*/ta/man/translate/figs-idiom	וְ⁠נַֽעֲשֶׂה לָּ֖⁠נוּ שֵׁ֑ם פֶּן נָפ֖וּץ	1	“{We should do that} to make ourselves famous and to keep us from spreading out” or “{That way} we will become well-known/famous, and we will not separate from each other {and live}”. The phrase “make a name for ourselves” is a idiom. Consider whether or not your language has a similar idiom that would work well here. Also see how you translated the word “scattered” in Gen 10:18, 32. (See: [[rc://*/ta/man/translate/figs-idiom]])
 11:4	ytfe		rc://*/ta/man/translate/figs-idiom	עַל פְּנֵ֥י כָל הָ⁠אָֽרֶץ	1	“all over the earth/world.” or “around the world.” (See: [[rc://*/ta/man/translate/figs-idiom]])
-11:5	klw3			וַ⁠יֵּ֣רֶד	1	“Then/But {one day}”
-11:5	f9ua		rc://*/ta/man/translate/figs-explicit	וַ⁠יֵּ֣רֶד יְהוָ֔ה	1	“Yahweh came down {from heaven}” (See: [[rc://*/ta/man/translate/figs-explicit]])
+11:5	f9ua		rc://*/ta/man/translate/figs-explicit	וַ⁠יֵּ֣רֶד יְהוָ֔ה	1	“Then/But {one day} Yahweh came down {from heaven}” (See: [[rc://*/ta/man/translate/figs-explicit]])
 11:5	oe6q			לִ⁠רְאֹ֥ת אֶת הָ⁠עִ֖יר	1	“and looked at the city”
 11:5	pbs0			וְ⁠אֶת הַ⁠מִּגְדָּ֑ל	1	“and the {very} tall building”. See how you translated this word in verse 4.
-11:5	ujao			אֲשֶׁ֥ר בְּנֵ֥י הָ⁠אָדָֽם	1	“that the people”
+11:5	ujao			אֲשֶׁ֥ר & בְּנֵ֥י הָ⁠אָדָֽם	1	“that the people”
 11:5	zcoi			בָּנ֖וּ	1	“were building.” or “had started building.” Make sure the way you translate this verb fits with the fact that the people had not yet finished building the city (verse 8).
 11:6	zesy		rc://*/ta/man/translate/writing-pronouns	וַ⁠יֹּ֣אמֶר יְהוָ֗ה	1	“And/Then he said (to himself),” or “He said,” Consider what is the best way to refer to Yahweh here in your language. (See: [[rc://*/ta/man/translate/writing-pronouns]])
 11:6	h94b			הֵ֣ן	1	“Look,” This term calls attention to what Yahweh says next. Consider what is the best way to do that in your language.
 11:6	q2ld			עַ֤ם אֶחָד֙	1	The Hebrew text is ambiguous here. It can mean (1) “{they are} one people/ethnic {group},” (2) “the/these people {are} one/united {in what they are doing},”
-11:6	emr9			וְ⁠שָׂפָ֤ה לְ⁠כֻלָּ֔⁠ם	1	“and they all speak/share”
+11:6	emr9			וְ⁠שָׂפָ֤ה & לְ⁠כֻלָּ֔⁠ם	1	“and they all speak/share the same language.” See how you translated “have one language” in verse 1.
 11:6	i68n			וְ⁠שָׂפָ֤ה אַחַת֙	1	“the same language.” See how you translated this phrase in verse 1.
 11:6	jn1z			וְ⁠זֶ֖ה הַחִלָּ֣⁠ם לַ⁠עֲשׂ֑וֹת	1	“This {is} {only} the beginning of what they can/will do {together}.”
 11:6	m869			וְ⁠עַתָּה֙	1	“Now/Soon”
