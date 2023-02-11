@@ -1131,15 +1131,14 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 9:23	ahuv			וַ⁠יֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית	1	“and walked/went backward {into the tent}”
 9:23	tx8k			וַ⁠יְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִי⁠הֶ֑ם	1	“and covered their father’s naked body {with it}.” or “and used it to cover their naked father.”
 9:23	n341			וּ⁠פְנֵי⁠הֶם֙ אֲחֹ֣רַנִּ֔ית	1	“{As they did that,} they kept their faces/eyes turned/looking away {from him},” or “{As they did that,} they looked away {from him},”
-9:23	n966			וְ⁠עֶרְוַ֥ת לֹ֥א רָאֽוּ	1	“so that they would not see”
-9:23	wcj9		rc://*/ta/man/translate/writing-pronouns	אֵ֖ת עֶרְוַ֣ת אֲבִי⁠הֶ֑ם	1	“his nakedness.” or “him naked.” Consider whether it is better here in your language to refer to Noah with a noun phrase or a pronoun. (See: [[rc://*/ta/man/translate/writing-pronouns]])
-9:24	huys			וַ⁠יִּ֥יקֶץ נֹ֖חַ	1	“Later Noah/he”
-9:24	z3po			וַ⁠יִּ֥יקֶץ מִ⁠יֵּינ֑⁠וֹ	1	“woke up {sober} from {the effects of} the wine,” or “woke up from being drunk,” or “woke up sober,”
+9:23	wcj9		rc://*/ta/man/translate/writing-pronouns	וְ⁠עֶרְוַ֥ת אֲבִי⁠הֶ֖ם לֹ֥א רָאֽוּ	1	“so that they did/would not see his nakedness.” or “so that they did/would not see him naked.” Consider whether it is better here in your language to refer to Noah with a noun phrase or a pronoun. (See: [[rc://*/ta/man/translate/writing-pronouns]])
+9:24	huys			וַ⁠יִּ֥יקֶץ נֹ֖חַ	1	“Later Noah/he woke up”
+9:24	z3po			מִ⁠יֵּינ֑⁠וֹ	1	“{sober} from {the effects of} the wine,” or “from being drunk,” or “sober,”
 9:24	e13r			וַ⁠יֵּ֕דַע	1	“and he found out” or “and he heard {about}”. The text does not say how Noah found out about this, so it is best to not be too specific about that here in your translation.
 9:24	k45l			אֵ֛ת אֲשֶׁר עָ֥שָׂה ל֖⁠וֹ בְּנ֥⁠וֹ הַ⁠קָּטָֽן	1	“that his youngest son {Ham} had dishonored/disrespected/mocked him,”
 9:25	yls5		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֖אמֶר	1	“So he exclaimed {about him/Ham},” Consider whether or not it is better in your language to begin a new sentence here. (See: [[rc://*/ta/man/translate/writing-quotations]])
 9:25	wpmd			אָר֣וּר	1	“I {hereby} {ask God to} curse” or “May God curse”
-9:25	bhhg			כְּנָ֑עַן	1	“{Ham’s son} Canaan!” In verses 25-27, Canaan probably represents Ham and all of Ham’s descendants (the Canaanites), who will serve Shem and Japheth and all their descendants. You could put that information in a footnote.
+9:25	bhhg		rc://*/ta/man/translate/figs-metonymy	כְּנָ֑עַן	1	“{Ham’s son} Canaan!” In verses 25-27, Canaan probably represents Ham and all of Ham’s descendants (the Canaanites), who will serve Shem and Japheth and all their descendants. You could put that information in a footnote. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 9:25	tt6u			יִֽהְיֶ֥ה	1	“Canaan will be” or “{I declare/proclaim that} he/Canaan will be”
 9:25	dvbz			עֶ֥בֶד עֲבָדִ֖ים	1	“the lowest slave/servant”. The Hebrew word here can mean either “slave” or “servant”. Slaves in the Old Testament were usually treated well and were not much different than servants, sometimes even becoming like members of their owner’s family. But they were of lower status than their masters, so that is part of how Ham’s family is being cursed.
 9:25	dnvn			לְ⁠אֶחָֽי⁠ו	1	“for his/Canaan’s relatives.” Verses 26 and 27 show that “his brothers” probably refers here to Shem and Japheth (who were Canaan’s uncles) and their descendants.
@@ -2808,7 +2807,7 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 21:23	k01e			הִשָּׁ֨בְעָ⁠ה לִּ֤⁠י בֵֽ⁠אלֹהִים֙ הֵ֔נָּה	1	“swear/vow to me here in God’s presence” or “solemnly promise me here with God as your witness”. To “swear...by God” means that Abraham would be accountable to God, asking him to be his witness and to punish him if he breaks his oath/vow/promise to King Abimelech. It does not mean that Abraham used swear words or other foul language. If this custom is not familiar to many people in your language area, you could put this information in a footnote. See how you translated a similar sentence in Gen 14:22.
 21:23	w3li			אִם תִּשְׁקֹ֣ר לִ֔⁠י וּ⁠לְ⁠נִינִ֖⁠י וּ⁠לְ⁠נֶכְדִּ֑⁠י	1	“that you will never {again} deceive me or my children or my descendants.”
 21:23	gd6n			כַּ⁠חֶ֜סֶד אֲשֶׁר עָשִׂ֤יתִי עִמְּ⁠ךָ֙	1	“{Instead/Rather,} just as I have treated you kindly,” or “{But} just as I have been kind to you,”
-21:23	ofrf			תַּעֲשֶׂ֣ה עִמָּדִ֔⁠י וְ⁠עִם הָ⁠אָ֖רֶץ	1	“{swear/vow that} you will {also} be kind to me and {the/my people in} this land/country”. In this context, the phrase “the land” refers to the people who live in the land. (See: figs: metonymy)
+21:23	ofrf		rc://*/ta/man/translate/figs-metonymy	תַּעֲשֶׂ֣ה עִמָּדִ֔⁠י וְ⁠עִם הָ⁠אָ֖רֶץ	1	“{swear/vow that} you will {also} be kind to me and {the/my people in} this land/country”. In this context, the phrase “the land” refers to the people who live in the land. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 21:23	vmpq			אֲשֶׁר גַּ֥רְתָּה בָּֽ⁠הּ	1	“where you are sojourning/living.” or “where you are living/staying {as a foreigner/outsider}.”
 21:24	vsx6		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֨אמֶר֙ אַבְרָהָ֔ם	1	“Abraham said/replied {to him/Abimelech},” (See: [[rc://*/ta/man/translate/writing-quotations]])
 21:24	llgs		rc://*/ta/man/translate/figs-explicit	אָנֹכִ֖י אִשָּׁבֵֽעַ	1	“I swear/vow {that I will do those things}.” or “I solemnly promise {that I will do that}.” See how you translated “swear” in verse 23. (See: [[rc://*/ta/man/translate/figs-explicit]])
