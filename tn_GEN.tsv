@@ -1450,10 +1450,9 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 12:10	ipz4			מִצְרַ֨יְמָ⁠ה֙	1	“to/toward {the land/country} of Egypt”
 12:10	kyr1			לָ⁠ג֣וּר שָׁ֔ם	1	“to live/stay there for a while”
 12:10	vqpl			כִּֽי כָבֵ֥ד הָ⁠רָעָ֖ב	1	“because the food shortage was {very} severe/oppressive”
-12:10	vjke		rc://*/ta/man/translate/figs-infostructure	בָּ⁠אָ֑רֶץ	1	“in that land/region.” or “in the Negev {Wilderness/Desert} {so they could not survive/live there}.” It may be more natural to put this clause near the beginning of this verse and say, “Then/Now there was a famine in that land/region that was so heavy/severe/bad that Abram {and his family} {left there and} went down to {the land/country of} Egypt to live for a while.” Do what is best in your language. (See: [[rc://*/ta/man/translate/figs-infostructure]])
+12:10	vjke		rc://*/ta/man/translate/figs-infostructure	בָּ⁠אָֽרֶץ	1	“in that land/region.” or “in the Negev {Wilderness/Desert} {so they could not survive/live there}.” It may be more natural to put this clause near the beginning of this verse and say, “Then/Now there was a famine in that land/region that was so heavy/severe/bad that Abram {and his family} {left there and} went down to {the land/country of} Egypt to live for a while.” Do what is best in your language. (See: [[rc://*/ta/man/translate/figs-infostructure]])
 12:11	aosr			וַ⁠יְהִ֕י כַּ⁠אֲשֶׁ֥ר הִקְרִ֖יב לָ⁠ב֣וֹא מִצְרָ֑יְמָ⁠ה	1	“Just before they arrived in Egypt,” or “As they approached Egypt,”
-12:11	v1kk			וַ⁠יֹּ֨אמֶר֙ אֶל	1	“he/Abram told/urged”
-12:11	p25h			שָׂרַ֣י אִשְׁתּ֔⁠וֹ	1	“his wife Sarai,”
+12:11	v1kk			וַ⁠יֹּ֨אמֶר֙ אֶל־שָׂרַ֣י אִשְׁתּ֔⁠וֹ	1	“Abram said to his wife Sarai,” or “he/Abram told/urged his wife Sarai,”
 12:11	phg5			הִנֵּה נָ֣א	1	“Listen please,” or “Please listen {to me/this}:”
 12:11	ajhq			יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת מַרְאֶ֖ה אָֽתְּ	1	“I know/realize that you {are} a very beautiful woman.” or “You {are} a very beautiful woman.”
 12:12	x50x		rc://*/ta/man/translate/grammar-connect-logic-result	וְ⁠הָיָ֗ה כִּֽי	1	“So when” or “When”. Consider whether it is better in your language to begin this sentence with or without a conjunction (“So”). (See: [[rc://*/ta/man/translate/grammar-connect-logic-result]])
@@ -1462,17 +1461,15 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 12:12	semy		rc://*/ta/man/translate/figs-quotations	וְ⁠אָמְר֖וּ אִשְׁתּ֣⁠וֹ זֹ֑את	1	“they will say/know that you are my wife,” Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: [[rc://*/ta/man/translate/figs-quotations]])
 12:12	sw31			וְ⁠הָרְג֥וּ אֹתִ֖⁠י וְ⁠אֹתָ֥⁠ךְ יְחַיּֽוּ	1	“Then they will kill me but/and let you live {so that they can have/take you}.” Consider whether or not it is better in your language to begin a new sentence here.
 12:13	t2hf			אִמְרִי נָ֖א	1	“{So} please tell {people/them}”
-12:13	erv1		rc://*/ta/man/translate/figs-quotations	אִמְרִי אֲחֹ֣תִ⁠י אָ֑תְּ	1	“ ‘I am his/Abram’s sister,’ ” Consider whether an indirect quote or direct quote is best here in your language. (See: [[rc://*/ta/man/translate/figs-quotations]])
+12:13	erv1		rc://*/ta/man/translate/figs-quotations	אֲחֹ֣תִ⁠י אָ֑תְּ	1	“ ‘I am his/Abram’s sister,’ ” Consider whether an indirect quote or direct quote is best here in your language. (See: [[rc://*/ta/man/translate/figs-quotations]])
 12:13	p2h5			לְמַ֨עַן֙ יִֽיטַב לִ֣⁠י	1	“so that I will be treated well” or “so that they/people will treat me well”
 12:13	pv49			בַ⁠עֲבוּרֵ֔⁠ךְ	1	“because of you”
 12:13	kbgh			וְ⁠חָיְתָ֥ה נַפְשִׁ֖⁠י בִּ⁠גְלָלֵֽ⁠ךְ	1	“and my life will be spared {by them}.” or “and they will spare my life.” or “and {they will} let me live.” For some languages it is not natural to include the phrase “because of you” here, because it repeats the same idea as “for your sake” that was earlier in the sentence. Do what is best in your language.
 12:14	ip31			וַ⁠יְהִ֕י	1	“That is {exactly} what happened:”
-12:14	ajxi		rc://*/ta/man/translate/figs-explicit	כְּ⁠ב֥וֹא אַבְרָ֖ם	1	“When Abram {and his family}”. Although Abram is in focus here, your translation should not sound like he was traveling alone. (See: [[rc://*/ta/man/translate/figs-explicit]])
-12:14	o20p			כְּ⁠ב֥וֹא מִצְרָ֑יְמָ⁠ה	1	“entered” or “arrived in”
-12:14	uvz5			מִצְרָ֑יְמָ⁠ה	1	“{the land/country of} Egypt,”
+12:14	ajxi		rc://*/ta/man/translate/figs-explicit	כְּ⁠ב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָ⁠ה	1	“When Abram {and his family} entered {the land/country of} Egypt,” Although Abram is in focus here, your translation should not sound like he was traveling alone. (See: [[rc://*/ta/man/translate/figs-explicit]])
 12:14	s2xw			וַ⁠יִּרְא֤וּ הַ⁠מִּצְרִים֙	1	“the Egyptian {people}” or “the people {living} there”
-12:14	g5l2			וַ⁠יִּרְא֤וּ אֶת הָ֣⁠אִשָּׁ֔ה כִּֽי הִ֖וא	1	“saw/noticed that the woman {with him}” or “saw/noticed that Sarai”
-12:14	x3ox			יָפָ֥ה מְאֹֽד	1	“{was} {indeed/truly} very beautiful.”
+12:14	g5l2			וַ⁠יִּרְא֤וּ & אֶת־הָ֣⁠אִשָּׁ֔ה	1	“saw/noticed that the woman {with him}” or “saw/noticed that Sarai”
+12:14	x3ox			כִּֽי־יָפָ֥ה הִ֖וא מְאֹֽד	1	“{was} {indeed/truly} very beautiful.”
 12:15	twfq		rc://*/ta/man/translate/translate-names	וַ⁠יִּרְא֤וּ אֹתָ⁠הּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַ⁠יְהַֽלְל֥וּ	1	“{Some of} the officials/officers who served/ruled under the {Egyptian} king/ruler noticed/spotted her, so” or “When some officials/officers of/under Pharaoh {the king of/over Egypt} saw/noticed her,” The term “officials” is general and refers to leaders or rulers who were under Pharaoh and served him. Also, the term “Pharaoh” is an Egyptian title that refers to the king or ruler over Egypt. However, in the Old Testament, it is treated as a name (that frequently occurs with the title “king of Egypt”), so translators often transliterate “Pharaoh” (which is how other names in the Bible are normally treated). Some languages require an honorific title with the names of kings, for example, “{King} Pharaoh”. Decide how you will handle this in your translation. (See: [[rc://*/ta/man/translate/translate-names]])
 12:15	oubs		rc://*/ta/man/translate/writing-pronouns	וַ⁠יְהַֽלְל֥וּ אֹתָ֖⁠הּ אֶל פַּרְעֹ֑ה	1	“they told Pharaoh/him how beautiful she was,” or “they highly recommended her to him,” (See: [[rc://*/ta/man/translate/writing-pronouns]])
 12:15	vbhr		rc://*/ta/man/translate/figs-activepassive	וַ⁠תֻּקַּ֥ח הָ⁠אִשָּׁ֖ה	1	“and she/Sarai was taken/brought” or “So he had them bring her/Sarai”. Consider what is the best way to translate this passive clause in your language. Also consider whether or not it is better in your language to begin a new sentence here. (See: [[rc://*/ta/man/translate/figs-activepassive]])
