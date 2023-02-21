@@ -3500,12 +3500,12 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 27:19	clmd		rc://*/ta/man/translate/translate-key-terms	אָנֹכִי֙ עֵשָׂ֣ו בְּכֹרֶ֔⁠ךָ	1	“I {am} Esau, your firstborn/oldest son.” The term “firstborn” is a key term in the Bible because the firstborn son had special rights, including the fact that he inherited his father’s authority and the largest portion of his father’s estate. Jacob is claiming those rights by using this term. See how you translated this term in Gen 25:13. (See: [[rc://*/ta/man/translate/translate-key-terms]])
 27:19	vnm1			עָשִׂ֕יתִי כַּ⁠אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָ֑⁠י	1	“I have done what you told/requested me {to do}.”
 27:19	ckg4			קֽוּם נָ֣א שְׁבָ֗⁠ה וְ⁠אָכְלָ⁠ה֙ מִ⁠צֵּידִ֔⁠י	1	“{So now,} please sit up and eat some of the game/deer {meat} that I have prepared/cooked {for you},” See how you translated “game {meat}” in verses 3, 5 and 7.
-27:19	q51t			בַּ⁠עֲב֖וּר תְּבָרֲכַ֥⁠נִּי נַפְשֶֽׁ⁠ךָ	1	“so that you can bless me.” See how you translated a similar clause in verse 4.
+27:19	q51t		rc://*/ta/man/translate/figs-synecdoche	בַּ⁠עֲב֖וּר תְּבָרֲכַ֥⁠נִּי נַפְשֶֽׁ⁠ךָ	1	“so that you can bless me.” See how you translated a similar clause in verse 4. (See: [[rc://*/ta/man/translate/figs-synecdoche]])
 27:20	kehq		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֤אמֶר יִצְחָק֙ אֶל בְּנ֔⁠וֹ	1	“But Isaac asked him,” (See: [[rc://*/ta/man/translate/writing-quotations]])
 27:20	jc6p			מַה זֶּ֛ה מִהַ֥רְתָּ לִ⁠מְצֹ֖א בְּנִ֑⁠י	1	“How were you able to find/get {the deer/animal} so quickly, my son?” Consider whether it is more natural in your language to put the address “my son” first in this quote.
 27:20	f38e			וַ⁠יֹּ֕אמֶר	1	“Jacob answered {him},”
-27:20	i5gl			כִּ֥י יְהוָ֥ה אֱלֹהֶ֖י⁠ךָ	1	“{I was successful} because Yahweh, the God you worship/serve,” or “Yahweh, {who is} the God who takes care of you,”
-27:20	onx0			הִקְרָ֛ה לְ⁠פָנָֽ⁠י	1	“helped me to hunt/find it.” or “helped me to succeed.” or “brought it to me.” See how you translated this clause in Gen 24:12.
+27:20	i5gl			כִּ֥י & יְהוָ֥ה אֱלֹהֶ֖י⁠ךָ	1	“{I was successful} because Yahweh, the God you worship/serve,” or “Yahweh, {who is} the God who takes care of you,”
+27:20	onx0			הִקְרָ֛ה & לְ⁠פָנָֽ⁠י	1	“helped me to hunt/find it.” or “helped me to succeed.” or “brought it to me.” See how you translated this clause in Gen 24:12.
 27:21	l1al			וַ⁠יֹּ֤אמֶר יִצְחָק֙ אֶֽל יַעֲקֹ֔ב	1	“Then/But Isaac said to him,”
 27:21	w851			גְּשָׁ⁠ה נָּ֥א וַ⁠אֲמֻֽשְׁ⁠ךָ֖ בְּנִ֑⁠י	1	“Please come close/closer {to me}, my son, so that I can touch/feel you” or “My son, please come here so that I can touch/feel you”. Consider whether it is more natural in your language to put the address “my son” first or earlier in this quote. Also see what you did in verses 13 and 20.
 27:21	gb5v			הַֽ⁠אַתָּ֥ה זֶ֛ה בְּנִ֥⁠י עֵשָׂ֖ו אִם לֹֽא	1	“and make/be sure/certain that you are really my son Esau.” or “{I want to know} {for sure} whether or not you really are my son Esau.” Consider whether it is more natural in your language to begin a new sentence here.
@@ -3533,8 +3533,8 @@ front:intro	d9wn				0	# Introduction to Genesis\n\n## Part 1: General Introducti
 27:27	i4z0			וַ⁠יָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖י⁠ו	1	“Then Isaac smelled/recognized the fragrance/scent of Esau’s clothes {that Jacob was wearing}” or “{As he/Jacob did that,} his father smelled/recognized the fragrance/scent of Esau’s clothes”
 27:27	alts			וַֽ⁠יְבָרֲכֵ֑⁠הוּ	1	“Then he/Isaac blessed him/Jacob”
 27:27	xnqs			וַ⁠יֹּ֗אמֶר	1	“by saying {to/about him},” or “He said {to/about him},”
-27:27	lggs			רְאֵה֙ רֵ֣יחַ בְּנִ֔⁠י כְּ⁠רֵ֣יחַ	1	“Ahh, my son smells {wonderful} like” or “Ahh, my son, you smell {wonderful} like”. Some translations put the words of Isaac’s blessing in poetry format (beginning here and through verse 29). Be consistent here with how your translation team decides to format passages like this.
-27:27	jo64			כְּ⁠רֵ֣יחַ שָׂדֶ֔ה	1	“the fragrance of a {green/productive} field” or “the way a {green/productive} field smells”
+27:27	lggs			רְאֵה֙ רֵ֣יחַ בְּנִ֔⁠י	1	“Ahh, my son smells” or “Ahh, my son, you smell”. Some translations put the words of Isaac’s blessing in poetry format (beginning here and through verse 29). Be consistent here with how your translation team decides to format passages like this.
+27:27	jo64			כְּ⁠רֵ֣יחַ שָׂדֶ֔ה	1	“{wonderful} like the fragrance of a {green/productive} field” or “{wonderful} the way a {green/productive} field smells”
 27:27	ejck			אֲשֶׁ֥ר בֵּרֲכ֖⁠וֹ יְהוָֽה	1	“that Yahweh has caused to flourish!” or “that Yahweh has caused to be very productive!”
 27:28	dgyi		rc://*/ta/man/translate/figs-metonymy	וְ⁠יִֽתֶּן לְ⁠ךָ֙ הָ⁠אֱלֹהִ֔ים	1	“May God give/provide you {and your descendants}” or “I ask God to provide you {and your descendants}” or “I pray that God will give/provide you {and your descendants}”. In the Hebrew text, “you” is singular in verses 28-29 and refers to both Jacob and his descendants. If necessary, you could make that explicit in your translation. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 27:28	ca2c			מִ⁠טַּל֙ הַ⁠שָּׁמַ֔יִם וּ⁠מִ⁠שְׁמַנֵּ֖י הָ⁠אָ֑רֶץ וְ⁠רֹ֥ב	1	“{plenty of} dew/rain from the heavens/sky {for your crops and animals} and riches from the earth/land/soil, including” or “{plenty of} rain and rich/fertile land/soil, so that {you have}”
