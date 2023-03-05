@@ -5496,7 +5496,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 42:7	zwjj			מֵ⁠אַ֣יִן בָּאתֶ֔ם	1	“Where are you from?” or “What country are you from?”
 42:7	j2e8		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֣אמְר֔וּ	1	“They answered {him},” (See: [[rc://*/ta/man/translate/writing-quotations]])
 42:7	jyke		rc://*/ta/man/translate/figs-honorifics	מֵ⁠אֶ֥רֶץ כְּנַ֖עַן לִ⁠שְׁבָּר אֹֽכֶל	1	“{Sir,} {we came} from the land/region of Canaan to buy {some} grain.” or “{Sir,} {we are} from the land/region of Canaan {and we came} to buy {some} grain.” For some languages it is necessary to begin with a respectful title or form of address when someone talks to a person of high status like Joseph. See how Joseph’s brothers address him in verse 10. (See: [[rc://*/ta/man/translate/figs-honorifics]])
-42:8	gapq			וַ⁠יַּכֵּ֥ר יוֹסֵ֖ף אֶת אֶחָ֑י⁠ו וְ⁠הֵ֖ם	1	“Although Joseph recognized his brothers,”
+42:8	gapq			וַ⁠יַּכֵּ֥ר יוֹסֵ֖ף אֶת אֶחָ֑י⁠ו	1	“Although Joseph recognized his brothers,”
 42:8	uuxa			וְ⁠הֵ֖ם לֹ֥א הִכִּרֻֽ⁠הוּ	1	“they did not realize/know who he was.”
 42:9	jb4t			וַ⁠יִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַ⁠חֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם	1	“Then Joseph remembered what he had dreamed”
 42:9	byaf			לָ⁠הֶ֑ם	1	“about them {long ago},” or “about his brothers {long ago},”
@@ -5508,12 +5508,12 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 42:10	ue8q		rc://*/ta/man/translate/writing-politeness	לֹ֣א אֲדֹנִ֑⁠י	1	“No, sir,” or “Sir, we are not {spies},” Make sure your translation of this phrase sounds polite. In some cultures it is rude to say “No” too directly. See how you translated a similar phrase in Gen 23:11. (See: [[rc://*/ta/man/translate/writing-politeness]])
 42:10	xa6t		rc://*/ta/man/translate/figs-123person	וַ⁠עֲבָדֶ֥י⁠ךָ בָּ֖אוּ	1	“but rather {we} come {before you} respectfully/humbly” or “Rather, {we are} {just} humble men {who} have come {here}”. The brothers referred to themselves as “your servants” to show respect to Joseph and to acknowledge his high position. Translate this phrase in a polite way that shows respect toward Joseph. (See: [[rc://*/ta/man/translate/figs-123person]])
 42:10	xv5f			לִ⁠שְׁבָּר אֹֽכֶל	1	“{only} to buy {some} food/grain.”
-42:11	t3kh			כֻּלָּ֕⁠נוּ בְּנֵ֥י	1	“We {are} all”
+42:11	t3kh			כֻּלָּ֕⁠נוּ	1	“We {are} all”
 42:11	gxjv			בְּנֵ֥י אִישׁ אֶחָ֖ד	1	“{the} sons of the same man/father.” or “brothers who have the same father.”
-42:11	t2o1		rc://*/ta/man/translate/figs-123person	נָ֑חְנוּ כֵּנִ֣ים לֹא הָי֥וּ עֲבָדֶ֖י⁠ךָ מְרַגְּלִֽים	1	“We {are} honest/trustworthy men/people who {highly} respect you. We are not spies.” or “We {are} humble, honest/trustworthy men/people, not spies.” (See: [[rc://*/ta/man/translate/figs-123person]])
+42:11	t2o1		rc://*/ta/man/translate/figs-123person	נָ֑חְנוּ כֵּנִ֣ים אֲנַ֔חְנוּ לֹא־הָי֥וּ עֲבָדֶ֖י⁠ךָ מְרַגְּלִֽים	1	“We {are} honest/trustworthy men/people who {highly} respect you. We are not spies.” or “We {are} humble, honest/trustworthy men/people, not spies.” (See: [[rc://*/ta/man/translate/figs-123person]])
 42:12	ewus		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֖אמֶר אֲלֵ⁠הֶ֑ם	1	“But/Then Joseph replied,” or “But he/Joseph accused them,” (See: [[rc://*/ta/man/translate/writing-quotations]])
-42:12	p2xr			לֹ֕א כִּֽי בָּאתֶ֥ם	1	“No/Yes, {you are spies!} {I’m sure} you must have come {here}” or “{That is} not {true}! You have definitely come {here}”. Different languages use “yes” and “no” in different ways, depending on the context. Do what is accurate and natural in this context in your language. Also see how you translated “No” in Gen 18:15.
-42:12	qzyw		rc://*/ta/man/translate/figs-idiom	עֶרְוַ֥ת הָ⁠אָ֖רֶץ לִ⁠רְאֽוֹת	1	“to see/learn our country’s weaknesses!” or “to find out where {our} country is weak/vulnerable!” See how you translated this phrase in verse 9. (See: [[rc://*/ta/man/translate/figs-idiom]])
+42:12	p2xr			לֹ֕א כִּֽי & בָּאתֶ֥ם	1	“No/Yes, {you are spies!} {I’m sure} you must have come {here}” or “{That is} not {true}! You have definitely come {here}”. Different languages use “yes” and “no” in different ways, depending on the context. Do what is accurate and natural in this context in your language. Also see how you translated “No” in Gen 18:15.
+42:12	qzyw		rc://*/ta/man/translate/figs-idiom	עֶרְוַ֥ת הָ⁠אָ֖רֶץ & לִ⁠רְאֽוֹת	1	“to see/learn our country’s weaknesses!” or “to find out where {our} country is weak/vulnerable!” See how you translated this phrase in verse 9. (See: [[rc://*/ta/man/translate/figs-idiom]])
 42:13	sd4k		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּאמְר֗וּ	1	“But/Then they responded,” or “But they replied {to him},” (See: [[rc://*/ta/man/translate/writing-quotations]])
 42:13	fuv1			שְׁנֵ֣ים עָשָׂר֩ עֲבָדֶ֨י⁠ךָ אַחִ֧ים	1	“Sir, {there are/were} twelve of us brothers.”
 42:13	zu8a			אֲנַ֛חְנוּ בְּנֵ֥י אִישׁ אֶחָ֖ד	1	“We {are} {all} sons of the same man/father” or “We {all} have the same father”
@@ -5525,7 +5525,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 42:14	kcn9		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֥אמֶר אֲלֵ⁠הֶ֖ם יוֹסֵ֑ף	1	“Then/But Joseph accused them,” or “Then/But Joseph responded,” (See: [[rc://*/ta/man/translate/writing-quotations]])
 42:14	iyrk		rc://*/ta/man/translate/figs-quotesinquotes	ה֗וּא אֲשֶׁ֨ר דִּבַּ֧רְתִּי אֲלֵ⁠כֶ֛ם לֵ⁠אמֹ֖ר מְרַגְּלִ֥ים אַתֶּֽם	1	“What I told you is right/true! You are spying {on our country}!” or “I was right when I said that you are secretly gathering information {about our country}!” Consider whether it is more natural in your language to translate the embedded quote “You {are} spies” as a direct or indirect quote. (See: [[rc://*/ta/man/translate/figs-quotesinquotes]])
 42:15	zsxd			בְּ⁠זֹ֖את	1	“{So now,} this is how” or “In this way”
-42:15	njgh			תִּבָּחֵ֑נוּ	1	“I will test/verify whether you {told me the truth}:” or “I am going to test you to find out if your claims are true:”
+42:15	njgh			תִּבָּחֵ֑נוּ	1	“I will test/verify whether {or not} you {told me the truth}:” or “I am going to test you to find out if your claims are true:”
 42:15	xvi8			חֵ֤י פַרְעֹה֙	1	“{I swear/vow} by Pharaoh’s life/authority {that}” or “As certain as {King} Pharaoh lives, {I swear/vow that}”. Joseph uses King Pharaoh’s name here to make an oath that emphasizes the certainty of what he says next. Make sure that the way he refers to Pharaoh sounds respectful in your translation. See how you translated other vows in Gen 14:22 and 21:23-24.
 42:15	wd40			אִם תֵּצְא֣וּ	1	“you will {definitely} not/never leave” or “I will not/never let you leave”
 42:15	ubqh			מִ⁠זֶּ֔ה	1	“from here” or “Egypt”
