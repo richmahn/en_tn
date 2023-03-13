@@ -160,7 +160,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 1:29	sqcf		rc://*/ta/man/translate/writing-quotations	וַ⁠יֹּ֣אמֶר אֱלֹהִ֗ים	1	“Then God/he {also} said {to them},” or “Then God/he continued/added,” God is still speaking to the human beings, so it may be necessary to add “also” to this quote margin. Some languages need to specify who is being spoken to. Other languages may leave this quote margin implied, since the same subject (God) is talking to the same people. However, the repeated quote margin in the Hebrew text could show that God paused before continuing or that he is changing the topic, or to emphasize what he says next. So if it is natural to keep the quote margin here in your language, that is best. (See: [[rc://*/ta/man/translate/writing-quotations]])
 1:29	a4r5		rc://*/ta/man/translate/translate-key-terms	הִנֵּה֩	1	“Look,” or “Listen {to this},” or “I want you to know that”. This word means that what God says next is important and should be given special attention. Consider what is the best way to translate this term in your language. (See: [[rc://*/ta/man/translate/translate-key-terms]])
 1:29	uvuf			נָתַ֨תִּי לָ⁠כֶ֜ם	1	“I am {now} giving to you {as/for food}” or “I have provided {as food} for you” or “I am {now} providing {as food} for you”
-1:29	oakn			אֶת כָּל עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ 	1	“every {kind/type of} seed-bearing plant that grows” or “every {kind/type of} plant with seeds that grows” or “all the {different kinds/types of} plants that yield/produce seeds and grow”. See how you translated a similar phrase in verses 11 and 12.
+1:29	oakn			אֶת כָּל עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙	1	“every {kind/type of} seed-bearing plant that grows” or “every {kind/type of} plant with seeds that grows” or “all the {different kinds/types of} plants that yield/produce seeds and grow”. See how you translated a similar phrase in verses 11 and 12.
 1:29	nq9g			עַל פְּנֵ֣י כָל הָ⁠אָ֔רֶץ	1	“anywhere on/throughout the earth,”
 1:29	nn9g			וְ⁠אֶת־כָּל־הָ⁠עֵ֛ץ אֲשֶׁר	1	“as well as every {kind/type of} tree that {bears/produces}” or “and all the {different kinds/types of} trees that {bear/produce}”
 1:29	zjwv			בּ֥⁠וֹ פְרִי עֵ֖ץ זֹרֵ֣עַ זָ֑רַע	1	“fruit with seeds inside it.” or “seed-bearing fruit.” See how you translated a similar phrase in verses 11 and 12.
@@ -1368,7 +1368,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 12:1	pxeg		rc://*/ta/man/translate/figs-metonymy	וּ⁠מִ⁠בֵּ֣ית אָבִ֑י⁠ךָ	1	“including your father’s household/family,” The phrase “the house” refers here to everyone who was a member of Terah’s household. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 12:1	sr9w			אֶל הָ⁠אָ֖רֶץ	1	“{and go/move} to the land/place”
 12:1	b0dh			אֲשֶׁ֥ר אַרְאֶֽ⁠ךָּ	1	“that I will guide you to.”
-12:2	vjs1			וְ⁠אֶֽעֶשְׂ⁠ךָ֙ 	1	“I will make you {and your descendants} become” or “I will make you {the father/ancestor of}”
+12:2	vjs1			וְ⁠אֶֽעֶשְׂ⁠ךָ֙	1	“I will make you {and your descendants} become” or “I will make you {the father/ancestor of}”
 12:2	is7x			לְ⁠ג֣וֹי גָּד֔וֹל	1	“an important/large people group,” or “a large, important people/ethnic group,”
 12:2	kyvt			וַ⁠אֲבָ֣רֶכְ⁠ךָ֔	1	“and I will bless/prosper you {and them}.” or “and I will cause you {all} to prosper/flourish.” See how you translated “blessed” in Gen 1:22, 28. It may be necessary to translate this term in different ways, depending on the context.
 12:2	y893		rc://*/ta/man/translate/figs-idiom	וַ⁠אֲגַדְּלָ֖ה שְׁמֶ֑⁠ךָ	1	“I will make you {important and} well-known/famous,” Consider what is the best way to translate this idiom in your language. Also consider whether or not it is better in your language to begin a new sentence here. (See: [[rc://*/ta/man/translate/figs-idiom]])
@@ -2406,7 +2406,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 19:35	dkew		rc://*/ta/man/translate/figs-euphemism	בְּ⁠שִׁכְבָ֖⁠הּ וּ⁠בְ⁠קֻמָֽ⁠הּ	1	“that she got in bed {with him} or that she left.” or “that she had been with him.” (See: [[rc://*/ta/man/translate/figs-euphemism]])
 19:36	uid2			וַֽ⁠תַּהֲרֶ֛יןָ שְׁתֵּ֥י בְנֽוֹת־ל֖וֹט	1	“In that way, both of Lot’s daughters became pregnant” or “As a result,...”
 19:36	b8pv		rc://*/ta/man/translate/figs-euphemism	וַֽ⁠תַּהֲרֶ֛יןָ מֵ⁠אֲבִי⁠הֶֽן	1	“from/by {having relations with} their father.” (See: [[rc://*/ta/man/translate/figs-euphemism]])
-19:37	hz0k			וַ⁠תֵּ֤לֶד הַ⁠בְּכִירָה֙ בֵּ֔ן	1	“Later the/his oldest/older {daughter} gave birth to a son,” or “...had a son,” Make sure that the way you translate “Later” fits with the fact that several months have gone by. 
+19:37	hz0k			וַ⁠תֵּ֤לֶד הַ⁠בְּכִירָה֙ בֵּ֔ן	1	“Later the/his oldest/older {daughter} gave birth to a son,” or “...had a son,” Make sure that the way you translate “Later” fits with the fact that several months have gone by.
 19:37	k0dl			וַ⁠תִּקְרָ֥א שְׁמ֖⁠וֹ	1	“and she called/named him” or “whom she named”. See how you translated “called his name” in Gen 5:29.
 19:37	cx7f		rc://*/ta/man/translate/translate-names	מוֹאָ֑ב	1	“Moab, {which means “from my father.”}” You can include the meaning of this name in your translation text or in a footnote. Some translations put this implied information in parentheses. Do what is best in your language. (See: [[rc://*/ta/man/translate/translate-names]])
 19:37	ror5			ה֥וּא אֲבִֽי	1	“He/Moab {was/became} the forefather/ancestor of”
@@ -2480,7 +2480,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 20:12	pjfg			בַת אָבִ⁠י֙ & אַ֖ךְ לֹ֣א בַת אִמִּ֑⁠י	1	“because she and I have the same father, but not the same mother,” or “We have the same father, but different mothers,”
 20:12	etjp			וַ⁠תְּהִי־לִ֖⁠י לְ⁠אִשָּֽׁה	1	“and {after we grew up,} we got married.” or “and {when we were old enough,} I married her.”
 20:13	xof7			וַ⁠יְהִ֞י	1	“It happened {that}” or “{Years} later,”
-20:13	x4px			כַּ⁠אֲשֶׁ֧ר הִתְע֣וּ אֹתִ֗⁠י אֱלֹהִים֮ 	1	“when God told/commanded me to leave” or “when God led me to travel away from”
+20:13	x4px			כַּ⁠אֲשֶׁ֧ר הִתְע֣וּ אֹתִ֗⁠י אֱלֹהִים֮	1	“when God told/commanded me to leave” or “when God led me to travel away from”
 20:13	ctau		rc://*/ta/man/translate/figs-metonymy	מִ⁠בֵּ֣ית אָבִ⁠י֒	1	“my father’s household/family,” or “the place where my father {and other relatives} were living,” See how you translated “house of...father” in Gen 12:1. (See: [[rc://*/ta/man/translate/figs-metonymy]])
 20:13	nd9r		rc://*/ta/man/translate/writing-quotations	וָ⁠אֹמַ֣ר לָ֔⁠הּ	1	“I told/asked her/Sarah” (See: [[rc://*/ta/man/translate/writing-quotations]])
 20:13	xlc3		rc://*/ta/man/translate/figs-quotesinquotes	זֶ֣ה חַסְדֵּ֔⁠ךְ אֲשֶׁ֥ר תַּעֲשִׂ֖י עִמָּדִ֑⁠י אֶ֤ל כָּל־הַ⁠מָּקוֹם֙ אֲשֶׁ֣ר נָב֣וֹא שָׁ֔מָּ⁠ה אִמְרִי־לִ֖⁠י אָחִ֥⁠י הֽוּא	1	“ ‘This {is} how you can show kindness/loyalty to me: Wherever we go, tell people that I {am} your brother.’ ” or “ ‘{Please} be kind/loyal to me and tell people wherever we go that I {am} your brother.’ ” or “to {please} do me a {special} favor and tell people everywhere we went that I {was} her brother.” Consider whether it is better in your language to translate these embedded quotes as direct or indirect quotes. (See: [[rc://*/ta/man/translate/figs-quotesinquotes]])
@@ -2581,7 +2581,7 @@ front:intro	d9wn				0	## **The Book of Genesis**\n\n###      \n### **Introductio
 21:18	l3mg			כִּֽי & אֲשִׂימֶֽ⁠נּוּ	1	“because I {Yahweh} will make him become {the ancestor of}” or “because Yahweh will make his descendants become”. The pronoun “I” refers to Yahweh here. So either Yahweh had taken on the form of an angel, or the angel was representing Yahweh and speaking for him. See what you did for a similar case in Genesis 16:10. Also, see how you translated “make...into a great nation” in verse 13. Also see 18:18, which is similar.
 21:18	yl2m			לְ⁠ג֥וֹי גָּד֖וֹל	1	“an important/large people/ethnic group.” See how you translated “nation” in verse 13.
 21:19	jfgl		rc://*/ta/man/translate/figs-idiom	וַ⁠יִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔י⁠הָ וַ⁠תֵּ֖רֶא	1	“Then God enabled/helped her/Hagar to see” (See: [[rc://*/ta/man/translate/figs-idiom]])
-21:19	hole			בְּאֵ֣ר מָ֑יִם	1	“a water well.” or “a well.” See how you translated “well” in Gen 16:14. 
+21:19	hole			בְּאֵ֣ר מָ֑יִם	1	“a water well.” or “a well.” See how you translated “well” in Gen 16:14.
 21:19	omv9			וַ⁠תֵּ֜לֶךְ	1	“So/Then she went/walked over {to the well},”
 21:19	a7ik			וַ⁠תְּמַלֵּ֤א אֶת הַ⁠חֵ֨מֶת֙ מַ֔יִם	1	“filled the/her {water} container/bag {with} water,” See how you translated “skin” in verses 14-15.
 21:19	k9hm			וַ⁠תַּ֖שְׁקְ אֶת הַ⁠נָּֽעַר	1	“and gave her son some water to drink.” or “and gave Ishmael a drink {from it}.”
