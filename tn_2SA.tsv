@@ -315,66 +315,51 @@ front:intro	bs9v				0	# Introduction to 2 Samuel\n\n## Part 1: General Introduct
 7:29	n6ik		rc://*/ta/man/translate/figs-activepassive	with your blessing your servant’s house will be blessed forever	0	If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “you will continue to bless my family forever”
 7:29	k3a5		rc://*/ta/man/translate/figs-123person	your servant’s house	0	Here David refers to himself as “your servant.” Alternate translation: “my house” or “my family”
 8:intro	hc4j				0	# 2 Samuel 8 General Notes\n\n## Structure and formatting\n\nThis chapter returns to the theme of the expansion of David’s kingdom.\n\n## Special concepts in this chapter\n\n### God enabled victory\n\nGod enabled David to conquer all the surrounding nations. Much of the loot and tribute David received, he saved for the temple that his son would build.
-8:1	drj7		rc://*/ta/man/translate/figs-synecdoche	David attacked	0	Here David represents his soldiers. Alternate translation: “David and his soldiers attacked”
+8:1	drj7		rc://*/ta/man/translate/figs-synecdoche	David attacked	0	Here David represents himself and his soldiers. Alternate translation: “David and his soldiers attacked”
 8:2	xbr2		rc://*/ta/man/translate/figs-synecdoche	Then he defeated	0	Here “he” refers to David who represents his soldiers. Alternate translation: “Then they defeated”
-8:2	tcx6			measured their men with a line … He measured off two lines to put to death, and one full line to keep alive	0	Here the “line” is a “rope.” David had the soldiers lie down on the ground to be measured and sorted into three groups. The men in two groups were killed, and in the third, they were allowed to live.
 8:3	r73a		rc://*/ta/man/translate/figs-synecdoche	David then defeated Hadadezer	0	Here both “David” and “Hadadezer” represent their armies. Alternate translation: “David and his army then defeated the army of Hadadezer”
 8:3	y7af		rc://*/ta/man/translate/translate-names	Hadadezer … Rehob	0	These are the names of men.
 8:3	met2		rc://*/ta/man/translate/translate-names	Zobah	0	This is the name of a region in Aram.
-8:3	r3d2			to recover his rule	0	Alternate translation: “to regain control over a region” or “to recapture a region”
-8:4	f43e		rc://*/ta/man/translate/translate-numbers	1,700 chariots	0	“one thousand seven hundred chariots”
-8:4	d1te		rc://*/ta/man/translate/translate-numbers	twenty thousand footmen	0	“20,000 footmen”
-8:4	cc6y			David hamstrung	0	This is a practice where the tendons in the backs of the legs are cut so that the horses cannot run.
-8:4	b5pr			reserved enough	0	Alternate translation: “set aside enough” or “saved enough”
-8:4	izr7		rc://*/ta/man/translate/translate-numbers	a hundred chariots	0	“100 chariots”
+8:4	cc6y		rc://*/ta/man/translate/figs-explicit	David hamstrung	0	This is a practice where the tendons in the backs of the legs are cut so that the horses cannot run.
 8:5	u7vw		rc://*/ta/man/translate/figs-synecdoche	David killed	0	Here David represents his soldiers. Alternate translation: “David and his soldiers killed”
-8:5	il6u		rc://*/ta/man/translate/translate-numbers	twenty-two thousand Aramean men	0	“22,000 Aramean men”
-8:6	ph45			put garrisons in Aram	0	Alternate translation: “ordered large groups of his soldiers to remain in Aram”
-8:7	ft9e		rc://*/ta/man/translate/figs-metonymy	David took	0	Here “David” is probably a metonym for his soldiers. Alternate translation: “David’s soldiers took”
-8:8	qtw6		rc://*/ta/man/translate/figs-metonymy	King David took	0	Here “David” is probably a metonym for his soldiers. Alternate translation: “King David’s soldiers took”
+8:6	ph45		rc://*/ta/man/translate/figs-explicit	put garrisons in Aram	0	Alternate translation: “ordered large groups of his soldiers to remain in Aram”
+8:7	ft9e		rc://*/ta/man/translate/figs-metonymy	David took	0	Here “David” refers to his soldiers. Alternate translation: “David’s soldiers took”
+8:8	qtw6		rc://*/ta/man/translate/figs-synecdoche	King David took	0	Here “David” refers to him and his soldiers. Alternate translation: “King David’s soldiers took”
 8:8	nu2q		rc://*/ta/man/translate/translate-names	Tebah and Berothai	0	These are the names of places.
 8:9	t4en		rc://*/ta/man/translate/translate-names	Tou	0	These are the names of men.
 8:9	le1q		rc://*/ta/man/translate/translate-names	Hamath	0	This is the name of a place.
-8:9	l3de		rc://*/ta/man/translate/figs-synecdoche	David had defeated	0	Here “David” is a metonym for his army. Alternate translation: “David’s army had defeated”
+8:9	l3de		rc://*/ta/man/translate/figs-synecdoche	David had defeated	0	Here “David” refers to him and his army. Alternate translation: “David and his army had defeated”
 8:10	yiq3		rc://*/ta/man/translate/translate-names	Tou … Hadoram	0	These are the names of men.
-8:12	cjj3			and Amalek	0	Alternate translation: “and the Amalekites”
-8:12	d7vv			the plundered goods	0	These are the valuable items that soldiers take from the people they defeated.
-8:12	z5x6			Hadadezer son of Rehob, the king of Zobah	0	See how you translated these names in [2 Samuel 8:3](../08/03.md).
-8:13	hrc2		rc://*/ta/man/translate/figs-metonymy	David’s name was well known	0	Here “name” refers to David’s reputation. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “David was very famous” (See also: [[rc://*/ta/man/translate/figs-activepassive]])
+8:12	cjj3		rc://*/ta/man/translate/figs-metonymy	and Amalek	0	Alternate translation: “and the Amalekites”
+8:12	z5x6		rc://*/ta/man/translate/translate-names	Hadadezer son of Rehob, the king of Zobah	0	See how you translated these names in [2 Samuel 8:3](../08/03.md).
+8:13	hrc2		rc://*/ta/man/translate/figs-metonymy	David’s name was well known	0	Here “name” refers to David’s reputation. If your language does not use the passive form in this way, you can state this in active form or in another way that is natural in your language. Alternate translation: “David was very famous”
 8:13	c9s7		rc://*/ta/man/translate/translate-names	Valley of Salt	0	This is the name of a place. Its exact location is unknown.
-8:13	th6r		rc://*/ta/man/translate/translate-numbers	eighteen thousand men	0	“18,000 men”
-8:14	gc6u			He placed garrisons throughout all of Edom	0	Alternate translation: “He ordered groups of his soldiers to remain in areas throughout all of Edom”
-8:16	r8xj			Joab … Zeruiah	0	See how you translated these names in [2 Samuel 2:13](../02/13.md).
-8:16	d81q		rc://*/ta/man/translate/figs-explicit	Ahilud was recorder	0	A recorder was a person who spoke to the people and told them the king’s announcements. Alternate translation: “Ahilud was the herald”
+8:13	th6r		rc://*/ta/man/translate/figs-explicit	eighteen thousand men	0	“18,000 men”
+8:14	gc6u		rc://*/ta/man/translate/figs-explicit	He placed garrisons throughout all of Edom	0	Alternate translation: “He ordered groups of his soldiers to remain in areas throughout all of Edom”
+8:16	r8xj		rc://*/ta/man/translate/translate-names	Joab … Zeruiah	0	See how you translated these names in [2 Samuel 2:13](../02/13.md).
 8:16	nig1		rc://*/ta/man/translate/translate-names	Ahilud	0	This is the name of a man.
 8:17	k3p5		rc://*/ta/man/translate/translate-names	Ahitub … Ahimelech … Seraiah	0	These are names of men.
 8:18	gm1f		rc://*/ta/man/translate/translate-names	Benaiah … Jehoiada	0	These are names of men.
 8:18	xxs8		rc://*/ta/man/translate/translate-names	Kerethites … Pelethites	0	These are names of people-groups. These people were David’s bodyguards.
-9:intro	lwh6				0	# 2 Samuel 9 General Notes\n\n## Structure and formatting\n\nThis chapter is another interruption to the story of David expanding his kingdom. David is concerned with fulfilling his oath to Jonathan’s descendants.\n\n## Special concepts in this chapter\n\n### David’s vow\nDavid determined to fulfill his vow to Jonathan to care for Jonathan’s descendants. He found Jonathan’s son and told him he would treat him as if he was one of his sons. He restored all of Saul’s property to him and had him eat every day at the king’s table. (See: [[rc://*/tw/dict/bible/kt/fulfill]] and [[rc://*/tw/dict/bible/kt/vow]] and [[rc://*/tw/dict/bible/kt/restore]])\n\n## Important figures of speech in this chapter\n\n### Rhetorical question and metaphor\n\nJonathan’s son expressed his surprise and feeling of unworthiness with a rhetorical question: “What is your servant, that you should look with favor on such a dead dog as I am?” and by a metaphor comparing himself to “a dead dog.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-metaphor]])
-9:1	t1g1			for Jonathan’s sake	0	Alternate translation: “because of my love for Jonathan”
-9:1	cy22			Jonathan’s sake	0	Jonathan was Saul’s son and David’s best friend.
+9:intro	lwh6				0	# 2 Samuel 9 General Notes\n\n## Special concepts in this chapter\n\n### David’s vow\nDavid determined to fulfill his vow to Jonathan to care for Jonathan’s descendants. (See: [[rc://*/tw/dict/bible/kt/fulfill]] and [[rc://*/tw/dict/bible/kt/vow]] and [[rc://*/tw/dict/bible/kt/restore]])\n\n## Important figures of speech in this chapter\n\n### Rhetorical question and metaphor\n\nJonathan’s son expressed his surprise and feeling of unworthiness with a rhetorical question: “What is your servant, that you should look with favor on such a dead dog as I am?” and by a metaphor comparing himself to “a dead dog.” (See: [[rc://*/ta/man/translate/figs-rquestion]] and [[rc://*/ta/man/translate/figs-metaphor]])
 9:2	id7a		rc://*/ta/man/translate/translate-names	Ziba	0	This is the name of a man.
-9:2	ura2			I am your servant	0	Ziba calls himself “your servant” to show great respect to David.
-9:3	j5la			I may show the kindness of God	0	If your language does not use an abstract noun for the idea behind the word **kindness**, you can express the same idea with a verbal form such as “kind.” Alternate translation: “I may be kind as I promised God I would be”
-9:3	u7ba		rc://*/ta/man/translate/figs-metonymy	who is lame in his feet	0	“whose feet are damaged.” The word “feet” here refers to the ability to walk. Alternate translation: “who is unable to walk”
+9:2	ura2		rc://*/ta/man/translate/writing-politeness	I am your servant	0	Ziba calls himself “your servant” to show great respect to David.
+9:3	j5la		rc://*/ta/man/translate/figs-abstractnouns	I may show the kindness of God	0	If your language does not use an abstract noun for the idea behind the word **kindness**, you can express the same idea with an equivalent expression. Alternate translation: “I may be kind as I promised God I would be”
+9:3	u7ba		rc://*/ta/man/translate/figs-metonymy	who is lame in his feet	0	The word “feet” here refers to the ability to walk. Alternate translation: “who is unable to walk”
 9:4	ee6a		rc://*/ta/man/translate/translate-names	Machir … Ammiel	0	These are names of men.
 9:4	st1r		rc://*/ta/man/translate/translate-names	Lo Debar	0	This is the name of a place.
 9:5	tj7u		rc://*/ta/man/translate/figs-ellipsis	King David sent	0	It is understood that David sent messengers.
-9:6	fp3x			Mephibosheth	0	See how you translated this in [2 Samuel 4:4](../04/04.md).
 9:6	wni4		rc://*/ta/man/translate/figs-go	came to David	0	The word “came” can be translated as “went.”
-9:6	huu6			I am your servant	0	Mephibosheth refers to himself as “your servant” to show great honor to David.
-9:7	fe5j			for Jonathan your father’s sake	0	Alternate translation: “because I loved your father, Jonathan”
+9:6	huu6		rc://*/ta/man/translate/writing-politeness	I am your servant	0	Mephibosheth refers to himself as “your servant” to show great honor to David.
 9:7	zy8z		rc://*/ta/man/translate/figs-metonymy	you will always eat at my table	0	Here “my table” represents being together with David or in his presence. Eating with the king at his table was a great honor. Alternate translation: “you will always eat with me”
 9:8	fvp8		rc://*/ta/man/translate/figs-rquestion	What is your servant, that you should look with favor on such a dead dog as I am?	0	This rhetorical question shows that Mephibosheth understands that he is not important enough for the king to take care of him. If it would be helpful in your language, you could express this question as a statement. Alternate translation: “I am like a dead dog. I do not deserve for you to be kind to me.”
 9:8	j13e		rc://*/ta/man/translate/figs-metaphor	such a dead dog	0	Here Mephibosheth represents the line of Saul, and he compares himself to a “dead dog.” Dogs were feral animals, not cared for, and of little importance. A dead dog would be considered even less important. Alternate translation: “such a person like me who is worthless as a dead dog”
 9:10	cb8w		rc://*/ta/man/translate/figs-metonymy	must always eat at my table	0	Here “my table” represents being together with David or in his presence. Eating with the king at his table was a great honor. Alternate translation: “must always eat with me”
-9:10	ae24		rc://*/ta/man/translate/writing-background	Now Ziba … servants	0	Here “now” makes a break in the main story line. The narrator gives background information about Ziba.
-9:10	tgt5		rc://*/ta/man/translate/translate-numbers	fifteen sons and twenty servants	0	“15 sons and 20 servants”
 9:11	fwy9		rc://*/ta/man/translate/figs-123person	Your servant will do all that my master the king commands his servant	0	Ziba refers to himself as “your servant” and refers to David as “my master.” Alternate translation: “I, your servant will do all that you, my king, command me to do”
 9:12	eu17		rc://*/ta/man/translate/translate-names	Mika	0	This is the name of the son of Mephibosheth.
 9:12	u3qr		rc://*/ta/man/translate/figs-metonymy	All who lived in the house of Ziba	0	Here “house” represents Ziba’s family. Alternate translation: “All of Ziba’s family”
 9:13	caj8		rc://*/ta/man/translate/figs-metonymy	he always ate at the king’s table	0	Here “table” represents being together with David or in his presence. Eating with the king at his table was a great honor. Alternate translation: “he always ate with the king at his table”
-9:13	du2g		rc://*/ta/man/translate/figs-metonymy	though he was lame in both his feet	0	“thouge both of his feet were damaged.” Here “feet” represents the ability to walk. Alternate translation: “though he was unable to walk”
+9:13	du2g		rc://*/ta/man/translate/figs-metonymy	though he was lame in both his feet	0	Here “feet” represents the ability to walk. Alternate translation: “though he was unable to walk”
 10:intro	abca				0	# 2 Samuel 10 General Notes\n\n## Structure and formatting\n\nThe chapter records the last expansion of David’s kingdom. This chapter is also the beginning of a section dealing with the war between Israel and Ammon.\n\n## Special concepts in this chapter\n\n### Shame\n\nIt was apparently the cause of shame or embarrassment in ancient Ammon to have their beards shaved off or to have their garments cut off. (See: [[rc://*/ta/man/translate/figs-explicit]])\n\n## Important figures of speech in this chapter\n\n### Metaphor\n\nThe Ammon people used a metaphor comparing themselves to a bad smell: “they had become a stench to David” when they realized they had made David very angry. (See: [[rc://*/ta/man/translate/figs-metaphor]])
 10:1	g3zs		rc://*/ta/man/translate/translate-names	Hanun	0	This is the name of a man.
 10:2	k9r2		rc://*/ta/man/translate/translate-names	Hanun … Nahash	0	These are the names of men.
