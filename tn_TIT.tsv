@@ -99,21 +99,23 @@ front:intro	m2jl				0	# Introduction to Titus\n\n## Part 1: General Introduction
 2:8	xy15		rc://*/ta/man/translate/figs-exclusive	ἡμῶν	1	Here, **us** includes Paul, Titus, and all believers.
 2:9	xyz5		rc://*/ta/man/translate/figs-ellipsis	δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι	1	As in 2:2 and 2:3, Paul is leaving out a word that in many languages a sentence would need in order to be complete.  If it would be clearer in your language, you could apply the verbal idea from verse 6 to here, which is “urge” or “exhort.” Alternate translation: “Exhort slaves to be subject to their own masters” or “Exhort slaves to obey their own masters”
 2:9	if6v			ἐν πᾶσιν	1	Alternate translation: “in every situation” or “always”
-2:9	id15			εὐαρέστους εἶναι	1	Alternate translation: “to please their masters” or “to satisfy their masters”
+2:9	id15		rc://*/ta/man/translate/figs-explicit	εὐαρέστους εἶναι	1	The implication is that the slaves are to be pleasing to their masters. You could include this information if that would be helpful to your readers. Alternate translation: “to please their masters” or “to satisfy their masters”
 2:10	abc6		rc://*/ta/man/translate/figs-explicit	μὴ νοσφιζομένους	1	The implication is that they would be tempted to steal from their masters. You could include this information if that would be helpful to your readers. Alternate translation: “not to steal from their masters”
 2:10	fhwk		rc://*/ta/man/translate/grammar-connect-logic-contrast	ἀλλὰ	1	Here the phrase **but instead** indicates a strong contrast between stealing and demonstrating good faith. In your translation, indicate this strong contrast in a way that is natural in your language. Alternate translation: “but rather”
 2:10	t87j			πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν	1	Alternate translation: “to show that they are worthy of their masters’ trust”
-2:10	s1ni		rc://*/ta/man/translate/grammar-connect-logic-goal	ἵνα	1	Here, **so that** marks bringing **credit to the teaching about God** as a goal or purpose of slaves demonstrating **all good faith** with their masters. Use a connector in your language that makes it clear that this is a purpose.
-2:10	h2n6			ἐν πᾶσιν	1	Alternate translation: “in everything they do”
+2:10	s1ni		rc://*/ta/man/translate/grammar-connect-logic-goal	ἵνα	1	Here, **so that** marks bringing **credit to the teaching that is about God** as a goal or purpose of slaves demonstrating **all good faith** with their masters. Use a connector in your language that makes it clear that this is a purpose.
+2:10	h2n6			ἐν πᾶσιν	1	Alternate translation: “in everything that they do”
 2:10	f8jy			τὴν διδασκαλίαν τὴν τοῦ Σωτῆρος ἡμῶν, Θεοῦ, κοσμῶσιν	1	Alternate translation: “they may make the teaching about God our Savior attractive” or “they may cause people to understand that the teaching about God our Savior is good”
-2:10	pn93			Σωτῆρος ἡμῶν, Θεοῦ	1	Alternate translation: “our God who saves us”
-2:10	xy16		rc://*/ta/man/translate/figs-exclusive	ἡμῶν	1	Here, **our** is inclusive of Paul, Titus, and all Christians.
-2:11	y44u			Connecting Statement:	0	# Connecting Statement:\n\nPaul encourages Titus to look for Jesus’ coming and remember his authority through Jesus.
+2:10	xy16		rc://*/ta/man/translate/figs-exclusive	ἡμῶν	1	Here, **our** is inclusive of Paul, Titus, and all believers.
+2:11	tlbm		rc://*/ta/man/translate/grammar-connect-logic-result	γὰρ	1	The word translated as **For** indicates that what follows is a reason for what came before. Use a connector in your language that makes it clear that what follows is a reason for what came before. Alternate translation: “They should do this because” 
 2:11	gp2z		rc://*/ta/man/translate/figs-personification	ἐπεφάνη & ἡ χάρις τοῦ Θεοῦ	1	Paul speaks of **the grace of God** as if it were a person who has arrived. See the UST for other ways to express this. Alternate translation: “God is now offering his grace”
+2:11	czny		rc://*/ta/man/translate/figs-abstractnouns	ἐπεφάνη γὰρ ἡ χάρις τοῦ Θεοῦ	1	If your language does not use an abstract noun for the idea of **grace**, you could express the same idea in another way. Alternate translation: “For God has been extremely kind”
+2:11	n08x		rc://*/ta/man/translate/figs-personification	σωτήριος πᾶσιν ἀνθρώποις	1	Here the word **salvific** describes God's **grace**, meaning that it is like a person who has the characteristic of saving people. Alternate translation: “able to save all men” or “working to save all men”
+2:11	r94i		rc://*/ta/man/translate/figs-gendernotations	πᾶσιν ἀνθρώποις	1	Although the term **men** is masculine, Paul is using the word in a generic sense that includes both men and women. If it would be helpful in your language, you could use a phrase that makes this clear. Alternate translation: “all people”
 2:12	qy8k		rc://*/ta/man/translate/figs-personification	παιδεύουσα ἡμᾶς	1	Paul speaks of the grace of God (2:11) as if it were a person who trains other people how to live holy lives. Alternate translation: “by which God trains us”
-2:12	abce		rc://*/ta/man/translate/figs-exclusive	ἡμᾶς	1	Here, **us** includes Paul, Titus, and all Christians.
-2:12	lxb3			τὴν ἀσέβειαν	1	Alternate translation: “things that dishonor God”
-2:12	n3k5			τὰς κοσμικὰς ἐπιθυμίας	1	Alternate translation: “strong desires for the things of this world” or “strong desires for sinful pleasures”
+2:12	abce		rc://*/ta/man/translate/figs-exclusive	ἡμᾶς	1	Here, **us** includes Paul, Titus, and all believers.
+2:12	lxb3		rc://*/ta/man/translate/figs-abstractnouns	τὴν ἀσέβειαν	1	If your language does not use an abstract noun for the idea of **godlessness**, you could express the same idea in another way. Alternate translation: “things that dishonor God”
+2:12	n3k5		rc://*/ta/man/translate/figs-abstractnouns	τὰς κοσμικὰς ἐπιθυμίας	1	If your language does not use an abstract noun for the idea of **passions**, you could express the same idea in another way. Alternate translation: “living for the things of this world” or “persuing sinful pleasures”
 2:12	xy19			ἀσέβειαν & εὐσεβῶς	1	These terms are direct opposites, meaning “God-dishonoring” and “God-honoring,” respectively.
 2:12	fk8j			ἐν τῷ νῦν αἰῶνι	1	Alternate translation: “while we live in this world” or “during this time”
 2:13	rz93			προσδεχόμενοι	1	Alternate translation: “while we wait to welcome”
