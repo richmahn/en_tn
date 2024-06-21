@@ -391,11 +391,11 @@ dublin_core:
   source:
     - identifier: tn
       language: en
-      version: '80'
+      version: '81'
   subject: TSV Translation Notes
   title: unfoldingWord® Translation Notes
   type: help
-  version: '81'
+  version: '82'
 checking:
   checking_entity:
     - unfoldingWord
