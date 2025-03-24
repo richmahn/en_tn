@@ -1,4 +1,4 @@
-name: Process Last 10 Tags
+name: Generate GL Quotes for Tag
 
 on:
   workflow_dispatch:
